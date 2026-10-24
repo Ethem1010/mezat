@@ -1,0 +1,36 @@
+# Basketbolcular — ad|seviye|grup|etiketler|açıklama|Pozisyonunda ustalık,Oyun zekası,Şampiyonluklar,Efsanelik
+Michael Jordan|e|kanat||Altı şampiyonluk, sıfır final kaybı; basketbolun tanrısı.|10,9,10,10
+LeBron James|e|kanat||NBA tarihinin sayı rekortmeni.|10,10,9,10
+Kobe Bryant|e|kanat||Mamba zihniyetinin sahibi, beş şampiyonluk.|10,8,9,10
+Magic Johnson|e|oyun_kurucu||Pas sihirbazı, Showtime Lakers'ın lideri.|8,10,9,10
+Shaquille O'Neal|e|pivot||Potanın altındaki durdurulamaz dev.|9,9,9,10
+Stephen Curry|e|oyun_kurucu||Üçlük atışını yeniden tanımlayan şutör.|10,9,9,10
+Kareem Abdul-Jabbar|e|pivot||Skyhook atışıyla altı şampiyonluk.|10,9,10,10
+Tim Duncan|g|pivot||Sessiz ama ölümcül, beş şampiyonluk.|10,9,10,9
+Larry Bird|g|kanat||Celtics'in efsane şutörü.|9,9,9,9
+Hakeem Olajuwon|g|pivot||Dream Shake hareketiyle ünlü pivot.|10,9,8,9
+Kevin Durant|g|kanat||Durdurulamayan uzun şutör.|10,8,8,9
+Nikola Jokić|g|pivot||Pas veren pivot, birden çok MVP.|9,10,7,8
+Giannis Antetokounmpo|g|kanat||Yunan Ucube; atletizm ve güç.|9,8,7,8
+Kevin Garnett|g|pivot||Savunmanın ve tutkunun sembolü.|10,8,7,8
+Dirk Nowitzki|g|pivot||Tek ayak fadeaway şutunun Alman ustası.|9,8,7,8
+Allen Iverson|g|oyun_kurucu||Crossover'ıyla devleri deviren küçük dev.|10,7,4,8
+Chris Paul|g|oyun_kurucu||Point God; oyun kuruculuğun ustası.|8,9,4,8
+Kyrie Irving|g|oyun_kurucu||Top sürme yeteneği efsanevi.|9,8,7,8
+Luka Dončić|g|oyun_kurucu||Genç yaşta rekorlar kıran Sloven yıldız.|10,9,5,8
+Dwyane Wade|g|kanat||Miami Heat'in Flash'ı.|9,8,8,8
+Hidayet Türkoğlu|g|kanat||NBA'de Gelişim Ödülü kazanan Türk forvet.|7,8,5,8
+Mehmet Okur|s|pivot||NBA şampiyonluğu yaşayan ilk Türk.|7,7,6,6
+Cedi Osman|s|kanat||NBA'de uzun yıllar forma giyen milli oyuncu.|6,7,3,6
+Alperen Şengün|s|pivot||NBA'de yükselen Türk pivot.|8,8,3,6
+Ömer Aşık|s|pivot||Ribauntları ve savunmasıyla bilinen dev.|8,6,4,6
+Kerem Tunçeri|s|oyun_kurucu||Milli takımın sert savunmacı oyun kurucusu.|7,8,5,6
+İbrahim Kutluay|s|kanat||12 Dev Adam'ın şutörü.|7,6,6,6
+Furkan Korkmaz|s|kanat||NBA'de oynayan şutör kanat.|6,6,4,6
+Dennis Rodman|s|kanat||Ribaunt makinesi, savunmanın çılgın dehası.|9,6,9,8
+Scottie Pippen|s|kanat||Jordan'ın sağ kolu, savunma uzmanı.|9,8,9,8
+Tony Parker|s|oyun_kurucu||Spurs'ün hızlı Fransız oyun kurucusu.|8,8,8,8
+Russell Westbrook|s|oyun_kurucu||Triple-double rekortmeni.|8,7,3,6
+James Harden|s|oyun_kurucu||Step-back üçlüğün sahibi.|9,8,3,6
+Yao Ming|s|pivot||2,29'luk Çinli dev.|8,7,3,6
+Dwight Howard|s|pivot||Üç kez yılın savunmacısı.|9,7,6,8

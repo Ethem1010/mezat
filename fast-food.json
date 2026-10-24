@@ -1,0 +1,547 @@
+{
+ "id": "fast-food",
+ "ad": "Fast Food",
+ "sablon": "juri",
+ "gorev_mesaji": "Gece acıktın: hangi menü daha lezzetli ve doyurucu?",
+ "olcutler": {
+  "lezzet": {
+   "ad": "Lezzet",
+   "agirlik": 0.4
+  },
+  "doyuruculuk": {
+   "ad": "Doyuruculuk",
+   "agirlik": 0.25
+  },
+  "fiyat": {
+   "ad": "Fiyat",
+   "agirlik": 0.15
+  },
+  "populerlik": {
+   "ad": "Popülerlik",
+   "agirlik": 0.2
+  }
+ },
+ "gruplar": {
+  "ana": "Ana ürün",
+  "yan": "Yan ürün",
+  "icecek": "İçecek",
+  "tatli": "Tatlı"
+ },
+ "sinerjiler": [
+  {
+   "tip": "gruplar_hepsi",
+   "ad": "Tam menü",
+   "gruplar": [
+    "ana",
+    "yan",
+    "icecek"
+   ],
+   "bonus": 6
+  },
+  {
+   "tip": "grup_fazla",
+   "ad": "Fazla içecek",
+   "grup": "icecek",
+   "en_fazla": 1,
+   "bonus": -2
+  }
+ ],
+ "garanti": {
+  "icecek": 1,
+  "yan": 1
+ },
+ "hakem_notu": "Ana yemek, yan ürün ve içeceği olan menüye uyum bonusu ver.",
+ "kart_sayisi": 35,
+ "kartlar": [
+  {
+   "id": "doner-durum",
+   "ad": "Döner Dürüm",
+   "seviye": "efsane",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Türkiye'nin en sevilen ayaküstü lezzeti.",
+   "puan": {
+    "lezzet": 10,
+    "doyuruculuk": 9,
+    "fiyat": 7,
+    "populerlik": 10
+   }
+  },
+  {
+   "id": "hamburger",
+   "ad": "Hamburger",
+   "seviye": "efsane",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Dünyanın fast food simgesi.",
+   "puan": {
+    "lezzet": 9,
+    "doyuruculuk": 9,
+    "fiyat": 6,
+    "populerlik": 10
+   }
+  },
+  {
+   "id": "pizza",
+   "ad": "Pizza",
+   "seviye": "efsane",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Paylaşmalık ya da tek başına; her saatte.",
+   "puan": {
+    "lezzet": 9,
+    "doyuruculuk": 9,
+    "fiyat": 6,
+    "populerlik": 10
+   }
+  },
+  {
+   "id": "patates-kizartmasi",
+   "ad": "Patates Kızartması",
+   "seviye": "efsane",
+   "grup": "yan",
+   "etiketler": [],
+   "aciklama": "Her menünün altın yanı.",
+   "puan": {
+    "lezzet": 9,
+    "doyuruculuk": 5,
+    "fiyat": 9,
+    "populerlik": 10
+   }
+  },
+  {
+   "id": "lahmacun",
+   "ad": "Lahmacun",
+   "seviye": "efsane",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "İnce, çıtır ve yanında ayranla.",
+   "puan": {
+    "lezzet": 9,
+    "doyuruculuk": 7,
+    "fiyat": 8,
+    "populerlik": 9
+   }
+  },
+  {
+   "id": "islak-hamburger",
+   "ad": "Islak Hamburger",
+   "seviye": "efsane",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Taksim'in gece yarısı efsanesi.",
+   "puan": {
+    "lezzet": 9,
+    "doyuruculuk": 6,
+    "fiyat": 10,
+    "populerlik": 9
+   }
+  },
+  {
+   "id": "kokorec",
+   "ad": "Kokoreç",
+   "seviye": "efsane",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Sevenleri için gece yarısının kralı.",
+   "puan": {
+    "lezzet": 9,
+    "doyuruculuk": 7,
+    "fiyat": 7,
+    "populerlik": 8
+   }
+  },
+  {
+   "id": "karisik-tost",
+   "ad": "Karışık Tost",
+   "seviye": "guclu",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Kantinlerin ve kafelerin vazgeçilmezi.",
+   "puan": {
+    "lezzet": 8,
+    "doyuruculuk": 7,
+    "fiyat": 9,
+    "populerlik": 9
+   }
+  },
+  {
+   "id": "kumpir",
+   "ad": "Kumpir",
+   "seviye": "guclu",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Ortaköy'ün dolu dolu patatesi.",
+   "puan": {
+    "lezzet": 8,
+    "doyuruculuk": 9,
+    "fiyat": 6,
+    "populerlik": 8
+   }
+  },
+  {
+   "id": "tavuk-kanat",
+   "ad": "Tavuk Kanat",
+   "seviye": "guclu",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Soslu, çıtır ve paylaşmalık.",
+   "puan": {
+    "lezzet": 8,
+    "doyuruculuk": 6,
+    "fiyat": 6,
+    "populerlik": 8
+   }
+  },
+  {
+   "id": "cig-kofte-durum",
+   "ad": "Çiğ Köfte Dürüm",
+   "seviye": "guclu",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Acılı ya da acısız, her köşede.",
+   "puan": {
+    "lezzet": 8,
+    "doyuruculuk": 7,
+    "fiyat": 9,
+    "populerlik": 9
+   }
+  },
+  {
+   "id": "midye-dolma",
+   "ad": "Midye Dolma",
+   "seviye": "guclu",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Limonla tek tek yenen sahil klasiği.",
+   "puan": {
+    "lezzet": 9,
+    "doyuruculuk": 5,
+    "fiyat": 7,
+    "populerlik": 9
+   }
+  },
+  {
+   "id": "sogan-halkasi",
+   "ad": "Soğan Halkası",
+   "seviye": "guclu",
+   "grup": "yan",
+   "etiketler": [],
+   "aciklama": "Çıtır kaplamalı soğan dilimleri.",
+   "puan": {
+    "lezzet": 8,
+    "doyuruculuk": 4,
+    "fiyat": 8,
+    "populerlik": 7
+   }
+  },
+  {
+   "id": "nugget",
+   "ad": "Nugget",
+   "seviye": "guclu",
+   "grup": "yan",
+   "etiketler": [],
+   "aciklama": "Çocukların ve büyüklerin tavuk lokması.",
+   "puan": {
+    "lezzet": 7,
+    "doyuruculuk": 5,
+    "fiyat": 7,
+    "populerlik": 8
+   }
+  },
+  {
+   "id": "ayran",
+   "ad": "Ayran",
+   "seviye": "guclu",
+   "grup": "icecek",
+   "etiketler": [],
+   "aciklama": "Dönerin ve lahmacunun en iyi dostu.",
+   "puan": {
+    "lezzet": 8,
+    "doyuruculuk": 3,
+    "fiyat": 9,
+    "populerlik": 9
+   }
+  },
+  {
+   "id": "kola",
+   "ad": "Kola",
+   "seviye": "guclu",
+   "grup": "icecek",
+   "etiketler": [],
+   "aciklama": "Burgerin klasik eşlikçisi.",
+   "puan": {
+    "lezzet": 7,
+    "doyuruculuk": 1,
+    "fiyat": 8,
+    "populerlik": 10
+   }
+  },
+  {
+   "id": "milkshake",
+   "ad": "Milkshake",
+   "seviye": "guclu",
+   "grup": "icecek",
+   "etiketler": [],
+   "aciklama": "Dondurmalı tatlı içecek.",
+   "puan": {
+    "lezzet": 8,
+    "doyuruculuk": 4,
+    "fiyat": 5,
+    "populerlik": 7
+   }
+  },
+  {
+   "id": "sufle",
+   "ad": "Sufle",
+   "seviye": "guclu",
+   "grup": "tatli",
+   "etiketler": [],
+   "aciklama": "İçi akan sıcak çikolata.",
+   "puan": {
+    "lezzet": 8,
+    "doyuruculuk": 3,
+    "fiyat": 5,
+    "populerlik": 7
+   }
+  },
+  {
+   "id": "waffle",
+   "ad": "Waffle",
+   "seviye": "guclu",
+   "grup": "tatli",
+   "etiketler": [],
+   "aciklama": "Meyveli ve soslu tatlı.",
+   "puan": {
+    "lezzet": 8,
+    "doyuruculuk": 5,
+    "fiyat": 5,
+    "populerlik": 8
+   }
+  },
+  {
+   "id": "hot-dog",
+   "ad": "Hot Dog",
+   "seviye": "guclu",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Ekmek arası sosis, bol soslu.",
+   "puan": {
+    "lezzet": 7,
+    "doyuruculuk": 6,
+    "fiyat": 8,
+    "populerlik": 7
+   }
+  },
+  {
+   "id": "tantuni",
+   "ad": "Tantuni",
+   "seviye": "guclu",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Mersin'in sac lezzeti.",
+   "puan": {
+    "lezzet": 9,
+    "doyuruculuk": 7,
+    "fiyat": 7,
+    "populerlik": 8
+   }
+  },
+  {
+   "id": "kumru",
+   "ad": "Kumru",
+   "seviye": "siradan",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "İzmir'in susamlı sandviçi.",
+   "puan": {
+    "lezzet": 8,
+    "doyuruculuk": 7,
+    "fiyat": 8,
+    "populerlik": 6
+   }
+  },
+  {
+   "id": "simit",
+   "ad": "Simit",
+   "seviye": "siradan",
+   "grup": "yan",
+   "etiketler": [],
+   "aciklama": "Çay yanında her an.",
+   "puan": {
+    "lezzet": 7,
+    "doyuruculuk": 5,
+    "fiyat": 10,
+    "populerlik": 9
+   }
+  },
+  {
+   "id": "patso",
+   "ad": "Patso",
+   "seviye": "siradan",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Ekmek arası patates ve sosis.",
+   "puan": {
+    "lezzet": 7,
+    "doyuruculuk": 8,
+    "fiyat": 9,
+    "populerlik": 5
+   }
+  },
+  {
+   "id": "taco",
+   "ad": "Taco",
+   "seviye": "siradan",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Meksika'nın katlanmış lezzeti.",
+   "puan": {
+    "lezzet": 7,
+    "doyuruculuk": 6,
+    "fiyat": 6,
+    "populerlik": 5
+   }
+  },
+  {
+   "id": "burrito",
+   "ad": "Burrito",
+   "seviye": "siradan",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Dolu dolu Meksika dürümü.",
+   "puan": {
+    "lezzet": 7,
+    "doyuruculuk": 8,
+    "fiyat": 6,
+    "populerlik": 5
+   }
+  },
+  {
+   "id": "ice-tea",
+   "ad": "Ice Tea",
+   "seviye": "siradan",
+   "grup": "icecek",
+   "etiketler": [],
+   "aciklama": "Soğuk ve hafif bir eşlikçi.",
+   "puan": {
+    "lezzet": 6,
+    "doyuruculuk": 1,
+    "fiyat": 8,
+    "populerlik": 7
+   }
+  },
+  {
+   "id": "limonata",
+   "ad": "Limonata",
+   "seviye": "siradan",
+   "grup": "icecek",
+   "etiketler": [],
+   "aciklama": "Ferahlatan ev yapımı içecek.",
+   "puan": {
+    "lezzet": 7,
+    "doyuruculuk": 1,
+    "fiyat": 7,
+    "populerlik": 7
+   }
+  },
+  {
+   "id": "dondurma",
+   "ad": "Dondurma",
+   "seviye": "siradan",
+   "grup": "tatli",
+   "etiketler": [],
+   "aciklama": "Yazın en tatlı kapanış.",
+   "puan": {
+    "lezzet": 8,
+    "doyuruculuk": 2,
+    "fiyat": 7,
+    "populerlik": 9
+   }
+  },
+  {
+   "id": "churros",
+   "ad": "Churros",
+   "seviye": "siradan",
+   "grup": "tatli",
+   "etiketler": [],
+   "aciklama": "Şekerli ve çikolatalı çubuklar.",
+   "puan": {
+    "lezzet": 7,
+    "doyuruculuk": 4,
+    "fiyat": 6,
+    "populerlik": 5
+   }
+  },
+  {
+   "id": "coleslaw",
+   "ad": "Coleslaw",
+   "seviye": "siradan",
+   "grup": "yan",
+   "etiketler": [],
+   "aciklama": "Lahana salatası.",
+   "puan": {
+    "lezzet": 5,
+    "doyuruculuk": 3,
+    "fiyat": 7,
+    "populerlik": 4
+   }
+  },
+  {
+   "id": "sezar-salata",
+   "ad": "Sezar Salata",
+   "seviye": "siradan",
+   "grup": "yan",
+   "etiketler": [],
+   "aciklama": "Tavuklu, parmesanlı klasik salata.",
+   "puan": {
+    "lezzet": 6,
+    "doyuruculuk": 5,
+    "fiyat": 5,
+    "populerlik": 5
+   }
+  },
+  {
+   "id": "bardak-misir",
+   "ad": "Bardak Mısır",
+   "seviye": "siradan",
+   "grup": "yan",
+   "etiketler": [],
+   "aciklama": "Soslu haşlanmış mısır.",
+   "puan": {
+    "lezzet": 6,
+    "doyuruculuk": 3,
+    "fiyat": 8,
+    "populerlik": 6
+   }
+  },
+  {
+   "id": "susi-roll",
+   "ad": "Suşi Roll",
+   "seviye": "siradan",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Pirinç ve balıkla Japon lokmaları.",
+   "puan": {
+    "lezzet": 7,
+    "doyuruculuk": 5,
+    "fiyat": 3,
+    "populerlik": 5
+   }
+  },
+  {
+   "id": "falafel",
+   "ad": "Falafel",
+   "seviye": "siradan",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Nohut köftesi dürümü.",
+   "puan": {
+    "lezzet": 7,
+    "doyuruculuk": 6,
+    "fiyat": 8,
+    "populerlik": 5
+   }
+  }
+ ]
+}

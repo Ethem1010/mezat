@@ -1,0 +1,542 @@
+{
+ "id": "icecekler",
+ "ad": "İçecekler",
+ "sablon": "juri",
+ "gorev_mesaji": "Kafe menünü hazırla: hangi menü daha çok satar?",
+ "olcutler": {
+  "lezzet": {
+   "ad": "Lezzet",
+   "agirlik": 0.35
+  },
+  "populerlik": {
+   "ad": "Popülerlik",
+   "agirlik": 0.3
+  },
+  "her_mevsime_uygunluk": {
+   "ad": "Her mevsime uygunluk",
+   "agirlik": 0.2
+  },
+  "cesitlilik": {
+   "ad": "Çeşitlilik",
+   "agirlik": 0.15
+  }
+ },
+ "gruplar": {
+  "sicak": "Sıcak",
+  "soguk": "Soğuk",
+  "geleneksel": "Geleneksel"
+ },
+ "sinerjiler": [
+  {
+   "tip": "gruplar_hepsi",
+   "ad": "Yaz kış menü",
+   "gruplar": [
+    "sicak",
+    "soguk"
+   ],
+   "bonus": 4
+  },
+  {
+   "tip": "cesitlilik",
+   "ad": "Üç çeşit",
+   "esikler": {
+    "3": 3
+   }
+  }
+ ],
+ "garanti": {},
+ "hakem_notu": "Hem sıcak hem soğuk içeceği olan menüye uyum bonusu ver.",
+ "kart_sayisi": 35,
+ "kartlar": [
+  {
+   "id": "turk-kahvesi",
+   "ad": "Türk Kahvesi",
+   "seviye": "efsane",
+   "grup": "geleneksel",
+   "etiketler": [],
+   "aciklama": "Köpüğü, fincanı ve falıyla bir kültür.",
+   "puan": {
+    "lezzet": 9,
+    "populerlik": 9,
+    "her_mevsime_uygunluk": 8,
+    "cesitlilik": 6
+   }
+  },
+  {
+   "id": "cay",
+   "ad": "Çay",
+   "seviye": "efsane",
+   "grup": "sicak",
+   "etiketler": [],
+   "aciklama": "İnce belli bardakta, günün her saatinde.",
+   "puan": {
+    "lezzet": 9,
+    "populerlik": 10,
+    "her_mevsime_uygunluk": 9,
+    "cesitlilik": 6
+   }
+  },
+  {
+   "id": "ayran",
+   "ad": "Ayran",
+   "seviye": "efsane",
+   "grup": "geleneksel",
+   "etiketler": [],
+   "aciklama": "Kebabın, pidenin ve yazın en iyi dostu.",
+   "puan": {
+    "lezzet": 8,
+    "populerlik": 10,
+    "her_mevsime_uygunluk": 6,
+    "cesitlilik": 4
+   }
+  },
+  {
+   "id": "kola",
+   "ad": "Kola",
+   "seviye": "efsane",
+   "grup": "soguk",
+   "etiketler": [],
+   "aciklama": "Dünyanın en çok bilinen gazlı içeceği.",
+   "puan": {
+    "lezzet": 8,
+    "populerlik": 10,
+    "her_mevsime_uygunluk": 7,
+    "cesitlilik": 5
+   }
+  },
+  {
+   "id": "limonata",
+   "ad": "Limonata",
+   "seviye": "efsane",
+   "grup": "soguk",
+   "etiketler": [],
+   "aciklama": "Ev yapımı, naneli ve buz gibi.",
+   "puan": {
+    "lezzet": 8,
+    "populerlik": 9,
+    "her_mevsime_uygunluk": 6,
+    "cesitlilik": 7
+   }
+  },
+  {
+   "id": "latte",
+   "ad": "Latte",
+   "seviye": "efsane",
+   "grup": "sicak",
+   "etiketler": [],
+   "aciklama": "Sütlü kahvenin kafelerdeki en popüler hali.",
+   "puan": {
+    "lezzet": 8,
+    "populerlik": 9,
+    "her_mevsime_uygunluk": 8,
+    "cesitlilik": 9
+   }
+  },
+  {
+   "id": "taze-portakal-suyu",
+   "ad": "Taze Portakal Suyu",
+   "seviye": "efsane",
+   "grup": "soguk",
+   "etiketler": [],
+   "aciklama": "Sabah kahvaltısının vitamin dolu başlangıcı.",
+   "puan": {
+    "lezzet": 9,
+    "populerlik": 8,
+    "her_mevsime_uygunluk": 7,
+    "cesitlilik": 5
+   }
+  },
+  {
+   "id": "sahlep",
+   "ad": "Sahlep",
+   "seviye": "guclu",
+   "grup": "geleneksel",
+   "etiketler": [],
+   "aciklama": "Tarçınlı ve sıcak, kış akşamlarının içeceği.",
+   "puan": {
+    "lezzet": 9,
+    "populerlik": 7,
+    "her_mevsime_uygunluk": 4,
+    "cesitlilik": 4
+   }
+  },
+  {
+   "id": "salgam",
+   "ad": "Şalgam",
+   "seviye": "guclu",
+   "grup": "geleneksel",
+   "etiketler": [],
+   "aciklama": "Acılı ya da acısız, Adana'nın kırmızı suyu.",
+   "puan": {
+    "lezzet": 7,
+    "populerlik": 7,
+    "her_mevsime_uygunluk": 6,
+    "cesitlilik": 3
+   }
+  },
+  {
+   "id": "boza",
+   "ad": "Boza",
+   "seviye": "guclu",
+   "grup": "geleneksel",
+   "etiketler": [],
+   "aciklama": "Leblebiyle içilen kış klasiği.",
+   "puan": {
+    "lezzet": 7,
+    "populerlik": 6,
+    "her_mevsime_uygunluk": 4,
+    "cesitlilik": 3
+   }
+  },
+  {
+   "id": "espresso",
+   "ad": "Espresso",
+   "seviye": "guclu",
+   "grup": "sicak",
+   "etiketler": [],
+   "aciklama": "Kahvenin en yoğun ve kısa hali.",
+   "puan": {
+    "lezzet": 8,
+    "populerlik": 8,
+    "her_mevsime_uygunluk": 8,
+    "cesitlilik": 7
+   }
+  },
+  {
+   "id": "cappuccino",
+   "ad": "Cappuccino",
+   "seviye": "guclu",
+   "grup": "sicak",
+   "etiketler": [],
+   "aciklama": "Köpüklü sütle yumuşayan espresso.",
+   "puan": {
+    "lezzet": 8,
+    "populerlik": 8,
+    "her_mevsime_uygunluk": 8,
+    "cesitlilik": 7
+   }
+  },
+  {
+   "id": "sicak-cikolata",
+   "ad": "Sıcak Çikolata",
+   "seviye": "guclu",
+   "grup": "sicak",
+   "etiketler": [],
+   "aciklama": "Soğuk günlerin tatlı kurtarıcısı.",
+   "puan": {
+    "lezzet": 9,
+    "populerlik": 8,
+    "her_mevsime_uygunluk": 4,
+    "cesitlilik": 6
+   }
+  },
+  {
+   "id": "ice-latte",
+   "ad": "Ice Latte",
+   "seviye": "guclu",
+   "grup": "soguk",
+   "etiketler": [],
+   "aciklama": "Yaz aylarında kahvenin buzlu hali.",
+   "puan": {
+    "lezzet": 8,
+    "populerlik": 8,
+    "her_mevsime_uygunluk": 5,
+    "cesitlilik": 8
+   }
+  },
+  {
+   "id": "milkshake",
+   "ad": "Milkshake",
+   "seviye": "guclu",
+   "grup": "soguk",
+   "etiketler": [],
+   "aciklama": "Dondurmalı ve köpüklü tatlı içecek.",
+   "puan": {
+    "lezzet": 9,
+    "populerlik": 8,
+    "her_mevsime_uygunluk": 5,
+    "cesitlilik": 9
+   }
+  },
+  {
+   "id": "smoothie",
+   "ad": "Smoothie",
+   "seviye": "guclu",
+   "grup": "soguk",
+   "etiketler": [],
+   "aciklama": "Meyveler blenderda buluşur.",
+   "puan": {
+    "lezzet": 8,
+    "populerlik": 7,
+    "her_mevsime_uygunluk": 6,
+    "cesitlilik": 10
+   }
+  },
+  {
+   "id": "maden-suyu",
+   "ad": "Maden Suyu",
+   "seviye": "guclu",
+   "grup": "soguk",
+   "etiketler": [],
+   "aciklama": "Ferahlatan ve yemekleri hafifleten klasik.",
+   "puan": {
+    "lezzet": 6,
+    "populerlik": 9,
+    "her_mevsime_uygunluk": 9,
+    "cesitlilik": 6
+   }
+  },
+  {
+   "id": "ihlamur",
+   "ad": "Ihlamur",
+   "seviye": "guclu",
+   "grup": "sicak",
+   "etiketler": [],
+   "aciklama": "Kışın şifa niyetine içilen bitki çayı.",
+   "puan": {
+    "lezzet": 7,
+    "populerlik": 6,
+    "her_mevsime_uygunluk": 5,
+    "cesitlilik": 3
+   }
+  },
+  {
+   "id": "serbet",
+   "ad": "Şerbet",
+   "seviye": "guclu",
+   "grup": "geleneksel",
+   "etiketler": [],
+   "aciklama": "Osmanlı mutfağının meyveli tatlı içeceği.",
+   "puan": {
+    "lezzet": 8,
+    "populerlik": 5,
+    "her_mevsime_uygunluk": 6,
+    "cesitlilik": 7
+   }
+  },
+  {
+   "id": "ice-tea",
+   "ad": "Ice Tea",
+   "seviye": "guclu",
+   "grup": "soguk",
+   "etiketler": [],
+   "aciklama": "Şeftalili ya da limonlu soğuk çay.",
+   "puan": {
+    "lezzet": 7,
+    "populerlik": 8,
+    "her_mevsime_uygunluk": 6,
+    "cesitlilik": 5
+   }
+  },
+  {
+   "id": "bitki-cayi",
+   "ad": "Bitki Çayı",
+   "seviye": "guclu",
+   "grup": "sicak",
+   "etiketler": [],
+   "aciklama": "Papatya, adaçayı, kuşburnu; her derde bir çay.",
+   "puan": {
+    "lezzet": 6,
+    "populerlik": 6,
+    "her_mevsime_uygunluk": 7,
+    "cesitlilik": 8
+   }
+  },
+  {
+   "id": "kefir",
+   "ad": "Kefir",
+   "seviye": "siradan",
+   "grup": "soguk",
+   "etiketler": [],
+   "aciklama": "Probiyotik dolu ekşimsi süt içeceği.",
+   "puan": {
+    "lezzet": 6,
+    "populerlik": 5,
+    "her_mevsime_uygunluk": 7,
+    "cesitlilik": 6
+   }
+  },
+  {
+   "id": "gazoz",
+   "ad": "Gazoz",
+   "seviye": "siradan",
+   "grup": "soguk",
+   "etiketler": [],
+   "aciklama": "Mahalle bakkalının nostaljik içeceği.",
+   "puan": {
+    "lezzet": 7,
+    "populerlik": 7,
+    "her_mevsime_uygunluk": 6,
+    "cesitlilik": 6
+   }
+  },
+  {
+   "id": "kutu-meyve-suyu",
+   "ad": "Kutu Meyve Suyu",
+   "seviye": "siradan",
+   "grup": "soguk",
+   "etiketler": [],
+   "aciklama": "Okul çantalarının vazgeçilmezi.",
+   "puan": {
+    "lezzet": 6,
+    "populerlik": 7,
+    "her_mevsime_uygunluk": 7,
+    "cesitlilik": 8
+   }
+  },
+  {
+   "id": "enerji-i-cecegi",
+   "ad": "Enerji İçeceği",
+   "seviye": "siradan",
+   "grup": "soguk",
+   "etiketler": [],
+   "aciklama": "Sınav haftalarının kurtarıcısı.",
+   "puan": {
+    "lezzet": 5,
+    "populerlik": 7,
+    "her_mevsime_uygunluk": 6,
+    "cesitlilik": 5
+   }
+  },
+  {
+   "id": "filtre-kahve",
+   "ad": "Filtre Kahve",
+   "seviye": "siradan",
+   "grup": "sicak",
+   "etiketler": [],
+   "aciklama": "Büyük kupada uzun uzun içilen kahve.",
+   "puan": {
+    "lezzet": 7,
+    "populerlik": 8,
+    "her_mevsime_uygunluk": 8,
+    "cesitlilik": 5
+   }
+  },
+  {
+   "id": "menengic-kahvesi",
+   "ad": "Menengiç Kahvesi",
+   "seviye": "siradan",
+   "grup": "geleneksel",
+   "etiketler": [],
+   "aciklama": "Kahve değil, menengiç meyvesinden yapılan sıcak içecek.",
+   "puan": {
+    "lezzet": 7,
+    "populerlik": 4,
+    "her_mevsime_uygunluk": 6,
+    "cesitlilik": 3
+   }
+  },
+  {
+   "id": "yesil-cay",
+   "ad": "Yeşil Çay",
+   "seviye": "siradan",
+   "grup": "sicak",
+   "etiketler": [],
+   "aciklama": "Hafif ve sağlıklı bir alternatif.",
+   "puan": {
+    "lezzet": 6,
+    "populerlik": 7,
+    "her_mevsime_uygunluk": 8,
+    "cesitlilik": 4
+   }
+  },
+  {
+   "id": "matcha",
+   "ad": "Matcha",
+   "seviye": "siradan",
+   "grup": "sicak",
+   "etiketler": [],
+   "aciklama": "Japonya'dan gelen yeşil toz çay.",
+   "puan": {
+    "lezzet": 6,
+    "populerlik": 5,
+    "her_mevsime_uygunluk": 7,
+    "cesitlilik": 6
+   }
+  },
+  {
+   "id": "demir-hindi",
+   "ad": "Demir Hindi",
+   "seviye": "siradan",
+   "grup": "geleneksel",
+   "etiketler": [],
+   "aciklama": "Ekşi tatlı tadıyla Ramazan şerbeti.",
+   "puan": {
+    "lezzet": 7,
+    "populerlik": 4,
+    "her_mevsime_uygunluk": 5,
+    "cesitlilik": 3
+   }
+  },
+  {
+   "id": "tarcinli-sut",
+   "ad": "Tarçınlı Süt",
+   "seviye": "siradan",
+   "grup": "sicak",
+   "etiketler": [],
+   "aciklama": "Uykudan önce içilen sıcak süt.",
+   "puan": {
+    "lezzet": 7,
+    "populerlik": 4,
+    "her_mevsime_uygunluk": 4,
+    "cesitlilik": 4
+   }
+  },
+  {
+   "id": "visne-suyu",
+   "ad": "Vişne Suyu",
+   "seviye": "siradan",
+   "grup": "soguk",
+   "etiketler": [],
+   "aciklama": "Ekşimsi, koyu kırmızı meyve suyu.",
+   "puan": {
+    "lezzet": 8,
+    "populerlik": 6,
+    "her_mevsime_uygunluk": 6,
+    "cesitlilik": 5
+   }
+  },
+  {
+   "id": "hibiskus-cayi",
+   "ad": "Hibiskus Çayı",
+   "seviye": "siradan",
+   "grup": "sicak",
+   "etiketler": [],
+   "aciklama": "Kırmızı renkli, mayhoş bitki çayı.",
+   "puan": {
+    "lezzet": 6,
+    "populerlik": 4,
+    "her_mevsime_uygunluk": 7,
+    "cesitlilik": 5
+   }
+  },
+  {
+   "id": "bubble-tea",
+   "ad": "Bubble Tea",
+   "seviye": "siradan",
+   "grup": "soguk",
+   "etiketler": [],
+   "aciklama": "İçinde tapyoka topları olan Tayvan içeceği.",
+   "puan": {
+    "lezzet": 7,
+    "populerlik": 5,
+    "her_mevsime_uygunluk": 5,
+    "cesitlilik": 8
+   }
+  },
+  {
+   "id": "frappe",
+   "ad": "Frappe",
+   "seviye": "siradan",
+   "grup": "soguk",
+   "etiketler": [],
+   "aciklama": "Köpürtülmüş buzlu kahve.",
+   "puan": {
+    "lezzet": 8,
+    "populerlik": 6,
+    "her_mevsime_uygunluk": 5,
+    "cesitlilik": 7
+   }
+  }
+ ]
+}

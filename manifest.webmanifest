@@ -1,0 +1,14 @@
+{
+  "name": "Mezat",
+  "short_name": "Mezat",
+  "description": "İki kişilik kategori açık artırma oyunu.",
+  "lang": "tr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EEF0E8",
+  "theme_color": "#EEF0E8",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

@@ -1,0 +1,36 @@
+# Kamp Malzemeleri — ad|seviye|grup|etiketler|açıklama|Hayatta kalma faydası,Çok amaçlılık,Hafiflik,Dayanıklılık
+Çadır|e|barinak||Yağmurdan, rüzgârdan ve soğuktan koruyan evin.|10,5,5,8
+Uyku Tulumu|e|sicaklik||Gecenin soğuğunda hayat kurtarır.|9,4,6,8
+Su Filtresi|e|su||Dere suyunu güvenle içilebilir yapar.|10,4,9,8
+Kafa Lambası|e|isik||Ellerin serbestken karanlıkta yol gösterir.|8,6,10,7
+Çakı|e|alet||Kes, aç, onar; kampın her işine yarar.|8,10,10,9
+Kamp Ocağı|e|yiyecek||Sıcak yemek ve kaynamış su.|8,6,6,8
+Kar Montu|e|sicaklik||Dağın soğuğuna karşı ilk savunma.|9,5,5,8
+Uyku Matı|g|barinak||Yerin soğuğunu keser.|7,5,8,7
+Termos|g|su||Sıcak çayı saatlerce sıcak tutar.|7,5,6,9
+Matara|g|su||Suyu her yere taşırsın.|8,4,7,9
+El Feneri|g|isik||Gece kampın etrafını aydınlatır.|7,5,6,8
+Çakmak|g|sicaklik||Saniyede ateş.|8,6,10,6
+Kibrit|g|sicaklik||Hafif ama neme hassas ateş kaynağı.|7,4,10,3
+İlk Yardım Çantası|g|alet||Küçük yaraları büyümeden durdurur.|9,6,8,7
+Harita ve Pusula|g|alet||Pil bitse de yolunu bulursun.|8,5,10,9
+Halat|g|alet||Çadırı gerer, eşyaları asar.|6,9,7,9
+Branda|g|barinak||Ekstra çatı ya da yer örtüsü.|7,8,7,8
+Konserve|g|yiyecek||Bozulmayan hazır yemek.|7,3,4,9
+Enerji Barı|g|yiyecek||Cepte duran hızlı enerji.|7,3,10,8
+Yağmurluk|g|barinak||Islanmadan yürümeni sağlar.|7,6,8,7
+Termal İçlik|g|sicaklik||Vücut ısını içeride tutar.|8,5,9,7
+Powerbank|s|isik||Telefonu ve feneri şarj eder.|4,5,6,6
+Telefon|s|isik||Fener, harita ve acil arama; çekerse.|5,7,8,4
+Kamp Sandalyesi|s|konfor||Ateş başında rahat oturuş.|2,3,4,7
+Hamak|s|konfor||Ağaçların arasında keyif.|4,4,7,6
+Gitar|s|konfor||Ateş başı şarkıları için.|1,2,3,6
+Bluetooth Hoparlör|s|konfor||Doğada müzik.|1,2,6,5
+Kitap|s|konfor||Sakin bir öğleden sonra için.|1,2,6,5
+Güneş Kremi|s|alet||Yaylada güneş yanığına karşı.|4,3,9,6
+Böcek Spreyi|s|alet||Sivrisinekleri uzak tutar.|5,3,9,6
+Mangal|s|yiyecek||Kamp akşamlarının klasiği ama ağır.|4,4,2,8
+Tencere Seti|s|yiyecek||Yemek pişir, su kaynat.|6,6,4,9
+Balta|s|alet||Odun kırmak için güçlü ama ağır.|7,7,3,10
+Mum|s|isik||Hafif ama rüzgârda söner.|4,4,9,2
+İp Testere|s|alet||Cepte taşınan dal kesici.|5,6,9,7

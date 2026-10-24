@@ -1,0 +1,533 @@
+{
+ "id": "film-kotuleri",
+ "ad": "Film Kötüleri",
+ "sablon": "duello",
+ "gorev_mesaji": "Kötüler birliğini kur: hangi ekip dünyayı ele geçirir?",
+ "olcutler": {
+  "guc": {
+   "ad": "Güç",
+   "agirlik": 0.3
+  },
+  "zeka_ve_plan": {
+   "ad": "Zeka ve plan",
+   "agirlik": 0.3
+  },
+  "korkutuculuk": {
+   "ad": "Korkutuculuk",
+   "agirlik": 0.25
+  },
+  "efsanelik": {
+   "ad": "Efsanelik",
+   "agirlik": 0.15
+  }
+ },
+ "gruplar": {
+  "guc": "Güç",
+  "zeka": "Zeka ve plan",
+  "korku": "Korku"
+ },
+ "sinerjiler": [
+  {
+   "tip": "cesitlilik",
+   "ad": "Kusursuz kötülük planı",
+   "esikler": {
+    "3": 5
+   }
+  }
+ ],
+ "garanti": {},
+ "hakem_notu": "Hem güçlü hem planlayıcı kötüleri birleştiren ekibe uyum bonusu ver. Anlatıda şiddet ayrıntısına girme.",
+ "kart_sayisi": 35,
+ "kartlar": [
+  {
+   "id": "darth-vader",
+   "ad": "Darth Vader",
+   "seviye": "efsane",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Nefesiyle bile korkutan Sith lordu.",
+   "puan": {
+    "guc": 9,
+    "zeka_ve_plan": 8,
+    "korkutuculuk": 9,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "joker",
+   "ad": "Joker",
+   "seviye": "efsane",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Kaosu planlayan gülümseyen deli.",
+   "puan": {
+    "guc": 4,
+    "zeka_ve_plan": 9,
+    "korkutuculuk": 9,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "thanos",
+   "ad": "Thanos",
+   "seviye": "efsane",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Bir şıklatmayla evrenin yarısını silen titan.",
+   "puan": {
+    "guc": 10,
+    "zeka_ve_plan": 9,
+    "korkutuculuk": 8,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "voldemort",
+   "ad": "Voldemort",
+   "seviye": "efsane",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Adı anılmaması gereken karanlık büyücü.",
+   "puan": {
+    "guc": 9,
+    "zeka_ve_plan": 8,
+    "korkutuculuk": 9,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "hannibal-lecter",
+   "ad": "Hannibal Lecter",
+   "seviye": "efsane",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Dâhi ve ürkütücü psikiyatrist.",
+   "puan": {
+    "guc": 3,
+    "zeka_ve_plan": 10,
+    "korkutuculuk": 10,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "sauron",
+   "ad": "Sauron",
+   "seviye": "efsane",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Tek Yüzük'ün karanlık efendisi.",
+   "puan": {
+    "guc": 10,
+    "zeka_ve_plan": 8,
+    "korkutuculuk": 9,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "freddy-krueger",
+   "ad": "Freddy Krueger",
+   "seviye": "efsane",
+   "grup": "korku",
+   "etiketler": [],
+   "aciklama": "Rüyalarda avlanan kâbus.",
+   "puan": {
+    "guc": 6,
+    "zeka_ve_plan": 6,
+    "korkutuculuk": 10,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "loki",
+   "ad": "Loki",
+   "seviye": "guclu",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Yalanların ve hilelerin tanrısı.",
+   "puan": {
+    "guc": 6,
+    "zeka_ve_plan": 9,
+    "korkutuculuk": 5,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "magneto",
+   "ad": "Magneto",
+   "seviye": "guclu",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Metali yöneten güçlü mutant.",
+   "puan": {
+    "guc": 9,
+    "zeka_ve_plan": 8,
+    "korkutuculuk": 7,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "lex-luthor",
+   "ad": "Lex Luthor",
+   "seviye": "guclu",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Superman'in dâhi düşmanı.",
+   "puan": {
+    "guc": 3,
+    "zeka_ve_plan": 10,
+    "korkutuculuk": 6,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "ajan-smith",
+   "ad": "Ajan Smith",
+   "seviye": "guclu",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Matrix'te kendini çoğaltan program.",
+   "puan": {
+    "guc": 7,
+    "zeka_ve_plan": 8,
+    "korkutuculuk": 7,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "terminator-t-800",
+   "ad": "Terminatör (T-800)",
+   "seviye": "guclu",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Durdurulamayan robot suikastçi.",
+   "puan": {
+    "guc": 8,
+    "zeka_ve_plan": 6,
+    "korkutuculuk": 9,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "ksenomorf-alien",
+   "ad": "Ksenomorf (Alien)",
+   "seviye": "guclu",
+   "grup": "korku",
+   "etiketler": [],
+   "aciklama": "Uzayda kimse çığlığını duymaz.",
+   "puan": {
+    "guc": 8,
+    "zeka_ve_plan": 5,
+    "korkutuculuk": 10,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "pennywise",
+   "ad": "Pennywise",
+   "seviye": "guclu",
+   "grup": "korku",
+   "etiketler": [],
+   "aciklama": "Kanalizasyondaki korkunç palyaço.",
+   "puan": {
+    "guc": 7,
+    "zeka_ve_plan": 7,
+    "korkutuculuk": 10,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "darth-sidious",
+   "ad": "Darth Sidious",
+   "seviye": "guclu",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Galaksiyi perde arkasından yöneten imparator.",
+   "puan": {
+    "guc": 9,
+    "zeka_ve_plan": 10,
+    "korkutuculuk": 8,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "hans-gruber",
+   "ad": "Hans Gruber",
+   "seviye": "guclu",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Gökdelen soygununun soğukkanlı beyni.",
+   "puan": {
+    "guc": 3,
+    "zeka_ve_plan": 9,
+    "korkutuculuk": 6,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "jack-torrance",
+   "ad": "Jack Torrance",
+   "seviye": "guclu",
+   "grup": "korku",
+   "etiketler": [],
+   "aciklama": "Issız otelde aklını kaybeden adam.",
+   "puan": {
+    "guc": 4,
+    "zeka_ve_plan": 4,
+    "korkutuculuk": 9,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "annabelle",
+   "ad": "Annabelle",
+   "seviye": "guclu",
+   "grup": "korku",
+   "etiketler": [],
+   "aciklama": "Lanetli oyuncak bebek.",
+   "puan": {
+    "guc": 5,
+    "zeka_ve_plan": 4,
+    "korkutuculuk": 9,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "chucky",
+   "ad": "Chucky",
+   "seviye": "guclu",
+   "grup": "korku",
+   "etiketler": [],
+   "aciklama": "Katil ruhlu oyuncak.",
+   "puan": {
+    "guc": 3,
+    "zeka_ve_plan": 6,
+    "korkutuculuk": 8,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "bane",
+   "ad": "Bane",
+   "seviye": "guclu",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Batman'in belini kıran güçlü strateji ustası.",
+   "puan": {
+    "guc": 9,
+    "zeka_ve_plan": 8,
+    "korkutuculuk": 8,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "scar",
+   "ad": "Scar",
+   "seviye": "guclu",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Tahta göz diken kıskanç aslan.",
+   "puan": {
+    "guc": 5,
+    "zeka_ve_plan": 8,
+    "korkutuculuk": 6,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "jason-voorhees",
+   "ad": "Jason Voorhees",
+   "seviye": "siradan",
+   "grup": "korku",
+   "etiketler": [],
+   "aciklama": "Maskeli ve durdurulamaz.",
+   "puan": {
+    "guc": 7,
+    "zeka_ve_plan": 2,
+    "korkutuculuk": 9,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "michael-myers",
+   "ad": "Michael Myers",
+   "seviye": "siradan",
+   "grup": "korku",
+   "etiketler": [],
+   "aciklama": "Cadılar Bayramı'nın sessiz avcısı.",
+   "puan": {
+    "guc": 7,
+    "zeka_ve_plan": 3,
+    "korkutuculuk": 9,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "ghostface",
+   "ad": "Ghostface",
+   "seviye": "siradan",
+   "grup": "korku",
+   "etiketler": [],
+   "aciklama": "Telefondaki tüyler ürperten ses.",
+   "puan": {
+    "guc": 4,
+    "zeka_ve_plan": 6,
+    "korkutuculuk": 8,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "kotu-kralice",
+   "ad": "Kötü Kraliçe",
+   "seviye": "siradan",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Ayna ayna söyle bana...",
+   "puan": {
+    "guc": 4,
+    "zeka_ve_plan": 7,
+    "korkutuculuk": 6,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "ursula",
+   "ad": "Ursula",
+   "seviye": "siradan",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Denizlerin pazarlıkçı cadısı.",
+   "puan": {
+    "guc": 6,
+    "zeka_ve_plan": 7,
+    "korkutuculuk": 6,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "cruella-de-vil",
+   "ad": "Cruella de Vil",
+   "seviye": "siradan",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Dalmaçyalı peşindeki moda delisi.",
+   "puan": {
+    "guc": 2,
+    "zeka_ve_plan": 6,
+    "korkutuculuk": 5,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "jafar",
+   "ad": "Jafar",
+   "seviye": "siradan",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Lambanın peşindeki hain vezir.",
+   "puan": {
+    "guc": 7,
+    "zeka_ve_plan": 8,
+    "korkutuculuk": 6,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "gargamel",
+   "ad": "Gargamel",
+   "seviye": "siradan",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Şirinleri hiç yakalayamayan büyücü.",
+   "puan": {
+    "guc": 1,
+    "zeka_ve_plan": 3,
+    "korkutuculuk": 1,
+    "efsanelik": 6
+   }
+  },
+  {
+   "id": "dr-evil",
+   "ad": "Dr. Evil",
+   "seviye": "siradan",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Bir milyon dolar isteyen komik kötü.",
+   "puan": {
+    "guc": 2,
+    "zeka_ve_plan": 5,
+    "korkutuculuk": 2,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "megatron",
+   "ad": "Megatron",
+   "seviye": "siradan",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Decepticon'ların lideri dev robot.",
+   "puan": {
+    "guc": 9,
+    "zeka_ve_plan": 6,
+    "korkutuculuk": 7,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "gollum",
+   "ad": "Gollum",
+   "seviye": "siradan",
+   "grup": "korku",
+   "etiketler": [],
+   "aciklama": "Kıymetlisinin peşindeki yaratık.",
+   "puan": {
+    "guc": 2,
+    "zeka_ve_plan": 5,
+    "korkutuculuk": 6,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "darkseid",
+   "ad": "Darkseid",
+   "seviye": "siradan",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Apokolips'in acımasız hükümdarı.",
+   "puan": {
+    "guc": 10,
+    "zeka_ve_plan": 8,
+    "korkutuculuk": 8,
+    "efsanelik": 6
+   }
+  },
+  {
+   "id": "green-goblin",
+   "ad": "Green Goblin",
+   "seviye": "siradan",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Örümcek Adam'ın uçan düşmanı.",
+   "puan": {
+    "guc": 7,
+    "zeka_ve_plan": 7,
+    "korkutuculuk": 7,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "kaptan-kanca",
+   "ad": "Kaptan Kanca",
+   "seviye": "siradan",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Peter Pan'ın timsahtan korkan düşmanı.",
+   "puan": {
+    "guc": 3,
+    "zeka_ve_plan": 6,
+    "korkutuculuk": 4,
+    "efsanelik": 7
+   }
+  }
+ ]
+}

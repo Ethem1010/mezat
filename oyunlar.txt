@@ -1,0 +1,36 @@
+# Oyunlar — ad|seviye|grup|etiketler|açıklama|Eğlence,Nostalji,Bağımlılık,Oyuncu sayısı
+GTA San Andreas|e|aksiyon||Grove Street'ten koca bir eyalete uzanan efsane açık dünya.|10,10,9,9
+Counter-Strike 1.6|e|online||İnternet kafelerin tartışmasız kralı.|9,10,10,9
+Minecraft|e|macera||Bloklarla sonsuz bir dünya; tüm zamanların en çok satan oyunu.|10,8,10,10
+League of Legends|e|online||Milyonların her akşam girdiği rekabetçi arena.|8,7,10,10
+FIFA|e|spor||Arkadaş maçlarının ve kariyer modlarının vazgeçilmezi.|9,9,9,10
+Metin2|e|online||Türkiye'de bir kuşağın gece gündüz kastığı efsane MMORPG.|8,10,10,7
+Super Mario Bros.|e|macera||Platform oyunlarının atası, bıyıklı tesisatçının macerası.|9,10,8,9
+GTA Vice City|g|aksiyon||80'lerin Miami havası ve unutulmaz radyo istasyonları.|9,10,8,8
+GTA V|g|aksiyon||Üç karakter, dev bir şehir ve yıllardır süren online modu.|10,7,9,10
+Red Dead Redemption 2|g|macera||Vahşi Batı'yı en gerçekçi anlatan oyun.|10,6,8,7
+The Witcher 3|g|macera||Hikâyesi ve görevleriyle RPG'lerin zirvesi.|9,6,8,7
+Need for Speed Most Wanted|g|spor||Polis kovalamacalarıyla yarış oyunlarının efsanesi.|9,10,8,8
+Pro Evolution Soccer|g|spor||Arkadaşlarla oynanan futbolun en çekişmeli hali.|9,10,9,8
+Age of Empires II|g|strateji||Ortaçağ orduları ve medeniyetlerle strateji klasiği.|9,10,9,7
+Warcraft III|g|strateji||Kahramanları ve özel haritalarıyla stratejinin efsanesi.|9,9,9,7
+Valorant|g|online||Yeni neslin rekabetçi nişancı oyunu.|8,4,9,9
+Fortnite|g|online||İnşa et, savaş, dans et; battle royale fenomeni.|8,5,9,10
+Knight Online|g|online||Metin2'nin ezeli rakibi, kafelerin diğer MMORPG'si.|7,9,9,6
+Call of Duty 4|g|aksiyon||Modern savaş nişancılarının çıtasını yükselten oyun.|9,8,9,9
+Tetris|g|strateji||Düşen bloklarla zamana meydan okuyan bulmaca.|8,10,9,10
+Pokémon (Game Boy)|g|macera||Hepsini yakalama tutkusunu başlatan klasik.|9,10,9,9
+Silkroad Online|s|online||İpek Yolu'nda ticaret ve savaş.|6,9,8,4
+Half-Life|s|aksiyon||Hikâyeli nişancı oyunlarının öncüsü.|9,8,7,6
+Mortal Kombat|s|aksiyon||Ölümcül hamleleriyle dövüş oyunu klasiği.|8,9,7,7
+Tekken 3|s|aksiyon||PlayStation'ın en çok oynanan dövüş oyunu.|9,10,8,8
+Pac-Man|s|macera||Hayaletlerden kaçan sarı efsane.|7,10,7,8
+Contra|s|aksiyon||Atari döneminin iki kişilik aksiyon klasiği.|8,10,7,6
+Candy Crush|s|strateji||Şekerleri eşleştirip saatleri unutturan mobil oyun.|6,5,9,9
+Clash of Clans|s|strateji||Köyünü kur, klanınla saldır.|7,6,9,9
+Among Us|s|online||Sahtekârı bul, arkadaşlarını suçla.|8,6,7,8
+PUBG|s|online||Battle royale akımını başlatan oyun.|8,5,8,9
+Rocket League|s|spor||Arabalarla oynanan futbol.|8,4,8,8
+The Sims|s|strateji||Sanal hayatlar kurduğun yaşam simülasyonu.|8,8,9,8
+Angry Birds|s|strateji||Sapanla domuzları deviren kızgın kuşlar.|7,8,8,9
+Subway Surfers|s|aksiyon||Raylar üzerinde bitmeyen koşu.|6,6,8,9

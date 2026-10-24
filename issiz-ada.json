@@ -1,0 +1,551 @@
+{
+ "id": "issiz-ada",
+ "ad": "Issız Ada Malzemeleri",
+ "sablon": "hayatta_kalma",
+ "gorev_mesaji": "Issız adaya düştün, yanına 5 şey alabilirsin: kim daha uzun hayatta kalır?",
+ "olcutler": {
+  "hayatta_kalma_faydasi": {
+   "ad": "Hayatta kalma faydası",
+   "agirlik": 0.4
+  },
+  "cok_amaclilik": {
+   "ad": "Çok amaçlılık",
+   "agirlik": 0.25
+  },
+  "dayaniklilik": {
+   "ad": "Dayanıklılık",
+   "agirlik": 0.2
+  },
+  "kurtarilma_sansi": {
+   "ad": "Kurtarılma şansı",
+   "agirlik": 0.15
+  }
+ },
+ "gruplar": {
+  "su": "Su",
+  "yiyecek": "Yiyecek",
+  "barinak": "Barınak",
+  "ates": "Ateş",
+  "alet": "Alet",
+  "kurtarilma": "Kurtarılma",
+  "konfor": "Konfor"
+ },
+ "sinerjiler": [
+  {
+   "tip": "gruplar_hepsi",
+   "ad": "Dört temel ihtiyaç karşılandı",
+   "gruplar": [
+    "su",
+    "yiyecek",
+    "barinak",
+    "ates"
+   ],
+   "bonus": 8
+  },
+  {
+   "tip": "grup_fazla",
+   "ad": "Fazla konfor eşyası",
+   "grup": "konfor",
+   "en_fazla": 1,
+   "bonus": -3
+  }
+ ],
+ "garanti": {
+  "su": 1,
+  "ates": 1
+ },
+ "hakem_notu": "Su, yiyecek, barınak ve ateş ihtiyaçlarının dördünü de karşılayan takıma yüksek uyum bonusu ver. Aynı ihtiyacı karşılayan tekrar eden eşyalar bonus düşürür. Elektrikli eşyalar şarj kaynağı yoksa zayıftır.",
+ "kart_sayisi": 35,
+ "kartlar": [
+  {
+   "id": "caki-bicagi",
+   "ad": "Çakı Bıçağı",
+   "seviye": "efsane",
+   "grup": "alet",
+   "etiketler": [],
+   "aciklama": "Kesmek, açmak, yontmak; hayatta kalmanın bir numaralı aleti.",
+   "puan": {
+    "hayatta_kalma_faydasi": 9,
+    "cok_amaclilik": 10,
+    "dayaniklilik": 9,
+    "kurtarilma_sansi": 3
+   }
+  },
+  {
+   "id": "su-aritma-filtresi",
+   "ad": "Su Arıtma Filtresi",
+   "seviye": "efsane",
+   "grup": "su",
+   "etiketler": [],
+   "aciklama": "Deniz suyu olmasa da her dere suyunu içilebilir yapar.",
+   "puan": {
+    "hayatta_kalma_faydasi": 10,
+    "cok_amaclilik": 5,
+    "dayaniklilik": 8,
+    "kurtarilma_sansi": 2
+   }
+  },
+  {
+   "id": "cakmak",
+   "ad": "Çakmak",
+   "seviye": "efsane",
+   "grup": "ates",
+   "etiketler": [],
+   "aciklama": "Saniyeler içinde ateş: ısınma, pişirme ve işaret.",
+   "puan": {
+    "hayatta_kalma_faydasi": 9,
+    "cok_amaclilik": 6,
+    "dayaniklilik": 6,
+    "kurtarilma_sansi": 4
+   }
+  },
+  {
+   "id": "cadir",
+   "ad": "Çadır",
+   "seviye": "efsane",
+   "grup": "barinak",
+   "etiketler": [],
+   "aciklama": "Yağmurdan, rüzgârdan ve böceklerden korunacağın ev.",
+   "puan": {
+    "hayatta_kalma_faydasi": 8,
+    "cok_amaclilik": 5,
+    "dayaniklilik": 7,
+    "kurtarilma_sansi": 3
+   }
+  },
+  {
+   "id": "uydu-telefonu",
+   "ad": "Uydu Telefonu",
+   "seviye": "efsane",
+   "grup": "kurtarilma",
+   "etiketler": [],
+   "aciklama": "Her yerden çekiyor; kurtarma ekibini doğrudan arar.",
+   "puan": {
+    "hayatta_kalma_faydasi": 6,
+    "cok_amaclilik": 4,
+    "dayaniklilik": 6,
+    "kurtarilma_sansi": 10
+   }
+  },
+  {
+   "id": "balta",
+   "ad": "Balta",
+   "seviye": "efsane",
+   "grup": "alet",
+   "etiketler": [],
+   "aciklama": "Odun kes, barınak kur, sal yap.",
+   "puan": {
+    "hayatta_kalma_faydasi": 9,
+    "cok_amaclilik": 9,
+    "dayaniklilik": 10,
+    "kurtarilma_sansi": 2
+   }
+  },
+  {
+   "id": "olta-takimi",
+   "ad": "Olta Takımı",
+   "seviye": "efsane",
+   "grup": "yiyecek",
+   "etiketler": [],
+   "aciklama": "Okyanus kocaman bir market; olta da anahtarı.",
+   "puan": {
+    "hayatta_kalma_faydasi": 8,
+    "cok_amaclilik": 5,
+    "dayaniklilik": 7,
+    "kurtarilma_sansi": 2
+   }
+  },
+  {
+   "id": "halat",
+   "ad": "Halat",
+   "seviye": "guclu",
+   "grup": "alet",
+   "etiketler": [],
+   "aciklama": "Barınak, sal, tuzak: bağlanacak her şey için.",
+   "puan": {
+    "hayatta_kalma_faydasi": 7,
+    "cok_amaclilik": 9,
+    "dayaniklilik": 9,
+    "kurtarilma_sansi": 3
+   }
+  },
+  {
+   "id": "branda",
+   "ad": "Branda",
+   "seviye": "guclu",
+   "grup": "barinak",
+   "etiketler": [],
+   "aciklama": "Çatı, yağmur toplayıcı ya da yelken olabilir.",
+   "puan": {
+    "hayatta_kalma_faydasi": 7,
+    "cok_amaclilik": 8,
+    "dayaniklilik": 8,
+    "kurtarilma_sansi": 4
+   }
+  },
+  {
+   "id": "pala",
+   "ad": "Pala",
+   "seviye": "guclu",
+   "grup": "alet",
+   "etiketler": [],
+   "aciklama": "Ormanı açar, hindistan cevizini kırar.",
+   "puan": {
+    "hayatta_kalma_faydasi": 8,
+    "cok_amaclilik": 8,
+    "dayaniklilik": 9,
+    "kurtarilma_sansi": 2
+   }
+  },
+  {
+   "id": "cakmaktasi",
+   "ad": "Çakmaktaşı",
+   "seviye": "guclu",
+   "grup": "ates",
+   "etiketler": [],
+   "aciklama": "Bitmeyen kıvılcım kaynağı, ıslansa da çalışır.",
+   "puan": {
+    "hayatta_kalma_faydasi": 8,
+    "cok_amaclilik": 5,
+    "dayaniklilik": 10,
+    "kurtarilma_sansi": 3
+   }
+  },
+  {
+   "id": "kibrit-kutusu",
+   "ad": "Kibrit Kutusu",
+   "seviye": "guclu",
+   "grup": "ates",
+   "etiketler": [],
+   "aciklama": "Hızlı ateş ama sayılı ve neme hassas.",
+   "puan": {
+    "hayatta_kalma_faydasi": 7,
+    "cok_amaclilik": 4,
+    "dayaniklilik": 3,
+    "kurtarilma_sansi": 3
+   }
+  },
+  {
+   "id": "su-matarasi",
+   "ad": "Su Matarası",
+   "seviye": "guclu",
+   "grup": "su",
+   "etiketler": [],
+   "aciklama": "Suyu taşır, saklar ve kaynatmaya yarar.",
+   "puan": {
+    "hayatta_kalma_faydasi": 7,
+    "cok_amaclilik": 5,
+    "dayaniklilik": 8,
+    "kurtarilma_sansi": 2
+   }
+  },
+  {
+   "id": "konserve-kolisi",
+   "ad": "Konserve Kolisi",
+   "seviye": "guclu",
+   "grup": "yiyecek",
+   "etiketler": [],
+   "aciklama": "Haftalarca yetecek hazır yiyecek.",
+   "puan": {
+    "hayatta_kalma_faydasi": 8,
+    "cok_amaclilik": 3,
+    "dayaniklilik": 7,
+    "kurtarilma_sansi": 1
+   }
+  },
+  {
+   "id": "i-lk-yardim-cantasi",
+   "ad": "İlk Yardım Çantası",
+   "seviye": "guclu",
+   "grup": "alet",
+   "etiketler": [],
+   "aciklama": "Küçük bir yara bile adada tehlikelidir.",
+   "puan": {
+    "hayatta_kalma_faydasi": 8,
+    "cok_amaclilik": 6,
+    "dayaniklilik": 6,
+    "kurtarilma_sansi": 2
+   }
+  },
+  {
+   "id": "i-saret-fisegi",
+   "ad": "İşaret Fişeği",
+   "seviye": "guclu",
+   "grup": "kurtarilma",
+   "etiketler": [],
+   "aciklama": "Geçen gemiye ya da uçağa kendini gösterir.",
+   "puan": {
+    "hayatta_kalma_faydasi": 4,
+    "cok_amaclilik": 3,
+    "dayaniklilik": 5,
+    "kurtarilma_sansi": 9
+   }
+  },
+  {
+   "id": "ayna",
+   "ad": "Ayna",
+   "seviye": "guclu",
+   "grup": "kurtarilma",
+   "etiketler": [],
+   "aciklama": "Güneşi yansıtıp kilometrelerce öteye işaret verir.",
+   "puan": {
+    "hayatta_kalma_faydasi": 3,
+    "cok_amaclilik": 6,
+    "dayaniklilik": 8,
+    "kurtarilma_sansi": 7
+   }
+  },
+  {
+   "id": "gunes-enerjili-fener",
+   "ad": "Güneş Enerjili Fener",
+   "seviye": "guclu",
+   "grup": "alet",
+   "etiketler": [],
+   "aciklama": "Şarjı bitmeyen ışık kaynağı.",
+   "puan": {
+    "hayatta_kalma_faydasi": 6,
+    "cok_amaclilik": 6,
+    "dayaniklilik": 7,
+    "kurtarilma_sansi": 4
+   }
+  },
+  {
+   "id": "uyku-tulumu",
+   "ad": "Uyku Tulumu",
+   "seviye": "guclu",
+   "grup": "barinak",
+   "etiketler": [],
+   "aciklama": "Soğuk adada geceleri hayat kurtarır.",
+   "puan": {
+    "hayatta_kalma_faydasi": 7,
+    "cok_amaclilik": 4,
+    "dayaniklilik": 7,
+    "kurtarilma_sansi": 1
+   }
+  },
+  {
+   "id": "su-bidonu",
+   "ad": "Su Bidonu",
+   "seviye": "guclu",
+   "grup": "su",
+   "etiketler": [],
+   "aciklama": "Yağmur suyunu toplayıp günlerce saklar.",
+   "puan": {
+    "hayatta_kalma_faydasi": 8,
+    "cok_amaclilik": 6,
+    "dayaniklilik": 8,
+    "kurtarilma_sansi": 2
+   }
+  },
+  {
+   "id": "pusula",
+   "ad": "Pusula",
+   "seviye": "guclu",
+   "grup": "kurtarilma",
+   "etiketler": [],
+   "aciklama": "Adayı keşfederken yolunu kaybetmezsin.",
+   "puan": {
+    "hayatta_kalma_faydasi": 4,
+    "cok_amaclilik": 4,
+    "dayaniklilik": 9,
+    "kurtarilma_sansi": 4
+   }
+  },
+  {
+   "id": "balik-agi",
+   "ad": "Balık Ağı",
+   "seviye": "siradan",
+   "grup": "yiyecek",
+   "etiketler": [],
+   "aciklama": "Kıyıdan balık ve yengeç toplamak için.",
+   "puan": {
+    "hayatta_kalma_faydasi": 7,
+    "cok_amaclilik": 6,
+    "dayaniklilik": 7,
+    "kurtarilma_sansi": 2
+   }
+  },
+  {
+   "id": "tencere",
+   "ad": "Tencere",
+   "seviye": "siradan",
+   "grup": "yiyecek",
+   "etiketler": [],
+   "aciklama": "Su kaynatır, yemek pişirir.",
+   "puan": {
+    "hayatta_kalma_faydasi": 6,
+    "cok_amaclilik": 7,
+    "dayaniklilik": 9,
+    "kurtarilma_sansi": 1
+   }
+  },
+  {
+   "id": "buyutec",
+   "ad": "Büyüteç",
+   "seviye": "siradan",
+   "grup": "ates",
+   "etiketler": [],
+   "aciklama": "Güneşli günde ateş yakar.",
+   "puan": {
+    "hayatta_kalma_faydasi": 6,
+    "cok_amaclilik": 4,
+    "dayaniklilik": 8,
+    "kurtarilma_sansi": 2
+   }
+  },
+  {
+   "id": "telsiz",
+   "ad": "Telsiz",
+   "seviye": "siradan",
+   "grup": "kurtarilma",
+   "etiketler": [],
+   "aciklama": "Menzili kısa ama yakından geçene ulaşabilir.",
+   "puan": {
+    "hayatta_kalma_faydasi": 3,
+    "cok_amaclilik": 3,
+    "dayaniklilik": 5,
+    "kurtarilma_sansi": 7
+   }
+  },
+  {
+   "id": "cep-telefonu",
+   "ad": "Cep Telefonu",
+   "seviye": "siradan",
+   "grup": "kurtarilma",
+   "etiketler": [],
+   "aciklama": "Çekmiyor ve şarjı bir günlük.",
+   "puan": {
+    "hayatta_kalma_faydasi": 2,
+    "cok_amaclilik": 5,
+    "dayaniklilik": 3,
+    "kurtarilma_sansi": 4
+   }
+  },
+  {
+   "id": "powerbank",
+   "ad": "Powerbank",
+   "seviye": "siradan",
+   "grup": "konfor",
+   "etiketler": [],
+   "aciklama": "Şarj edecek bir şey olmadıkça işe yaramaz.",
+   "puan": {
+    "hayatta_kalma_faydasi": 2,
+    "cok_amaclilik": 3,
+    "dayaniklilik": 5,
+    "kurtarilma_sansi": 2
+   }
+  },
+  {
+   "id": "gitar",
+   "ad": "Gitar",
+   "seviye": "siradan",
+   "grup": "konfor",
+   "etiketler": [],
+   "aciklama": "Moral yükseltir, başka işe pek yaramaz.",
+   "puan": {
+    "hayatta_kalma_faydasi": 1,
+    "cok_amaclilik": 2,
+    "dayaniklilik": 5,
+    "kurtarilma_sansi": 2
+   }
+  },
+  {
+   "id": "hamak",
+   "ad": "Hamak",
+   "seviye": "siradan",
+   "grup": "konfor",
+   "etiketler": [],
+   "aciklama": "Rahat uyku ama yağmurda çaresiz.",
+   "puan": {
+    "hayatta_kalma_faydasi": 3,
+    "cok_amaclilik": 3,
+    "dayaniklilik": 6,
+    "kurtarilma_sansi": 1
+   }
+  },
+  {
+   "id": "gunes-gozlugu",
+   "ad": "Güneş Gözlüğü",
+   "seviye": "siradan",
+   "grup": "konfor",
+   "etiketler": [],
+   "aciklama": "Gözü korur ama hayatta tutmaz.",
+   "puan": {
+    "hayatta_kalma_faydasi": 2,
+    "cok_amaclilik": 2,
+    "dayaniklilik": 5,
+    "kurtarilma_sansi": 1
+   }
+  },
+  {
+   "id": "kitap",
+   "ad": "Kitap",
+   "seviye": "siradan",
+   "grup": "konfor",
+   "etiketler": [],
+   "aciklama": "Can sıkıntısına iyi gelir, sayfaları tutuşturucu olur.",
+   "puan": {
+    "hayatta_kalma_faydasi": 2,
+    "cok_amaclilik": 3,
+    "dayaniklilik": 4,
+    "kurtarilma_sansi": 1
+   }
+  },
+  {
+   "id": "kurek",
+   "ad": "Kürek",
+   "seviye": "siradan",
+   "grup": "alet",
+   "etiketler": [],
+   "aciklama": "Kumu kazar, salı yürütür.",
+   "puan": {
+    "hayatta_kalma_faydasi": 6,
+    "cok_amaclilik": 7,
+    "dayaniklilik": 8,
+    "kurtarilma_sansi": 2
+   }
+  },
+  {
+   "id": "sisme-bot",
+   "ad": "Şişme Bot",
+   "seviye": "siradan",
+   "grup": "kurtarilma",
+   "etiketler": [],
+   "aciklama": "Adadan kaçış umudu ama okyanus geniş.",
+   "puan": {
+    "hayatta_kalma_faydasi": 4,
+    "cok_amaclilik": 5,
+    "dayaniklilik": 4,
+    "kurtarilma_sansi": 6
+   }
+  },
+  {
+   "id": "duduk",
+   "ad": "Düdük",
+   "seviye": "siradan",
+   "grup": "kurtarilma",
+   "etiketler": [],
+   "aciklama": "Küçük ama sesi uzaklara gider.",
+   "puan": {
+    "hayatta_kalma_faydasi": 2,
+    "cok_amaclilik": 3,
+    "dayaniklilik": 9,
+    "kurtarilma_sansi": 5
+   }
+  },
+  {
+   "id": "bal-kavanozu",
+   "ad": "Bal Kavanozu",
+   "seviye": "siradan",
+   "grup": "yiyecek",
+   "etiketler": [],
+   "aciklama": "Hiç bozulmayan enerji kaynağı.",
+   "puan": {
+    "hayatta_kalma_faydasi": 6,
+    "cok_amaclilik": 4,
+    "dayaniklilik": 10,
+    "kurtarilma_sansi": 1
+   }
+  }
+ ]
+}

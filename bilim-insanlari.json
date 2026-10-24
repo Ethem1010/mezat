@@ -1,0 +1,535 @@
+{
+ "id": "bilim-insanlari",
+ "ad": "Bilim İnsanları",
+ "sablon": "turnuva",
+ "gorev_mesaji": "Bilim ekibini kur: hangi ekip daha büyük keşif yapar?",
+ "olcutler": {
+  "kesiflerin_onemi": {
+   "ad": "Keşiflerin önemi",
+   "agirlik": 0.35
+  },
+  "i_nsanliga_etkisi": {
+   "ad": "İnsanlığa etkisi",
+   "agirlik": 0.3
+  },
+  "oduller": {
+   "ad": "Ödüller",
+   "agirlik": 0.15
+  },
+  "cok_yonluluk": {
+   "ad": "Çok yönlülük",
+   "agirlik": 0.2
+  }
+ },
+ "gruplar": {
+  "fizik": "Fizik ve astronomi",
+  "kimya": "Kimya",
+  "biyoloji": "Biyoloji ve tıp",
+  "matematik": "Matematik ve bilgisayar"
+ },
+ "sinerjiler": [
+  {
+   "tip": "cesitlilik",
+   "ad": "Disiplinler arası ekip",
+   "esikler": {
+    "3": 4,
+    "4": 7
+   }
+  }
+ ],
+ "garanti": {},
+ "hakem_notu": "Farklı bilim dallarından isimleri birleştiren ekibe uyum bonusu ver.",
+ "kart_sayisi": 35,
+ "kartlar": [
+  {
+   "id": "albert-einstein",
+   "ad": "Albert Einstein",
+   "seviye": "efsane",
+   "grup": "fizik",
+   "etiketler": [],
+   "aciklama": "Görelilik kuramıyla zamanı ve uzayı yeniden tanımladı.",
+   "puan": {
+    "kesiflerin_onemi": 10,
+    "i_nsanliga_etkisi": 9,
+    "oduller": 10,
+    "cok_yonluluk": 7
+   }
+  },
+  {
+   "id": "isaac-newton",
+   "ad": "Isaac Newton",
+   "seviye": "efsane",
+   "grup": "fizik",
+   "etiketler": [],
+   "aciklama": "Yerçekimi, hareket yasaları ve kalkülüs.",
+   "puan": {
+    "kesiflerin_onemi": 10,
+    "i_nsanliga_etkisi": 10,
+    "oduller": 6,
+    "cok_yonluluk": 10
+   }
+  },
+  {
+   "id": "marie-curie",
+   "ad": "Marie Curie",
+   "seviye": "efsane",
+   "grup": "kimya",
+   "etiketler": [],
+   "aciklama": "İki farklı alanda Nobel kazanan ilk kişi.",
+   "puan": {
+    "kesiflerin_onemi": 9,
+    "i_nsanliga_etkisi": 9,
+    "oduller": 10,
+    "cok_yonluluk": 7
+   }
+  },
+  {
+   "id": "nikola-tesla",
+   "ad": "Nikola Tesla",
+   "seviye": "efsane",
+   "grup": "fizik",
+   "etiketler": [],
+   "aciklama": "Alternatif akımla dünyayı aydınlattı.",
+   "puan": {
+    "kesiflerin_onemi": 9,
+    "i_nsanliga_etkisi": 10,
+    "oduller": 4,
+    "cok_yonluluk": 8
+   }
+  },
+  {
+   "id": "charles-darwin",
+   "ad": "Charles Darwin",
+   "seviye": "efsane",
+   "grup": "biyoloji",
+   "etiketler": [],
+   "aciklama": "Evrim kuramının babası.",
+   "puan": {
+    "kesiflerin_onemi": 10,
+    "i_nsanliga_etkisi": 9,
+    "oduller": 6,
+    "cok_yonluluk": 7
+   }
+  },
+  {
+   "id": "galileo-galilei",
+   "ad": "Galileo Galilei",
+   "seviye": "efsane",
+   "grup": "fizik",
+   "etiketler": [],
+   "aciklama": "Teleskopla gökyüzünü inceleyen modern bilimin öncüsü.",
+   "puan": {
+    "kesiflerin_onemi": 9,
+    "i_nsanliga_etkisi": 9,
+    "oduller": 4,
+    "cok_yonluluk": 8
+   }
+  },
+  {
+   "id": "alan-turing",
+   "ad": "Alan Turing",
+   "seviye": "efsane",
+   "grup": "matematik",
+   "etiketler": [],
+   "aciklama": "Bilgisayar biliminin ve yapay zekanın kurucusu.",
+   "puan": {
+    "kesiflerin_onemi": 9,
+    "i_nsanliga_etkisi": 10,
+    "oduller": 5,
+    "cok_yonluluk": 8
+   }
+  },
+  {
+   "id": "aziz-sancar",
+   "ad": "Aziz Sancar",
+   "seviye": "guclu",
+   "grup": "kimya",
+   "etiketler": [],
+   "aciklama": "DNA onarımı çalışmalarıyla Nobel kazanan Türk bilim insanı.",
+   "puan": {
+    "kesiflerin_onemi": 8,
+    "i_nsanliga_etkisi": 8,
+    "oduller": 10,
+    "cok_yonluluk": 5
+   }
+  },
+  {
+   "id": "louis-pasteur",
+   "ad": "Louis Pasteur",
+   "seviye": "guclu",
+   "grup": "biyoloji",
+   "etiketler": [],
+   "aciklama": "Aşılar ve pastörizasyonla milyonlarca hayat kurtardı.",
+   "puan": {
+    "kesiflerin_onemi": 9,
+    "i_nsanliga_etkisi": 10,
+    "oduller": 7,
+    "cok_yonluluk": 6
+   }
+  },
+  {
+   "id": "alexander-fleming",
+   "ad": "Alexander Fleming",
+   "seviye": "guclu",
+   "grup": "biyoloji",
+   "etiketler": [],
+   "aciklama": "Penisilini keşfeden bilim insanı.",
+   "puan": {
+    "kesiflerin_onemi": 9,
+    "i_nsanliga_etkisi": 10,
+    "oduller": 9,
+    "cok_yonluluk": 4
+   }
+  },
+  {
+   "id": "stephen-hawking",
+   "ad": "Stephen Hawking",
+   "seviye": "guclu",
+   "grup": "fizik",
+   "etiketler": [],
+   "aciklama": "Kara delikler ve evrenin kökeni üzerine çalıştı.",
+   "puan": {
+    "kesiflerin_onemi": 8,
+    "i_nsanliga_etkisi": 7,
+    "oduller": 7,
+    "cok_yonluluk": 6
+   }
+  },
+  {
+   "id": "i-bn-i-sina",
+   "ad": "İbn-i Sina",
+   "seviye": "guclu",
+   "grup": "biyoloji",
+   "etiketler": [],
+   "aciklama": "Tıbbın Kanunu ile yüzyıllarca okutulan hekim.",
+   "puan": {
+    "kesiflerin_onemi": 8,
+    "i_nsanliga_etkisi": 9,
+    "oduller": 5,
+    "cok_yonluluk": 10
+   }
+  },
+  {
+   "id": "el-harezmi",
+   "ad": "El-Harezmî",
+   "seviye": "guclu",
+   "grup": "matematik",
+   "etiketler": [],
+   "aciklama": "Cebirin babası, algoritma kelimesinin kaynağı.",
+   "puan": {
+    "kesiflerin_onemi": 9,
+    "i_nsanliga_etkisi": 9,
+    "oduller": 4,
+    "cok_yonluluk": 7
+   }
+  },
+  {
+   "id": "ali-kuscu",
+   "ad": "Ali Kuşçu",
+   "seviye": "guclu",
+   "grup": "fizik",
+   "etiketler": [],
+   "aciklama": "Astronomi ve matematikte öncü Osmanlı bilgini.",
+   "puan": {
+    "kesiflerin_onemi": 7,
+    "i_nsanliga_etkisi": 6,
+    "oduller": 3,
+    "cok_yonluluk": 8
+   }
+  },
+  {
+   "id": "cahit-arf",
+   "ad": "Cahit Arf",
+   "seviye": "guclu",
+   "grup": "matematik",
+   "etiketler": [],
+   "aciklama": "Arf değişmezi ile tanınan Türk matematikçi.",
+   "puan": {
+    "kesiflerin_onemi": 8,
+    "i_nsanliga_etkisi": 6,
+    "oduller": 6,
+    "cok_yonluluk": 5
+   }
+  },
+  {
+   "id": "leonardo-da-vinci",
+   "ad": "Leonardo da Vinci",
+   "seviye": "guclu",
+   "grup": "fizik",
+   "etiketler": [],
+   "aciklama": "Ressam, mucit ve mühendis; çok yönlülüğün simgesi.",
+   "puan": {
+    "kesiflerin_onemi": 8,
+    "i_nsanliga_etkisi": 8,
+    "oduller": 4,
+    "cok_yonluluk": 10
+   }
+  },
+  {
+   "id": "arsimet",
+   "ad": "Arşimet",
+   "seviye": "guclu",
+   "grup": "matematik",
+   "etiketler": [],
+   "aciklama": "Kaldıraç ve kaldırma kuvvetinin kâşifi.",
+   "puan": {
+    "kesiflerin_onemi": 9,
+    "i_nsanliga_etkisi": 8,
+    "oduller": 4,
+    "cok_yonluluk": 9
+   }
+  },
+  {
+   "id": "thomas-edison",
+   "ad": "Thomas Edison",
+   "seviye": "guclu",
+   "grup": "fizik",
+   "etiketler": [],
+   "aciklama": "Binden fazla patent alan mucit.",
+   "puan": {
+    "kesiflerin_onemi": 8,
+    "i_nsanliga_etkisi": 9,
+    "oduller": 5,
+    "cok_yonluluk": 7
+   }
+  },
+  {
+   "id": "dmitri-mendeleyev",
+   "ad": "Dmitri Mendeleyev",
+   "seviye": "guclu",
+   "grup": "kimya",
+   "etiketler": [],
+   "aciklama": "Periyodik tabloyu düzenleyen kimyacı.",
+   "puan": {
+    "kesiflerin_onemi": 9,
+    "i_nsanliga_etkisi": 8,
+    "oduller": 5,
+    "cok_yonluluk": 5
+   }
+  },
+  {
+   "id": "gregor-mendel",
+   "ad": "Gregor Mendel",
+   "seviye": "guclu",
+   "grup": "biyoloji",
+   "etiketler": [],
+   "aciklama": "Bezelyelerle genetiğin temelini attı.",
+   "puan": {
+    "kesiflerin_onemi": 9,
+    "i_nsanliga_etkisi": 8,
+    "oduller": 3,
+    "cok_yonluluk": 4
+   }
+  },
+  {
+   "id": "niels-bohr",
+   "ad": "Niels Bohr",
+   "seviye": "guclu",
+   "grup": "fizik",
+   "etiketler": [],
+   "aciklama": "Atom modeliyle Nobel kazandı.",
+   "puan": {
+    "kesiflerin_onemi": 9,
+    "i_nsanliga_etkisi": 8,
+    "oduller": 10,
+    "cok_yonluluk": 6
+   }
+  },
+  {
+   "id": "carl-sagan",
+   "ad": "Carl Sagan",
+   "seviye": "siradan",
+   "grup": "fizik",
+   "etiketler": [],
+   "aciklama": "Bilimi milyonlara sevdiren astronom.",
+   "puan": {
+    "kesiflerin_onemi": 6,
+    "i_nsanliga_etkisi": 7,
+    "oduller": 6,
+    "cok_yonluluk": 7
+   }
+  },
+  {
+   "id": "richard-feynman",
+   "ad": "Richard Feynman",
+   "seviye": "siradan",
+   "grup": "fizik",
+   "etiketler": [],
+   "aciklama": "Nobel'li, esprili kuantum fizikçisi.",
+   "puan": {
+    "kesiflerin_onemi": 8,
+    "i_nsanliga_etkisi": 6,
+    "oduller": 10,
+    "cok_yonluluk": 7
+   }
+  },
+  {
+   "id": "rosalind-franklin",
+   "ad": "Rosalind Franklin",
+   "seviye": "siradan",
+   "grup": "biyoloji",
+   "etiketler": [],
+   "aciklama": "DNA'nın yapısının çözülmesinde kilit rol oynadı.",
+   "puan": {
+    "kesiflerin_onemi": 8,
+    "i_nsanliga_etkisi": 7,
+    "oduller": 3,
+    "cok_yonluluk": 5
+   }
+  },
+  {
+   "id": "jonas-salk",
+   "ad": "Jonas Salk",
+   "seviye": "siradan",
+   "grup": "biyoloji",
+   "etiketler": [],
+   "aciklama": "Çocuk felci aşısını geliştirdi.",
+   "puan": {
+    "kesiflerin_onemi": 8,
+    "i_nsanliga_etkisi": 10,
+    "oduller": 5,
+    "cok_yonluluk": 4
+   }
+  },
+  {
+   "id": "ada-lovelace",
+   "ad": "Ada Lovelace",
+   "seviye": "siradan",
+   "grup": "matematik",
+   "etiketler": [],
+   "aciklama": "İlk bilgisayar programını yazdığı kabul edilir.",
+   "puan": {
+    "kesiflerin_onemi": 7,
+    "i_nsanliga_etkisi": 7,
+    "oduller": 2,
+    "cok_yonluluk": 6
+   }
+  },
+  {
+   "id": "pisagor",
+   "ad": "Pisagor",
+   "seviye": "siradan",
+   "grup": "matematik",
+   "etiketler": [],
+   "aciklama": "Üçgenler denince akla gelen isim.",
+   "puan": {
+    "kesiflerin_onemi": 8,
+    "i_nsanliga_etkisi": 7,
+    "oduller": 3,
+    "cok_yonluluk": 7
+   }
+  },
+  {
+   "id": "oklid",
+   "ad": "Öklid",
+   "seviye": "siradan",
+   "grup": "matematik",
+   "etiketler": [],
+   "aciklama": "Geometrinin temel kitabını yazdı.",
+   "puan": {
+    "kesiflerin_onemi": 9,
+    "i_nsanliga_etkisi": 7,
+    "oduller": 3,
+    "cok_yonluluk": 6
+   }
+  },
+  {
+   "id": "kopernik",
+   "ad": "Kopernik",
+   "seviye": "siradan",
+   "grup": "fizik",
+   "etiketler": [],
+   "aciklama": "Dünyanın Güneş'in etrafında döndüğünü savundu.",
+   "puan": {
+    "kesiflerin_onemi": 9,
+    "i_nsanliga_etkisi": 8,
+    "oduller": 3,
+    "cok_yonluluk": 6
+   }
+  },
+  {
+   "id": "johannes-kepler",
+   "ad": "Johannes Kepler",
+   "seviye": "siradan",
+   "grup": "fizik",
+   "etiketler": [],
+   "aciklama": "Gezegen hareketlerinin yasalarını buldu.",
+   "puan": {
+    "kesiflerin_onemi": 9,
+    "i_nsanliga_etkisi": 7,
+    "oduller": 3,
+    "cok_yonluluk": 6
+   }
+  },
+  {
+   "id": "michael-faraday",
+   "ad": "Michael Faraday",
+   "seviye": "siradan",
+   "grup": "fizik",
+   "etiketler": [],
+   "aciklama": "Elektromanyetizmanın temellerini attı.",
+   "puan": {
+    "kesiflerin_onemi": 9,
+    "i_nsanliga_etkisi": 9,
+    "oduller": 5,
+    "cok_yonluluk": 6
+   }
+  },
+  {
+   "id": "antoine-lavoisier",
+   "ad": "Antoine Lavoisier",
+   "seviye": "siradan",
+   "grup": "kimya",
+   "etiketler": [],
+   "aciklama": "Modern kimyanın babası.",
+   "puan": {
+    "kesiflerin_onemi": 9,
+    "i_nsanliga_etkisi": 7,
+    "oduller": 3,
+    "cok_yonluluk": 6
+   }
+  },
+  {
+   "id": "alfred-nobel",
+   "ad": "Alfred Nobel",
+   "seviye": "siradan",
+   "grup": "kimya",
+   "etiketler": [],
+   "aciklama": "Dinamitin mucidi, Nobel Ödülü'nün kurucusu.",
+   "puan": {
+    "kesiflerin_onemi": 6,
+    "i_nsanliga_etkisi": 7,
+    "oduller": 4,
+    "cok_yonluluk": 6
+   }
+  },
+  {
+   "id": "feza-gursey",
+   "ad": "Feza Gürsey",
+   "seviye": "siradan",
+   "grup": "fizik",
+   "etiketler": [],
+   "aciklama": "Parçacık fiziğine katkılarıyla tanınan Türk fizikçi.",
+   "puan": {
+    "kesiflerin_onemi": 7,
+    "i_nsanliga_etkisi": 5,
+    "oduller": 6,
+    "cok_yonluluk": 5
+   }
+  },
+  {
+   "id": "oktay-sinanoglu",
+   "ad": "Oktay Sinanoğlu",
+   "seviye": "siradan",
+   "grup": "kimya",
+   "etiketler": [],
+   "aciklama": "Kuantum kimyası alanında çalışan Türk bilim insanı.",
+   "puan": {
+    "kesiflerin_onemi": 7,
+    "i_nsanliga_etkisi": 5,
+    "oduller": 5,
+    "cok_yonluluk": 5
+   }
+  }
+ ]
+}

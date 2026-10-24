@@ -1,0 +1,533 @@
+{
+ "id": "super-kahramanlar",
+ "ad": "Süper Kahramanlar",
+ "sablon": "duello",
+ "gorev_mesaji": "Dünyayı kurtaracak ekibi kur: hangi takım kötüleri yener?",
+ "olcutler": {
+  "guc": {
+   "ad": "Güç",
+   "agirlik": 0.35
+  },
+  "super_yetenek": {
+   "ad": "Süper yetenek",
+   "agirlik": 0.3
+  },
+  "zeka": {
+   "ad": "Zeka",
+   "agirlik": 0.2
+  },
+  "takim_uyumu": {
+   "ad": "Takım uyumu",
+   "agirlik": 0.15
+  }
+ },
+ "gruplar": {
+  "guc": "Güç ve dövüş",
+  "zeka": "Zeka ve teknoloji",
+  "ozel": "Büyü ve özel yetenek"
+ },
+ "sinerjiler": [
+  {
+   "tip": "cesitlilik",
+   "ad": "Tam kadro",
+   "esikler": {
+    "3": 5
+   }
+  }
+ ],
+ "garanti": {},
+ "hakem_notu": "Güçlü dövüşçülerle zeka ve strateji ustalarını birleştiren ekibe uyum bonusu ver. Karakterlerin yeteneklerini genel olarak bilinen haliyle anlat.",
+ "kart_sayisi": 35,
+ "kartlar": [
+  {
+   "id": "superman",
+   "ad": "Superman",
+   "seviye": "efsane",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Uçan, kurşun geçirmez Krypton'lu.",
+   "puan": {
+    "guc": 10,
+    "super_yetenek": 10,
+    "zeka": 7,
+    "takim_uyumu": 8
+   }
+  },
+  {
+   "id": "batman",
+   "ad": "Batman",
+   "seviye": "efsane",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Süper gücü yok ama dâhi bir dedektif ve stratejist.",
+   "puan": {
+    "guc": 6,
+    "super_yetenek": 4,
+    "zeka": 10,
+    "takim_uyumu": 7
+   }
+  },
+  {
+   "id": "orumcek-adam",
+   "ad": "Örümcek Adam",
+   "seviye": "efsane",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Ağ atan, duvarlara tırmanan mahalle kahramanı.",
+   "puan": {
+    "guc": 7,
+    "super_yetenek": 8,
+    "zeka": 8,
+    "takim_uyumu": 8
+   }
+  },
+  {
+   "id": "iron-man",
+   "ad": "Iron Man",
+   "seviye": "efsane",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Zırhını kendi yapan dâhi mucit.",
+   "puan": {
+    "guc": 8,
+    "super_yetenek": 8,
+    "zeka": 10,
+    "takim_uyumu": 6
+   }
+  },
+  {
+   "id": "wonder-woman",
+   "ad": "Wonder Woman",
+   "seviye": "efsane",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Amazon savaşçısı, gerçeğin kementinin sahibi.",
+   "puan": {
+    "guc": 9,
+    "super_yetenek": 8,
+    "zeka": 7,
+    "takim_uyumu": 9
+   }
+  },
+  {
+   "id": "thor",
+   "ad": "Thor",
+   "seviye": "efsane",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Çekiciyle şimşek çağıran gök gürültüsü tanrısı.",
+   "puan": {
+    "guc": 10,
+    "super_yetenek": 9,
+    "zeka": 6,
+    "takim_uyumu": 7
+   }
+  },
+  {
+   "id": "hulk",
+   "ad": "Hulk",
+   "seviye": "efsane",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Sinirlendikçe güçlenen yeşil dev.",
+   "puan": {
+    "guc": 10,
+    "super_yetenek": 8,
+    "zeka": 3,
+    "takim_uyumu": 4
+   }
+  },
+  {
+   "id": "kaptan-amerika",
+   "ad": "Kaptan Amerika",
+   "seviye": "guclu",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Kalkanıyla takımın doğal lideri.",
+   "puan": {
+    "guc": 7,
+    "super_yetenek": 6,
+    "zeka": 8,
+    "takim_uyumu": 10
+   }
+  },
+  {
+   "id": "doktor-strange",
+   "ad": "Doktor Strange",
+   "seviye": "guclu",
+   "grup": "ozel",
+   "etiketler": [],
+   "aciklama": "Büyünün ve zamanın ustası.",
+   "puan": {
+    "guc": 7,
+    "super_yetenek": 10,
+    "zeka": 9,
+    "takim_uyumu": 7
+   }
+  },
+  {
+   "id": "black-panther",
+   "ad": "Black Panther",
+   "seviye": "guclu",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Wakanda'nın kralı ve teknolojisi.",
+   "puan": {
+    "guc": 7,
+    "super_yetenek": 7,
+    "zeka": 9,
+    "takim_uyumu": 8
+   }
+  },
+  {
+   "id": "flash",
+   "ad": "Flash",
+   "seviye": "guclu",
+   "grup": "ozel",
+   "etiketler": [],
+   "aciklama": "Işıktan hızlı koşabilen kahraman.",
+   "puan": {
+    "guc": 6,
+    "super_yetenek": 10,
+    "zeka": 7,
+    "takim_uyumu": 8
+   }
+  },
+  {
+   "id": "aquaman",
+   "ad": "Aquaman",
+   "seviye": "guclu",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Denizlerin kralı.",
+   "puan": {
+    "guc": 8,
+    "super_yetenek": 8,
+    "zeka": 6,
+    "takim_uyumu": 7
+   }
+  },
+  {
+   "id": "wolverine",
+   "ad": "Wolverine",
+   "seviye": "guclu",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Pençeleri ve iyileşme gücüyle dayanıklı savaşçı.",
+   "puan": {
+    "guc": 8,
+    "super_yetenek": 8,
+    "zeka": 5,
+    "takim_uyumu": 5
+   }
+  },
+  {
+   "id": "scarlet-witch",
+   "ad": "Scarlet Witch",
+   "seviye": "guclu",
+   "grup": "ozel",
+   "etiketler": [],
+   "aciklama": "Gerçekliği büken güçlü büyücü.",
+   "puan": {
+    "guc": 8,
+    "super_yetenek": 10,
+    "zeka": 6,
+    "takim_uyumu": 6
+   }
+  },
+  {
+   "id": "captain-marvel",
+   "ad": "Captain Marvel",
+   "seviye": "guclu",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Kozmik enerjiyle uçan en güçlülerden.",
+   "puan": {
+    "guc": 10,
+    "super_yetenek": 9,
+    "zeka": 6,
+    "takim_uyumu": 7
+   }
+  },
+  {
+   "id": "green-lantern",
+   "ad": "Green Lantern",
+   "seviye": "guclu",
+   "grup": "ozel",
+   "etiketler": [],
+   "aciklama": "Yüzüğüyle hayal ettiğini yaratan kahraman.",
+   "puan": {
+    "guc": 8,
+    "super_yetenek": 9,
+    "zeka": 6,
+    "takim_uyumu": 8
+   }
+  },
+  {
+   "id": "black-widow",
+   "ad": "Black Widow",
+   "seviye": "guclu",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Casusluk ve dövüş ustası.",
+   "puan": {
+    "guc": 5,
+    "super_yetenek": 4,
+    "zeka": 9,
+    "takim_uyumu": 9
+   }
+  },
+  {
+   "id": "profesor-x",
+   "ad": "Profesör X",
+   "seviye": "guclu",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Zihinleri okuyan X-Men lideri.",
+   "puan": {
+    "guc": 3,
+    "super_yetenek": 10,
+    "zeka": 10,
+    "takim_uyumu": 8
+   }
+  },
+  {
+   "id": "storm",
+   "ad": "Storm",
+   "seviye": "guclu",
+   "grup": "ozel",
+   "etiketler": [],
+   "aciklama": "Havayı kontrol eden mutant.",
+   "puan": {
+    "guc": 7,
+    "super_yetenek": 9,
+    "zeka": 7,
+    "takim_uyumu": 8
+   }
+  },
+  {
+   "id": "vision",
+   "ad": "Vision",
+   "seviye": "guclu",
+   "grup": "ozel",
+   "etiketler": [],
+   "aciklama": "Yapay zekâdan doğan güçlü android.",
+   "puan": {
+    "guc": 8,
+    "super_yetenek": 8,
+    "zeka": 8,
+    "takim_uyumu": 8
+   }
+  },
+  {
+   "id": "supergirl",
+   "ad": "Supergirl",
+   "seviye": "guclu",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Superman'in kuzeni, aynı güçlere sahip.",
+   "puan": {
+    "guc": 9,
+    "super_yetenek": 9,
+    "zeka": 6,
+    "takim_uyumu": 8
+   }
+  },
+  {
+   "id": "ant-man",
+   "ad": "Ant-Man",
+   "seviye": "siradan",
+   "grup": "ozel",
+   "etiketler": [],
+   "aciklama": "Küçülüp büyüyebilen kahraman.",
+   "puan": {
+    "guc": 5,
+    "super_yetenek": 7,
+    "zeka": 6,
+    "takim_uyumu": 7
+   }
+  },
+  {
+   "id": "hawkeye",
+   "ad": "Hawkeye",
+   "seviye": "siradan",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Hiç ıskalamayan okçu.",
+   "puan": {
+    "guc": 4,
+    "super_yetenek": 4,
+    "zeka": 7,
+    "takim_uyumu": 8
+   }
+  },
+  {
+   "id": "robin",
+   "ad": "Robin",
+   "seviye": "siradan",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Batman'in genç ortağı.",
+   "puan": {
+    "guc": 4,
+    "super_yetenek": 3,
+    "zeka": 7,
+    "takim_uyumu": 8
+   }
+  },
+  {
+   "id": "deadpool",
+   "ad": "Deadpool",
+   "seviye": "siradan",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Ölümsüz ve geveze antikahraman.",
+   "puan": {
+    "guc": 7,
+    "super_yetenek": 7,
+    "zeka": 5,
+    "takim_uyumu": 3
+   }
+  },
+  {
+   "id": "cyclops",
+   "ad": "Cyclops",
+   "seviye": "siradan",
+   "grup": "ozel",
+   "etiketler": [],
+   "aciklama": "Gözlerinden ışın atan X-Men lideri.",
+   "puan": {
+    "guc": 6,
+    "super_yetenek": 7,
+    "zeka": 7,
+    "takim_uyumu": 8
+   }
+  },
+  {
+   "id": "groot",
+   "ad": "Groot",
+   "seviye": "siradan",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Sadece \"Ben Groot'um\" diyen ağaç.",
+   "puan": {
+    "guc": 7,
+    "super_yetenek": 6,
+    "zeka": 3,
+    "takim_uyumu": 9
+   }
+  },
+  {
+   "id": "rocket-raccoon",
+   "ad": "Rocket Raccoon",
+   "seviye": "siradan",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Silah ustası rakun.",
+   "puan": {
+    "guc": 4,
+    "super_yetenek": 3,
+    "zeka": 9,
+    "takim_uyumu": 6
+   }
+  },
+  {
+   "id": "star-lord",
+   "ad": "Star-Lord",
+   "seviye": "siradan",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Galaksinin Koruyucuları'nın lideri.",
+   "puan": {
+    "guc": 5,
+    "super_yetenek": 4,
+    "zeka": 6,
+    "takim_uyumu": 7
+   }
+  },
+  {
+   "id": "cyborg",
+   "ad": "Cyborg",
+   "seviye": "siradan",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Yarı insan yarı makine kahraman.",
+   "puan": {
+    "guc": 7,
+    "super_yetenek": 7,
+    "zeka": 8,
+    "takim_uyumu": 8
+   }
+  },
+  {
+   "id": "green-arrow",
+   "ad": "Green Arrow",
+   "seviye": "siradan",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Teknolojik oklarıyla şehri koruyan okçu.",
+   "puan": {
+    "guc": 4,
+    "super_yetenek": 3,
+    "zeka": 7,
+    "takim_uyumu": 7
+   }
+  },
+  {
+   "id": "gambit",
+   "ad": "Gambit",
+   "seviye": "siradan",
+   "grup": "ozel",
+   "etiketler": [],
+   "aciklama": "Kartlara enerji yükleyen mutant.",
+   "puan": {
+    "guc": 5,
+    "super_yetenek": 7,
+    "zeka": 6,
+    "takim_uyumu": 6
+   }
+  },
+  {
+   "id": "daredevil",
+   "ad": "Daredevil",
+   "seviye": "siradan",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Görmeyen ama her şeyi hisseden avukat.",
+   "puan": {
+    "guc": 5,
+    "super_yetenek": 7,
+    "zeka": 7,
+    "takim_uyumu": 6
+   }
+  },
+  {
+   "id": "shazam",
+   "ad": "Shazam",
+   "seviye": "siradan",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Bir kelimeyle yetişkin kahramana dönüşen çocuk.",
+   "puan": {
+    "guc": 9,
+    "super_yetenek": 8,
+    "zeka": 4,
+    "takim_uyumu": 7
+   }
+  },
+  {
+   "id": "falcon",
+   "ad": "Falcon",
+   "seviye": "siradan",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Kanatlarıyla uçan asker.",
+   "puan": {
+    "guc": 5,
+    "super_yetenek": 5,
+    "zeka": 7,
+    "takim_uyumu": 8
+   }
+  }
+ ]
+}

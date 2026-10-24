@@ -1,0 +1,1889 @@
+{
+ "surum": 1,
+ "butce": 20,
+ "slot": 5,
+ "cekilis": {
+  "efsane": 2,
+  "guclu": 4,
+  "siradan": 4
+ },
+ "kategoriler": [
+  {
+   "id": "sehirler",
+   "ad": "Şehirler",
+   "sablon": "juri",
+   "gorev_mesaji": "Hayalindeki şehir ekibini kur: hangi takımın şehirleri yaşamak için daha iyi?",
+   "olcutler": {
+    "yasam_kalitesi": {
+     "ad": "Yaşam kalitesi",
+     "agirlik": 0.35
+    },
+    "i_s_imkani": {
+     "ad": "İş imkânı",
+     "agirlik": 0.25
+    },
+    "eglence": {
+     "ad": "Eğlence",
+     "agirlik": 0.2
+    },
+    "doga": {
+     "ad": "Doğa",
+     "agirlik": 0.2
+    }
+   },
+   "gruplar": {
+    "turkiye": "Türkiye",
+    "avrupa": "Avrupa",
+    "asya": "Asya",
+    "amerika": "Amerika",
+    "diger": "Diğer"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Farklı kıtalar",
+     "esikler": {
+      "3": 4,
+      "4": 7
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Şehirleri yaşamak için değerlendir, sadece turistik açıdan değil. Farklı kıtalardan şehirleri bir araya getiren takıma uyum bonusu ver.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "meyveler",
+   "ad": "Meyveler",
+   "sablon": "juri",
+   "gorev_mesaji": "En lezzetli meyve sepetini kur: hangi sepet daha çok sevilir?",
+   "olcutler": {
+    "lezzet": {
+     "ad": "Lezzet",
+     "agirlik": 0.4
+    },
+    "saglik": {
+     "ad": "Sağlık",
+     "agirlik": 0.25
+    },
+    "populerlik": {
+     "ad": "Popülerlik",
+     "agirlik": 0.2
+    },
+    "cok_yonluluk": {
+     "ad": "Çok yönlülük",
+     "agirlik": 0.15
+    }
+   },
+   "gruplar": {
+    "yaz": "Yaz meyvesi",
+    "kis": "Kış meyvesi",
+    "tropik": "Tropik",
+    "her_mevsim": "Her mevsim"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Dört mevsim sepeti",
+     "esikler": {
+      "3": 4,
+      "4": 7
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Farklı mevsimlerin meyvelerini içeren sepete uyum bonusu ver. Aynı türden çok meyve tekdüzelik sayılır.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "issiz-ada",
+   "ad": "Issız Ada Malzemeleri",
+   "sablon": "hayatta_kalma",
+   "gorev_mesaji": "Issız adaya düştün, yanına 5 şey alabilirsin: kim daha uzun hayatta kalır?",
+   "olcutler": {
+    "hayatta_kalma_faydasi": {
+     "ad": "Hayatta kalma faydası",
+     "agirlik": 0.4
+    },
+    "cok_amaclilik": {
+     "ad": "Çok amaçlılık",
+     "agirlik": 0.25
+    },
+    "dayaniklilik": {
+     "ad": "Dayanıklılık",
+     "agirlik": 0.2
+    },
+    "kurtarilma_sansi": {
+     "ad": "Kurtarılma şansı",
+     "agirlik": 0.15
+    }
+   },
+   "gruplar": {
+    "su": "Su",
+    "yiyecek": "Yiyecek",
+    "barinak": "Barınak",
+    "ates": "Ateş",
+    "alet": "Alet",
+    "kurtarilma": "Kurtarılma",
+    "konfor": "Konfor"
+   },
+   "sinerjiler": [
+    {
+     "tip": "gruplar_hepsi",
+     "ad": "Dört temel ihtiyaç karşılandı",
+     "gruplar": [
+      "su",
+      "yiyecek",
+      "barinak",
+      "ates"
+     ],
+     "bonus": 8
+    },
+    {
+     "tip": "grup_fazla",
+     "ad": "Fazla konfor eşyası",
+     "grup": "konfor",
+     "en_fazla": 1,
+     "bonus": -3
+    }
+   ],
+   "garanti": {
+    "su": 1,
+    "ates": 1
+   },
+   "hakem_notu": "Su, yiyecek, barınak ve ateş ihtiyaçlarının dördünü de karşılayan takıma yüksek uyum bonusu ver. Aynı ihtiyacı karşılayan tekrar eden eşyalar bonus düşürür. Elektrikli eşyalar şarj kaynağı yoksa zayıftır.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "sarkicilar",
+   "ad": "Şarkıcılar",
+   "sablon": "turnuva",
+   "gorev_mesaji": "Konser kadronu kur: hangi kadro daha çok bilet satar?",
+   "olcutler": {
+    "hit_sarkilar": {
+     "ad": "Hit şarkılar",
+     "agirlik": 0.35
+    },
+    "sahne_performansi": {
+     "ad": "Sahne performansı",
+     "agirlik": 0.25
+    },
+    "hayran_kitlesi": {
+     "ad": "Hayran kitlesi",
+     "agirlik": 0.25
+    },
+    "efsanelik": {
+     "ad": "Efsanelik",
+     "agirlik": 0.15
+    }
+   },
+   "gruplar": {
+    "turk_pop": "Türk pop",
+    "turk_klasik": "Arabesk ve halk",
+    "turk_rock": "Türk rock",
+    "yabanci": "Yabancı"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Her zevke hitap",
+     "esikler": {
+      "3": 4,
+      "4": 7
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Farklı tarzları bir araya getiren kadro daha geniş kitleye hitap eder; uyum bonusu ver.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "rapciler",
+   "ad": "Rapçiler",
+   "sablon": "turnuva",
+   "gorev_mesaji": "Rap festivalinin kadrosunu kur: sahneyi kim yakar?",
+   "olcutler": {
+    "soz_yazarligi": {
+     "ad": "Söz yazarlığı",
+     "agirlik": 0.3
+    },
+    "flow": {
+     "ad": "Flow",
+     "agirlik": 0.25
+    },
+    "hit_sarkilar": {
+     "ad": "Hit şarkılar",
+     "agirlik": 0.25
+    },
+    "sahne_enerjisi": {
+     "ad": "Sahne enerjisi",
+     "agirlik": 0.2
+    }
+   },
+   "gruplar": {
+    "turk_eski": "Türkçe rap, eski kuşak",
+    "turk_yeni": "Türkçe rap, yeni kuşak",
+    "yabanci": "Yabancı"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Kuşaklar buluşuyor",
+     "esikler": {
+      "3": 5
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Hem eski kuşak hem yeni kuşak rapçileri bir araya getiren kadroya uyum bonusu ver.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "oyunlar",
+   "ad": "Oyunlar",
+   "sablon": "turnuva",
+   "gorev_mesaji": "Oyun kütüphaneni kur: hangi raf daha çok oynanır?",
+   "olcutler": {
+    "eglence": {
+     "ad": "Eğlence",
+     "agirlik": 0.3
+    },
+    "nostalji": {
+     "ad": "Nostalji",
+     "agirlik": 0.25
+    },
+    "bagimlilik": {
+     "ad": "Bağımlılık",
+     "agirlik": 0.25
+    },
+    "oyuncu_sayisi": {
+     "ad": "Oyuncu sayısı",
+     "agirlik": 0.2
+    }
+   },
+   "gruplar": {
+    "aksiyon": "Aksiyon",
+    "spor": "Spor ve yarış",
+    "strateji": "Strateji",
+    "online": "Çok oyunculu",
+    "macera": "Macera ve RPG"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Her türden oyun",
+     "esikler": {
+      "3": 4,
+      "4": 7
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Farklı türleri içeren kütüphaneye uyum bonusu ver.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "sebzeler",
+   "ad": "Sebzeler",
+   "sablon": "juri",
+   "gorev_mesaji": "Pazar çantanı doldur: hangi çanta daha sağlıklı ve lezzetli bir sofra çıkarır?",
+   "olcutler": {
+    "besin_degeri": {
+     "ad": "Besin değeri",
+     "agirlik": 0.35
+    },
+    "lezzet": {
+     "ad": "Lezzet",
+     "agirlik": 0.3
+    },
+    "mutfakta_kullanim": {
+     "ad": "Mutfakta kullanım",
+     "agirlik": 0.2
+    },
+    "sevilme": {
+     "ad": "Sevilme",
+     "agirlik": 0.15
+    }
+   },
+   "gruplar": {
+    "yaz": "Yaz sebzesi",
+    "kis": "Kış sebzesi",
+    "kok": "Kök ve yumru",
+    "yesillik": "Yeşillik"
+   },
+   "sinerjiler": [
+    {
+     "tip": "etiket",
+     "ad": "Mutfağın temeli",
+     "etiket": "temel",
+     "en_az": 3,
+     "bonus": 5
+    },
+    {
+     "tip": "cesitlilik",
+     "ad": "Renkli tezgâh",
+     "esikler": {
+      "3": 4,
+      "4": 7
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Birlikte bir yemek oluşturabilen sebzelere (ör. domates, biber, soğan) uyum bonusu ver.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "yemekler",
+   "ad": "Yemekler",
+   "sablon": "juri",
+   "gorev_mesaji": "Misafir sofrası kur: hangi sofradan herkes memnun kalkar?",
+   "olcutler": {
+    "lezzet": {
+     "ad": "Lezzet",
+     "agirlik": 0.4
+    },
+    "doyuruculuk": {
+     "ad": "Doyuruculuk",
+     "agirlik": 0.2
+    },
+    "sofra_uyumu": {
+     "ad": "Sofra uyumu",
+     "agirlik": 0.2
+    },
+    "sevilme": {
+     "ad": "Sevilme",
+     "agirlik": 0.2
+    }
+   },
+   "gruplar": {
+    "corba": "Çorba",
+    "ana": "Ana yemek",
+    "yan": "Pilav, salata, meze",
+    "hamur": "Hamur işi",
+    "tatli": "Tatlı"
+   },
+   "sinerjiler": [
+    {
+     "tip": "gruplar_hepsi",
+     "ad": "Tam sofra",
+     "gruplar": [
+      "corba",
+      "ana",
+      "tatli"
+     ],
+     "bonus": 8
+    },
+    {
+     "tip": "grup_fazla",
+     "ad": "Fazla ana yemek",
+     "grup": "ana",
+     "en_fazla": 2,
+     "bonus": -4
+    }
+   ],
+   "garanti": {
+    "corba": 1,
+    "tatli": 1
+   },
+   "hakem_notu": "Çorba, ana yemek, yan yemek ve tatlı dengesi olan sofraya yüksek uyum bonusu ver. 5 ana yemekten oluşan sofra ağır kaçar.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "tatlilar",
+   "ad": "Tatlılar",
+   "sablon": "juri",
+   "gorev_mesaji": "Tatlı vitrinini kur: müşteri hangi vitrine koşar?",
+   "olcutler": {
+    "lezzet": {
+     "ad": "Lezzet",
+     "agirlik": 0.4
+    },
+    "populerlik": {
+     "ad": "Popülerlik",
+     "agirlik": 0.25
+    },
+    "gorunum": {
+     "ad": "Görünüm",
+     "agirlik": 0.2
+    },
+    "cesitlilik": {
+     "ad": "Çeşitlilik",
+     "agirlik": 0.15
+    }
+   },
+   "gruplar": {
+    "serbetli": "Şerbetli",
+    "sutlu": "Sütlü",
+    "pasta": "Pasta ve hamur işi",
+    "soguk": "Dondurma ve soğuk"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Zengin vitrin",
+     "esikler": {
+      "3": 4,
+      "4": 7
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Şerbetli, sütlü ve hamur işi tatlıları karıştıran vitrine uyum bonusu ver.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "icecekler",
+   "ad": "İçecekler",
+   "sablon": "juri",
+   "gorev_mesaji": "Kafe menünü hazırla: hangi menü daha çok satar?",
+   "olcutler": {
+    "lezzet": {
+     "ad": "Lezzet",
+     "agirlik": 0.35
+    },
+    "populerlik": {
+     "ad": "Popülerlik",
+     "agirlik": 0.3
+    },
+    "her_mevsime_uygunluk": {
+     "ad": "Her mevsime uygunluk",
+     "agirlik": 0.2
+    },
+    "cesitlilik": {
+     "ad": "Çeşitlilik",
+     "agirlik": 0.15
+    }
+   },
+   "gruplar": {
+    "sicak": "Sıcak",
+    "soguk": "Soğuk",
+    "geleneksel": "Geleneksel"
+   },
+   "sinerjiler": [
+    {
+     "tip": "gruplar_hepsi",
+     "ad": "Yaz kış menü",
+     "gruplar": [
+      "sicak",
+      "soguk"
+     ],
+     "bonus": 4
+    },
+    {
+     "tip": "cesitlilik",
+     "ad": "Üç çeşit",
+     "esikler": {
+      "3": 3
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Hem sıcak hem soğuk içeceği olan menüye uyum bonusu ver.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "ulkeler",
+   "ad": "Ülkeler",
+   "sablon": "turnuva",
+   "gorev_mesaji": "Dünya turu planla: hangi rota daha unutulmaz?",
+   "olcutler": {
+    "turistik_yerler": {
+     "ad": "Turistik yerler",
+     "agirlik": 0.3
+    },
+    "mutfak": {
+     "ad": "Mutfak",
+     "agirlik": 0.25
+    },
+    "kultur": {
+     "ad": "Kültür",
+     "agirlik": 0.25
+    },
+    "doga": {
+     "ad": "Doğa",
+     "agirlik": 0.2
+    }
+   },
+   "gruplar": {
+    "avrupa": "Avrupa",
+    "asya": "Asya",
+    "amerika": "Amerika",
+    "afrika": "Afrika",
+    "okyanusya": "Okyanusya"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Kıtalar arası tur",
+     "esikler": {
+      "3": 4,
+      "4": 7
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Farklı kıtalardan ülkeleri içeren rotaya uyum bonusu ver.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "futbolcular",
+   "ad": "Futbolcular",
+   "sablon": "mac",
+   "gorev_mesaji": "5 kişilik kadronu kur: sahaya çıkınca hangi takım kazanır?",
+   "olcutler": {
+    "mevkisinde_ustalik": {
+     "ad": "Mevkisinde ustalık",
+     "agirlik": 0.35
+    },
+    "yetenek": {
+     "ad": "Yetenek",
+     "agirlik": 0.3
+    },
+    "kupalar": {
+     "ad": "Kupalar",
+     "agirlik": 0.2
+    },
+    "efsanelik": {
+     "ad": "Efsanelik",
+     "agirlik": 0.15
+    }
+   },
+   "gruplar": {
+    "kaleci": "Kaleci",
+    "defans": "Defans",
+    "orta": "Orta saha",
+    "forvet": "Forvet"
+   },
+   "sinerjiler": [
+    {
+     "tip": "grup_eksik",
+     "ad": "Kalecisiz takım",
+     "grup": "kaleci",
+     "bonus": -10
+    },
+    {
+     "tip": "gruplar_hepsi",
+     "ad": "Dengeli kadro",
+     "gruplar": [
+      "kaleci",
+      "defans",
+      "orta",
+      "forvet"
+     ],
+     "bonus": 8
+    },
+    {
+     "tip": "grup_fazla",
+     "ad": "Fazla forvet",
+     "grup": "forvet",
+     "en_fazla": 2,
+     "bonus": -4
+    },
+    {
+     "tip": "grup_fazla",
+     "ad": "İki kaleci",
+     "grup": "kaleci",
+     "en_fazla": 1,
+     "bonus": -5
+    }
+   ],
+   "garanti": {
+    "kaleci": 2,
+    "defans": 2
+   },
+   "hakem_notu": "Maç simülasyonu yap. Kalecisi olmayan takım ciddi dezavantajlıdır. Kaleci, defans, orta saha ve forvet dengesi olan takım güçlüdür; 5 forvetli takım savunmasız kalır.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "futbol-takimlari",
+   "ad": "Futbol Takımları",
+   "sablon": "turnuva",
+   "gorev_mesaji": "Kendi ligini kur: hangi takımların daha çok kupası olur?",
+   "olcutler": {
+    "kupa_sayisi": {
+     "ad": "Kupa sayısı",
+     "agirlik": 0.35
+    },
+    "kadro_gucu": {
+     "ad": "Kadro gücü",
+     "agirlik": 0.25
+    },
+    "tarihi_basari": {
+     "ad": "Tarihi başarı",
+     "agirlik": 0.25
+    },
+    "taraftar": {
+     "ad": "Taraftar",
+     "agirlik": 0.15
+    }
+   },
+   "gruplar": {
+    "turkiye": "Türkiye",
+    "ingiltere": "İngiltere",
+    "ispanya": "İspanya",
+    "italya": "İtalya",
+    "almanya": "Almanya",
+    "diger": "Diğer"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Avrupa turu",
+     "esikler": {
+      "3": 4,
+      "4": 7
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Farklı ülkelerin liglerinden takımlar içeren lige uyum bonusu ver. Taraftarlık duygusuyla değil, ölçütlerle karar ver.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "basketbolcular",
+   "ad": "Basketbolcular",
+   "sablon": "mac",
+   "gorev_mesaji": "Parkeye 5'ini sür: hangi takım maçı alır?",
+   "olcutler": {
+    "pozisyonunda_ustalik": {
+     "ad": "Pozisyonunda ustalık",
+     "agirlik": 0.35
+    },
+    "oyun_zekasi": {
+     "ad": "Oyun zekası",
+     "agirlik": 0.3
+    },
+    "sampiyonluklar": {
+     "ad": "Şampiyonluklar",
+     "agirlik": 0.2
+    },
+    "efsanelik": {
+     "ad": "Efsanelik",
+     "agirlik": 0.15
+    }
+   },
+   "gruplar": {
+    "oyun_kurucu": "Oyun kurucu",
+    "kanat": "Kanat",
+    "pivot": "Pivot"
+   },
+   "sinerjiler": [
+    {
+     "tip": "gruplar_hepsi",
+     "ad": "Dengeli beşlik",
+     "gruplar": [
+      "oyun_kurucu",
+      "kanat",
+      "pivot"
+     ],
+     "bonus": 8
+    },
+    {
+     "tip": "grup_eksik",
+     "ad": "Pivotsuz takım",
+     "grup": "pivot",
+     "bonus": -6
+    }
+   ],
+   "garanti": {
+    "pivot": 2,
+    "oyun_kurucu": 2
+   },
+   "hakem_notu": "Maç simülasyonu yap. Oyun kurucu, kanat ve pivot dengesi olan takım güçlüdür. Pivotu olmayan takım ribauntta zayıflar.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "diziler",
+   "ad": "Diziler",
+   "sablon": "turnuva",
+   "gorev_mesaji": "Kendi TV kanalını kur: reytinglerde hangi kanal birinci olur?",
+   "olcutler": {
+    "hikaye": {
+     "ad": "Hikâye",
+     "agirlik": 0.3
+    },
+    "reyting": {
+     "ad": "Reyting",
+     "agirlik": 0.3
+    },
+    "efsanelik": {
+     "ad": "Efsanelik",
+     "agirlik": 0.2
+    },
+    "tekrar_izlenme": {
+     "ad": "Tekrar izlenme",
+     "agirlik": 0.2
+    }
+   },
+   "gruplar": {
+    "komedi": "Komedi",
+    "dram": "Dram",
+    "aksiyon": "Aksiyon ve suç",
+    "fantastik": "Fantastik ve bilimkurgu"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Her türden yayın",
+     "esikler": {
+      "3": 4,
+      "4": 7
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Farklı türleri içeren kanala uyum bonusu ver; tek türden kanal belli bir kitleye sıkışır.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "filmler",
+   "ad": "Filmler",
+   "sablon": "turnuva",
+   "gorev_mesaji": "Sinema programını yap: hangi salon dolup taşar?",
+   "olcutler": {
+    "gise": {
+     "ad": "Gişe",
+     "agirlik": 0.3
+    },
+    "efsanelik": {
+     "ad": "Efsanelik",
+     "agirlik": 0.3
+    },
+    "oduller": {
+     "ad": "Ödüller",
+     "agirlik": 0.2
+    },
+    "tekrar_izlenme": {
+     "ad": "Tekrar izlenme",
+     "agirlik": 0.2
+    }
+   },
+   "gruplar": {
+    "aksiyon": "Aksiyon",
+    "dram": "Dram",
+    "komedi": "Komedi",
+    "fantastik": "Fantastik ve bilimkurgu",
+    "animasyon": "Animasyon"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Dolu dolu program",
+     "esikler": {
+      "3": 4,
+      "4": 7
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Farklı türleri içeren programa uyum bonusu ver.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "oyuncular",
+   "ad": "Oyuncular",
+   "sablon": "turnuva",
+   "gorev_mesaji": "Film kadronu kur: hangi kadro daha iyi film çeker?",
+   "olcutler": {
+    "oyunculuk": {
+     "ad": "Oyunculuk",
+     "agirlik": 0.4
+    },
+    "oduller": {
+     "ad": "Ödüller",
+     "agirlik": 0.2
+    },
+    "populerlik": {
+     "ad": "Popülerlik",
+     "agirlik": 0.25
+    },
+    "rol_cesitliligi": {
+     "ad": "Rol çeşitliliği",
+     "agirlik": 0.15
+    }
+   },
+   "gruplar": {
+    "dram": "Dram",
+    "komedi": "Komedi",
+    "aksiyon": "Aksiyon"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Her role hazır kadro",
+     "esikler": {
+      "3": 5
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Hem dram hem komedi oynayabilen dengeli kadroya uyum bonusu ver.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "cizgi-filmler",
+   "ad": "Çizgi Filmler",
+   "sablon": "turnuva",
+   "gorev_mesaji": "Sabah çizgi film kuşağını hazırla: çocuklar hangi kanalı açar?",
+   "olcutler": {
+    "eglence": {
+     "ad": "Eğlence",
+     "agirlik": 0.35
+    },
+    "nostalji": {
+     "ad": "Nostalji",
+     "agirlik": 0.25
+    },
+    "karakter_sevgisi": {
+     "ad": "Karakter sevgisi",
+     "agirlik": 0.25
+    },
+    "efsanelik": {
+     "ad": "Efsanelik",
+     "agirlik": 0.15
+    }
+   },
+   "gruplar": {
+    "klasik": "Klasikler",
+    "doksanlar": "90'lar",
+    "yeni": "2000 sonrası",
+    "anime": "Anime",
+    "yerli": "Yerli"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Kuşaklar boyu kuşak",
+     "esikler": {
+      "3": 4,
+      "4": 7
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Farklı dönemlerin çizgi filmlerini içeren kuşağa uyum bonusu ver.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "arabalar",
+   "ad": "Arabalar",
+   "sablon": "yaris",
+   "gorev_mesaji": "Garajını kur: hangi garaj daha havalı ve güçlü?",
+   "olcutler": {
+    "performans": {
+     "ad": "Performans",
+     "agirlik": 0.3
+    },
+    "i_koniklik": {
+     "ad": "İkoniklik",
+     "agirlik": 0.3
+    },
+    "nostalji": {
+     "ad": "Nostalji",
+     "agirlik": 0.2
+    },
+    "tasarim": {
+     "ad": "Tasarım",
+     "agirlik": 0.2
+    }
+   },
+   "gruplar": {
+    "klasik": "Klasik",
+    "spor": "Spor ve süper",
+    "luks": "Lüks",
+    "jdm": "JDM",
+    "yerli": "Yerli efsane"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Koleksiyoncu garajı",
+     "esikler": {
+      "3": 4,
+      "4": 7
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Yarış simülasyonu yap (düz yol, viraj, gösteri turu). Antika ve efsane araçlar ikoniklik ve nostaljide yeni ama sıradan modelleri geçer.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "telefonlar",
+   "ad": "Telefonlar",
+   "sablon": "turnuva",
+   "gorev_mesaji": "Telefon koleksiyonunu kur: hangi koleksiyon daha efsane?",
+   "olcutler": {
+    "yenilik": {
+     "ad": "Yenilik",
+     "agirlik": 0.3
+    },
+    "populerlik": {
+     "ad": "Popülerlik",
+     "agirlik": 0.3
+    },
+    "dayaniklilik": {
+     "ad": "Dayanıklılık",
+     "agirlik": 0.2
+    },
+    "nostalji": {
+     "ad": "Nostalji",
+     "agirlik": 0.2
+    }
+   },
+   "gruplar": {
+    "tuslu": "Tuşlu efsaneler",
+    "erken_akilli": "İlk akıllılar",
+    "yeni_akilli": "Yeni nesil"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Müze koleksiyonu",
+     "esikler": {
+      "3": 5
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Farklı dönemlerin telefonlarını içeren koleksiyona uyum bonusu ver.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "markalar",
+   "ad": "Markalar",
+   "sablon": "juri",
+   "gorev_mesaji": "Marka portföyünü kur: hangi şirket daha değerli olur?",
+   "olcutler": {
+    "bilinirlik": {
+     "ad": "Bilinirlik",
+     "agirlik": 0.3
+    },
+    "marka_degeri": {
+     "ad": "Marka değeri",
+     "agirlik": 0.3
+    },
+    "kalite_algisi": {
+     "ad": "Kalite algısı",
+     "agirlik": 0.2
+    },
+    "dunyaya_yayilma": {
+     "ad": "Dünyaya yayılma",
+     "agirlik": 0.2
+    }
+   },
+   "gruplar": {
+    "teknoloji": "Teknoloji",
+    "giyim": "Giyim ve spor",
+    "gida": "Yiyecek ve içecek",
+    "otomotiv": "Otomotiv",
+    "perakende": "Perakende ve hizmet"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Holding gibi portföy",
+     "esikler": {
+      "3": 4,
+      "4": 7
+     }
+    },
+    {
+     "tip": "tek_grup_fazla",
+     "ad": "Rakip markalar",
+     "en_fazla": 2,
+     "bonus": -3
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Farklı sektörlerden markaları içeren portföye uyum bonusu ver; aynı sektörde rakip markalar birbirinin pazarını yer.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "meslekler",
+   "ad": "Meslekler",
+   "sablon": "hayatta_kalma",
+   "gorev_mesaji": "Yeni kurulan bir şehre 5 meslek gönder: hangi şehir daha iyi ayakta kalır?",
+   "olcutler": {
+    "hayati_onem": {
+     "ad": "Hayati önem",
+     "agirlik": 0.4
+    },
+    "topluma_katki": {
+     "ad": "Topluma katkı",
+     "agirlik": 0.25
+    },
+    "cok_yonluluk": {
+     "ad": "Çok yönlülük",
+     "agirlik": 0.2
+    },
+    "yerine_konamazlik": {
+     "ad": "Yerine konamazlık",
+     "agirlik": 0.15
+    }
+   },
+   "gruplar": {
+    "saglik": "Sağlık",
+    "gida": "Gıda",
+    "barinma": "Barınma ve yapı",
+    "guvenlik": "Güvenlik",
+    "egitim": "Eğitim",
+    "teknik": "Teknik",
+    "diger": "Diğer"
+   },
+   "sinerjiler": [
+    {
+     "tip": "gruplar_hepsi",
+     "ad": "Şehrin temeli atıldı",
+     "gruplar": [
+      "saglik",
+      "gida",
+      "barinma",
+      "guvenlik"
+     ],
+     "bonus": 8
+    }
+   ],
+   "garanti": {
+    "saglik": 1,
+    "gida": 1
+   },
+   "hakem_notu": "Sağlık, gıda, barınma ve güvenlik ihtiyaçlarını karşılayan ekibe yüksek uyum bonusu ver.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "hayvanlar",
+   "ad": "Hayvanlar",
+   "sablon": "duello",
+   "gorev_mesaji": "En güçlü hayvan takımını kur: düelloda hangi takım ayakta kalır?",
+   "olcutler": {
+    "guc": {
+     "ad": "Güç",
+     "agirlik": 0.3
+    },
+    "tehlike": {
+     "ad": "Tehlike",
+     "agirlik": 0.25
+    },
+    "savunma": {
+     "ad": "Savunma",
+     "agirlik": 0.2
+    },
+    "hiz": {
+     "ad": "Hız",
+     "agirlik": 0.15
+    },
+    "zeka": {
+     "ad": "Zeka",
+     "agirlik": 0.1
+    }
+   },
+   "gruplar": {
+    "kara": "Kara",
+    "deniz": "Deniz",
+    "hava": "Hava"
+   },
+   "sinerjiler": [
+    {
+     "tip": "etiket",
+     "ad": "Sürü avcıları",
+     "etiket": "suru",
+     "en_az": 2,
+     "bonus": 6
+    },
+    {
+     "tip": "etiket",
+     "ad": "Zehir ordusu",
+     "etiket": "zehirli",
+     "en_az": 2,
+     "bonus": 5
+    },
+    {
+     "tip": "gruplar_hepsi",
+     "ad": "Her yerde hakim",
+     "gruplar": [
+      "kara",
+      "deniz",
+      "hava"
+     ],
+     "bonus": 7
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Düellolar kıyı bölgesinde geçer: kara, sığ su ve gökyüzü bir arada. Tamamen deniz hayvanları karada, kara hayvanları derin suda dezavantajlıdır. Zehirli küçük hayvanlar büyükleri yenebilir ama bu nadir olmalı. Sevimlilik puan getirmez.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "kopek-irklari",
+   "ad": "Köpek Irkları",
+   "sablon": "juri",
+   "gorev_mesaji": "Köpek ekibini kur: koruma, zeka ve sadakatte hangi ekip üstün?",
+   "olcutler": {
+    "koruma": {
+     "ad": "Koruma",
+     "agirlik": 0.3
+    },
+    "zeka": {
+     "ad": "Zeka",
+     "agirlik": 0.25
+    },
+    "sadakat": {
+     "ad": "Sadakat",
+     "agirlik": 0.25
+    },
+    "dayaniklilik": {
+     "ad": "Dayanıklılık",
+     "agirlik": 0.2
+    }
+   },
+   "gruplar": {
+    "bekci": "Bekçi ve koruma",
+    "aile": "Aile köpeği",
+    "calisma": "Av ve çalışma"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Her işe hazır ekip",
+     "esikler": {
+      "3": 5
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Hem bekçi hem aile köpeği içeren dengeli ekibe uyum bonusu ver.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "kuslar",
+   "ad": "Kuşlar",
+   "sablon": "duello",
+   "gorev_mesaji": "Gökyüzü ekibini kur: havada kim hükmeder?",
+   "olcutler": {
+    "avcilik": {
+     "ad": "Avcılık",
+     "agirlik": 0.35
+    },
+    "hiz": {
+     "ad": "Hız",
+     "agirlik": 0.25
+    },
+    "ucus_yetenegi": {
+     "ad": "Uçuş yeteneği",
+     "agirlik": 0.25
+    },
+    "zeka": {
+     "ad": "Zeka",
+     "agirlik": 0.15
+    }
+   },
+   "gruplar": {
+    "yirtici": "Yırtıcı",
+    "deniz": "Deniz kuşu",
+    "ucamayan": "Uçamayan",
+    "diger": "Diğer"
+   },
+   "sinerjiler": [
+    {
+     "tip": "etiket",
+     "ad": "Yırtıcılar filosu",
+     "etiket": "yirtici",
+     "en_az": 3,
+     "bonus": 5
+    },
+    {
+     "tip": "cesitlilik",
+     "ad": "Karışık sürü",
+     "esikler": {
+      "3": 4
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Düellolar havada geçer. Uçamayan kuşlar havada dezavantajlıdır ama karada savunmaya geçebilir.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "deniz-canlilari",
+   "ad": "Deniz Canlıları",
+   "sablon": "duello",
+   "gorev_mesaji": "Ekibini okyanusa sal: denizin hakimi kim olur?",
+   "olcutler": {
+    "guc": {
+     "ad": "Güç",
+     "agirlik": 0.3
+    },
+    "tehlike": {
+     "ad": "Tehlike",
+     "agirlik": 0.3
+    },
+    "hiz": {
+     "ad": "Hız",
+     "agirlik": 0.2
+    },
+    "hayatta_kalma": {
+     "ad": "Hayatta kalma",
+     "agirlik": 0.2
+    }
+   },
+   "gruplar": {
+    "acik_deniz": "Açık deniz",
+    "derin": "Derin deniz",
+    "kiyi": "Kıyı ve resif",
+    "memeli": "Deniz memelisi"
+   },
+   "sinerjiler": [
+    {
+     "tip": "etiket",
+     "ad": "Zehir ordusu",
+     "etiket": "zehirli",
+     "en_az": 2,
+     "bonus": 5
+    },
+    {
+     "tip": "cesitlilik",
+     "ad": "Yedi denizin ekibi",
+     "esikler": {
+      "3": 4,
+      "4": 7
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Düellolar açık okyanusta geçer. Hem yüzeyde hem derinde güçlü canlıları birleştiren takıma uyum bonusu ver.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "spor-dallari",
+   "ad": "Spor Dalları",
+   "sablon": "turnuva",
+   "gorev_mesaji": "Olimpiyat programını hazırla: hangi program daha çok izlenir?",
+   "olcutler": {
+    "i_zlenme": {
+     "ad": "İzlenme",
+     "agirlik": 0.35
+    },
+    "heyecan": {
+     "ad": "Heyecan",
+     "agirlik": 0.25
+    },
+    "dunyada_yayginlik": {
+     "ad": "Dünyada yaygınlık",
+     "agirlik": 0.25
+    },
+    "turkiye_de_sevilme": {
+     "ad": "Türkiye'de sevilme",
+     "agirlik": 0.15
+    }
+   },
+   "gruplar": {
+    "takim": "Takım sporu",
+    "bireysel": "Bireysel",
+    "dovus": "Dövüş sporu",
+    "motor": "Motor ve yarış"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Dolu dolu olimpiyat",
+     "esikler": {
+      "3": 4,
+      "4": 7
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Takım sporları ile bireysel sporları karıştıran programa uyum bonusu ver.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "kamp-malzemeleri",
+   "ad": "Kamp Malzemeleri",
+   "sablon": "hayatta_kalma",
+   "gorev_mesaji": "Dağda 3 gece kalacaksın: hangi çanta seni hayatta tutar?",
+   "olcutler": {
+    "hayatta_kalma_faydasi": {
+     "ad": "Hayatta kalma faydası",
+     "agirlik": 0.4
+    },
+    "cok_amaclilik": {
+     "ad": "Çok amaçlılık",
+     "agirlik": 0.25
+    },
+    "hafiflik": {
+     "ad": "Hafiflik",
+     "agirlik": 0.15
+    },
+    "dayaniklilik": {
+     "ad": "Dayanıklılık",
+     "agirlik": 0.2
+    }
+   },
+   "gruplar": {
+    "barinak": "Barınak",
+    "sicaklik": "Sıcaklık",
+    "su": "Su",
+    "isik": "Işık",
+    "alet": "Alet",
+    "yiyecek": "Yiyecek",
+    "konfor": "Konfor"
+   },
+   "sinerjiler": [
+    {
+     "tip": "gruplar_hepsi",
+     "ad": "Eksiksiz çanta",
+     "gruplar": [
+      "barinak",
+      "sicaklik",
+      "su",
+      "isik"
+     ],
+     "bonus": 8
+    },
+    {
+     "tip": "grup_fazla",
+     "ad": "Fazla konfor eşyası",
+     "grup": "konfor",
+     "en_fazla": 1,
+     "bonus": -3
+    }
+   ],
+   "garanti": {
+    "barinak": 1,
+    "su": 1
+   },
+   "hakem_notu": "Barınak, sıcaklık, su ve ışık ihtiyaçlarını karşılayan çantaya yüksek uyum bonusu ver. Ağır ve tekrar eden eşyalar bonus düşürür.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "okul-dersleri",
+   "ad": "Okul Dersleri",
+   "sablon": "juri",
+   "gorev_mesaji": "Ders programını hazırla: hangi program hayatta daha çok işe yarar?",
+   "olcutler": {
+    "hayatta_ise_yarama": {
+     "ad": "Hayatta işe yarama",
+     "agirlik": 0.4
+    },
+    "meslek_kapisi": {
+     "ad": "Meslek kapısı",
+     "agirlik": 0.25
+    },
+    "genel_kultur": {
+     "ad": "Genel kültür",
+     "agirlik": 0.2
+    },
+    "eglence": {
+     "ad": "Eğlence",
+     "agirlik": 0.15
+    }
+   },
+   "gruplar": {
+    "sayisal": "Sayısal",
+    "sozel": "Sözel",
+    "sanat_spor": "Sanat ve spor",
+    "dil": "Yabancı dil"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Dengeli program",
+     "esikler": {
+      "3": 4,
+      "4": 7
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Sayısal, sözel ve sanat/spor derslerini dengeleyen programa uyum bonusu ver.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "tatil-yerleri",
+   "ad": "Tatil Yerleri",
+   "sablon": "turnuva",
+   "gorev_mesaji": "Yaz tatili rotanı çiz: hangi rota daha unutulmaz?",
+   "olcutler": {
+    "doga": {
+     "ad": "Doğa",
+     "agirlik": 0.3
+    },
+    "deniz_ve_eglence": {
+     "ad": "Deniz ve eğlence",
+     "agirlik": 0.3
+    },
+    "yemek": {
+     "ad": "Yemek",
+     "agirlik": 0.2
+    },
+    "ulasim_ve_fiyat": {
+     "ad": "Ulaşım ve fiyat",
+     "agirlik": 0.2
+    }
+   },
+   "gruplar": {
+    "deniz": "Deniz",
+    "doga": "Doğa",
+    "sehir": "Şehir"
+   },
+   "sinerjiler": [
+    {
+     "tip": "gruplar_hepsi",
+     "ad": "Deniz, doğa ve şehir",
+     "gruplar": [
+      "deniz",
+      "doga",
+      "sehir"
+     ],
+     "bonus": 6
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Deniz, doğa ve şehir tatilini birleştiren rotaya uyum bonusu ver.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "dinozorlar",
+   "ad": "Dinozorlar",
+   "sablon": "duello",
+   "gorev_mesaji": "Dinozor sürünü kur: hangi sürü hayatta kalır?",
+   "olcutler": {
+    "guc": {
+     "ad": "Güç",
+     "agirlik": 0.35
+    },
+    "boyut": {
+     "ad": "Boyut",
+     "agirlik": 0.2
+    },
+    "hiz": {
+     "ad": "Hız",
+     "agirlik": 0.2
+    },
+    "avcilik": {
+     "ad": "Avcılık",
+     "agirlik": 0.25
+    }
+   },
+   "gruplar": {
+    "etobur": "Etobur",
+    "otobur": "Otobur",
+    "ucan_yuzen": "Uçan ve yüzen"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Karma sürü",
+     "esikler": {
+      "3": 5
+     }
+    },
+    {
+     "tip": "etiket",
+     "ad": "Sürü avcıları",
+     "etiket": "suru",
+     "en_az": 2,
+     "bonus": 4
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Etoburların avcılığı, otoburların savunma ve boyutu öne çıkar. Uçan ve yüzen sürüngenler karada zayıf, kendi ortamlarında güçlüdür. Not: uçan ve yüzen sürüngenlerin çoğu bilimsel olarak dinozor sayılmaz; kartlarda bu belirtilir.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "super-kahramanlar",
+   "ad": "Süper Kahramanlar",
+   "sablon": "duello",
+   "gorev_mesaji": "Dünyayı kurtaracak ekibi kur: hangi takım kötüleri yener?",
+   "olcutler": {
+    "guc": {
+     "ad": "Güç",
+     "agirlik": 0.35
+    },
+    "super_yetenek": {
+     "ad": "Süper yetenek",
+     "agirlik": 0.3
+    },
+    "zeka": {
+     "ad": "Zeka",
+     "agirlik": 0.2
+    },
+    "takim_uyumu": {
+     "ad": "Takım uyumu",
+     "agirlik": 0.15
+    }
+   },
+   "gruplar": {
+    "guc": "Güç ve dövüş",
+    "zeka": "Zeka ve teknoloji",
+    "ozel": "Büyü ve özel yetenek"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Tam kadro",
+     "esikler": {
+      "3": 5
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Güçlü dövüşçülerle zeka ve strateji ustalarını birleştiren ekibe uyum bonusu ver. Karakterlerin yeteneklerini genel olarak bilinen haliyle anlat.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "film-kotuleri",
+   "ad": "Film Kötüleri",
+   "sablon": "duello",
+   "gorev_mesaji": "Kötüler birliğini kur: hangi ekip dünyayı ele geçirir?",
+   "olcutler": {
+    "guc": {
+     "ad": "Güç",
+     "agirlik": 0.3
+    },
+    "zeka_ve_plan": {
+     "ad": "Zeka ve plan",
+     "agirlik": 0.3
+    },
+    "korkutuculuk": {
+     "ad": "Korkutuculuk",
+     "agirlik": 0.25
+    },
+    "efsanelik": {
+     "ad": "Efsanelik",
+     "agirlik": 0.15
+    }
+   },
+   "gruplar": {
+    "guc": "Güç",
+    "zeka": "Zeka ve plan",
+    "korku": "Korku"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Kusursuz kötülük planı",
+     "esikler": {
+      "3": 5
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Hem güçlü hem planlayıcı kötüleri birleştiren ekibe uyum bonusu ver. Anlatıda şiddet ayrıntısına girme.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "ucaklar",
+   "ad": "Uçaklar",
+   "sablon": "yaris",
+   "gorev_mesaji": "Hava filonu kur: hangi filo daha hızlı ve güçlü?",
+   "olcutler": {
+    "hiz": {
+     "ad": "Hız",
+     "agirlik": 0.35
+    },
+    "teknoloji": {
+     "ad": "Teknoloji",
+     "agirlik": 0.25
+    },
+    "menzil": {
+     "ad": "Menzil",
+     "agirlik": 0.2
+    },
+    "i_koniklik": {
+     "ad": "İkoniklik",
+     "agirlik": 0.2
+    }
+   },
+   "gruplar": {
+    "yolcu": "Yolcu uçağı",
+    "askeri": "Askeri",
+    "ozel": "Keşif ve özel",
+    "helikopter": "Helikopter"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Karma filo",
+     "esikler": {
+      "3": 4,
+      "4": 7
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Yarış simülasyonu yap (kalkış, hız, menzil turu). Farklı tipleri birleştiren filoya uyum bonusu ver.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "motosikletler",
+   "ad": "Motosikletler",
+   "sablon": "yaris",
+   "gorev_mesaji": "Motor garajını kur: yarışı hangi garaj kazanır?",
+   "olcutler": {
+    "hiz": {
+     "ad": "Hız",
+     "agirlik": 0.35
+    },
+    "hizlanma": {
+     "ad": "Hızlanma",
+     "agirlik": 0.25
+    },
+    "tasarim": {
+     "ad": "Tasarım",
+     "agirlik": 0.2
+    },
+    "efsanelik": {
+     "ad": "Efsanelik",
+     "agirlik": 0.2
+    }
+   },
+   "gruplar": {
+    "sport": "Süper spor",
+    "naked": "Naked ve tur",
+    "klasik": "Klasik ve chopper",
+    "sehir": "Şehir ve scooter"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Her yola bir motor",
+     "esikler": {
+      "3": 4,
+      "4": 7
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Yarış simülasyonu yap (düz yol, viraj, şehir içi). Şehir içi turda küçük ve çevik motorlar avantajlıdır.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "fast-food",
+   "ad": "Fast Food",
+   "sablon": "juri",
+   "gorev_mesaji": "Gece acıktın: hangi menü daha lezzetli ve doyurucu?",
+   "olcutler": {
+    "lezzet": {
+     "ad": "Lezzet",
+     "agirlik": 0.4
+    },
+    "doyuruculuk": {
+     "ad": "Doyuruculuk",
+     "agirlik": 0.25
+    },
+    "fiyat": {
+     "ad": "Fiyat",
+     "agirlik": 0.15
+    },
+    "populerlik": {
+     "ad": "Popülerlik",
+     "agirlik": 0.2
+    }
+   },
+   "gruplar": {
+    "ana": "Ana ürün",
+    "yan": "Yan ürün",
+    "icecek": "İçecek",
+    "tatli": "Tatlı"
+   },
+   "sinerjiler": [
+    {
+     "tip": "gruplar_hepsi",
+     "ad": "Tam menü",
+     "gruplar": [
+      "ana",
+      "yan",
+      "icecek"
+     ],
+     "bonus": 6
+    },
+    {
+     "tip": "grup_fazla",
+     "ad": "Fazla içecek",
+     "grup": "icecek",
+     "en_fazla": 1,
+     "bonus": -2
+    }
+   ],
+   "garanti": {
+    "icecek": 1,
+    "yan": 1
+   },
+   "hakem_notu": "Ana yemek, yan ürün ve içeceği olan menüye uyum bonusu ver.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "atistirmaliklar",
+   "ad": "Atıştırmalıklar",
+   "sablon": "juri",
+   "gorev_mesaji": "Film gecesi için abur cubur sepeti hazırla: hangi sepet daha çok sevilir?",
+   "olcutler": {
+    "lezzet": {
+     "ad": "Lezzet",
+     "agirlik": 0.35
+    },
+    "nostalji": {
+     "ad": "Nostalji",
+     "agirlik": 0.25
+    },
+    "populerlik": {
+     "ad": "Popülerlik",
+     "agirlik": 0.25
+    },
+    "bagimlilik": {
+     "ad": "Bağımlılık",
+     "agirlik": 0.15
+    }
+   },
+   "gruplar": {
+    "tuzlu": "Tuzlu",
+    "tatli": "Tatlı"
+   },
+   "sinerjiler": [
+    {
+     "tip": "gruplar_hepsi",
+     "ad": "Tuzlu tatlı dengesi",
+     "gruplar": [
+      "tuzlu",
+      "tatli"
+     ],
+     "bonus": 5
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Tuzlu ve tatlıyı dengeleyen sepete uyum bonusu ver.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "bilim-insanlari",
+   "ad": "Bilim İnsanları",
+   "sablon": "turnuva",
+   "gorev_mesaji": "Bilim ekibini kur: hangi ekip daha büyük keşif yapar?",
+   "olcutler": {
+    "kesiflerin_onemi": {
+     "ad": "Keşiflerin önemi",
+     "agirlik": 0.35
+    },
+    "i_nsanliga_etkisi": {
+     "ad": "İnsanlığa etkisi",
+     "agirlik": 0.3
+    },
+    "oduller": {
+     "ad": "Ödüller",
+     "agirlik": 0.15
+    },
+    "cok_yonluluk": {
+     "ad": "Çok yönlülük",
+     "agirlik": 0.2
+    }
+   },
+   "gruplar": {
+    "fizik": "Fizik ve astronomi",
+    "kimya": "Kimya",
+    "biyoloji": "Biyoloji ve tıp",
+    "matematik": "Matematik ve bilgisayar"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Disiplinler arası ekip",
+     "esikler": {
+      "3": 4,
+      "4": 7
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Farklı bilim dallarından isimleri birleştiren ekibe uyum bonusu ver.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "icatlar",
+   "ad": "İcatlar",
+   "sablon": "juri",
+   "gorev_mesaji": "Dünyayı değiştiren icatları seç: hangi set insanlık için daha önemli?",
+   "olcutler": {
+    "hayata_etkisi": {
+     "ad": "Hayata etkisi",
+     "agirlik": 0.4
+    },
+    "yayginlik": {
+     "ad": "Yaygınlık",
+     "agirlik": 0.25
+    },
+    "yenilikcilik": {
+     "ad": "Yenilikçilik",
+     "agirlik": 0.2
+    },
+    "yerine_konamazlik": {
+     "ad": "Yerine konamazlık",
+     "agirlik": 0.15
+    }
+   },
+   "gruplar": {
+    "ulasim": "Ulaşım",
+    "iletisim": "İletişim",
+    "saglik": "Sağlık",
+    "enerji": "Enerji ve sanayi",
+    "gunluk": "Günlük hayat"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Medeniyet seti",
+     "esikler": {
+      "3": 4,
+      "4": 7
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Farklı alanları kapsayan sete uyum bonusu ver.",
+   "kart_sayisi": 35
+  },
+  {
+   "id": "tarihi-komutanlar",
+   "ad": "Tarihi Komutanlar",
+   "sablon": "duello",
+   "gorev_mesaji": "Ordunun komutanlarını seç: savaş meydanında hangi ordu kazanır?",
+   "olcutler": {
+    "askeri_deha": {
+     "ad": "Askeri deha",
+     "agirlik": 0.35
+    },
+    "zafer_sayisi": {
+     "ad": "Zafer sayısı",
+     "agirlik": 0.25
+    },
+    "liderlik": {
+     "ad": "Liderlik",
+     "agirlik": 0.25
+    },
+    "strateji": {
+     "ad": "Strateji",
+     "agirlik": 0.15
+    }
+   },
+   "gruplar": {
+    "antik": "Antik çağ",
+    "orta_cag": "Orta çağ",
+    "turk": "Türk ve Osmanlı",
+    "yeni_cag": "Yeni çağ"
+   },
+   "sinerjiler": [
+    {
+     "tip": "cesitlilik",
+     "ad": "Çağlar ötesi ordu",
+     "esikler": {
+      "3": 4,
+      "4": 7
+     }
+    }
+   ],
+   "garanti": {},
+   "hakem_notu": "Savaşı taktik düzeyde, şiddet ayrıntısına girmeden anlat. Farklı dönemlerden komutanları birleştiren orduya uyum bonusu ver.",
+   "kart_sayisi": 35
+  }
+ ]
+}

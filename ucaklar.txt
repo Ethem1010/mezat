@@ -1,0 +1,36 @@
+# Uçaklar — ad|seviye|grup|etiketler|açıklama|Hız,Teknoloji,Menzil,İkoniklik
+Concorde|e|yolcu||Atlantik'i 3,5 saatte geçen ses üstü yolcu uçağı.|10,9,6,10
+SR-71 Blackbird|e|ozel||Hız rekoru hâlâ kırılmayan keşif uçağı.|10,10,7,10
+Boeing 747|e|yolcu||Gökyüzünün Kraliçesi, ilk jumbo jet.|7,7,9,10
+F-22 Raptor|e|askeri||Radara yakalanmayan hava üstünlüğü uçağı.|9,10,7,8
+Wright Flyer|e|ozel||İnsanlığın ilk motorlu uçuşu.|1,3,1,10
+Airbus A380|e|yolcu||Dünyanın en büyük yolcu uçağı.|7,9,10,9
+F-16|e|askeri||Türk Hava Kuvvetleri'nin de belkemiği olan savaş uçağı.|8,8,7,9
+F-35|g|askeri||Yeni nesil gizli savaş uçağı.|8,10,7,7
+Spitfire|g|askeri||İkinci Dünya Savaşı'nın efsane avcısı.|6,5,4,9
+P-51 Mustang|g|askeri||Uzun menzilli eskort avcısı.|7,5,6,8
+Eurofighter Typhoon|g|askeri||Avrupa ortak yapımı çevik savaş uçağı.|9,9,7,7
+Su-57|g|askeri||Rus yapımı yeni nesil savaş uçağı.|9,9,7,6
+Hürjet|g|askeri||Türkiye'nin jet eğitim ve hafif taarruz uçağı.|8,8,6,6
+KAAN|g|askeri||Türkiye'nin milli muharip uçağı projesi.|8,9,6,7
+Boeing 787 Dreamliner|g|yolcu||Karbon gövdeli verimli uzun yol uçağı.|7,9,10,7
+Airbus A350|g|yolcu||Sessiz ve verimli geniş gövde uçak.|7,9,10,6
+Uzay Mekiği|g|ozel||Uzaya gidip pist üzerine inen mekik.|9,10,8,10
+U-2|g|ozel||Stratosferde uçan casus uçak.|5,7,9,7
+Black Hawk|g|helikopter||Dünyanın en bilinen askeri helikopterlerinden.|5,7,5,8
+Apache|g|helikopter||Güçlü taarruz helikopteri.|6,8,5,8
+T129 ATAK|g|helikopter||Türkiye'de üretilen taarruz helikopteri.|6,8,5,7
+Cessna 172|s|ozel||Pilotların ilk uçtuğu küçük uçak.|2,4,4,6
+Boeing 737|s|yolcu||Dünyanın en çok üretilen jet yolcu uçaklarından.|6,6,6,7
+Airbus A320|s|yolcu||Kısa ve orta mesafenin işçi uçağı.|6,7,6,6
+ATR 72|s|yolcu||Kısa hatların pervaneli uçağı.|4,5,4,3
+Hürkuş|s|askeri||Türkiye'nin ilk yerli eğitim uçağı.|4,6,4,5
+Bayraktar TB2|s|askeri||Dünyaya ihraç edilen Türk insansız hava aracı.|3,8,7,8
+Chinook|s|helikopter||Çift rotorlu ağır yük helikopteri.|4,6,5,7
+Robinson R44|s|helikopter||Küçük ve popüler sivil helikopter.|3,4,3,3
+Antonov An-225|s|ozel||Dünyanın en büyük kargo uçağıydı.|6,6,8,9
+Planör|s|ozel||Motorsuz, rüzgârla süzülen uçak.|1,3,3,4
+Douglas DC-3|s|yolcu||Hava yolculuğunu yaygınlaştıran klasik.|4,3,5,8
+Harrier|s|askeri||Dikey kalkış yapabilen savaş uçağı.|6,7,4,8
+V-22 Osprey|s|helikopter||Hem helikopter hem uçak gibi uçar.|6,9,7,7
+Airbus H125|s|helikopter||Dağlarda kurtarmada kullanılan hafif helikopter.|4,5,4,3

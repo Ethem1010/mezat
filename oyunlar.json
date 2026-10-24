@@ -1,0 +1,536 @@
+{
+ "id": "oyunlar",
+ "ad": "Oyunlar",
+ "sablon": "turnuva",
+ "gorev_mesaji": "Oyun kütüphaneni kur: hangi raf daha çok oynanır?",
+ "olcutler": {
+  "eglence": {
+   "ad": "Eğlence",
+   "agirlik": 0.3
+  },
+  "nostalji": {
+   "ad": "Nostalji",
+   "agirlik": 0.25
+  },
+  "bagimlilik": {
+   "ad": "Bağımlılık",
+   "agirlik": 0.25
+  },
+  "oyuncu_sayisi": {
+   "ad": "Oyuncu sayısı",
+   "agirlik": 0.2
+  }
+ },
+ "gruplar": {
+  "aksiyon": "Aksiyon",
+  "spor": "Spor ve yarış",
+  "strateji": "Strateji",
+  "online": "Çok oyunculu",
+  "macera": "Macera ve RPG"
+ },
+ "sinerjiler": [
+  {
+   "tip": "cesitlilik",
+   "ad": "Her türden oyun",
+   "esikler": {
+    "3": 4,
+    "4": 7
+   }
+  }
+ ],
+ "garanti": {},
+ "hakem_notu": "Farklı türleri içeren kütüphaneye uyum bonusu ver.",
+ "kart_sayisi": 35,
+ "kartlar": [
+  {
+   "id": "gta-san-andreas",
+   "ad": "GTA San Andreas",
+   "seviye": "efsane",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Grove Street'ten koca bir eyalete uzanan efsane açık dünya.",
+   "puan": {
+    "eglence": 10,
+    "nostalji": 10,
+    "bagimlilik": 9,
+    "oyuncu_sayisi": 9
+   }
+  },
+  {
+   "id": "counter-strike-1-6",
+   "ad": "Counter-Strike 1.6",
+   "seviye": "efsane",
+   "grup": "online",
+   "etiketler": [],
+   "aciklama": "İnternet kafelerin tartışmasız kralı.",
+   "puan": {
+    "eglence": 9,
+    "nostalji": 10,
+    "bagimlilik": 10,
+    "oyuncu_sayisi": 9
+   }
+  },
+  {
+   "id": "minecraft",
+   "ad": "Minecraft",
+   "seviye": "efsane",
+   "grup": "macera",
+   "etiketler": [],
+   "aciklama": "Bloklarla sonsuz bir dünya; tüm zamanların en çok satan oyunu.",
+   "puan": {
+    "eglence": 10,
+    "nostalji": 8,
+    "bagimlilik": 10,
+    "oyuncu_sayisi": 10
+   }
+  },
+  {
+   "id": "league-of-legends",
+   "ad": "League of Legends",
+   "seviye": "efsane",
+   "grup": "online",
+   "etiketler": [],
+   "aciklama": "Milyonların her akşam girdiği rekabetçi arena.",
+   "puan": {
+    "eglence": 8,
+    "nostalji": 7,
+    "bagimlilik": 10,
+    "oyuncu_sayisi": 10
+   }
+  },
+  {
+   "id": "fifa",
+   "ad": "FIFA",
+   "seviye": "efsane",
+   "grup": "spor",
+   "etiketler": [],
+   "aciklama": "Arkadaş maçlarının ve kariyer modlarının vazgeçilmezi.",
+   "puan": {
+    "eglence": 9,
+    "nostalji": 9,
+    "bagimlilik": 9,
+    "oyuncu_sayisi": 10
+   }
+  },
+  {
+   "id": "metin2",
+   "ad": "Metin2",
+   "seviye": "efsane",
+   "grup": "online",
+   "etiketler": [],
+   "aciklama": "Türkiye'de bir kuşağın gece gündüz kastığı efsane MMORPG.",
+   "puan": {
+    "eglence": 8,
+    "nostalji": 10,
+    "bagimlilik": 10,
+    "oyuncu_sayisi": 7
+   }
+  },
+  {
+   "id": "super-mario-bros",
+   "ad": "Super Mario Bros.",
+   "seviye": "efsane",
+   "grup": "macera",
+   "etiketler": [],
+   "aciklama": "Platform oyunlarının atası, bıyıklı tesisatçının macerası.",
+   "puan": {
+    "eglence": 9,
+    "nostalji": 10,
+    "bagimlilik": 8,
+    "oyuncu_sayisi": 9
+   }
+  },
+  {
+   "id": "gta-vice-city",
+   "ad": "GTA Vice City",
+   "seviye": "guclu",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "80'lerin Miami havası ve unutulmaz radyo istasyonları.",
+   "puan": {
+    "eglence": 9,
+    "nostalji": 10,
+    "bagimlilik": 8,
+    "oyuncu_sayisi": 8
+   }
+  },
+  {
+   "id": "gta-v",
+   "ad": "GTA V",
+   "seviye": "guclu",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Üç karakter, dev bir şehir ve yıllardır süren online modu.",
+   "puan": {
+    "eglence": 10,
+    "nostalji": 7,
+    "bagimlilik": 9,
+    "oyuncu_sayisi": 10
+   }
+  },
+  {
+   "id": "red-dead-redemption-2",
+   "ad": "Red Dead Redemption 2",
+   "seviye": "guclu",
+   "grup": "macera",
+   "etiketler": [],
+   "aciklama": "Vahşi Batı'yı en gerçekçi anlatan oyun.",
+   "puan": {
+    "eglence": 10,
+    "nostalji": 6,
+    "bagimlilik": 8,
+    "oyuncu_sayisi": 7
+   }
+  },
+  {
+   "id": "the-witcher-3",
+   "ad": "The Witcher 3",
+   "seviye": "guclu",
+   "grup": "macera",
+   "etiketler": [],
+   "aciklama": "Hikâyesi ve görevleriyle RPG'lerin zirvesi.",
+   "puan": {
+    "eglence": 9,
+    "nostalji": 6,
+    "bagimlilik": 8,
+    "oyuncu_sayisi": 7
+   }
+  },
+  {
+   "id": "need-for-speed-most-wanted",
+   "ad": "Need for Speed Most Wanted",
+   "seviye": "guclu",
+   "grup": "spor",
+   "etiketler": [],
+   "aciklama": "Polis kovalamacalarıyla yarış oyunlarının efsanesi.",
+   "puan": {
+    "eglence": 9,
+    "nostalji": 10,
+    "bagimlilik": 8,
+    "oyuncu_sayisi": 8
+   }
+  },
+  {
+   "id": "pro-evolution-soccer",
+   "ad": "Pro Evolution Soccer",
+   "seviye": "guclu",
+   "grup": "spor",
+   "etiketler": [],
+   "aciklama": "Arkadaşlarla oynanan futbolun en çekişmeli hali.",
+   "puan": {
+    "eglence": 9,
+    "nostalji": 10,
+    "bagimlilik": 9,
+    "oyuncu_sayisi": 8
+   }
+  },
+  {
+   "id": "age-of-empires-ii",
+   "ad": "Age of Empires II",
+   "seviye": "guclu",
+   "grup": "strateji",
+   "etiketler": [],
+   "aciklama": "Ortaçağ orduları ve medeniyetlerle strateji klasiği.",
+   "puan": {
+    "eglence": 9,
+    "nostalji": 10,
+    "bagimlilik": 9,
+    "oyuncu_sayisi": 7
+   }
+  },
+  {
+   "id": "warcraft-iii",
+   "ad": "Warcraft III",
+   "seviye": "guclu",
+   "grup": "strateji",
+   "etiketler": [],
+   "aciklama": "Kahramanları ve özel haritalarıyla stratejinin efsanesi.",
+   "puan": {
+    "eglence": 9,
+    "nostalji": 9,
+    "bagimlilik": 9,
+    "oyuncu_sayisi": 7
+   }
+  },
+  {
+   "id": "valorant",
+   "ad": "Valorant",
+   "seviye": "guclu",
+   "grup": "online",
+   "etiketler": [],
+   "aciklama": "Yeni neslin rekabetçi nişancı oyunu.",
+   "puan": {
+    "eglence": 8,
+    "nostalji": 4,
+    "bagimlilik": 9,
+    "oyuncu_sayisi": 9
+   }
+  },
+  {
+   "id": "fortnite",
+   "ad": "Fortnite",
+   "seviye": "guclu",
+   "grup": "online",
+   "etiketler": [],
+   "aciklama": "İnşa et, savaş, dans et; battle royale fenomeni.",
+   "puan": {
+    "eglence": 8,
+    "nostalji": 5,
+    "bagimlilik": 9,
+    "oyuncu_sayisi": 10
+   }
+  },
+  {
+   "id": "knight-online",
+   "ad": "Knight Online",
+   "seviye": "guclu",
+   "grup": "online",
+   "etiketler": [],
+   "aciklama": "Metin2'nin ezeli rakibi, kafelerin diğer MMORPG'si.",
+   "puan": {
+    "eglence": 7,
+    "nostalji": 9,
+    "bagimlilik": 9,
+    "oyuncu_sayisi": 6
+   }
+  },
+  {
+   "id": "call-of-duty-4",
+   "ad": "Call of Duty 4",
+   "seviye": "guclu",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Modern savaş nişancılarının çıtasını yükselten oyun.",
+   "puan": {
+    "eglence": 9,
+    "nostalji": 8,
+    "bagimlilik": 9,
+    "oyuncu_sayisi": 9
+   }
+  },
+  {
+   "id": "tetris",
+   "ad": "Tetris",
+   "seviye": "guclu",
+   "grup": "strateji",
+   "etiketler": [],
+   "aciklama": "Düşen bloklarla zamana meydan okuyan bulmaca.",
+   "puan": {
+    "eglence": 8,
+    "nostalji": 10,
+    "bagimlilik": 9,
+    "oyuncu_sayisi": 10
+   }
+  },
+  {
+   "id": "pok-mon-game-boy",
+   "ad": "Pokémon (Game Boy)",
+   "seviye": "guclu",
+   "grup": "macera",
+   "etiketler": [],
+   "aciklama": "Hepsini yakalama tutkusunu başlatan klasik.",
+   "puan": {
+    "eglence": 9,
+    "nostalji": 10,
+    "bagimlilik": 9,
+    "oyuncu_sayisi": 9
+   }
+  },
+  {
+   "id": "silkroad-online",
+   "ad": "Silkroad Online",
+   "seviye": "siradan",
+   "grup": "online",
+   "etiketler": [],
+   "aciklama": "İpek Yolu'nda ticaret ve savaş.",
+   "puan": {
+    "eglence": 6,
+    "nostalji": 9,
+    "bagimlilik": 8,
+    "oyuncu_sayisi": 4
+   }
+  },
+  {
+   "id": "half-life",
+   "ad": "Half-Life",
+   "seviye": "siradan",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Hikâyeli nişancı oyunlarının öncüsü.",
+   "puan": {
+    "eglence": 9,
+    "nostalji": 8,
+    "bagimlilik": 7,
+    "oyuncu_sayisi": 6
+   }
+  },
+  {
+   "id": "mortal-kombat",
+   "ad": "Mortal Kombat",
+   "seviye": "siradan",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Ölümcül hamleleriyle dövüş oyunu klasiği.",
+   "puan": {
+    "eglence": 8,
+    "nostalji": 9,
+    "bagimlilik": 7,
+    "oyuncu_sayisi": 7
+   }
+  },
+  {
+   "id": "tekken-3",
+   "ad": "Tekken 3",
+   "seviye": "siradan",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "PlayStation'ın en çok oynanan dövüş oyunu.",
+   "puan": {
+    "eglence": 9,
+    "nostalji": 10,
+    "bagimlilik": 8,
+    "oyuncu_sayisi": 8
+   }
+  },
+  {
+   "id": "pac-man",
+   "ad": "Pac-Man",
+   "seviye": "siradan",
+   "grup": "macera",
+   "etiketler": [],
+   "aciklama": "Hayaletlerden kaçan sarı efsane.",
+   "puan": {
+    "eglence": 7,
+    "nostalji": 10,
+    "bagimlilik": 7,
+    "oyuncu_sayisi": 8
+   }
+  },
+  {
+   "id": "contra",
+   "ad": "Contra",
+   "seviye": "siradan",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Atari döneminin iki kişilik aksiyon klasiği.",
+   "puan": {
+    "eglence": 8,
+    "nostalji": 10,
+    "bagimlilik": 7,
+    "oyuncu_sayisi": 6
+   }
+  },
+  {
+   "id": "candy-crush",
+   "ad": "Candy Crush",
+   "seviye": "siradan",
+   "grup": "strateji",
+   "etiketler": [],
+   "aciklama": "Şekerleri eşleştirip saatleri unutturan mobil oyun.",
+   "puan": {
+    "eglence": 6,
+    "nostalji": 5,
+    "bagimlilik": 9,
+    "oyuncu_sayisi": 9
+   }
+  },
+  {
+   "id": "clash-of-clans",
+   "ad": "Clash of Clans",
+   "seviye": "siradan",
+   "grup": "strateji",
+   "etiketler": [],
+   "aciklama": "Köyünü kur, klanınla saldır.",
+   "puan": {
+    "eglence": 7,
+    "nostalji": 6,
+    "bagimlilik": 9,
+    "oyuncu_sayisi": 9
+   }
+  },
+  {
+   "id": "among-us",
+   "ad": "Among Us",
+   "seviye": "siradan",
+   "grup": "online",
+   "etiketler": [],
+   "aciklama": "Sahtekârı bul, arkadaşlarını suçla.",
+   "puan": {
+    "eglence": 8,
+    "nostalji": 6,
+    "bagimlilik": 7,
+    "oyuncu_sayisi": 8
+   }
+  },
+  {
+   "id": "pubg",
+   "ad": "PUBG",
+   "seviye": "siradan",
+   "grup": "online",
+   "etiketler": [],
+   "aciklama": "Battle royale akımını başlatan oyun.",
+   "puan": {
+    "eglence": 8,
+    "nostalji": 5,
+    "bagimlilik": 8,
+    "oyuncu_sayisi": 9
+   }
+  },
+  {
+   "id": "rocket-league",
+   "ad": "Rocket League",
+   "seviye": "siradan",
+   "grup": "spor",
+   "etiketler": [],
+   "aciklama": "Arabalarla oynanan futbol.",
+   "puan": {
+    "eglence": 8,
+    "nostalji": 4,
+    "bagimlilik": 8,
+    "oyuncu_sayisi": 8
+   }
+  },
+  {
+   "id": "the-sims",
+   "ad": "The Sims",
+   "seviye": "siradan",
+   "grup": "strateji",
+   "etiketler": [],
+   "aciklama": "Sanal hayatlar kurduğun yaşam simülasyonu.",
+   "puan": {
+    "eglence": 8,
+    "nostalji": 8,
+    "bagimlilik": 9,
+    "oyuncu_sayisi": 8
+   }
+  },
+  {
+   "id": "angry-birds",
+   "ad": "Angry Birds",
+   "seviye": "siradan",
+   "grup": "strateji",
+   "etiketler": [],
+   "aciklama": "Sapanla domuzları deviren kızgın kuşlar.",
+   "puan": {
+    "eglence": 7,
+    "nostalji": 8,
+    "bagimlilik": 8,
+    "oyuncu_sayisi": 9
+   }
+  },
+  {
+   "id": "subway-surfers",
+   "ad": "Subway Surfers",
+   "seviye": "siradan",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Raylar üzerinde bitmeyen koşu.",
+   "puan": {
+    "eglence": 6,
+    "nostalji": 6,
+    "bagimlilik": 8,
+    "oyuncu_sayisi": 9
+   }
+  }
+ ]
+}

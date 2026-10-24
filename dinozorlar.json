@@ -1,0 +1,548 @@
+{
+ "id": "dinozorlar",
+ "ad": "Dinozorlar",
+ "sablon": "duello",
+ "gorev_mesaji": "Dinozor sürünü kur: hangi sürü hayatta kalır?",
+ "olcutler": {
+  "guc": {
+   "ad": "Güç",
+   "agirlik": 0.35
+  },
+  "boyut": {
+   "ad": "Boyut",
+   "agirlik": 0.2
+  },
+  "hiz": {
+   "ad": "Hız",
+   "agirlik": 0.2
+  },
+  "avcilik": {
+   "ad": "Avcılık",
+   "agirlik": 0.25
+  }
+ },
+ "gruplar": {
+  "etobur": "Etobur",
+  "otobur": "Otobur",
+  "ucan_yuzen": "Uçan ve yüzen"
+ },
+ "sinerjiler": [
+  {
+   "tip": "cesitlilik",
+   "ad": "Karma sürü",
+   "esikler": {
+    "3": 5
+   }
+  },
+  {
+   "tip": "etiket",
+   "ad": "Sürü avcıları",
+   "etiket": "suru",
+   "en_az": 2,
+   "bonus": 4
+  }
+ ],
+ "garanti": {},
+ "hakem_notu": "Etoburların avcılığı, otoburların savunma ve boyutu öne çıkar. Uçan ve yüzen sürüngenler karada zayıf, kendi ortamlarında güçlüdür. Not: uçan ve yüzen sürüngenlerin çoğu bilimsel olarak dinozor sayılmaz; kartlarda bu belirtilir.",
+ "kart_sayisi": 35,
+ "kartlar": [
+  {
+   "id": "tyrannosaurus-rex",
+   "ad": "Tyrannosaurus rex",
+   "seviye": "efsane",
+   "grup": "etobur",
+   "etiketler": [],
+   "aciklama": "Muz büyüklüğünde dişleriyle dinozorların kralı.",
+   "puan": {
+    "guc": 10,
+    "boyut": 9,
+    "hiz": 6,
+    "avcilik": 10
+   }
+  },
+  {
+   "id": "spinosaurus",
+   "ad": "Spinosaurus",
+   "seviye": "efsane",
+   "grup": "etobur",
+   "etiketler": [],
+   "aciklama": "Sırtında yelkeni olan, suda avlanan dev etobur.",
+   "puan": {
+    "guc": 9,
+    "boyut": 10,
+    "hiz": 5,
+    "avcilik": 8
+   }
+  },
+  {
+   "id": "triceratops",
+   "ad": "Triceratops",
+   "seviye": "efsane",
+   "grup": "otobur",
+   "etiketler": [],
+   "aciklama": "Üç boynuzu ve kalkanıyla T-rex'e kafa tutar.",
+   "puan": {
+    "guc": 8,
+    "boyut": 8,
+    "hiz": 5,
+    "avcilik": 2
+   }
+  },
+  {
+   "id": "brachiosaurus",
+   "ad": "Brachiosaurus",
+   "seviye": "efsane",
+   "grup": "otobur",
+   "etiketler": [],
+   "aciklama": "Ağaç tepelerine uzanan dev boyunlu.",
+   "puan": {
+    "guc": 7,
+    "boyut": 10,
+    "hiz": 2,
+    "avcilik": 1
+   }
+  },
+  {
+   "id": "velociraptor",
+   "ad": "Velociraptor",
+   "seviye": "efsane",
+   "grup": "etobur",
+   "etiketler": [
+    "suru"
+   ],
+   "aciklama": "Küçük ama zeki ve sürüyle avlandığı düşünülen avcı.",
+   "puan": {
+    "guc": 3,
+    "boyut": 2,
+    "hiz": 9,
+    "avcilik": 9
+   }
+  },
+  {
+   "id": "ankylosaurus",
+   "ad": "Ankylosaurus",
+   "seviye": "efsane",
+   "grup": "otobur",
+   "etiketler": [],
+   "aciklama": "Zırhlı gövde ve topuz kuyruk.",
+   "puan": {
+    "guc": 7,
+    "boyut": 7,
+    "hiz": 3,
+    "avcilik": 2
+   }
+  },
+  {
+   "id": "mosasaurus",
+   "ad": "Mosasaurus",
+   "seviye": "efsane",
+   "grup": "ucan_yuzen",
+   "etiketler": [],
+   "aciklama": "Denizlerin dev avcı sürüngeni; dinozor değil ama onlarla yaşadı.",
+   "puan": {
+    "guc": 9,
+    "boyut": 10,
+    "hiz": 7,
+    "avcilik": 10
+   }
+  },
+  {
+   "id": "giganotosaurus",
+   "ad": "Giganotosaurus",
+   "seviye": "guclu",
+   "grup": "etobur",
+   "etiketler": [],
+   "aciklama": "T-rex'ten bile uzun olabilen dev avcı.",
+   "puan": {
+    "guc": 10,
+    "boyut": 9,
+    "hiz": 6,
+    "avcilik": 9
+   }
+  },
+  {
+   "id": "allosaurus",
+   "ad": "Allosaurus",
+   "seviye": "guclu",
+   "grup": "etobur",
+   "etiketler": [],
+   "aciklama": "Jura döneminin baş avcısı.",
+   "puan": {
+    "guc": 8,
+    "boyut": 8,
+    "hiz": 7,
+    "avcilik": 9
+   }
+  },
+  {
+   "id": "stegosaurus",
+   "ad": "Stegosaurus",
+   "seviye": "guclu",
+   "grup": "otobur",
+   "etiketler": [],
+   "aciklama": "Sırt plakaları ve dikenli kuyruğu.",
+   "puan": {
+    "guc": 7,
+    "boyut": 8,
+    "hiz": 3,
+    "avcilik": 2
+   }
+  },
+  {
+   "id": "parasaurolophus",
+   "ad": "Parasaurolophus",
+   "seviye": "guclu",
+   "grup": "otobur",
+   "etiketler": [],
+   "aciklama": "Kafasındaki boruyla ses çıkaran otobur.",
+   "puan": {
+    "guc": 5,
+    "boyut": 7,
+    "hiz": 6,
+    "avcilik": 1
+   }
+  },
+  {
+   "id": "pteranodon",
+   "ad": "Pteranodon",
+   "seviye": "guclu",
+   "grup": "ucan_yuzen",
+   "etiketler": [],
+   "aciklama": "Gökyüzünün dev kanatlı sürüngeni; dinozor değil.",
+   "puan": {
+    "guc": 3,
+    "boyut": 6,
+    "hiz": 8,
+    "avcilik": 6
+   }
+  },
+  {
+   "id": "carnotaurus",
+   "ad": "Carnotaurus",
+   "seviye": "guclu",
+   "grup": "etobur",
+   "etiketler": [],
+   "aciklama": "Boynuzlu, hızlı koşan avcı.",
+   "puan": {
+    "guc": 7,
+    "boyut": 7,
+    "hiz": 9,
+    "avcilik": 8
+   }
+  },
+  {
+   "id": "deinonychus",
+   "ad": "Deinonychus",
+   "seviye": "guclu",
+   "grup": "etobur",
+   "etiketler": [
+    "suru"
+   ],
+   "aciklama": "Pençeli ve çevik, grupla avlandığı düşünülür.",
+   "puan": {
+    "guc": 4,
+    "boyut": 3,
+    "hiz": 8,
+    "avcilik": 9
+   }
+  },
+  {
+   "id": "diplodocus",
+   "ad": "Diplodocus",
+   "seviye": "guclu",
+   "grup": "otobur",
+   "etiketler": [],
+   "aciklama": "Upuzun kuyruğunu kamçı gibi kullanır.",
+   "puan": {
+    "guc": 7,
+    "boyut": 10,
+    "hiz": 3,
+    "avcilik": 1
+   }
+  },
+  {
+   "id": "apatosaurus",
+   "ad": "Apatosaurus",
+   "seviye": "guclu",
+   "grup": "otobur",
+   "etiketler": [],
+   "aciklama": "Dev boyunlu ağır otobur.",
+   "puan": {
+    "guc": 7,
+    "boyut": 10,
+    "hiz": 2,
+    "avcilik": 1
+   }
+  },
+  {
+   "id": "iguanodon",
+   "ad": "Iguanodon",
+   "seviye": "guclu",
+   "grup": "otobur",
+   "etiketler": [],
+   "aciklama": "Başparmağında diken taşıyan otobur.",
+   "puan": {
+    "guc": 6,
+    "boyut": 7,
+    "hiz": 5,
+    "avcilik": 2
+   }
+  },
+  {
+   "id": "pachycephalosaurus",
+   "ad": "Pachycephalosaurus",
+   "seviye": "guclu",
+   "grup": "otobur",
+   "etiketler": [],
+   "aciklama": "Kalın kafatasıyla kafa atan dinozor.",
+   "puan": {
+    "guc": 5,
+    "boyut": 4,
+    "hiz": 6,
+    "avcilik": 2
+   }
+  },
+  {
+   "id": "plesiosaurus",
+   "ad": "Plesiosaurus",
+   "seviye": "guclu",
+   "grup": "ucan_yuzen",
+   "etiketler": [],
+   "aciklama": "Uzun boyunlu deniz sürüngeni; dinozor değil.",
+   "puan": {
+    "guc": 6,
+    "boyut": 7,
+    "hiz": 6,
+    "avcilik": 7
+   }
+  },
+  {
+   "id": "quetzalcoatlus",
+   "ad": "Quetzalcoatlus",
+   "seviye": "guclu",
+   "grup": "ucan_yuzen",
+   "etiketler": [],
+   "aciklama": "Uçak büyüklüğünde kanatları olan uçan sürüngen.",
+   "puan": {
+    "guc": 5,
+    "boyut": 7,
+    "hiz": 7,
+    "avcilik": 6
+   }
+  },
+  {
+   "id": "baryonyx",
+   "ad": "Baryonyx",
+   "seviye": "guclu",
+   "grup": "etobur",
+   "etiketler": [],
+   "aciklama": "Timsah çeneli balık avcısı.",
+   "puan": {
+    "guc": 7,
+    "boyut": 7,
+    "hiz": 6,
+    "avcilik": 8
+   }
+  },
+  {
+   "id": "compsognathus",
+   "ad": "Compsognathus",
+   "seviye": "siradan",
+   "grup": "etobur",
+   "etiketler": [
+    "suru"
+   ],
+   "aciklama": "Tavuk büyüklüğünde minik avcı.",
+   "puan": {
+    "guc": 1,
+    "boyut": 1,
+    "hiz": 8,
+    "avcilik": 6
+   }
+  },
+  {
+   "id": "gallimimus",
+   "ad": "Gallimimus",
+   "seviye": "siradan",
+   "grup": "otobur",
+   "etiketler": [],
+   "aciklama": "Devekuşu gibi koşan hızlı dinozor.",
+   "puan": {
+    "guc": 2,
+    "boyut": 4,
+    "hiz": 10,
+    "avcilik": 2
+   }
+  },
+  {
+   "id": "oviraptor",
+   "ad": "Oviraptor",
+   "seviye": "siradan",
+   "grup": "otobur",
+   "etiketler": [],
+   "aciklama": "Gagalı, tüylü küçük dinozor.",
+   "puan": {
+    "guc": 2,
+    "boyut": 2,
+    "hiz": 6,
+    "avcilik": 4
+   }
+  },
+  {
+   "id": "microraptor",
+   "ad": "Microraptor",
+   "seviye": "siradan",
+   "grup": "ucan_yuzen",
+   "etiketler": [],
+   "aciklama": "Dört kanatlı minik süzülen dinozor.",
+   "puan": {
+    "guc": 1,
+    "boyut": 1,
+    "hiz": 7,
+    "avcilik": 5
+   }
+  },
+  {
+   "id": "dilophosaurus",
+   "ad": "Dilophosaurus",
+   "seviye": "siradan",
+   "grup": "etobur",
+   "etiketler": [],
+   "aciklama": "Kafasında iki ibik olan erken avcı.",
+   "puan": {
+    "guc": 5,
+    "boyut": 5,
+    "hiz": 7,
+    "avcilik": 7
+   }
+  },
+  {
+   "id": "troodon",
+   "ad": "Troodon",
+   "seviye": "siradan",
+   "grup": "etobur",
+   "etiketler": [],
+   "aciklama": "Beynine oranla en zeki dinozorlardan.",
+   "puan": {
+    "guc": 2,
+    "boyut": 2,
+    "hiz": 7,
+    "avcilik": 7
+   }
+  },
+  {
+   "id": "psittacosaurus",
+   "ad": "Psittacosaurus",
+   "seviye": "siradan",
+   "grup": "otobur",
+   "etiketler": [],
+   "aciklama": "Papağan gagalı küçük otobur.",
+   "puan": {
+    "guc": 2,
+    "boyut": 2,
+    "hiz": 5,
+    "avcilik": 1
+   }
+  },
+  {
+   "id": "protoceratops",
+   "ad": "Protoceratops",
+   "seviye": "siradan",
+   "grup": "otobur",
+   "etiketler": [],
+   "aciklama": "Triceratops'un küçük akrabası.",
+   "puan": {
+    "guc": 3,
+    "boyut": 3,
+    "hiz": 4,
+    "avcilik": 1
+   }
+  },
+  {
+   "id": "maiasaura",
+   "ad": "Maiasaura",
+   "seviye": "siradan",
+   "grup": "otobur",
+   "etiketler": [],
+   "aciklama": "Yavrularına bakan iyi anne dinozor.",
+   "puan": {
+    "guc": 4,
+    "boyut": 6,
+    "hiz": 4,
+    "avcilik": 1
+   }
+  },
+  {
+   "id": "kentrosaurus",
+   "ad": "Kentrosaurus",
+   "seviye": "siradan",
+   "grup": "otobur",
+   "etiketler": [],
+   "aciklama": "Stegosaurus'un dikenli kuzeni.",
+   "puan": {
+    "guc": 5,
+    "boyut": 5,
+    "hiz": 3,
+    "avcilik": 2
+   }
+  },
+  {
+   "id": "archaeopteryx",
+   "ad": "Archaeopteryx",
+   "seviye": "siradan",
+   "grup": "ucan_yuzen",
+   "etiketler": [],
+   "aciklama": "Kuşlarla dinozorlar arasındaki köprü.",
+   "puan": {
+    "guc": 1,
+    "boyut": 1,
+    "hiz": 6,
+    "avcilik": 4
+   }
+  },
+  {
+   "id": "ichthyosaurus",
+   "ad": "Ichthyosaurus",
+   "seviye": "siradan",
+   "grup": "ucan_yuzen",
+   "etiketler": [],
+   "aciklama": "Yunusa benzeyen deniz sürüngeni; dinozor değil.",
+   "puan": {
+    "guc": 5,
+    "boyut": 5,
+    "hiz": 8,
+    "avcilik": 6
+   }
+  },
+  {
+   "id": "coelophysis",
+   "ad": "Coelophysis",
+   "seviye": "siradan",
+   "grup": "etobur",
+   "etiketler": [
+    "suru"
+   ],
+   "aciklama": "İnce yapılı, grup halinde yaşayan erken avcı.",
+   "puan": {
+    "guc": 3,
+    "boyut": 3,
+    "hiz": 8,
+    "avcilik": 7
+   }
+  },
+  {
+   "id": "therizinosaurus",
+   "ad": "Therizinosaurus",
+   "seviye": "siradan",
+   "grup": "otobur",
+   "etiketler": [],
+   "aciklama": "Metre uzunluğunda pençeli tuhaf otobur.",
+   "puan": {
+    "guc": 6,
+    "boyut": 8,
+    "hiz": 3,
+    "avcilik": 3
+   }
+  }
+ ]
+}

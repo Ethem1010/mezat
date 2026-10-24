@@ -1,0 +1,36 @@
+# Tatlılar — ad|seviye|grup|etiketler|açıklama|Lezzet,Popülerlik,Görünüm,Çeşitlilik
+Baklava|e|serbetli||Fıstıklı, cevizli, sarığı burma; tatlıların sultanı.|10,10,9,8
+Künefe|e|serbetli||Uzayan peyniri ve çıtır kadayıfıyla Hatay'ın gururu.|10,9,8,5
+Sütlaç|e|sutlu||Fırında kızarmış üstüyle sütlü tatlıların kralı.|8,9,6,6
+Profiterol|e|pasta||Çikolata sosuna gömülmüş kremalı toplar.|9,9,8,6
+Maraş Dondurması|e|soguk||Bıçakla kesilen, uzayan efsane dondurma.|9,9,8,6
+Tiramisu|e|pasta||Kahveli ve kremalı İtalyan klasiği.|9,9,8,6
+Cheesecake|e|pasta||Frambuazlı, limonlu, karamelli; her kafenin yıldızı.|9,9,9,8
+Kadayıf|g|serbetli||Tel tel çıtır ve şerbetli.|9,8,7,6
+Şöbiyet|g|serbetli||Kaymaklı ve fıstıklı üçgen baklava.|9,7,8,5
+Tulumba|g|serbetli||Sokak tatlısının çıtır ve şerbetli hali.|8,8,6,4
+Revani|g|serbetli||Hafif irmikli kek, şerbetle ıslanır.|7,7,6,5
+Kazandibi|g|sutlu||Dibi yanık, üstü pürüzsüz sütlü tatlı.|8,7,7,5
+Tavuk Göğsü|g|sutlu||İçinde tavuk olan şaşırtıcı sütlü tatlı.|8,7,6,5
+Muhallebi|g|sutlu||Sade, hafif ve her evin tatlısı.|7,8,6,7
+Kemalpaşa|g|serbetli||Peynirli hamur topları, şerbette.|7,6,6,4
+Brownie|g|pasta||Islak çikolatalı kare dilimler.|9,8,7,6
+Magnolia|g|sutlu||Bisküvili, muzlu ve çilekli kupa tatlısı.|8,8,8,6
+Supangle|g|sutlu||Bol kakaolu, üstü kek kırıntılı puding.|8,7,7,5
+Waffle|g|pasta||Meyve ve sosla istediğin gibi süslenen.|8,8,9,10
+Sufle|g|pasta||İçi akan sıcak çikolatalı kek.|9,8,8,4
+Katmer|g|pasta||Gaziantep'in fıstıklı ve kaymaklı ince hamuru.|9,7,7,5
+Aşure|s|sutlu||Bereketi temsil eden, içinde her şey olan tatlı.|7,6,7,8
+Güllaç|s|sutlu||Ramazan'ın sütlü, güllü ve ince yaprakları.|8,7,8,5
+Lokma|s|serbetli||Sıcak ve şerbetli minik hamur topları.|8,8,6,4
+Kabak Tatlısı|s|serbetli||Tahin ve cevizle sonbaharın tatlısı.|7,6,7,4
+Ayva Tatlısı|s|serbetli||Kaymakla servis edilen kırmızı ayva.|8,6,7,4
+İrmik Helvası|s|pasta||Dondurmayla da yenen sıcak helva.|7,7,5,5
+Krep|s|pasta||İnce gözleme gibi, içine ne istersen.|8,8,7,9
+Ekler|s|pasta||Çikolata kaplı, kremalı uzun hamur.|8,8,7,5
+Makaron|s|pasta||Renk renk küçük Fransız kurabiyeleri.|7,7,10,7
+Külah Dondurma|s|soguk||Yaz akşamlarının klasik keyfi.|8,9,6,7
+Limonlu Sorbe|s|soguk||Ferah ve hafif buzlu tatlı.|7,5,6,5
+Frozen Yoğurt|s|soguk||Meyveli ve hafif soğuk tatlı.|7,6,7,8
+Puding|s|sutlu||Hazır paketten çocukluk tatlısı.|6,7,5,6
+Keşkül|s|sutlu||Bademli ve hindistan cevizli saray tatlısı.|7,5,6,4

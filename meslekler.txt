@@ -1,0 +1,36 @@
+# Meslekler — ad|seviye|grup|etiketler|açıklama|Hayati önem,Topluma katkı,Çok yönlülük,Yerine konamazlık
+Doktor|e|saglik||Hastalıkları teşhis eder, hayat kurtarır.|10,10,7,10
+Çiftçi|e|gida||Tarlada üretir, şehri doyurur.|10,10,7,9
+İnşaat Mühendisi|e|barinma||Binaları, köprüleri ve yolları güvenle kurar.|9,9,7,8
+Polis|e|guvenlik||Düzeni ve güvenliği sağlar.|9,9,7,8
+Öğretmen|e|egitim||Tüm meslekleri yetiştiren meslek.|8,10,8,9
+Hemşire|e|saglik||Hastanenin bel kemiği.|9,10,7,9
+Elektrikçi|e|teknik||Işıkları yakar, şehri enerjiye bağlar.|8,8,7,8
+İtfaiyeci|g|guvenlik||Yangından selden insanları kurtarır.|9,9,7,8
+Cerrah|g|saglik||Ameliyatla hayat kurtaran uzman.|10,9,4,10
+Eczacı|g|saglik||İlacı doğru kişiye doğru dozda ulaştırır.|8,8,5,7
+Veteriner|g|saglik||Hayvanların ve gıda güvenliğinin doktoru.|7,7,6,7
+Duvar Ustası|g|barinma||Evlerin duvarlarını tuğla tuğla örer.|8,8,6,6
+Marangoz|g|barinma||Ahşaptan ev, kapı ve mobilya yapar.|7,7,7,6
+Tesisatçı|g|teknik||Su ve gaz hatlarını kurar, onarır.|8,8,6,7
+Aşçı|g|gida||Malzemeyi lezzete çevirir.|7,8,6,6
+Fırıncı|g|gida||Şehrin sabah ekmeğini çıkarır.|8,8,4,6
+Asker|g|guvenlik||Ülkeyi ve sınırları korur.|9,8,6,7
+Mimar|g|barinma||Yaşanacak yerleri tasarlar.|7,8,6,7
+Yazılım Mühendisi|g|teknik||Dijital sistemleri kurar ve çalıştırır.|6,8,8,6
+Kasap|g|gida||Eti hazırlar ve satar.|6,6,4,5
+Makine Mühendisi|g|teknik||Makineleri tasarlar ve tamir eder.|7,8,8,7
+Avukat|s|diger||Hakları savunur, adalete yol gösterir.|6,7,5,6
+Gazeteci|s|diger||Haberleri toplar ve halka duyurur.|5,7,6,4
+Muhasebeci|s|diger||Hesapları tutar, işleri düzenler.|5,6,5,4
+Şoför|s|diger||İnsanları ve yükleri taşır.|6,7,5,4
+Kuaför|s|diger||Saç ve bakımla insanları mutlu eder.|3,5,3,3
+Aktör|s|diger||Sahne ve ekranda hikâyeler canlandırır.|2,5,4,3
+Futbolcu|s|diger||Hafta sonları şehrin moralini yükseltir.|2,5,3,2
+YouTuber|s|diger||Video çekip internette paylaşır.|1,4,4,2
+Psikolog|s|saglik||Ruh sağlığına destek verir.|6,8,5,6
+Diş Hekimi|s|saglik||Diş ağrısından kurtarır.|7,7,4,8
+Balıkçı|s|gida||Denizden sofraya taze balık getirir.|7,7,5,5
+Kütüphaneci|s|egitim||Bilgiyi düzenler ve paylaşır.|3,6,4,3
+Bankacı|s|diger||Paranın akışını yönetir.|4,6,5,4
+Pilot|s|teknik||Uçakları güvenle uçurur.|5,7,4,8

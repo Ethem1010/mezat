@@ -1,0 +1,36 @@
+# Dinozorlar — ad|seviye|grup|etiketler|açıklama|Güç,Boyut,Hız,Avcılık
+Tyrannosaurus rex|e|etobur||Muz büyüklüğünde dişleriyle dinozorların kralı.|10,9,6,10
+Spinosaurus|e|etobur||Sırtında yelkeni olan, suda avlanan dev etobur.|9,10,5,8
+Triceratops|e|otobur||Üç boynuzu ve kalkanıyla T-rex'e kafa tutar.|8,8,5,2
+Brachiosaurus|e|otobur||Ağaç tepelerine uzanan dev boyunlu.|7,10,2,1
+Velociraptor|e|etobur|suru|Küçük ama zeki ve sürüyle avlandığı düşünülen avcı.|3,2,9,9
+Ankylosaurus|e|otobur||Zırhlı gövde ve topuz kuyruk.|7,7,3,2
+Mosasaurus|e|ucan_yuzen||Denizlerin dev avcı sürüngeni; dinozor değil ama onlarla yaşadı.|9,10,7,10
+Giganotosaurus|g|etobur||T-rex'ten bile uzun olabilen dev avcı.|10,9,6,9
+Allosaurus|g|etobur||Jura döneminin baş avcısı.|8,8,7,9
+Stegosaurus|g|otobur||Sırt plakaları ve dikenli kuyruğu.|7,8,3,2
+Parasaurolophus|g|otobur||Kafasındaki boruyla ses çıkaran otobur.|5,7,6,1
+Pteranodon|g|ucan_yuzen||Gökyüzünün dev kanatlı sürüngeni; dinozor değil.|3,6,8,6
+Carnotaurus|g|etobur||Boynuzlu, hızlı koşan avcı.|7,7,9,8
+Deinonychus|g|etobur|suru|Pençeli ve çevik, grupla avlandığı düşünülür.|4,3,8,9
+Diplodocus|g|otobur||Upuzun kuyruğunu kamçı gibi kullanır.|7,10,3,1
+Apatosaurus|g|otobur||Dev boyunlu ağır otobur.|7,10,2,1
+Iguanodon|g|otobur||Başparmağında diken taşıyan otobur.|6,7,5,2
+Pachycephalosaurus|g|otobur||Kalın kafatasıyla kafa atan dinozor.|5,4,6,2
+Plesiosaurus|g|ucan_yuzen||Uzun boyunlu deniz sürüngeni; dinozor değil.|6,7,6,7
+Quetzalcoatlus|g|ucan_yuzen||Uçak büyüklüğünde kanatları olan uçan sürüngen.|5,7,7,6
+Baryonyx|g|etobur||Timsah çeneli balık avcısı.|7,7,6,8
+Compsognathus|s|etobur|suru|Tavuk büyüklüğünde minik avcı.|1,1,8,6
+Gallimimus|s|otobur||Devekuşu gibi koşan hızlı dinozor.|2,4,10,2
+Oviraptor|s|otobur||Gagalı, tüylü küçük dinozor.|2,2,6,4
+Microraptor|s|ucan_yuzen||Dört kanatlı minik süzülen dinozor.|1,1,7,5
+Dilophosaurus|s|etobur||Kafasında iki ibik olan erken avcı.|5,5,7,7
+Troodon|s|etobur||Beynine oranla en zeki dinozorlardan.|2,2,7,7
+Psittacosaurus|s|otobur||Papağan gagalı küçük otobur.|2,2,5,1
+Protoceratops|s|otobur||Triceratops'un küçük akrabası.|3,3,4,1
+Maiasaura|s|otobur||Yavrularına bakan iyi anne dinozor.|4,6,4,1
+Kentrosaurus|s|otobur||Stegosaurus'un dikenli kuzeni.|5,5,3,2
+Archaeopteryx|s|ucan_yuzen||Kuşlarla dinozorlar arasındaki köprü.|1,1,6,4
+Ichthyosaurus|s|ucan_yuzen||Yunusa benzeyen deniz sürüngeni; dinozor değil.|5,5,8,6
+Coelophysis|s|etobur|suru|İnce yapılı, grup halinde yaşayan erken avcı.|3,3,8,7
+Therizinosaurus|s|otobur||Metre uzunluğunda pençeli tuhaf otobur.|6,8,3,3

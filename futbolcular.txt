@@ -1,0 +1,36 @@
+# Futbolcular — ad|seviye|grup|etiketler|açıklama|Mevkisinde ustalık,Yetenek,Kupalar,Efsanelik
+Lionel Messi|e|forvet||Rekor sayıda Ballon d'Or kazanan, Dünya Kupası şampiyonu.|10,10,10,10
+Cristiano Ronaldo|e|forvet||Gol makinesi; Şampiyonlar Ligi'nin en golcüsü.|10,9,10,10
+Pelé|e|forvet||Üç Dünya Kupası kazanan efsane.|10,9,10,10
+Diego Maradona|e|orta||1986 Dünya Kupası'nı neredeyse tek başına kazandıran dahi.|10,10,9,10
+Zinedine Zidane|e|orta||Zarafetiyle oyunu yöneten Fransız usta.|9,10,9,10
+Paolo Maldini|e|defans||Milan'ın ve İtalya'nın efsane defansı.|10,9,10,10
+Gianluigi Buffon|e|kaleci||Uzun kariyeriyle kalecilerin efsanesi.|10,8,9,10
+Ronaldinho|g|orta||Gülümseyerek oynayan sihirbaz.|10,8,8,9
+Ronaldo Nazário|g|forvet||Fenomen; hız ve bitiriciliğin tanımı.|10,8,9,10
+Thierry Henry|g|forvet||Arsenal'in zarif ve hızlı golcüsü.|9,8,8,8
+Andrés Iniesta|g|orta||Pas oyununun ustası, Dünya Kupası finalinin golcüsü.|8,10,10,9
+Xavi|g|orta||Orta sahanın beyni, pas makinesi.|8,10,10,9
+Sergio Ramos|g|defans||Son dakika golleriyle bilinen sert stoper.|9,8,10,10
+Franz Beckenbauer|g|defans||Kaiser; libero mevkisinin efsanesi.|10,9,10,9
+Manuel Neuer|g|kaleci||Libero gibi oynayan modern kaleci.|10,8,9,10
+Iker Casillas|g|kaleci||Refleksleriyle Aziz İker.|10,8,10,10
+Kylian Mbappé|g|forvet||Yeni neslin en hızlı yıldızı.|10,7,8,9
+Erling Haaland|g|forvet||Gol rekorlarını alt üst eden santrfor.|10,6,7,8
+Luka Modrić|g|orta||Ballon d'Or kazanan Hırvat orta saha.|8,10,9,8
+Virgil van Dijk|g|defans||Hava toplarının ve sakinliğin hâkimi.|10,8,7,8
+Gheorghe Hagi|g|orta||Galatasaray'a UEFA Kupası getiren Komandan.|9,8,8,8
+Hakan Şükür|s|forvet||Boğa; Türkiye'nin en golcü forvetlerinden.|9,7,7,8
+Rüştü Reçber|s|kaleci||2002 Dünya Kupası'nın yıldız kalecisi.|9,7,6,8
+Alex de Souza|s|orta||Fenerbahçe'nin efsane 10 numarası.|9,9,7,8
+Arda Turan|s|orta||Driplingleriyle Barcelona'ya kadar giden yıldız.|8,8,6,7
+Arda Güler|s|orta||Real Madrid'e transfer olan genç yetenek.|8,8,4,6
+Hakan Çalhanoğlu|s|orta||Frikikleriyle ünlü milli takım kaptanı.|8,9,7,8
+Volkan Demirel|s|kaleci||Fenerbahçe'nin uzun yıllar kalesini koruyan isim.|8,6,6,7
+Bülent Korkmaz|s|defans||Galatasaray'ın efsane kaptanı ve stoperi.|9,8,7,8
+Alpay Özalan|s|defans||2002 kadrosunun sert stoperi.|8,7,5,6
+Ümit Davala|s|defans||2002 Dünya Kupası'nda üçüncülüğün sağ beki.|7,7,6,6
+Emre Belözoğlu|s|orta||Pas yeteneği ve hırsıyla bilinen orta saha.|7,9,6,6
+Tuncay Şanlı|s|forvet||Kritik maçların golcüsü.|8,7,5,6
+Didier Drogba|s|forvet||Chelsea'nin ve Galatasaray'ın güçlü santrforu.|9,8,8,8
+Wayne Rooney|s|forvet||Manchester United'ın rekortmen golcüsü.|9,8,8,8

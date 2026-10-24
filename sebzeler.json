@@ -1,0 +1,552 @@
+{
+ "id": "sebzeler",
+ "ad": "Sebzeler",
+ "sablon": "juri",
+ "gorev_mesaji": "Pazar çantanı doldur: hangi çanta daha sağlıklı ve lezzetli bir sofra çıkarır?",
+ "olcutler": {
+  "besin_degeri": {
+   "ad": "Besin değeri",
+   "agirlik": 0.35
+  },
+  "lezzet": {
+   "ad": "Lezzet",
+   "agirlik": 0.3
+  },
+  "mutfakta_kullanim": {
+   "ad": "Mutfakta kullanım",
+   "agirlik": 0.2
+  },
+  "sevilme": {
+   "ad": "Sevilme",
+   "agirlik": 0.15
+  }
+ },
+ "gruplar": {
+  "yaz": "Yaz sebzesi",
+  "kis": "Kış sebzesi",
+  "kok": "Kök ve yumru",
+  "yesillik": "Yeşillik"
+ },
+ "sinerjiler": [
+  {
+   "tip": "etiket",
+   "ad": "Mutfağın temeli",
+   "etiket": "temel",
+   "en_az": 3,
+   "bonus": 5
+  },
+  {
+   "tip": "cesitlilik",
+   "ad": "Renkli tezgâh",
+   "esikler": {
+    "3": 4,
+    "4": 7
+   }
+  }
+ ],
+ "garanti": {},
+ "hakem_notu": "Birlikte bir yemek oluşturabilen sebzelere (ör. domates, biber, soğan) uyum bonusu ver.",
+ "kart_sayisi": 35,
+ "kartlar": [
+  {
+   "id": "domates",
+   "ad": "Domates",
+   "seviye": "efsane",
+   "grup": "yaz",
+   "etiketler": [
+    "temel"
+   ],
+   "aciklama": "Salatadan sosa, mutfağın kırmızı kralı.",
+   "puan": {
+    "besin_degeri": 8,
+    "lezzet": 9,
+    "mutfakta_kullanim": 10,
+    "sevilme": 10
+   }
+  },
+  {
+   "id": "patates",
+   "ad": "Patates",
+   "seviye": "efsane",
+   "grup": "kok",
+   "etiketler": [
+    "temel"
+   ],
+   "aciklama": "Kızartması, haşlaması, püresi; herkesin favorisi.",
+   "puan": {
+    "besin_degeri": 7,
+    "lezzet": 9,
+    "mutfakta_kullanim": 10,
+    "sevilme": 10
+   }
+  },
+  {
+   "id": "sogan",
+   "ad": "Soğan",
+   "seviye": "efsane",
+   "grup": "kok",
+   "etiketler": [
+    "temel"
+   ],
+   "aciklama": "Neredeyse her yemeğin başlangıcı.",
+   "puan": {
+    "besin_degeri": 8,
+    "lezzet": 7,
+    "mutfakta_kullanim": 10,
+    "sevilme": 7
+   }
+  },
+  {
+   "id": "sivri-biber",
+   "ad": "Sivri Biber",
+   "seviye": "efsane",
+   "grup": "yaz",
+   "etiketler": [
+    "temel"
+   ],
+   "aciklama": "Kahvaltıdan kebaba her sofranın yeşil yıldızı.",
+   "puan": {
+    "besin_degeri": 8,
+    "lezzet": 8,
+    "mutfakta_kullanim": 9,
+    "sevilme": 8
+   }
+  },
+  {
+   "id": "patlican",
+   "ad": "Patlıcan",
+   "seviye": "efsane",
+   "grup": "yaz",
+   "etiketler": [],
+   "aciklama": "Karnıyarıktan közlemeye, yaz sofrasının sultanı.",
+   "puan": {
+    "besin_degeri": 7,
+    "lezzet": 9,
+    "mutfakta_kullanim": 9,
+    "sevilme": 8
+   }
+  },
+  {
+   "id": "ispanak",
+   "ad": "Ispanak",
+   "seviye": "efsane",
+   "grup": "yesillik",
+   "etiketler": [],
+   "aciklama": "Demir deposu, yumurtayla bir başka güzel.",
+   "puan": {
+    "besin_degeri": 10,
+    "lezzet": 7,
+    "mutfakta_kullanim": 8,
+    "sevilme": 7
+   }
+  },
+  {
+   "id": "havuc",
+   "ad": "Havuç",
+   "seviye": "efsane",
+   "grup": "kok",
+   "etiketler": [],
+   "aciklama": "Göze iyi gelen, çiğ de pişmiş de yenen sebze.",
+   "puan": {
+    "besin_degeri": 9,
+    "lezzet": 7,
+    "mutfakta_kullanim": 8,
+    "sevilme": 8
+   }
+  },
+  {
+   "id": "salatalik",
+   "ad": "Salatalık",
+   "seviye": "guclu",
+   "grup": "yaz",
+   "etiketler": [],
+   "aciklama": "Serinletici, çıtır ve her salatada.",
+   "puan": {
+    "besin_degeri": 7,
+    "lezzet": 8,
+    "mutfakta_kullanim": 8,
+    "sevilme": 9
+   }
+  },
+  {
+   "id": "kabak",
+   "ad": "Kabak",
+   "seviye": "guclu",
+   "grup": "yaz",
+   "etiketler": [],
+   "aciklama": "Mücveri ve dolmasıyla sevilen yaz sebzesi.",
+   "puan": {
+    "besin_degeri": 7,
+    "lezzet": 7,
+    "mutfakta_kullanim": 8,
+    "sevilme": 6
+   }
+  },
+  {
+   "id": "brokoli",
+   "ad": "Brokoli",
+   "seviye": "guclu",
+   "grup": "kis",
+   "etiketler": [],
+   "aciklama": "Vitamin şampiyonu minik ağaçlar.",
+   "puan": {
+    "besin_degeri": 10,
+    "lezzet": 6,
+    "mutfakta_kullanim": 7,
+    "sevilme": 5
+   }
+  },
+  {
+   "id": "karnabahar",
+   "ad": "Karnabahar",
+   "seviye": "guclu",
+   "grup": "kis",
+   "etiketler": [],
+   "aciklama": "Kızartması ve graten haliyle sevilir.",
+   "puan": {
+    "besin_degeri": 8,
+    "lezzet": 6,
+    "mutfakta_kullanim": 7,
+    "sevilme": 5
+   }
+  },
+  {
+   "id": "lahana",
+   "ad": "Lahana",
+   "seviye": "guclu",
+   "grup": "kis",
+   "etiketler": [],
+   "aciklama": "Sarması ve turşusuyla kışın vazgeçilmezi.",
+   "puan": {
+    "besin_degeri": 8,
+    "lezzet": 6,
+    "mutfakta_kullanim": 7,
+    "sevilme": 5
+   }
+  },
+  {
+   "id": "pirasa",
+   "ad": "Pırasa",
+   "seviye": "guclu",
+   "grup": "kis",
+   "etiketler": [],
+   "aciklama": "Zeytinyağlısı annelerin klasiği.",
+   "puan": {
+    "besin_degeri": 8,
+    "lezzet": 6,
+    "mutfakta_kullanim": 6,
+    "sevilme": 4
+   }
+  },
+  {
+   "id": "sarimsak",
+   "ad": "Sarımsak",
+   "seviye": "guclu",
+   "grup": "kok",
+   "etiketler": [
+    "temel"
+   ],
+   "aciklama": "Az kullanılır ama her şeyi lezzetlendirir.",
+   "puan": {
+    "besin_degeri": 9,
+    "lezzet": 8,
+    "mutfakta_kullanim": 9,
+    "sevilme": 7
+   }
+  },
+  {
+   "id": "marul",
+   "ad": "Marul",
+   "seviye": "guclu",
+   "grup": "yesillik",
+   "etiketler": [],
+   "aciklama": "Salatanın çıtır tabanı.",
+   "puan": {
+    "besin_degeri": 7,
+    "lezzet": 6,
+    "mutfakta_kullanim": 8,
+    "sevilme": 7
+   }
+  },
+  {
+   "id": "taze-fasulye",
+   "ad": "Taze Fasulye",
+   "seviye": "guclu",
+   "grup": "yaz",
+   "etiketler": [],
+   "aciklama": "Zeytinyağlısıyla yaz sofralarının klasiği.",
+   "puan": {
+    "besin_degeri": 8,
+    "lezzet": 8,
+    "mutfakta_kullanim": 8,
+    "sevilme": 7
+   }
+  },
+  {
+   "id": "bezelye",
+   "ad": "Bezelye",
+   "seviye": "guclu",
+   "grup": "yaz",
+   "etiketler": [],
+   "aciklama": "Tatlı taneleri pilavı da yemeği de renklendirir.",
+   "puan": {
+    "besin_degeri": 8,
+    "lezzet": 7,
+    "mutfakta_kullanim": 7,
+    "sevilme": 7
+   }
+  },
+  {
+   "id": "misir",
+   "ad": "Mısır",
+   "seviye": "guclu",
+   "grup": "yaz",
+   "etiketler": [],
+   "aciklama": "Haşlaması, közü ve patlamışıyla sevilir.",
+   "puan": {
+    "besin_degeri": 7,
+    "lezzet": 8,
+    "mutfakta_kullanim": 7,
+    "sevilme": 9
+   }
+  },
+  {
+   "id": "kirmizi-biber",
+   "ad": "Kırmızı Biber",
+   "seviye": "guclu",
+   "grup": "yaz",
+   "etiketler": [],
+   "aciklama": "Közlemesi ve salçasıyla lezzet katar.",
+   "puan": {
+    "besin_degeri": 8,
+    "lezzet": 8,
+    "mutfakta_kullanim": 8,
+    "sevilme": 8
+   }
+  },
+  {
+   "id": "mantar",
+   "ad": "Mantar",
+   "seviye": "guclu",
+   "grup": "kis",
+   "etiketler": [],
+   "aciklama": "Sote, pizza ve omletin gizli kahramanı.",
+   "puan": {
+    "besin_degeri": 8,
+    "lezzet": 8,
+    "mutfakta_kullanim": 8,
+    "sevilme": 7
+   }
+  },
+  {
+   "id": "bamya",
+   "ad": "Bamya",
+   "seviye": "guclu",
+   "grup": "yaz",
+   "etiketler": [],
+   "aciklama": "Sevenleri için yazın en özel yemeği.",
+   "puan": {
+    "besin_degeri": 8,
+    "lezzet": 7,
+    "mutfakta_kullanim": 6,
+    "sevilme": 5
+   }
+  },
+  {
+   "id": "enginar",
+   "ad": "Enginar",
+   "seviye": "siradan",
+   "grup": "kis",
+   "etiketler": [],
+   "aciklama": "Zeytinyağlısı ince bir lezzet işi.",
+   "puan": {
+    "besin_degeri": 9,
+    "lezzet": 7,
+    "mutfakta_kullanim": 5,
+    "sevilme": 5
+   }
+  },
+  {
+   "id": "kereviz",
+   "ad": "Kereviz",
+   "seviye": "siradan",
+   "grup": "kok",
+   "etiketler": [],
+   "aciklama": "Kökü yemeğe, sapı salataya.",
+   "puan": {
+    "besin_degeri": 8,
+    "lezzet": 5,
+    "mutfakta_kullanim": 5,
+    "sevilme": 3
+   }
+  },
+  {
+   "id": "turp",
+   "ad": "Turp",
+   "seviye": "siradan",
+   "grup": "kok",
+   "etiketler": [],
+   "aciklama": "Acımsı tadıyla salatanın keskin dokunuşu.",
+   "puan": {
+    "besin_degeri": 7,
+    "lezzet": 5,
+    "mutfakta_kullanim": 4,
+    "sevilme": 4
+   }
+  },
+  {
+   "id": "pancar",
+   "ad": "Pancar",
+   "seviye": "siradan",
+   "grup": "kok",
+   "etiketler": [],
+   "aciklama": "Rengiyle şaşırtan, turşusu meşhur kök.",
+   "puan": {
+    "besin_degeri": 9,
+    "lezzet": 6,
+    "mutfakta_kullanim": 5,
+    "sevilme": 5
+   }
+  },
+  {
+   "id": "roka",
+   "ad": "Roka",
+   "seviye": "siradan",
+   "grup": "yesillik",
+   "etiketler": [],
+   "aciklama": "Hafif acı tadıyla salataların süsü.",
+   "puan": {
+    "besin_degeri": 8,
+    "lezzet": 7,
+    "mutfakta_kullanim": 6,
+    "sevilme": 7
+   }
+  },
+  {
+   "id": "maydanoz",
+   "ad": "Maydanoz",
+   "seviye": "siradan",
+   "grup": "yesillik",
+   "etiketler": [],
+   "aciklama": "Her tabağın yeşil son dokunuşu.",
+   "puan": {
+    "besin_degeri": 9,
+    "lezzet": 6,
+    "mutfakta_kullanim": 9,
+    "sevilme": 6
+   }
+  },
+  {
+   "id": "dereotu",
+   "ad": "Dereotu",
+   "seviye": "siradan",
+   "grup": "yesillik",
+   "etiketler": [],
+   "aciklama": "Börekten cacığa ferah bir koku.",
+   "puan": {
+    "besin_degeri": 7,
+    "lezzet": 6,
+    "mutfakta_kullanim": 7,
+    "sevilme": 5
+   }
+  },
+  {
+   "id": "semizotu",
+   "ad": "Semizotu",
+   "seviye": "siradan",
+   "grup": "yesillik",
+   "etiketler": [],
+   "aciklama": "Yoğurtla buluşunca yaz salatası olur.",
+   "puan": {
+    "besin_degeri": 8,
+    "lezzet": 6,
+    "mutfakta_kullanim": 5,
+    "sevilme": 5
+   }
+  },
+  {
+   "id": "bakla",
+   "ad": "Bakla",
+   "seviye": "siradan",
+   "grup": "yaz",
+   "etiketler": [],
+   "aciklama": "Zeytinyağlısı Ege'nin sevilen lezzeti.",
+   "puan": {
+    "besin_degeri": 8,
+    "lezzet": 6,
+    "mutfakta_kullanim": 5,
+    "sevilme": 4
+   }
+  },
+  {
+   "id": "kuskonmaz",
+   "ad": "Kuşkonmaz",
+   "seviye": "siradan",
+   "grup": "yesillik",
+   "etiketler": [],
+   "aciklama": "Fırında ya da ızgarada şık bir sebze.",
+   "puan": {
+    "besin_degeri": 9,
+    "lezzet": 6,
+    "mutfakta_kullanim": 4,
+    "sevilme": 4
+   }
+  },
+  {
+   "id": "tatli-patates",
+   "ad": "Tatlı Patates",
+   "seviye": "siradan",
+   "grup": "kok",
+   "etiketler": [],
+   "aciklama": "Fırında karamelize olan turuncu patates.",
+   "puan": {
+    "besin_degeri": 8,
+    "lezzet": 8,
+    "mutfakta_kullanim": 5,
+    "sevilme": 6
+   }
+  },
+  {
+   "id": "yer-elmasi",
+   "ad": "Yer Elması",
+   "seviye": "siradan",
+   "grup": "kok",
+   "etiketler": [],
+   "aciklama": "Unutulmaya yüz tutmuş kış sebzesi.",
+   "puan": {
+    "besin_degeri": 7,
+    "lezzet": 5,
+    "mutfakta_kullanim": 3,
+    "sevilme": 3
+   }
+  },
+  {
+   "id": "bruksel-lahanasi",
+   "ad": "Brüksel Lahanası",
+   "seviye": "siradan",
+   "grup": "kis",
+   "etiketler": [],
+   "aciklama": "Mini lahanalar; ya sevilir ya nefret edilir.",
+   "puan": {
+    "besin_degeri": 9,
+    "lezzet": 4,
+    "mutfakta_kullanim": 3,
+    "sevilme": 2
+   }
+  },
+  {
+   "id": "taze-sogan",
+   "ad": "Taze Soğan",
+   "seviye": "siradan",
+   "grup": "yesillik",
+   "etiketler": [],
+   "aciklama": "Bahar salatalarının ve kebapların yanında.",
+   "puan": {
+    "besin_degeri": 7,
+    "lezzet": 7,
+    "mutfakta_kullanim": 7,
+    "sevilme": 6
+   }
+  }
+ ]
+}

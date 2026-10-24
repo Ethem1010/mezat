@@ -1,0 +1,536 @@
+{
+ "id": "ulkeler",
+ "ad": "Ülkeler",
+ "sablon": "turnuva",
+ "gorev_mesaji": "Dünya turu planla: hangi rota daha unutulmaz?",
+ "olcutler": {
+  "turistik_yerler": {
+   "ad": "Turistik yerler",
+   "agirlik": 0.3
+  },
+  "mutfak": {
+   "ad": "Mutfak",
+   "agirlik": 0.25
+  },
+  "kultur": {
+   "ad": "Kültür",
+   "agirlik": 0.25
+  },
+  "doga": {
+   "ad": "Doğa",
+   "agirlik": 0.2
+  }
+ },
+ "gruplar": {
+  "avrupa": "Avrupa",
+  "asya": "Asya",
+  "amerika": "Amerika",
+  "afrika": "Afrika",
+  "okyanusya": "Okyanusya"
+ },
+ "sinerjiler": [
+  {
+   "tip": "cesitlilik",
+   "ad": "Kıtalar arası tur",
+   "esikler": {
+    "3": 4,
+    "4": 7
+   }
+  }
+ ],
+ "garanti": {},
+ "hakem_notu": "Farklı kıtalardan ülkeleri içeren rotaya uyum bonusu ver.",
+ "kart_sayisi": 35,
+ "kartlar": [
+  {
+   "id": "i-talya",
+   "ad": "İtalya",
+   "seviye": "efsane",
+   "grup": "avrupa",
+   "etiketler": [],
+   "aciklama": "Roma, Venedik, Floransa ve pizzanın vatanı.",
+   "puan": {
+    "turistik_yerler": 10,
+    "mutfak": 10,
+    "kultur": 10,
+    "doga": 8
+   }
+  },
+  {
+   "id": "turkiye",
+   "ad": "Türkiye",
+   "seviye": "efsane",
+   "grup": "asya",
+   "etiketler": [],
+   "aciklama": "İki kıta, binlerce yıllık tarih ve dünyanın en zengin mutfaklarından biri.",
+   "puan": {
+    "turistik_yerler": 9,
+    "mutfak": 10,
+    "kultur": 10,
+    "doga": 9
+   }
+  },
+  {
+   "id": "fransa",
+   "ad": "Fransa",
+   "seviye": "efsane",
+   "grup": "avrupa",
+   "etiketler": [],
+   "aciklama": "Dünyanın en çok turist ağırlayan ülkesi.",
+   "puan": {
+    "turistik_yerler": 10,
+    "mutfak": 9,
+    "kultur": 10,
+    "doga": 8
+   }
+  },
+  {
+   "id": "japonya",
+   "ad": "Japonya",
+   "seviye": "efsane",
+   "grup": "asya",
+   "etiketler": [],
+   "aciklama": "Tapınaklar, sakuralar ve suşi; gelenekle gelecek bir arada.",
+   "puan": {
+    "turistik_yerler": 9,
+    "mutfak": 10,
+    "kultur": 10,
+    "doga": 8
+   }
+  },
+  {
+   "id": "i-spanya",
+   "ad": "İspanya",
+   "seviye": "efsane",
+   "grup": "avrupa",
+   "etiketler": [],
+   "aciklama": "Flamenko, tapas ve sonsuz plajlar.",
+   "puan": {
+    "turistik_yerler": 9,
+    "mutfak": 9,
+    "kultur": 9,
+    "doga": 8
+   }
+  },
+  {
+   "id": "abd",
+   "ad": "ABD",
+   "seviye": "efsane",
+   "grup": "amerika",
+   "etiketler": [],
+   "aciklama": "Büyük Kanyon'dan New York'a her şey bir ülkede.",
+   "puan": {
+    "turistik_yerler": 9,
+    "mutfak": 7,
+    "kultur": 8,
+    "doga": 9
+   }
+  },
+  {
+   "id": "yunanistan",
+   "ad": "Yunanistan",
+   "seviye": "efsane",
+   "grup": "avrupa",
+   "etiketler": [],
+   "aciklama": "Antik tapınaklar ve masmavi adalar.",
+   "puan": {
+    "turistik_yerler": 9,
+    "mutfak": 8,
+    "kultur": 9,
+    "doga": 8
+   }
+  },
+  {
+   "id": "misir",
+   "ad": "Mısır",
+   "seviye": "guclu",
+   "grup": "afrika",
+   "etiketler": [],
+   "aciklama": "Piramitler, Nil ve firavunların izleri.",
+   "puan": {
+    "turistik_yerler": 9,
+    "mutfak": 6,
+    "kultur": 10,
+    "doga": 6
+   }
+  },
+  {
+   "id": "meksika",
+   "ad": "Meksika",
+   "seviye": "guclu",
+   "grup": "amerika",
+   "etiketler": [],
+   "aciklama": "Maya tapınakları, tacolar ve renkli şenlikler.",
+   "puan": {
+    "turistik_yerler": 8,
+    "mutfak": 9,
+    "kultur": 8,
+    "doga": 8
+   }
+  },
+  {
+   "id": "tayland",
+   "ad": "Tayland",
+   "seviye": "guclu",
+   "grup": "asya",
+   "etiketler": [],
+   "aciklama": "Tapınaklar, plajlar ve sokak yemekleri.",
+   "puan": {
+    "turistik_yerler": 8,
+    "mutfak": 9,
+    "kultur": 8,
+    "doga": 9
+   }
+  },
+  {
+   "id": "brezilya",
+   "ad": "Brezilya",
+   "seviye": "guclu",
+   "grup": "amerika",
+   "etiketler": [],
+   "aciklama": "Amazon, karnaval ve samba.",
+   "puan": {
+    "turistik_yerler": 7,
+    "mutfak": 8,
+    "kultur": 8,
+    "doga": 10
+   }
+  },
+  {
+   "id": "avustralya",
+   "ad": "Avustralya",
+   "seviye": "guclu",
+   "grup": "okyanusya",
+   "etiketler": [],
+   "aciklama": "Kanguruların ve Mercan Kayalığı'nın kıtası.",
+   "puan": {
+    "turistik_yerler": 8,
+    "mutfak": 6,
+    "kultur": 6,
+    "doga": 10
+   }
+  },
+  {
+   "id": "kanada",
+   "ad": "Kanada",
+   "seviye": "guclu",
+   "grup": "amerika",
+   "etiketler": [],
+   "aciklama": "Dağlar, göller ve uçsuz bucaksız ormanlar.",
+   "puan": {
+    "turistik_yerler": 7,
+    "mutfak": 6,
+    "kultur": 6,
+    "doga": 10
+   }
+  },
+  {
+   "id": "i-svicre",
+   "ad": "İsviçre",
+   "seviye": "guclu",
+   "grup": "avrupa",
+   "etiketler": [],
+   "aciklama": "Alpler, çikolata ve kartpostal köyler.",
+   "puan": {
+    "turistik_yerler": 8,
+    "mutfak": 6,
+    "kultur": 6,
+    "doga": 10
+   }
+  },
+  {
+   "id": "peru",
+   "ad": "Peru",
+   "seviye": "guclu",
+   "grup": "amerika",
+   "etiketler": [],
+   "aciklama": "Machu Picchu ve And Dağları.",
+   "puan": {
+    "turistik_yerler": 8,
+    "mutfak": 8,
+    "kultur": 8,
+    "doga": 9
+   }
+  },
+  {
+   "id": "hindistan",
+   "ad": "Hindistan",
+   "seviye": "guclu",
+   "grup": "asya",
+   "etiketler": [],
+   "aciklama": "Tac Mahal, baharatlar ve renk cümbüşü.",
+   "puan": {
+    "turistik_yerler": 8,
+    "mutfak": 9,
+    "kultur": 9,
+    "doga": 7
+   }
+  },
+  {
+   "id": "cin",
+   "ad": "Çin",
+   "seviye": "guclu",
+   "grup": "asya",
+   "etiketler": [],
+   "aciklama": "Çin Seddi ve binlerce yıllık bir medeniyet.",
+   "puan": {
+    "turistik_yerler": 9,
+    "mutfak": 9,
+    "kultur": 9,
+    "doga": 7
+   }
+  },
+  {
+   "id": "fas",
+   "ad": "Fas",
+   "seviye": "guclu",
+   "grup": "afrika",
+   "etiketler": [],
+   "aciklama": "Çarşılar, çöl ve Marakeş'in renkleri.",
+   "puan": {
+    "turistik_yerler": 8,
+    "mutfak": 8,
+    "kultur": 8,
+    "doga": 7
+   }
+  },
+  {
+   "id": "portekiz",
+   "ad": "Portekiz",
+   "seviye": "guclu",
+   "grup": "avrupa",
+   "etiketler": [],
+   "aciklama": "Okyanus kıyıları, Lizbon ve pastel de nata.",
+   "puan": {
+    "turistik_yerler": 8,
+    "mutfak": 8,
+    "kultur": 7,
+    "doga": 8
+   }
+  },
+  {
+   "id": "endonezya",
+   "ad": "Endonezya",
+   "seviye": "guclu",
+   "grup": "asya",
+   "etiketler": [],
+   "aciklama": "Bali ve binlerce adalık tropik cennet.",
+   "puan": {
+    "turistik_yerler": 7,
+    "mutfak": 7,
+    "kultur": 7,
+    "doga": 10
+   }
+  },
+  {
+   "id": "yeni-zelanda",
+   "ad": "Yeni Zelanda",
+   "seviye": "guclu",
+   "grup": "okyanusya",
+   "etiketler": [],
+   "aciklama": "Dünyanın en etkileyici doğa manzaralarından bazıları.",
+   "puan": {
+    "turistik_yerler": 7,
+    "mutfak": 6,
+    "kultur": 6,
+    "doga": 10
+   }
+  },
+  {
+   "id": "almanya",
+   "ad": "Almanya",
+   "seviye": "siradan",
+   "grup": "avrupa",
+   "etiketler": [],
+   "aciklama": "Şatolar, Noel pazarları ve düzenli şehirler.",
+   "puan": {
+    "turistik_yerler": 8,
+    "mutfak": 6,
+    "kultur": 8,
+    "doga": 7
+   }
+  },
+  {
+   "id": "i-ngiltere",
+   "ad": "İngiltere",
+   "seviye": "siradan",
+   "grup": "avrupa",
+   "etiketler": [],
+   "aciklama": "Londra, kraliyet ve tarih.",
+   "puan": {
+    "turistik_yerler": 9,
+    "mutfak": 5,
+    "kultur": 8,
+    "doga": 6
+   }
+  },
+  {
+   "id": "hollanda",
+   "ad": "Hollanda",
+   "seviye": "siradan",
+   "grup": "avrupa",
+   "etiketler": [],
+   "aciklama": "Laleler, yel değirmenleri ve kanallar.",
+   "puan": {
+    "turistik_yerler": 7,
+    "mutfak": 5,
+    "kultur": 7,
+    "doga": 6
+   }
+  },
+  {
+   "id": "norvec",
+   "ad": "Norveç",
+   "seviye": "siradan",
+   "grup": "avrupa",
+   "etiketler": [],
+   "aciklama": "Fiyortlar ve kuzey ışıkları.",
+   "puan": {
+    "turistik_yerler": 6,
+    "mutfak": 5,
+    "kultur": 6,
+    "doga": 10
+   }
+  },
+  {
+   "id": "i-zlanda",
+   "ad": "İzlanda",
+   "seviye": "siradan",
+   "grup": "avrupa",
+   "etiketler": [],
+   "aciklama": "Volkanlar, buzullar ve gayzerler.",
+   "puan": {
+    "turistik_yerler": 6,
+    "mutfak": 4,
+    "kultur": 5,
+    "doga": 10
+   }
+  },
+  {
+   "id": "arjantin",
+   "ad": "Arjantin",
+   "seviye": "siradan",
+   "grup": "amerika",
+   "etiketler": [],
+   "aciklama": "Tango, et ve Patagonya.",
+   "puan": {
+    "turistik_yerler": 7,
+    "mutfak": 8,
+    "kultur": 7,
+    "doga": 8
+   }
+  },
+  {
+   "id": "guney-kore",
+   "ad": "Güney Kore",
+   "seviye": "siradan",
+   "grup": "asya",
+   "etiketler": [],
+   "aciklama": "K-pop, teknoloji ve tapınaklar.",
+   "puan": {
+    "turistik_yerler": 7,
+    "mutfak": 8,
+    "kultur": 8,
+    "doga": 6
+   }
+  },
+  {
+   "id": "vietnam",
+   "ad": "Vietnam",
+   "seviye": "siradan",
+   "grup": "asya",
+   "etiketler": [],
+   "aciklama": "Ha Long Körfezi ve lezzetli sokak çorbaları.",
+   "puan": {
+    "turistik_yerler": 7,
+    "mutfak": 8,
+    "kultur": 7,
+    "doga": 8
+   }
+  },
+  {
+   "id": "guney-afrika",
+   "ad": "Güney Afrika",
+   "seviye": "siradan",
+   "grup": "afrika",
+   "etiketler": [],
+   "aciklama": "Safari, şarap bağları ve Cape Town.",
+   "puan": {
+    "turistik_yerler": 7,
+    "mutfak": 6,
+    "kultur": 6,
+    "doga": 9
+   }
+  },
+  {
+   "id": "kenya",
+   "ad": "Kenya",
+   "seviye": "siradan",
+   "grup": "afrika",
+   "etiketler": [],
+   "aciklama": "Büyük göç ve safari ülkesi.",
+   "puan": {
+    "turistik_yerler": 6,
+    "mutfak": 5,
+    "kultur": 6,
+    "doga": 9
+   }
+  },
+  {
+   "id": "tanzanya",
+   "ad": "Tanzanya",
+   "seviye": "siradan",
+   "grup": "afrika",
+   "etiketler": [],
+   "aciklama": "Kilimanjaro ve Serengeti.",
+   "puan": {
+    "turistik_yerler": 7,
+    "mutfak": 5,
+    "kultur": 6,
+    "doga": 9
+   }
+  },
+  {
+   "id": "kuba",
+   "ad": "Küba",
+   "seviye": "siradan",
+   "grup": "amerika",
+   "etiketler": [],
+   "aciklama": "Klasik arabalar, salsa ve Havana.",
+   "puan": {
+    "turistik_yerler": 7,
+    "mutfak": 6,
+    "kultur": 8,
+    "doga": 7
+   }
+  },
+  {
+   "id": "fiji",
+   "ad": "Fiji",
+   "seviye": "siradan",
+   "grup": "okyanusya",
+   "etiketler": [],
+   "aciklama": "Pasifik'te turkuaz adalar.",
+   "puan": {
+    "turistik_yerler": 6,
+    "mutfak": 5,
+    "kultur": 6,
+    "doga": 9
+   }
+  },
+  {
+   "id": "hirvatistan",
+   "ad": "Hırvatistan",
+   "seviye": "siradan",
+   "grup": "avrupa",
+   "etiketler": [],
+   "aciklama": "Dubrovnik ve Adriyatik koyları.",
+   "puan": {
+    "turistik_yerler": 7,
+    "mutfak": 6,
+    "kultur": 6,
+    "doga": 9
+   }
+  }
+ ]
+}

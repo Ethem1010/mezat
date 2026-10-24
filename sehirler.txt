@@ -1,0 +1,36 @@
+# Şehirler — ad|seviye|grup|etiketler|açıklama|Yaşam kalitesi,İş imkânı,Eğlence,Doğa
+New York|e|amerika||Hiç uyumayan şehir, dünyanın finans ve kültür merkezi.|7,10,10,4
+Londra|e|avrupa||Tarih, müzik ve iş dünyasının buluştuğu dev başkent.|7,10,9,5
+Paris|e|avrupa||Işıklar şehri, sanatın ve modanın başkenti.|7,8,9,5
+Tokyo|e|asya||Dünyanın en kalabalık metropolü; temiz, güvenli ve teknolojik.|9,9,9,5
+İstanbul|e|turkiye||İki kıtayı birleştiren, tarihi ve boğazıyla eşsiz şehir.|6,9,10,6
+Barselona|e|avrupa||Deniz, futbol ve Gaudí'nin mimarisi bir arada.|8,7,9,8
+Sidney|e|diger||Opera binası ve plajlarıyla Avustralya'nın parlayan yıldızı.|9,7,8,9
+Roma|g|avrupa||Her köşesi açık hava müzesi olan ebedi şehir.|7,6,8,6
+Amsterdam|g|avrupa||Kanallar, bisikletler ve rahat bir şehir hayatı.|8,8,8,6
+Berlin|g|avrupa||Gece hayatı ve yaratıcılığıyla Avrupa'nın enerjik başkenti.|8,8,8,5
+Viyana|g|avrupa||Yaşam kalitesi listelerinin sürekli zirvesindeki şehir.|10,7,7,7
+Zürih|g|avrupa||Göl kenarında, düzenli ve yüksek maaşlı bir şehir.|10,9,6,9
+Singapur|g|asya||Bahçe şehir; temiz, güvenli ve iş dünyasının gözdesi.|9,10,7,6
+Seul|g|asya||K-pop, teknoloji ve hiç bitmeyen şehir enerjisi.|8,9,9,5
+Dubai|g|asya||Çölün ortasında gökdelenler ve lüks.|7,9,8,3
+Los Angeles|g|amerika||Hollywood, güneş ve okyanus kıyısı.|6,9,9,7
+Toronto|g|amerika||Kanada'nın çok kültürlü ve güvenli metropolü.|8,8,7,7
+Vancouver|g|amerika||Dağlarla okyanusun arasına kurulmuş yeşil şehir.|9,7,6,10
+Rio de Janeiro|g|amerika||Karnaval, plajlar ve dağlarıyla renkli şehir.|5,5,10,10
+İzmir|g|turkiye||Ege'nin incisi; kordonu ve rahat havasıyla sevilir.|7,6,7,8
+Kopenhag|g|avrupa||Mutluluk listelerinin müdavimi, bisiklet cenneti.|10,8,7,7
+Ankara|s|turkiye||Başkent; düzenli, yeşil alanları bol bir memur şehri.|7,8,5,4
+Antalya|s|turkiye||Deniz, güneş ve turizmin Türkiye'deki başkenti.|7,5,7,9
+Bursa|s|turkiye||Uludağ'ın eteğinde yeşil ve sanayisi güçlü şehir.|7,6,5,7
+Trabzon|s|turkiye||Yaylaları ve yeşiliyle Karadeniz'in incisi.|6,5,4,9
+Eskişehir|s|turkiye||Öğrenci şehri; genç, temiz ve kültür dolu.|7,5,6,5
+Atina|s|avrupa||Akropolis'in gölgesinde antik bir başkent.|6,5,8,6
+Lizbon|s|avrupa||Tepeleri, tramvayları ve okyanus manzarası.|7,6,8,7
+Prag|s|avrupa||Masal gibi eski şehri ve köprüleriyle ünlü.|7,6,8,6
+Bangkok|s|asya||Tapınaklar, sokak yemekleri ve kaotik bir enerji.|5,6,9,5
+Pekin|s|asya||Yasak Şehir ve Çin Seddi'ne kapı olan dev başkent.|5,8,6,3
+Kahire|s|diger||Piramitlerin yanı başında kalabalık ve tarihi bir şehir.|4,4,6,3
+Meksiko|s|amerika||Latin Amerika'nın en büyük şehirlerinden; renkli ve lezzetli.|5,6,8,5
+Cape Town|s|diger||Masa Dağı ve okyanusuyla Afrika'nın en güzel şehirlerinden.|6,5,7,10
+Moskova|s|avrupa||Kızıl Meydan ve görkemli metrosuyla dev başkent.|5,7,7,4

@@ -1,0 +1,36 @@
+# Okul Dersleri — ad|seviye|grup|etiketler|açıklama|Hayatta işe yarama,Meslek kapısı,Genel kültür,Eğlence
+Matematik|e|sayisal||Mühendislikten ekonomiye her şeyin temeli.|10,10,7,5
+Türkçe|e|sozel||Okumak, yazmak, anlamak ve anlatmak.|10,8,9,6
+İngilizce|e|dil||Dünyaya açılan kapı.|10,10,8,6
+Fizik|e|sayisal||Evrenin nasıl çalıştığını anlatır.|7,9,8,6
+Biyoloji|e|sayisal||Canlıları ve kendi vücudumuzu tanıtır.|8,9,8,6
+Bilişim Teknolojileri|e|sayisal||Bilgisayar ve kodlamanın ilk adımı.|9,10,6,8
+Beden Eğitimi|e|sanat_spor||Haftanın en çok beklenen dersi.|8,5,4,10
+Kimya|g|sayisal||Mutfaktan ilaca maddelerin dili.|7,9,7,5
+Tarih|g|sozel||Geçmişten ders almak için.|6,6,10,7
+Coğrafya|g|sozel||Dünyayı ve haritaları tanımak.|6,6,9,7
+Edebiyat|g|sozel||Şiirler, romanlar ve yazarlar.|7,6,9,6
+Felsefe|g|sozel||Düşünmeyi ve sorgulamayı öğretir.|7,5,9,5
+Müzik|g|sanat_spor||Nota, ritim ve flüt sesleri.|5,4,7,9
+Resim|g|sanat_spor||Hayal gücünü kâğıda dökmek.|5,4,6,9
+Almanca|g|dil||Avrupa'nın güçlü dili.|7,7,6,5
+Sağlık Bilgisi|g|sayisal||Vücudunu korumayı öğretir.|9,4,7,5
+Trafik ve İlk Yardım|g|sozel||Hayat kurtaran pratik bilgiler.|9,3,6,5
+Ekonomi|g|sozel||Para, piyasa ve bütçe yönetimi.|8,7,8,5
+Psikoloji|g|sozel||İnsan davranışını anlamak.|8,6,8,7
+Geometri|g|sayisal||Şekillerin ve açıların dünyası.|7,8,6,5
+Fransızca|g|dil||Diplomasi ve sanatın dili.|6,5,7,5
+Sosyoloji|s|sozel||Toplumu ve ilişkileri inceler.|6,5,8,6
+Mantık|s|sozel||Doğru düşünmenin kuralları.|7,5,6,5
+Astronomi|s|sayisal||Yıldızlar, gezegenler ve galaksiler.|4,5,9,8
+Tiyatro|s|sanat_spor||Sahnede özgüven kazanmak.|5,4,6,9
+Satranç|s|sanat_spor||Strateji ve sabır dersi.|5,3,5,8
+Teknoloji ve Tasarım|s|sanat_spor||Fikirleri ürüne dönüştürmek.|6,6,5,7
+İspanyolca|s|dil||Yarım milyardan fazla insanın dili.|6,5,7,6
+Arapça|s|dil||Geniş bir coğrafyanın dili.|5,5,6,4
+Japonca|s|dil||Anime ve teknolojinin dili.|4,4,6,6
+Rusça|s|dil||Geniş bir coğrafyada konuşulan dil.|5,5,5,4
+Ev Ekonomisi|s|sanat_spor||Yemek, bütçe ve ev işleri.|8,3,5,7
+Yüzme Dersi|s|sanat_spor||Hayat kurtaran bir beceri.|8,3,3,9
+Girişimcilik|s|sozel||Kendi işini kurmanın temelleri.|7,7,6,6
+Çevre Bilimi|s|sayisal||Doğayı korumayı öğretir.|6,5,7,6

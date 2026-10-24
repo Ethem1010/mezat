@@ -1,0 +1,36 @@
+# Spor Dalları — ad|seviye|grup|etiketler|açıklama|İzlenme,Heyecan,Dünyada yaygınlık,Türkiye'de sevilme
+Futbol|e|takim||Dünyanın en çok izlenen sporu.|10,9,10,10
+Basketbol|e|takim||Hızlı, sayılı ve son saniyeye kadar heyecanlı.|9,9,9,8
+Voleybol|e|takim||Filenin Sultanları'yla Türkiye'nin gururu.|7,8,8,9
+Formula 1|e|motor||Saniyenin binde biriyle kazanılan yarışlar.|9,8,8,6
+Tenis|e|bireysel||Grand Slam'leriyle dünyanın en prestijli bireysel sporu.|8,7,8,5
+Boks|e|dovus||Ringde güç ve stratejinin yüz yıllık sporu.|8,9,8,6
+Güreş|e|dovus||Ata sporu; Kırkpınar'dan olimpiyatlara.|6,7,6,9
+Atletizm|g|bireysel||Olimpiyatların kalbi: koşu, atlama, atma.|7,7,10,5
+Yüzme|g|bireysel||Havuzda saniyelerle yarış.|6,6,9,5
+Hentbol|g|takim||Hızlı ve sert bir salon sporu.|5,7,6,5
+Buz Hokeyi|g|takim||Buz üstünde hızlı ve sert mücadele.|7,9,6,2
+Beyzbol|g|takim||Amerika'nın milli eğlencesi.|7,5,6,1
+Amerikan Futbolu|g|takim||Super Bowl'un sporu.|8,8,5,2
+Kriket|g|takim||Hindistan ve İngiltere'de milyarların tutkusu.|8,5,7,1
+Cimnastik|g|bireysel||Güç ve esnekliğin büyüleyici gösterisi.|6,7,8,5
+Bisiklet|g|bireysel||Tour de France ve Cumhurbaşkanlığı Turu.|6,6,8,4
+MMA|g|dovus||Tüm dövüş sanatlarının buluştuğu kafes.|8,9,7,5
+Tekvando|g|dovus||Tekmeleriyle Türkiye'ye madalyalar getiren spor.|5,7,8,7
+Halter|g|bireysel||Naim Süleymanoğlu'nun sporu.|4,6,7,7
+MotoGP|g|motor||İki tekerlekte ölümüne viraj.|7,9,6,4
+Okçuluk|g|bireysel||Mete Gazoz'un altın madalyasıyla sevildi.|4,5,6,7
+Masa Tenisi|s|bireysel||Refleks ve hızın sporu.|5,7,8,5
+Badminton|s|bireysel||Asya'da dev bir spor.|5,6,8,3
+Golf|s|bireysel||Sakin ama ustalık isteyen spor.|6,3,7,1
+Kayak|s|bireysel||Karlı dağlarda hız.|5,7,6,3
+Sörf|s|bireysel||Dalgalarla dans.|4,7,5,2
+Satranç|s|bireysel||Zihnin sporu.|5,4,9,6
+Eskrim|s|dovus||Kılıçla yapılan zarif düello.|3,6,5,3
+Judo|s|dovus||Rakibin gücünü kullanma sanatı.|4,6,7,5
+Karate|s|dovus||Disiplin ve hızın dövüş sanatı.|4,6,8,6
+Ralli|s|motor||Toprak ve çakılda yarış.|5,8,5,5
+Sutopu|s|takim||Havuzda oynanan sert takım sporu.|3,6,4,2
+Ragbi|s|takim||Sert temaslı oval top sporu.|6,8,5,1
+Bilardo|s|bireysel||Masa başında hassasiyet.|4,4,6,5
+Kürek|s|bireysel||Takım halinde suda güç ve uyum.|3,4,5,2

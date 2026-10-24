@@ -1,0 +1,36 @@
+# Yemekler — ad|seviye|grup|etiketler|açıklama|Lezzet,Doyuruculuk,Sofra uyumu,Sevilme
+İskender|e|ana||Tereyağı, yoğurt ve dönerin Bursa'daki buluşması.|10,9,7,10
+Mantı|e|hamur||Yoğurt ve tereyağlı sosuyla minik hamur bohçaları.|9,9,7,9
+Lahmacun|e|hamur||İnce hamur, kıymalı harç, bol yeşillik.|9,8,8,10
+Karnıyarık|e|ana||Kıymalı patlıcanın en sevilen hali.|9,8,9,9
+Mercimek Çorbası|e|corba||Her sofranın ve her lokantanın açılış çorbası.|9,6,10,10
+Kuru Fasulye|e|ana||Pilavla birlikte milli yemek.|8,9,9,9
+Baklava|e|tatli||Kat kat yufka, bol fıstık; bayram sofralarının yıldızı.|10,6,8,10
+Adana Kebap|g|ana||Zırhla çekilmiş acılı kıyma, közde pişer.|10,9,7,9
+Hünkâr Beğendi|g|ana||Patlıcan beğendi üstünde tas kebabı.|9,8,8,8
+Ezogelin Çorbası|g|corba||Bulgurlu, naneli ve doyurucu lokanta klasiği.|8,6,9,8
+Tavuk Döner|g|ana||Dürümde, porsiyonda; her köşede sevilen lezzet.|8,8,7,9
+Pide|g|hamur||Kıymalı, kaşarlı, kuşbaşılı; fırından taze.|9,9,7,9
+Börek|g|hamur||Su böreği, kol böreği, sigara böreği; her türlüsü sevilir.|9,7,8,9
+Pirinç Pilavı|g|yan||Tane tane pilav her ana yemeğin dostu.|8,7,10,9
+Çoban Salata|g|yan||Domates, salatalık, biber, soğan; sofraya ferahlık.|8,4,10,8
+İçli Köfte|g|yan||Bulgur kabuğun içinde cevizli kıyma.|9,6,8,8
+Sarma|g|yan||Zeytinyağlı yaprak sarması.|9,6,8,8
+Etli Ekmek|g|hamur||Konya'nın upuzun, çıtır kıymalı ekmeği.|9,9,6,8
+Künefe|g|tatli||Peynirli tel kadayıf, sıcak sıcak servis edilir.|10,6,6,9
+Yayla Çorbası|g|corba||Yoğurtlu ve naneli şifa çorbası.|8,5,9,7
+Kısır|g|yan||Bulgurlu, nar ekşili ev klasiği.|8,5,8,8
+Menemen|s|ana||Domates, biber ve yumurtanın kahvaltıdaki zaferi.|8,6,6,9
+İmam Bayıldı|s|yan||Zeytinyağlı patlıcanın en zarif hali.|8,5,8,7
+Haydari|s|yan||Süzme yoğurt ve naneyle meze klasiği.|7,3,9,7
+Cacık|s|yan||Yoğurt, salatalık ve sarımsakla serinletici eşlikçi.|7,3,9,8
+Tarhana Çorbası|s|corba||Kış günlerinin ev yapımı çorbası.|7,6,8,6
+İşkembe Çorbası|s|corba||Gece yarısı sevenlerinin şifası.|7,6,7,5
+Bulgur Pilavı|s|yan||Domatesli ve biberli Anadolu pilavı.|7,7,9,7
+Izgara Köfte|s|ana||Piyaz ve közlenmiş biberle esnaf lokantası klasiği.|9,8,8,9
+Gözleme|s|hamur||Sacda pişen, peynirli ıspanaklı köy lezzeti.|8,7,6,8
+Su Böreği|s|hamur||Haşlanmış yufkalarla yapılan zahmetli lezzet.|9,7,7,8
+Sütlaç|s|tatli||Fırında üstü kızarmış sütlü tatlı.|8,5,8,8
+Revani|s|tatli||İrmikli ve şerbetli hafif tatlı.|7,5,8,7
+Türlü|s|ana||Mevsim sebzelerinin bir arada pişen hali.|7,7,8,6
+Ali Nazik|s|ana||Közlenmiş patlıcanlı yoğurt üstünde kuşbaşı.|9,8,7,7

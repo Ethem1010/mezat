@@ -1,0 +1,552 @@
+{
+ "id": "deniz-canlilari",
+ "ad": "Deniz Canlıları",
+ "sablon": "duello",
+ "gorev_mesaji": "Ekibini okyanusa sal: denizin hakimi kim olur?",
+ "olcutler": {
+  "guc": {
+   "ad": "Güç",
+   "agirlik": 0.3
+  },
+  "tehlike": {
+   "ad": "Tehlike",
+   "agirlik": 0.3
+  },
+  "hiz": {
+   "ad": "Hız",
+   "agirlik": 0.2
+  },
+  "hayatta_kalma": {
+   "ad": "Hayatta kalma",
+   "agirlik": 0.2
+  }
+ },
+ "gruplar": {
+  "acik_deniz": "Açık deniz",
+  "derin": "Derin deniz",
+  "kiyi": "Kıyı ve resif",
+  "memeli": "Deniz memelisi"
+ },
+ "sinerjiler": [
+  {
+   "tip": "etiket",
+   "ad": "Zehir ordusu",
+   "etiket": "zehirli",
+   "en_az": 2,
+   "bonus": 5
+  },
+  {
+   "tip": "cesitlilik",
+   "ad": "Yedi denizin ekibi",
+   "esikler": {
+    "3": 4,
+    "4": 7
+   }
+  }
+ ],
+ "garanti": {},
+ "hakem_notu": "Düellolar açık okyanusta geçer. Hem yüzeyde hem derinde güçlü canlıları birleştiren takıma uyum bonusu ver.",
+ "kart_sayisi": 35,
+ "kartlar": [
+  {
+   "id": "katil-balina-orka",
+   "ad": "Katil Balina (Orka)",
+   "seviye": "efsane",
+   "grup": "memeli",
+   "etiketler": [],
+   "aciklama": "Okyanusun tepe avcısı, grupla avlanır.",
+   "puan": {
+    "guc": 10,
+    "tehlike": 9,
+    "hiz": 8,
+    "hayatta_kalma": 9
+   }
+  },
+  {
+   "id": "buyuk-beyaz-kopek-baligi",
+   "ad": "Büyük Beyaz Köpek Balığı",
+   "seviye": "efsane",
+   "grup": "acik_deniz",
+   "etiketler": [],
+   "aciklama": "Okyanusun en ünlü avcısı.",
+   "puan": {
+    "guc": 9,
+    "tehlike": 9,
+    "hiz": 8,
+    "hayatta_kalma": 8
+   }
+  },
+  {
+   "id": "mavi-balina",
+   "ad": "Mavi Balina",
+   "seviye": "efsane",
+   "grup": "memeli",
+   "etiketler": [],
+   "aciklama": "Dünyanın en büyük hayvanı, kimseye zarar vermez.",
+   "puan": {
+    "guc": 10,
+    "tehlike": 2,
+    "hiz": 6,
+    "hayatta_kalma": 8
+   }
+  },
+  {
+   "id": "kaplan-kopek-baligi",
+   "ad": "Kaplan Köpek Balığı",
+   "seviye": "efsane",
+   "grup": "acik_deniz",
+   "etiketler": [],
+   "aciklama": "Önüne geleni yiyen çizgili avcı.",
+   "puan": {
+    "guc": 8,
+    "tehlike": 9,
+    "hiz": 7,
+    "hayatta_kalma": 8
+   }
+  },
+  {
+   "id": "dev-kalamar",
+   "ad": "Dev Kalamar",
+   "seviye": "efsane",
+   "grup": "derin",
+   "etiketler": [],
+   "aciklama": "Derinliklerin efsanevi canavarı.",
+   "puan": {
+    "guc": 7,
+    "tehlike": 6,
+    "hiz": 5,
+    "hayatta_kalma": 7
+   }
+  },
+  {
+   "id": "kasalot",
+   "ad": "Kaşalot",
+   "seviye": "efsane",
+   "grup": "memeli",
+   "etiketler": [],
+   "aciklama": "Dev kalamarlarla savaşan derin dalgıç.",
+   "puan": {
+    "guc": 10,
+    "tehlike": 6,
+    "hiz": 6,
+    "hayatta_kalma": 9
+   }
+  },
+  {
+   "id": "tuzlu-su-timsahi",
+   "ad": "Tuzlu Su Timsahı",
+   "seviye": "efsane",
+   "grup": "kiyi",
+   "etiketler": [],
+   "aciklama": "Kıyıların en büyük ve en tehlikeli sürüngeni.",
+   "puan": {
+    "guc": 9,
+    "tehlike": 10,
+    "hiz": 5,
+    "hayatta_kalma": 9
+   }
+  },
+  {
+   "id": "cekic-basli-kopek-baligi",
+   "ad": "Çekiç Başlı Köpek Balığı",
+   "seviye": "guclu",
+   "grup": "acik_deniz",
+   "etiketler": [],
+   "aciklama": "Tuhaf kafası geniş görüş sağlar.",
+   "puan": {
+    "guc": 7,
+    "tehlike": 7,
+    "hiz": 7,
+    "hayatta_kalma": 7
+   }
+  },
+  {
+   "id": "kilic-baligi",
+   "ad": "Kılıç Balığı",
+   "seviye": "guclu",
+   "grup": "acik_deniz",
+   "etiketler": [],
+   "aciklama": "Okyanusun en hızlı balıklarından.",
+   "puan": {
+    "guc": 6,
+    "tehlike": 6,
+    "hiz": 10,
+    "hayatta_kalma": 7
+   }
+  },
+  {
+   "id": "yunus",
+   "ad": "Yunus",
+   "seviye": "guclu",
+   "grup": "memeli",
+   "etiketler": [],
+   "aciklama": "Zeki ve hızlı, köpek balıklarını bile kovar.",
+   "puan": {
+    "guc": 5,
+    "tehlike": 3,
+    "hiz": 9,
+    "hayatta_kalma": 8
+   }
+  },
+  {
+   "id": "mors",
+   "ad": "Mors",
+   "seviye": "guclu",
+   "grup": "memeli",
+   "etiketler": [],
+   "aciklama": "Dev dişleriyle kutup buzlarının sakini.",
+   "puan": {
+    "guc": 7,
+    "tehlike": 5,
+    "hiz": 3,
+    "hayatta_kalma": 8
+   }
+  },
+  {
+   "id": "fil-foku",
+   "ad": "Fil Foku",
+   "seviye": "guclu",
+   "grup": "memeli",
+   "etiketler": [],
+   "aciklama": "En büyük fok, derinlere dalabilir.",
+   "puan": {
+    "guc": 7,
+    "tehlike": 4,
+    "hiz": 4,
+    "hayatta_kalma": 8
+   }
+  },
+  {
+   "id": "dev-pasifik-ahtapotu",
+   "ad": "Dev Pasifik Ahtapotu",
+   "seviye": "guclu",
+   "grup": "kiyi",
+   "etiketler": [],
+   "aciklama": "Denizin dâhisi, kılık değiştirme ustası.",
+   "puan": {
+    "guc": 5,
+    "tehlike": 5,
+    "hiz": 5,
+    "hayatta_kalma": 8
+   }
+  },
+  {
+   "id": "barakuda",
+   "ad": "Barakuda",
+   "seviye": "guclu",
+   "grup": "kiyi",
+   "etiketler": [],
+   "aciklama": "Ok gibi hızlı, keskin dişli avcı.",
+   "puan": {
+    "guc": 5,
+    "tehlike": 6,
+    "hiz": 9,
+    "hayatta_kalma": 6
+   }
+  },
+  {
+   "id": "manta-vatozu",
+   "ad": "Manta Vatozu",
+   "seviye": "guclu",
+   "grup": "acik_deniz",
+   "etiketler": [],
+   "aciklama": "Dev kanatlarıyla süzülen nazik dev.",
+   "puan": {
+    "guc": 6,
+    "tehlike": 2,
+    "hiz": 6,
+    "hayatta_kalma": 7
+   }
+  },
+  {
+   "id": "kutu-denizanasi",
+   "ad": "Kutu Denizanası",
+   "seviye": "guclu",
+   "grup": "kiyi",
+   "etiketler": [
+    "zehirli"
+   ],
+   "aciklama": "Dünyanın en zehirli deniz canlılarından.",
+   "puan": {
+    "guc": 1,
+    "tehlike": 10,
+    "hiz": 3,
+    "hayatta_kalma": 7
+   }
+  },
+  {
+   "id": "tas-baligi",
+   "ad": "Taş Balığı",
+   "seviye": "guclu",
+   "grup": "kiyi",
+   "etiketler": [
+    "zehirli"
+   ],
+   "aciklama": "Taş gibi görünen, dikenleri çok zehirli balık.",
+   "puan": {
+    "guc": 2,
+    "tehlike": 9,
+    "hiz": 1,
+    "hayatta_kalma": 8
+   }
+  },
+  {
+   "id": "mavi-halkali-ahtapot",
+   "ad": "Mavi Halkalı Ahtapot",
+   "seviye": "guclu",
+   "grup": "kiyi",
+   "etiketler": [
+    "zehirli"
+   ],
+   "aciklama": "Minicik ama zehri öldürücü.",
+   "puan": {
+    "guc": 1,
+    "tehlike": 9,
+    "hiz": 3,
+    "hayatta_kalma": 6
+   }
+  },
+  {
+   "id": "deniz-yilani",
+   "ad": "Deniz Yılanı",
+   "seviye": "guclu",
+   "grup": "kiyi",
+   "etiketler": [
+    "zehirli"
+   ],
+   "aciklama": "Kuvvetli zehirli, iyi yüzen yılan.",
+   "puan": {
+    "guc": 2,
+    "tehlike": 8,
+    "hiz": 6,
+    "hayatta_kalma": 6
+   }
+  },
+  {
+   "id": "fener-baligi",
+   "ad": "Fener Balığı",
+   "seviye": "guclu",
+   "grup": "derin",
+   "etiketler": [],
+   "aciklama": "Başındaki ışıkla karanlıkta av yakalar.",
+   "puan": {
+    "guc": 3,
+    "tehlike": 4,
+    "hiz": 2,
+    "hayatta_kalma": 8
+   }
+  },
+  {
+   "id": "murena",
+   "ad": "Murena",
+   "seviye": "guclu",
+   "grup": "kiyi",
+   "etiketler": [],
+   "aciklama": "Kayalıklarda pusuya yatan yılan balığı.",
+   "puan": {
+    "guc": 5,
+    "tehlike": 6,
+    "hiz": 5,
+    "hayatta_kalma": 7
+   }
+  },
+  {
+   "id": "palyaco-baligi",
+   "ad": "Palyaço Balığı",
+   "seviye": "siradan",
+   "grup": "kiyi",
+   "etiketler": [],
+   "aciklama": "Şakayıkların arasında yaşayan turuncu balık.",
+   "puan": {
+    "guc": 1,
+    "tehlike": 1,
+    "hiz": 3,
+    "hayatta_kalma": 6
+   }
+  },
+  {
+   "id": "deniz-kaplumbagasi",
+   "ad": "Deniz Kaplumbağası",
+   "seviye": "siradan",
+   "grup": "acik_deniz",
+   "etiketler": [],
+   "aciklama": "Okyanuslarda binlerce kilometre yüzer.",
+   "puan": {
+    "guc": 3,
+    "tehlike": 1,
+    "hiz": 4,
+    "hayatta_kalma": 9
+   }
+  },
+  {
+   "id": "denizati",
+   "ad": "Denizatı",
+   "seviye": "siradan",
+   "grup": "kiyi",
+   "etiketler": [],
+   "aciklama": "Babanın yavruladığı minik deniz canlısı.",
+   "puan": {
+    "guc": 1,
+    "tehlike": 1,
+    "hiz": 1,
+    "hayatta_kalma": 5
+   }
+  },
+  {
+   "id": "denizyildizi",
+   "ad": "Denizyıldızı",
+   "seviye": "siradan",
+   "grup": "kiyi",
+   "etiketler": [],
+   "aciklama": "Kopan kolunu yeniden büyütebilir.",
+   "puan": {
+    "guc": 1,
+    "tehlike": 1,
+    "hiz": 1,
+    "hayatta_kalma": 8
+   }
+  },
+  {
+   "id": "istakoz",
+   "ad": "Istakoz",
+   "seviye": "siradan",
+   "grup": "kiyi",
+   "etiketler": [],
+   "aciklama": "Güçlü kıskaçlı zırhlı deniz canlısı.",
+   "puan": {
+    "guc": 3,
+    "tehlike": 3,
+    "hiz": 3,
+    "hayatta_kalma": 7
+   }
+  },
+  {
+   "id": "yengec",
+   "ad": "Yengeç",
+   "seviye": "siradan",
+   "grup": "kiyi",
+   "etiketler": [],
+   "aciklama": "Yan yan yürüyen kıskaçlı kıyı sakini.",
+   "puan": {
+    "guc": 3,
+    "tehlike": 3,
+    "hiz": 3,
+    "hayatta_kalma": 8
+   }
+  },
+  {
+   "id": "ton-baligi",
+   "ad": "Ton Balığı",
+   "seviye": "siradan",
+   "grup": "acik_deniz",
+   "etiketler": [],
+   "aciklama": "Okyanusu hızla geçen güçlü yüzücü.",
+   "puan": {
+    "guc": 5,
+    "tehlike": 2,
+    "hiz": 9,
+    "hayatta_kalma": 7
+   }
+  },
+  {
+   "id": "balon-baligi",
+   "ad": "Balon Balığı",
+   "seviye": "siradan",
+   "grup": "kiyi",
+   "etiketler": [
+    "zehirli"
+   ],
+   "aciklama": "Şişip diken çıkarır, zehri çok güçlü.",
+   "puan": {
+    "guc": 1,
+    "tehlike": 8,
+    "hiz": 3,
+    "hayatta_kalma": 7
+   }
+  },
+  {
+   "id": "ucan-balik",
+   "ad": "Uçan Balık",
+   "seviye": "siradan",
+   "grup": "acik_deniz",
+   "etiketler": [],
+   "aciklama": "Suyun üstünde süzülerek kaçar.",
+   "puan": {
+    "guc": 1,
+    "tehlike": 1,
+    "hiz": 8,
+    "hayatta_kalma": 5
+   }
+  },
+  {
+   "id": "mantis-karidesi",
+   "ad": "Mantis Karidesi",
+   "seviye": "siradan",
+   "grup": "kiyi",
+   "etiketler": [],
+   "aciklama": "Hayvanlar aleminin en hızlı yumruklarından biri.",
+   "puan": {
+    "guc": 3,
+    "tehlike": 4,
+    "hiz": 10,
+    "hayatta_kalma": 7
+   }
+  },
+  {
+   "id": "fok",
+   "ad": "Fok",
+   "seviye": "siradan",
+   "grup": "memeli",
+   "etiketler": [],
+   "aciklama": "Kıyıların sevimli ve çevik yüzücüsü.",
+   "puan": {
+    "guc": 4,
+    "tehlike": 2,
+    "hiz": 6,
+    "hayatta_kalma": 7
+   }
+  },
+  {
+   "id": "ay-denizanasi",
+   "ad": "Ay Denizanası",
+   "seviye": "siradan",
+   "grup": "acik_deniz",
+   "etiketler": [],
+   "aciklama": "Hafif yakan, şeffaf denizanası.",
+   "puan": {
+    "guc": 1,
+    "tehlike": 2,
+    "hiz": 2,
+    "hayatta_kalma": 7
+   }
+  },
+  {
+   "id": "deniz-kestanesi",
+   "ad": "Deniz Kestanesi",
+   "seviye": "siradan",
+   "grup": "kiyi",
+   "etiketler": [],
+   "aciklama": "Dikenleriyle kayalıkların bekçisi.",
+   "puan": {
+    "guc": 1,
+    "tehlike": 3,
+    "hiz": 1,
+    "hayatta_kalma": 7
+   }
+  },
+  {
+   "id": "sardalya",
+   "ad": "Sardalya",
+   "seviye": "siradan",
+   "grup": "acik_deniz",
+   "etiketler": [],
+   "aciklama": "Sürüyle yüzerek kendini korur.",
+   "puan": {
+    "guc": 1,
+    "tehlike": 1,
+    "hiz": 7,
+    "hayatta_kalma": 6
+   }
+  }
+ ]
+}

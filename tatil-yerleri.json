@@ -1,0 +1,536 @@
+{
+ "id": "tatil-yerleri",
+ "ad": "Tatil Yerleri",
+ "sablon": "turnuva",
+ "gorev_mesaji": "Yaz tatili rotanı çiz: hangi rota daha unutulmaz?",
+ "olcutler": {
+  "doga": {
+   "ad": "Doğa",
+   "agirlik": 0.3
+  },
+  "deniz_ve_eglence": {
+   "ad": "Deniz ve eğlence",
+   "agirlik": 0.3
+  },
+  "yemek": {
+   "ad": "Yemek",
+   "agirlik": 0.2
+  },
+  "ulasim_ve_fiyat": {
+   "ad": "Ulaşım ve fiyat",
+   "agirlik": 0.2
+  }
+ },
+ "gruplar": {
+  "deniz": "Deniz",
+  "doga": "Doğa",
+  "sehir": "Şehir"
+ },
+ "sinerjiler": [
+  {
+   "tip": "gruplar_hepsi",
+   "ad": "Deniz, doğa ve şehir",
+   "gruplar": [
+    "deniz",
+    "doga",
+    "sehir"
+   ],
+   "bonus": 6
+  }
+ ],
+ "garanti": {},
+ "hakem_notu": "Deniz, doğa ve şehir tatilini birleştiren rotaya uyum bonusu ver.",
+ "kart_sayisi": 35,
+ "kartlar": [
+  {
+   "id": "bodrum",
+   "ad": "Bodrum",
+   "seviye": "efsane",
+   "grup": "deniz",
+   "etiketler": [],
+   "aciklama": "Gece hayatı, koylar ve beyaz evler.",
+   "puan": {
+    "doga": 7,
+    "deniz_ve_eglence": 10,
+    "yemek": 8,
+    "ulasim_ve_fiyat": 5
+   }
+  },
+  {
+   "id": "kapadokya",
+   "ad": "Kapadokya",
+   "seviye": "efsane",
+   "grup": "doga",
+   "etiketler": [],
+   "aciklama": "Peri bacaları ve gün doğumunda balonlar.",
+   "puan": {
+    "doga": 10,
+    "deniz_ve_eglence": 4,
+    "yemek": 7,
+    "ulasim_ve_fiyat": 7
+   }
+  },
+  {
+   "id": "antalya",
+   "ad": "Antalya",
+   "seviye": "efsane",
+   "grup": "deniz",
+   "etiketler": [],
+   "aciklama": "Kaleiçi, şelaleler ve uçsuz bucaksız plajlar.",
+   "puan": {
+    "doga": 8,
+    "deniz_ve_eglence": 10,
+    "yemek": 8,
+    "ulasim_ve_fiyat": 8
+   }
+  },
+  {
+   "id": "maldivler",
+   "ad": "Maldivler",
+   "seviye": "efsane",
+   "grup": "deniz",
+   "etiketler": [],
+   "aciklama": "Su üstü bungalovlar ve turkuaz deniz.",
+   "puan": {
+    "doga": 9,
+    "deniz_ve_eglence": 9,
+    "yemek": 6,
+    "ulasim_ve_fiyat": 2
+   }
+  },
+  {
+   "id": "bali",
+   "ad": "Bali",
+   "seviye": "efsane",
+   "grup": "deniz",
+   "etiketler": [],
+   "aciklama": "Tapınaklar, pirinç terasları ve sörf.",
+   "puan": {
+    "doga": 9,
+    "deniz_ve_eglence": 8,
+    "yemek": 8,
+    "ulasim_ve_fiyat": 4
+   }
+  },
+  {
+   "id": "paris",
+   "ad": "Paris",
+   "seviye": "efsane",
+   "grup": "sehir",
+   "etiketler": [],
+   "aciklama": "Eyfel, Louvre ve kafeler.",
+   "puan": {
+    "doga": 4,
+    "deniz_ve_eglence": 7,
+    "yemek": 9,
+    "ulasim_ve_fiyat": 5
+   }
+  },
+  {
+   "id": "i-stanbul",
+   "ad": "İstanbul",
+   "seviye": "efsane",
+   "grup": "sehir",
+   "etiketler": [],
+   "aciklama": "Boğaz, tarih ve bitmeyen lezzetler.",
+   "puan": {
+    "doga": 5,
+    "deniz_ve_eglence": 7,
+    "yemek": 10,
+    "ulasim_ve_fiyat": 8
+   }
+  },
+  {
+   "id": "oludeniz",
+   "ad": "Ölüdeniz",
+   "seviye": "guclu",
+   "grup": "deniz",
+   "etiketler": [],
+   "aciklama": "Yamaç paraşütü ve masmavi lagün.",
+   "puan": {
+    "doga": 9,
+    "deniz_ve_eglence": 9,
+    "yemek": 7,
+    "ulasim_ve_fiyat": 7
+   }
+  },
+  {
+   "id": "kas",
+   "ad": "Kaş",
+   "seviye": "guclu",
+   "grup": "deniz",
+   "etiketler": [],
+   "aciklama": "Dalış, koylar ve sakin sokaklar.",
+   "puan": {
+    "doga": 9,
+    "deniz_ve_eglence": 8,
+    "yemek": 7,
+    "ulasim_ve_fiyat": 6
+   }
+  },
+  {
+   "id": "alacati",
+   "ad": "Alaçatı",
+   "seviye": "guclu",
+   "grup": "deniz",
+   "etiketler": [],
+   "aciklama": "Rüzgâr sörfü ve taş evler.",
+   "puan": {
+    "doga": 6,
+    "deniz_ve_eglence": 9,
+    "yemek": 8,
+    "ulasim_ve_fiyat": 5
+   }
+  },
+  {
+   "id": "pamukkale",
+   "ad": "Pamukkale",
+   "seviye": "guclu",
+   "grup": "doga",
+   "etiketler": [],
+   "aciklama": "Bembeyaz travertenler ve antik havuz.",
+   "puan": {
+    "doga": 9,
+    "deniz_ve_eglence": 5,
+    "yemek": 6,
+    "ulasim_ve_fiyat": 8
+   }
+  },
+  {
+   "id": "uzungol",
+   "ad": "Uzungöl",
+   "seviye": "guclu",
+   "grup": "doga",
+   "etiketler": [],
+   "aciklama": "Karadeniz'in kartpostal gölü.",
+   "puan": {
+    "doga": 9,
+    "deniz_ve_eglence": 2,
+    "yemek": 7,
+    "ulasim_ve_fiyat": 7
+   }
+  },
+  {
+   "id": "ayder-yaylasi",
+   "ad": "Ayder Yaylası",
+   "seviye": "guclu",
+   "grup": "doga",
+   "etiketler": [],
+   "aciklama": "Sisli yeşil yaylalar ve kaplıcalar.",
+   "puan": {
+    "doga": 9,
+    "deniz_ve_eglence": 2,
+    "yemek": 8,
+    "ulasim_ve_fiyat": 7
+   }
+  },
+  {
+   "id": "santorini",
+   "ad": "Santorini",
+   "seviye": "guclu",
+   "grup": "deniz",
+   "etiketler": [],
+   "aciklama": "Mavi kubbeler ve ünlü gün batımı.",
+   "puan": {
+    "doga": 7,
+    "deniz_ve_eglence": 8,
+    "yemek": 8,
+    "ulasim_ve_fiyat": 4
+   }
+  },
+  {
+   "id": "roma",
+   "ad": "Roma",
+   "seviye": "guclu",
+   "grup": "sehir",
+   "etiketler": [],
+   "aciklama": "Kolezyum, çeşmeler ve makarna.",
+   "puan": {
+    "doga": 4,
+    "deniz_ve_eglence": 6,
+    "yemek": 10,
+    "ulasim_ve_fiyat": 5
+   }
+  },
+  {
+   "id": "dubai",
+   "ad": "Dubai",
+   "seviye": "guclu",
+   "grup": "sehir",
+   "etiketler": [],
+   "aciklama": "Gökdelenler, alışveriş ve çöl safarisi.",
+   "puan": {
+    "doga": 3,
+    "deniz_ve_eglence": 8,
+    "yemek": 7,
+    "ulasim_ve_fiyat": 4
+   }
+  },
+  {
+   "id": "tokyo",
+   "ad": "Tokyo",
+   "seviye": "guclu",
+   "grup": "sehir",
+   "etiketler": [],
+   "aciklama": "Teknoloji, tapınaklar ve ramen.",
+   "puan": {
+    "doga": 5,
+    "deniz_ve_eglence": 7,
+    "yemek": 10,
+    "ulasim_ve_fiyat": 3
+   }
+  },
+  {
+   "id": "i-svicre-alpleri",
+   "ad": "İsviçre Alpleri",
+   "seviye": "guclu",
+   "grup": "doga",
+   "etiketler": [],
+   "aciklama": "Karlı zirveler ve tren yolculukları.",
+   "puan": {
+    "doga": 10,
+    "deniz_ve_eglence": 5,
+    "yemek": 7,
+    "ulasim_ve_fiyat": 3
+   }
+  },
+  {
+   "id": "barselona",
+   "ad": "Barselona",
+   "seviye": "guclu",
+   "grup": "sehir",
+   "etiketler": [],
+   "aciklama": "Gaudí, plaj ve tapas.",
+   "puan": {
+    "doga": 5,
+    "deniz_ve_eglence": 9,
+    "yemek": 9,
+    "ulasim_ve_fiyat": 5
+   }
+  },
+  {
+   "id": "phuket",
+   "ad": "Phuket",
+   "seviye": "guclu",
+   "grup": "deniz",
+   "etiketler": [],
+   "aciklama": "Tayland'ın plaj ve eğlence adası.",
+   "puan": {
+    "doga": 8,
+    "deniz_ve_eglence": 9,
+    "yemek": 8,
+    "ulasim_ve_fiyat": 5
+   }
+  },
+  {
+   "id": "bozcaada",
+   "ad": "Bozcaada",
+   "seviye": "guclu",
+   "grup": "deniz",
+   "etiketler": [],
+   "aciklama": "Bağlar, rüzgâr ve sakin plajlar.",
+   "puan": {
+    "doga": 7,
+    "deniz_ve_eglence": 7,
+    "yemek": 8,
+    "ulasim_ve_fiyat": 6
+   }
+  },
+  {
+   "id": "amasra",
+   "ad": "Amasra",
+   "seviye": "siradan",
+   "grup": "deniz",
+   "etiketler": [],
+   "aciklama": "Balığı ve tarihi kalesiyle Karadeniz kasabası.",
+   "puan": {
+    "doga": 7,
+    "deniz_ve_eglence": 6,
+    "yemek": 8,
+    "ulasim_ve_fiyat": 7
+   }
+  },
+  {
+   "id": "safranbolu",
+   "ad": "Safranbolu",
+   "seviye": "siradan",
+   "grup": "sehir",
+   "etiketler": [],
+   "aciklama": "Osmanlı konakları ve lokumu.",
+   "puan": {
+    "doga": 6,
+    "deniz_ve_eglence": 2,
+    "yemek": 8,
+    "ulasim_ve_fiyat": 7
+   }
+  },
+  {
+   "id": "mardin",
+   "ad": "Mardin",
+   "seviye": "siradan",
+   "grup": "sehir",
+   "etiketler": [],
+   "aciklama": "Taş evler ve Mezopotamya manzarası.",
+   "puan": {
+    "doga": 5,
+    "deniz_ve_eglence": 2,
+    "yemek": 9,
+    "ulasim_ve_fiyat": 7
+   }
+  },
+  {
+   "id": "gokceada",
+   "ad": "Gökçeada",
+   "seviye": "siradan",
+   "grup": "deniz",
+   "etiketler": [],
+   "aciklama": "Türkiye'nin en büyük adası, sakin ve doğal.",
+   "puan": {
+    "doga": 8,
+    "deniz_ve_eglence": 6,
+    "yemek": 7,
+    "ulasim_ve_fiyat": 6
+   }
+  },
+  {
+   "id": "abant-golu",
+   "ad": "Abant Gölü",
+   "seviye": "siradan",
+   "grup": "doga",
+   "etiketler": [],
+   "aciklama": "Hafta sonu kaçamaklarının gölü.",
+   "puan": {
+    "doga": 8,
+    "deniz_ve_eglence": 2,
+    "yemek": 6,
+    "ulasim_ve_fiyat": 8
+   }
+  },
+  {
+   "id": "yedigoller",
+   "ad": "Yedigöller",
+   "seviye": "siradan",
+   "grup": "doga",
+   "etiketler": [],
+   "aciklama": "Sonbaharda renk cümbüşü.",
+   "puan": {
+    "doga": 9,
+    "deniz_ve_eglence": 1,
+    "yemek": 4,
+    "ulasim_ve_fiyat": 7
+   }
+  },
+  {
+   "id": "kaz-daglari",
+   "ad": "Kaz Dağları",
+   "seviye": "siradan",
+   "grup": "doga",
+   "etiketler": [],
+   "aciklama": "Oksijen deposu yeşil dağlar.",
+   "puan": {
+    "doga": 9,
+    "deniz_ve_eglence": 3,
+    "yemek": 7,
+    "ulasim_ve_fiyat": 8
+   }
+  },
+  {
+   "id": "saklikent-kanyonu",
+   "ad": "Saklıkent Kanyonu",
+   "seviye": "siradan",
+   "grup": "doga",
+   "etiketler": [],
+   "aciklama": "Buz gibi suyuyla kanyon yürüyüşü.",
+   "puan": {
+    "doga": 9,
+    "deniz_ve_eglence": 5,
+    "yemek": 6,
+    "ulasim_ve_fiyat": 7
+   }
+  },
+  {
+   "id": "prag",
+   "ad": "Prag",
+   "seviye": "siradan",
+   "grup": "sehir",
+   "etiketler": [],
+   "aciklama": "Masal gibi köprüler ve kuleler.",
+   "puan": {
+    "doga": 4,
+    "deniz_ve_eglence": 6,
+    "yemek": 8,
+    "ulasim_ve_fiyat": 7
+   }
+  },
+  {
+   "id": "amsterdam",
+   "ad": "Amsterdam",
+   "seviye": "siradan",
+   "grup": "sehir",
+   "etiketler": [],
+   "aciklama": "Kanallar ve bisikletler.",
+   "puan": {
+    "doga": 4,
+    "deniz_ve_eglence": 7,
+    "yemek": 7,
+    "ulasim_ve_fiyat": 5
+   }
+  },
+  {
+   "id": "kibris",
+   "ad": "Kıbrıs",
+   "seviye": "siradan",
+   "grup": "deniz",
+   "etiketler": [],
+   "aciklama": "Plajlar ve eğlence yakınında.",
+   "puan": {
+    "doga": 7,
+    "deniz_ve_eglence": 8,
+    "yemek": 8,
+    "ulasim_ve_fiyat": 7
+   }
+  },
+  {
+   "id": "batum",
+   "ad": "Batum",
+   "seviye": "siradan",
+   "grup": "sehir",
+   "etiketler": [],
+   "aciklama": "Karadeniz kıyısında yakın bir yurt dışı.",
+   "puan": {
+    "doga": 5,
+    "deniz_ve_eglence": 6,
+    "yemek": 7,
+    "ulasim_ve_fiyat": 8
+   }
+  },
+  {
+   "id": "sapanca",
+   "ad": "Sapanca",
+   "seviye": "siradan",
+   "grup": "doga",
+   "etiketler": [],
+   "aciklama": "Göl kenarında bungalov tatili.",
+   "puan": {
+    "doga": 7,
+    "deniz_ve_eglence": 4,
+    "yemek": 7,
+    "ulasim_ve_fiyat": 8
+   }
+  },
+  {
+   "id": "agva",
+   "ad": "Ağva",
+   "seviye": "siradan",
+   "grup": "doga",
+   "etiketler": [],
+   "aciklama": "İki nehrin denize kavuştuğu yeşil köy.",
+   "puan": {
+    "doga": 7,
+    "deniz_ve_eglence": 5,
+    "yemek": 7,
+    "ulasim_ve_fiyat": 8
+   }
+  }
+ ]
+}

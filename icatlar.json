@@ -1,0 +1,536 @@
+{
+ "id": "icatlar",
+ "ad": "İcatlar",
+ "sablon": "juri",
+ "gorev_mesaji": "Dünyayı değiştiren icatları seç: hangi set insanlık için daha önemli?",
+ "olcutler": {
+  "hayata_etkisi": {
+   "ad": "Hayata etkisi",
+   "agirlik": 0.4
+  },
+  "yayginlik": {
+   "ad": "Yaygınlık",
+   "agirlik": 0.25
+  },
+  "yenilikcilik": {
+   "ad": "Yenilikçilik",
+   "agirlik": 0.2
+  },
+  "yerine_konamazlik": {
+   "ad": "Yerine konamazlık",
+   "agirlik": 0.15
+  }
+ },
+ "gruplar": {
+  "ulasim": "Ulaşım",
+  "iletisim": "İletişim",
+  "saglik": "Sağlık",
+  "enerji": "Enerji ve sanayi",
+  "gunluk": "Günlük hayat"
+ },
+ "sinerjiler": [
+  {
+   "tip": "cesitlilik",
+   "ad": "Medeniyet seti",
+   "esikler": {
+    "3": 4,
+    "4": 7
+   }
+  }
+ ],
+ "garanti": {},
+ "hakem_notu": "Farklı alanları kapsayan sete uyum bonusu ver.",
+ "kart_sayisi": 35,
+ "kartlar": [
+  {
+   "id": "tekerlek",
+   "ad": "Tekerlek",
+   "seviye": "efsane",
+   "grup": "ulasim",
+   "etiketler": [],
+   "aciklama": "Ulaşımın ve makinelerin başlangıcı.",
+   "puan": {
+    "hayata_etkisi": 10,
+    "yayginlik": 10,
+    "yenilikcilik": 8,
+    "yerine_konamazlik": 10
+   }
+  },
+  {
+   "id": "ampul",
+   "ad": "Ampul",
+   "seviye": "efsane",
+   "grup": "enerji",
+   "etiketler": [],
+   "aciklama": "Geceyi aydınlatan icat.",
+   "puan": {
+    "hayata_etkisi": 10,
+    "yayginlik": 10,
+    "yenilikcilik": 8,
+    "yerine_konamazlik": 9
+   }
+  },
+  {
+   "id": "i-nternet",
+   "ad": "İnternet",
+   "seviye": "efsane",
+   "grup": "iletisim",
+   "etiketler": [],
+   "aciklama": "Dünyayı birbirine bağlayan ağ.",
+   "puan": {
+    "hayata_etkisi": 10,
+    "yayginlik": 10,
+    "yenilikcilik": 10,
+    "yerine_konamazlik": 10
+   }
+  },
+  {
+   "id": "matbaa",
+   "ad": "Matbaa",
+   "seviye": "efsane",
+   "grup": "iletisim",
+   "etiketler": [],
+   "aciklama": "Bilgiyi herkese ulaştıran makine.",
+   "puan": {
+    "hayata_etkisi": 10,
+    "yayginlik": 9,
+    "yenilikcilik": 9,
+    "yerine_konamazlik": 8
+   }
+  },
+  {
+   "id": "penisilin",
+   "ad": "Penisilin",
+   "seviye": "efsane",
+   "grup": "saglik",
+   "etiketler": [],
+   "aciklama": "Antibiyotik çağını başlatan keşif.",
+   "puan": {
+    "hayata_etkisi": 10,
+    "yayginlik": 9,
+    "yenilikcilik": 9,
+    "yerine_konamazlik": 9
+   }
+  },
+  {
+   "id": "telefon",
+   "ad": "Telefon",
+   "seviye": "efsane",
+   "grup": "iletisim",
+   "etiketler": [],
+   "aciklama": "Uzaktaki sesi yanına getiren icat.",
+   "puan": {
+    "hayata_etkisi": 9,
+    "yayginlik": 10,
+    "yenilikcilik": 9,
+    "yerine_konamazlik": 9
+   }
+  },
+  {
+   "id": "asi",
+   "ad": "Aşı",
+   "seviye": "efsane",
+   "grup": "saglik",
+   "etiketler": [],
+   "aciklama": "Salgınları durduran koruma kalkanı.",
+   "puan": {
+    "hayata_etkisi": 10,
+    "yayginlik": 10,
+    "yenilikcilik": 9,
+    "yerine_konamazlik": 10
+   }
+  },
+  {
+   "id": "buhar-makinesi",
+   "ad": "Buhar Makinesi",
+   "seviye": "guclu",
+   "grup": "enerji",
+   "etiketler": [],
+   "aciklama": "Sanayi devriminin motoru.",
+   "puan": {
+    "hayata_etkisi": 9,
+    "yayginlik": 7,
+    "yenilikcilik": 9,
+    "yerine_konamazlik": 6
+   }
+  },
+  {
+   "id": "otomobil",
+   "ad": "Otomobil",
+   "seviye": "guclu",
+   "grup": "ulasim",
+   "etiketler": [],
+   "aciklama": "Kişisel ulaşımı değiştiren icat.",
+   "puan": {
+    "hayata_etkisi": 9,
+    "yayginlik": 10,
+    "yenilikcilik": 8,
+    "yerine_konamazlik": 8
+   }
+  },
+  {
+   "id": "ucak",
+   "ad": "Uçak",
+   "seviye": "guclu",
+   "grup": "ulasim",
+   "etiketler": [],
+   "aciklama": "Kıtaları saatlere indiren icat.",
+   "puan": {
+    "hayata_etkisi": 9,
+    "yayginlik": 8,
+    "yenilikcilik": 10,
+    "yerine_konamazlik": 8
+   }
+  },
+  {
+   "id": "bilgisayar",
+   "ad": "Bilgisayar",
+   "seviye": "guclu",
+   "grup": "iletisim",
+   "etiketler": [],
+   "aciklama": "Hesaplamadan eğlenceye her şey.",
+   "puan": {
+    "hayata_etkisi": 10,
+    "yayginlik": 10,
+    "yenilikcilik": 10,
+    "yerine_konamazlik": 9
+   }
+  },
+  {
+   "id": "pusula",
+   "ad": "Pusula",
+   "seviye": "guclu",
+   "grup": "ulasim",
+   "etiketler": [],
+   "aciklama": "Denizlerde yön bulmayı sağladı.",
+   "puan": {
+    "hayata_etkisi": 8,
+    "yayginlik": 7,
+    "yenilikcilik": 8,
+    "yerine_konamazlik": 5
+   }
+  },
+  {
+   "id": "buzdolabi",
+   "ad": "Buzdolabı",
+   "seviye": "guclu",
+   "grup": "gunluk",
+   "etiketler": [],
+   "aciklama": "Yiyecekleri günlerce taze tutar.",
+   "puan": {
+    "hayata_etkisi": 8,
+    "yayginlik": 10,
+    "yenilikcilik": 7,
+    "yerine_konamazlik": 8
+   }
+  },
+  {
+   "id": "radyo",
+   "ad": "Radyo",
+   "seviye": "guclu",
+   "grup": "iletisim",
+   "etiketler": [],
+   "aciklama": "Sesin dalgalarla yayılması.",
+   "puan": {
+    "hayata_etkisi": 8,
+    "yayginlik": 8,
+    "yenilikcilik": 8,
+    "yerine_konamazlik": 5
+   }
+  },
+  {
+   "id": "televizyon",
+   "ad": "Televizyon",
+   "seviye": "guclu",
+   "grup": "iletisim",
+   "etiketler": [],
+   "aciklama": "Görüntüyü evlere taşıdı.",
+   "puan": {
+    "hayata_etkisi": 8,
+    "yayginlik": 10,
+    "yenilikcilik": 8,
+    "yerine_konamazlik": 6
+   }
+  },
+  {
+   "id": "rontgen",
+   "ad": "Röntgen",
+   "seviye": "guclu",
+   "grup": "saglik",
+   "etiketler": [],
+   "aciklama": "Vücudun içini görmeyi sağladı.",
+   "puan": {
+    "hayata_etkisi": 9,
+    "yayginlik": 8,
+    "yenilikcilik": 9,
+    "yerine_konamazlik": 9
+   }
+  },
+  {
+   "id": "kagit",
+   "ad": "Kâğıt",
+   "seviye": "guclu",
+   "grup": "gunluk",
+   "etiketler": [],
+   "aciklama": "Yazının ve bilginin taşıyıcısı.",
+   "puan": {
+    "hayata_etkisi": 9,
+    "yayginlik": 10,
+    "yenilikcilik": 7,
+    "yerine_konamazlik": 8
+   }
+  },
+  {
+   "id": "saat",
+   "ad": "Saat",
+   "seviye": "guclu",
+   "grup": "gunluk",
+   "etiketler": [],
+   "aciklama": "Zamanı ölçmenin aracı.",
+   "puan": {
+    "hayata_etkisi": 8,
+    "yayginlik": 10,
+    "yenilikcilik": 7,
+    "yerine_konamazlik": 7
+   }
+  },
+  {
+   "id": "pil",
+   "ad": "Pil",
+   "seviye": "guclu",
+   "grup": "enerji",
+   "etiketler": [],
+   "aciklama": "Taşınabilir enerji.",
+   "puan": {
+    "hayata_etkisi": 8,
+    "yayginlik": 10,
+    "yenilikcilik": 7,
+    "yerine_konamazlik": 8
+   }
+  },
+  {
+   "id": "akilli-telefon",
+   "ad": "Akıllı Telefon",
+   "seviye": "guclu",
+   "grup": "iletisim",
+   "etiketler": [],
+   "aciklama": "Cebe sığan bilgisayar.",
+   "puan": {
+    "hayata_etkisi": 9,
+    "yayginlik": 10,
+    "yenilikcilik": 9,
+    "yerine_konamazlik": 8
+   }
+  },
+  {
+   "id": "tren",
+   "ad": "Tren",
+   "seviye": "guclu",
+   "grup": "ulasim",
+   "etiketler": [],
+   "aciklama": "Şehirleri raylarla bağladı.",
+   "puan": {
+    "hayata_etkisi": 8,
+    "yayginlik": 8,
+    "yenilikcilik": 8,
+    "yerine_konamazlik": 7
+   }
+  },
+  {
+   "id": "camasir-makinesi",
+   "ad": "Çamaşır Makinesi",
+   "seviye": "siradan",
+   "grup": "gunluk",
+   "etiketler": [],
+   "aciklama": "Ev işlerini kökten kolaylaştırdı.",
+   "puan": {
+    "hayata_etkisi": 8,
+    "yayginlik": 9,
+    "yenilikcilik": 7,
+    "yerine_konamazlik": 7
+   }
+  },
+  {
+   "id": "mikrodalga-firin",
+   "ad": "Mikrodalga Fırın",
+   "seviye": "siradan",
+   "grup": "gunluk",
+   "etiketler": [],
+   "aciklama": "Saniyelerde ısıtma.",
+   "puan": {
+    "hayata_etkisi": 5,
+    "yayginlik": 8,
+    "yenilikcilik": 7,
+    "yerine_konamazlik": 4
+   }
+  },
+  {
+   "id": "klima",
+   "ad": "Klima",
+   "seviye": "siradan",
+   "grup": "gunluk",
+   "etiketler": [],
+   "aciklama": "Sıcak yazların kurtarıcısı.",
+   "puan": {
+    "hayata_etkisi": 6,
+    "yayginlik": 8,
+    "yenilikcilik": 6,
+    "yerine_konamazlik": 5
+   }
+  },
+  {
+   "id": "fotograf-makinesi",
+   "ad": "Fotoğraf Makinesi",
+   "seviye": "siradan",
+   "grup": "iletisim",
+   "etiketler": [],
+   "aciklama": "Anıları ölümsüzleştirdi.",
+   "puan": {
+    "hayata_etkisi": 7,
+    "yayginlik": 8,
+    "yenilikcilik": 8,
+    "yerine_konamazlik": 5
+   }
+  },
+  {
+   "id": "gps",
+   "ad": "GPS",
+   "seviye": "siradan",
+   "grup": "ulasim",
+   "etiketler": [],
+   "aciklama": "Kaybolmayı neredeyse imkânsız yaptı.",
+   "puan": {
+    "hayata_etkisi": 8,
+    "yayginlik": 9,
+    "yenilikcilik": 9,
+    "yerine_konamazlik": 7
+   }
+  },
+  {
+   "id": "gunes-paneli",
+   "ad": "Güneş Paneli",
+   "seviye": "siradan",
+   "grup": "enerji",
+   "etiketler": [],
+   "aciklama": "Güneşten elektrik üretir.",
+   "puan": {
+    "hayata_etkisi": 7,
+    "yayginlik": 6,
+    "yenilikcilik": 8,
+    "yerine_konamazlik": 6
+   }
+  },
+  {
+   "id": "bisiklet",
+   "ad": "Bisiklet",
+   "seviye": "siradan",
+   "grup": "ulasim",
+   "etiketler": [],
+   "aciklama": "Basit, sağlıklı ve yakıtsız ulaşım.",
+   "puan": {
+    "hayata_etkisi": 7,
+    "yayginlik": 9,
+    "yenilikcilik": 7,
+    "yerine_konamazlik": 6
+   }
+  },
+  {
+   "id": "gozluk",
+   "ad": "Gözlük",
+   "seviye": "siradan",
+   "grup": "saglik",
+   "etiketler": [],
+   "aciklama": "Milyonlara net görüş kazandırdı.",
+   "puan": {
+    "hayata_etkisi": 8,
+    "yayginlik": 9,
+    "yenilikcilik": 6,
+    "yerine_konamazlik": 8
+   }
+  },
+  {
+   "id": "dis-fircasi",
+   "ad": "Diş Fırçası",
+   "seviye": "siradan",
+   "grup": "gunluk",
+   "etiketler": [],
+   "aciklama": "Her sabah ve her akşam.",
+   "puan": {
+    "hayata_etkisi": 7,
+    "yayginlik": 10,
+    "yenilikcilik": 5,
+    "yerine_konamazlik": 8
+   }
+  },
+  {
+   "id": "fermuar",
+   "ad": "Fermuar",
+   "seviye": "siradan",
+   "grup": "gunluk",
+   "etiketler": [],
+   "aciklama": "Giyimin küçük ama vazgeçilmez parçası.",
+   "puan": {
+    "hayata_etkisi": 5,
+    "yayginlik": 10,
+    "yenilikcilik": 6,
+    "yerine_konamazlik": 5
+   }
+  },
+  {
+   "id": "konserve-kutusu",
+   "ad": "Konserve Kutusu",
+   "seviye": "siradan",
+   "grup": "gunluk",
+   "etiketler": [],
+   "aciklama": "Yiyeceği aylarca saklar.",
+   "puan": {
+    "hayata_etkisi": 6,
+    "yayginlik": 9,
+    "yenilikcilik": 6,
+    "yerine_konamazlik": 5
+   }
+  },
+  {
+   "id": "anestezi",
+   "ad": "Anestezi",
+   "seviye": "siradan",
+   "grup": "saglik",
+   "etiketler": [],
+   "aciklama": "Ağrısız ameliyatı mümkün kıldı.",
+   "puan": {
+    "hayata_etkisi": 9,
+    "yayginlik": 8,
+    "yenilikcilik": 8,
+    "yerine_konamazlik": 9
+   }
+  },
+  {
+   "id": "ruzgar-turbini",
+   "ad": "Rüzgâr Türbini",
+   "seviye": "siradan",
+   "grup": "enerji",
+   "etiketler": [],
+   "aciklama": "Rüzgârdan temiz enerji.",
+   "puan": {
+    "hayata_etkisi": 6,
+    "yayginlik": 6,
+    "yenilikcilik": 7,
+    "yerine_konamazlik": 5
+   }
+  },
+  {
+   "id": "mikroskop",
+   "ad": "Mikroskop",
+   "seviye": "siradan",
+   "grup": "saglik",
+   "etiketler": [],
+   "aciklama": "Mikropların dünyasını açtı.",
+   "puan": {
+    "hayata_etkisi": 8,
+    "yayginlik": 7,
+    "yenilikcilik": 8,
+    "yerine_konamazlik": 8
+   }
+  }
+ ]
+}
