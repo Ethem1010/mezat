@@ -1,0 +1,36 @@
+# Diziler — ad|seviye|grup|etiketler|açıklama|Hikâye,Reyting,Efsanelik,Tekrar izlenme
+Breaking Bad|e|aksiyon||Kimya öğretmeninin suç dünyasına dönüşümü.|10,8,10,8
+Game of Thrones|e|fantastik||Demir Taht için savaşan haneler.|9,10,10,7
+Kurtlar Vadisi|e|aksiyon||Polat Alemdar ve Türk dizilerinin en efsanelerinden.|8,10,9,7
+Avrupa Yakası|e|komedi||Bitmeyen esprileriyle defalarca izlenen komedi.|8,9,9,10
+Friends|e|komedi||Altı arkadaşın New York hikâyesi.|8,10,10,10
+Ezel|e|dram||İntikam, ihanet ve unutulmaz replikler.|10,9,9,8
+Leyla ile Mecnun|e|komedi||Absürt mizahıyla kült olmuş dizi.|9,7,10,10
+Prison Break|g|aksiyon||Dövmedeki planla hapisten kaçış.|8,9,8,7
+La Casa de Papel|g|aksiyon||Profesör ve darphane soygunu.|8,9,8,6
+Stranger Things|g|fantastik||80'ler havasında doğaüstü macera.|8,9,8,7
+Sherlock|g|aksiyon||Modern Londra'da dâhi dedektif.|9,8,8,8
+The Office|g|komedi||Ofis hayatının en komik hali.|8,8,9,10
+Muhteşem Yüzyıl|g|dram||Kanuni dönemi saray hikâyesi; dünyaya satıldı.|7,10,8,6
+Yaprak Dökümü|g|dram||Bir ailenin dağılışını anlatan klasik.|8,9,7,6
+Behzat Ç.|g|aksiyon||Ankara'nın sert ve kendine özgü komiseri.|9,7,9,8
+Gibi|g|komedi||Absürt diyaloglarıyla yeni nesil kült komedi.|9,6,8,9
+Çukur|g|aksiyon||Bir mahallenin ve ailenin mücadelesi.|7,9,7,6
+Dexter|g|aksiyon||Gizli bir hayat süren adli tıp uzmanı.|8,8,8,7
+The Big Bang Theory|g|komedi||Dâhi ama sosyal açıdan zorlanan bilim insanları.|7,9,8,9
+Bir Zamanlar Çukurova|g|dram||Çukurova'da aşk ve hırs hikâyesi.|7,9,6,5
+Yeşil Deniz|g|komedi||Karadeniz'de bir otel ve unutulmaz karakterler.|7,8,8,9
+Arka Sokaklar|s|aksiyon||Yıllarca ekranda kalan polis dizisi.|5,8,6,5
+Kavak Yelleri|s|dram||Gençlik ve aile hikâyesi.|7,7,6,6
+Aşk-ı Memnu|s|dram||Yasak aşk hikâyesiyle reyting rekoru kıran dizi.|8,9,7,6
+Sihirli Annem|s|fantastik||Büyülü bir anne ve komik bir aile.|7,8,8,8
+Çocuklar Duymasın|s|komedi||Bir ailenin yıllara yayılan komik hikâyesi.|7,9,8,8
+Dark|s|fantastik||Zaman yolculuğuyla iç içe geçmiş aile sırları.|9,6,7,6
+Black Mirror|s|fantastik||Teknolojinin karanlık yüzünü anlatan bölümler.|9,6,8,6
+The Walking Dead|s|aksiyon||Zombi kıyametinde hayatta kalma.|7,8,7,5
+Lost|s|fantastik||Gizemli bir adaya düşen yolcular.|8,8,8,5
+How I Met Your Mother|s|komedi||Bir babanın çocuklarına anlattığı uzun hikâye.|7,8,7,8
+Wednesday|s|fantastik||Addams ailesinin gotik kızı okulda.|6,9,5,6
+Squid Game|s|aksiyon||Çocuk oyunlarıyla ölümcül bir yarışma.|7,10,7,5
+Peaky Blinders|s|aksiyon||Birmingham'ın şapkalı çetesi.|8,7,8,7
+Diriliş Ertuğrul|s|aksiyon||Kayı boyunun hikâyesi, birçok ülkede izlendi.|6,9,6,5

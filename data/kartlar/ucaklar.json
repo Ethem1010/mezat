@@ -1,0 +1,535 @@
+{
+ "id": "ucaklar",
+ "ad": "Uçaklar",
+ "sablon": "yaris",
+ "gorev_mesaji": "Hava filonu kur: hangi filo daha hızlı ve güçlü?",
+ "olcutler": {
+  "hiz": {
+   "ad": "Hız",
+   "agirlik": 0.35
+  },
+  "teknoloji": {
+   "ad": "Teknoloji",
+   "agirlik": 0.25
+  },
+  "menzil": {
+   "ad": "Menzil",
+   "agirlik": 0.2
+  },
+  "i_koniklik": {
+   "ad": "İkoniklik",
+   "agirlik": 0.2
+  }
+ },
+ "gruplar": {
+  "yolcu": "Yolcu uçağı",
+  "askeri": "Askeri",
+  "ozel": "Keşif ve özel",
+  "helikopter": "Helikopter"
+ },
+ "sinerjiler": [
+  {
+   "tip": "cesitlilik",
+   "ad": "Karma filo",
+   "esikler": {
+    "3": 4,
+    "4": 7
+   }
+  }
+ ],
+ "garanti": {},
+ "hakem_notu": "Yarış simülasyonu yap (kalkış, hız, menzil turu). Farklı tipleri birleştiren filoya uyum bonusu ver.",
+ "kart_sayisi": 35,
+ "kartlar": [
+  {
+   "id": "concorde",
+   "ad": "Concorde",
+   "seviye": "efsane",
+   "grup": "yolcu",
+   "etiketler": [],
+   "aciklama": "Atlantik'i 3,5 saatte geçen ses üstü yolcu uçağı.",
+   "puan": {
+    "hiz": 10,
+    "teknoloji": 9,
+    "menzil": 6,
+    "i_koniklik": 10
+   }
+  },
+  {
+   "id": "sr-71-blackbird",
+   "ad": "SR-71 Blackbird",
+   "seviye": "efsane",
+   "grup": "ozel",
+   "etiketler": [],
+   "aciklama": "Hız rekoru hâlâ kırılmayan keşif uçağı.",
+   "puan": {
+    "hiz": 10,
+    "teknoloji": 10,
+    "menzil": 7,
+    "i_koniklik": 10
+   }
+  },
+  {
+   "id": "boeing-747",
+   "ad": "Boeing 747",
+   "seviye": "efsane",
+   "grup": "yolcu",
+   "etiketler": [],
+   "aciklama": "Gökyüzünün Kraliçesi, ilk jumbo jet.",
+   "puan": {
+    "hiz": 7,
+    "teknoloji": 7,
+    "menzil": 9,
+    "i_koniklik": 10
+   }
+  },
+  {
+   "id": "f-22-raptor",
+   "ad": "F-22 Raptor",
+   "seviye": "efsane",
+   "grup": "askeri",
+   "etiketler": [],
+   "aciklama": "Radara yakalanmayan hava üstünlüğü uçağı.",
+   "puan": {
+    "hiz": 9,
+    "teknoloji": 10,
+    "menzil": 7,
+    "i_koniklik": 8
+   }
+  },
+  {
+   "id": "wright-flyer",
+   "ad": "Wright Flyer",
+   "seviye": "efsane",
+   "grup": "ozel",
+   "etiketler": [],
+   "aciklama": "İnsanlığın ilk motorlu uçuşu.",
+   "puan": {
+    "hiz": 1,
+    "teknoloji": 3,
+    "menzil": 1,
+    "i_koniklik": 10
+   }
+  },
+  {
+   "id": "airbus-a380",
+   "ad": "Airbus A380",
+   "seviye": "efsane",
+   "grup": "yolcu",
+   "etiketler": [],
+   "aciklama": "Dünyanın en büyük yolcu uçağı.",
+   "puan": {
+    "hiz": 7,
+    "teknoloji": 9,
+    "menzil": 10,
+    "i_koniklik": 9
+   }
+  },
+  {
+   "id": "f-16",
+   "ad": "F-16",
+   "seviye": "efsane",
+   "grup": "askeri",
+   "etiketler": [],
+   "aciklama": "Türk Hava Kuvvetleri'nin de belkemiği olan savaş uçağı.",
+   "puan": {
+    "hiz": 8,
+    "teknoloji": 8,
+    "menzil": 7,
+    "i_koniklik": 9
+   }
+  },
+  {
+   "id": "f-35",
+   "ad": "F-35",
+   "seviye": "guclu",
+   "grup": "askeri",
+   "etiketler": [],
+   "aciklama": "Yeni nesil gizli savaş uçağı.",
+   "puan": {
+    "hiz": 8,
+    "teknoloji": 10,
+    "menzil": 7,
+    "i_koniklik": 7
+   }
+  },
+  {
+   "id": "spitfire",
+   "ad": "Spitfire",
+   "seviye": "guclu",
+   "grup": "askeri",
+   "etiketler": [],
+   "aciklama": "İkinci Dünya Savaşı'nın efsane avcısı.",
+   "puan": {
+    "hiz": 6,
+    "teknoloji": 5,
+    "menzil": 4,
+    "i_koniklik": 9
+   }
+  },
+  {
+   "id": "p-51-mustang",
+   "ad": "P-51 Mustang",
+   "seviye": "guclu",
+   "grup": "askeri",
+   "etiketler": [],
+   "aciklama": "Uzun menzilli eskort avcısı.",
+   "puan": {
+    "hiz": 7,
+    "teknoloji": 5,
+    "menzil": 6,
+    "i_koniklik": 8
+   }
+  },
+  {
+   "id": "eurofighter-typhoon",
+   "ad": "Eurofighter Typhoon",
+   "seviye": "guclu",
+   "grup": "askeri",
+   "etiketler": [],
+   "aciklama": "Avrupa ortak yapımı çevik savaş uçağı.",
+   "puan": {
+    "hiz": 9,
+    "teknoloji": 9,
+    "menzil": 7,
+    "i_koniklik": 7
+   }
+  },
+  {
+   "id": "su-57",
+   "ad": "Su-57",
+   "seviye": "guclu",
+   "grup": "askeri",
+   "etiketler": [],
+   "aciklama": "Rus yapımı yeni nesil savaş uçağı.",
+   "puan": {
+    "hiz": 9,
+    "teknoloji": 9,
+    "menzil": 7,
+    "i_koniklik": 6
+   }
+  },
+  {
+   "id": "hurjet",
+   "ad": "Hürjet",
+   "seviye": "guclu",
+   "grup": "askeri",
+   "etiketler": [],
+   "aciklama": "Türkiye'nin jet eğitim ve hafif taarruz uçağı.",
+   "puan": {
+    "hiz": 8,
+    "teknoloji": 8,
+    "menzil": 6,
+    "i_koniklik": 6
+   }
+  },
+  {
+   "id": "kaan",
+   "ad": "KAAN",
+   "seviye": "guclu",
+   "grup": "askeri",
+   "etiketler": [],
+   "aciklama": "Türkiye'nin milli muharip uçağı projesi.",
+   "puan": {
+    "hiz": 8,
+    "teknoloji": 9,
+    "menzil": 6,
+    "i_koniklik": 7
+   }
+  },
+  {
+   "id": "boeing-787-dreamliner",
+   "ad": "Boeing 787 Dreamliner",
+   "seviye": "guclu",
+   "grup": "yolcu",
+   "etiketler": [],
+   "aciklama": "Karbon gövdeli verimli uzun yol uçağı.",
+   "puan": {
+    "hiz": 7,
+    "teknoloji": 9,
+    "menzil": 10,
+    "i_koniklik": 7
+   }
+  },
+  {
+   "id": "airbus-a350",
+   "ad": "Airbus A350",
+   "seviye": "guclu",
+   "grup": "yolcu",
+   "etiketler": [],
+   "aciklama": "Sessiz ve verimli geniş gövde uçak.",
+   "puan": {
+    "hiz": 7,
+    "teknoloji": 9,
+    "menzil": 10,
+    "i_koniklik": 6
+   }
+  },
+  {
+   "id": "uzay-mekigi",
+   "ad": "Uzay Mekiği",
+   "seviye": "guclu",
+   "grup": "ozel",
+   "etiketler": [],
+   "aciklama": "Uzaya gidip pist üzerine inen mekik.",
+   "puan": {
+    "hiz": 9,
+    "teknoloji": 10,
+    "menzil": 8,
+    "i_koniklik": 10
+   }
+  },
+  {
+   "id": "u-2",
+   "ad": "U-2",
+   "seviye": "guclu",
+   "grup": "ozel",
+   "etiketler": [],
+   "aciklama": "Stratosferde uçan casus uçak.",
+   "puan": {
+    "hiz": 5,
+    "teknoloji": 7,
+    "menzil": 9,
+    "i_koniklik": 7
+   }
+  },
+  {
+   "id": "black-hawk",
+   "ad": "Black Hawk",
+   "seviye": "guclu",
+   "grup": "helikopter",
+   "etiketler": [],
+   "aciklama": "Dünyanın en bilinen askeri helikopterlerinden.",
+   "puan": {
+    "hiz": 5,
+    "teknoloji": 7,
+    "menzil": 5,
+    "i_koniklik": 8
+   }
+  },
+  {
+   "id": "apache",
+   "ad": "Apache",
+   "seviye": "guclu",
+   "grup": "helikopter",
+   "etiketler": [],
+   "aciklama": "Güçlü taarruz helikopteri.",
+   "puan": {
+    "hiz": 6,
+    "teknoloji": 8,
+    "menzil": 5,
+    "i_koniklik": 8
+   }
+  },
+  {
+   "id": "t129-atak",
+   "ad": "T129 ATAK",
+   "seviye": "guclu",
+   "grup": "helikopter",
+   "etiketler": [],
+   "aciklama": "Türkiye'de üretilen taarruz helikopteri.",
+   "puan": {
+    "hiz": 6,
+    "teknoloji": 8,
+    "menzil": 5,
+    "i_koniklik": 7
+   }
+  },
+  {
+   "id": "cessna-172",
+   "ad": "Cessna 172",
+   "seviye": "siradan",
+   "grup": "ozel",
+   "etiketler": [],
+   "aciklama": "Pilotların ilk uçtuğu küçük uçak.",
+   "puan": {
+    "hiz": 2,
+    "teknoloji": 4,
+    "menzil": 4,
+    "i_koniklik": 6
+   }
+  },
+  {
+   "id": "boeing-737",
+   "ad": "Boeing 737",
+   "seviye": "siradan",
+   "grup": "yolcu",
+   "etiketler": [],
+   "aciklama": "Dünyanın en çok üretilen jet yolcu uçaklarından.",
+   "puan": {
+    "hiz": 6,
+    "teknoloji": 6,
+    "menzil": 6,
+    "i_koniklik": 7
+   }
+  },
+  {
+   "id": "airbus-a320",
+   "ad": "Airbus A320",
+   "seviye": "siradan",
+   "grup": "yolcu",
+   "etiketler": [],
+   "aciklama": "Kısa ve orta mesafenin işçi uçağı.",
+   "puan": {
+    "hiz": 6,
+    "teknoloji": 7,
+    "menzil": 6,
+    "i_koniklik": 6
+   }
+  },
+  {
+   "id": "atr-72",
+   "ad": "ATR 72",
+   "seviye": "siradan",
+   "grup": "yolcu",
+   "etiketler": [],
+   "aciklama": "Kısa hatların pervaneli uçağı.",
+   "puan": {
+    "hiz": 4,
+    "teknoloji": 5,
+    "menzil": 4,
+    "i_koniklik": 3
+   }
+  },
+  {
+   "id": "hurkus",
+   "ad": "Hürkuş",
+   "seviye": "siradan",
+   "grup": "askeri",
+   "etiketler": [],
+   "aciklama": "Türkiye'nin ilk yerli eğitim uçağı.",
+   "puan": {
+    "hiz": 4,
+    "teknoloji": 6,
+    "menzil": 4,
+    "i_koniklik": 5
+   }
+  },
+  {
+   "id": "bayraktar-tb2",
+   "ad": "Bayraktar TB2",
+   "seviye": "siradan",
+   "grup": "askeri",
+   "etiketler": [],
+   "aciklama": "Dünyaya ihraç edilen Türk insansız hava aracı.",
+   "puan": {
+    "hiz": 3,
+    "teknoloji": 8,
+    "menzil": 7,
+    "i_koniklik": 8
+   }
+  },
+  {
+   "id": "chinook",
+   "ad": "Chinook",
+   "seviye": "siradan",
+   "grup": "helikopter",
+   "etiketler": [],
+   "aciklama": "Çift rotorlu ağır yük helikopteri.",
+   "puan": {
+    "hiz": 4,
+    "teknoloji": 6,
+    "menzil": 5,
+    "i_koniklik": 7
+   }
+  },
+  {
+   "id": "robinson-r44",
+   "ad": "Robinson R44",
+   "seviye": "siradan",
+   "grup": "helikopter",
+   "etiketler": [],
+   "aciklama": "Küçük ve popüler sivil helikopter.",
+   "puan": {
+    "hiz": 3,
+    "teknoloji": 4,
+    "menzil": 3,
+    "i_koniklik": 3
+   }
+  },
+  {
+   "id": "antonov-an-225",
+   "ad": "Antonov An-225",
+   "seviye": "siradan",
+   "grup": "ozel",
+   "etiketler": [],
+   "aciklama": "Dünyanın en büyük kargo uçağıydı.",
+   "puan": {
+    "hiz": 6,
+    "teknoloji": 6,
+    "menzil": 8,
+    "i_koniklik": 9
+   }
+  },
+  {
+   "id": "planor",
+   "ad": "Planör",
+   "seviye": "siradan",
+   "grup": "ozel",
+   "etiketler": [],
+   "aciklama": "Motorsuz, rüzgârla süzülen uçak.",
+   "puan": {
+    "hiz": 1,
+    "teknoloji": 3,
+    "menzil": 3,
+    "i_koniklik": 4
+   }
+  },
+  {
+   "id": "douglas-dc-3",
+   "ad": "Douglas DC-3",
+   "seviye": "siradan",
+   "grup": "yolcu",
+   "etiketler": [],
+   "aciklama": "Hava yolculuğunu yaygınlaştıran klasik.",
+   "puan": {
+    "hiz": 4,
+    "teknoloji": 3,
+    "menzil": 5,
+    "i_koniklik": 8
+   }
+  },
+  {
+   "id": "harrier",
+   "ad": "Harrier",
+   "seviye": "siradan",
+   "grup": "askeri",
+   "etiketler": [],
+   "aciklama": "Dikey kalkış yapabilen savaş uçağı.",
+   "puan": {
+    "hiz": 6,
+    "teknoloji": 7,
+    "menzil": 4,
+    "i_koniklik": 8
+   }
+  },
+  {
+   "id": "v-22-osprey",
+   "ad": "V-22 Osprey",
+   "seviye": "siradan",
+   "grup": "helikopter",
+   "etiketler": [],
+   "aciklama": "Hem helikopter hem uçak gibi uçar.",
+   "puan": {
+    "hiz": 6,
+    "teknoloji": 9,
+    "menzil": 7,
+    "i_koniklik": 7
+   }
+  },
+  {
+   "id": "airbus-h125",
+   "ad": "Airbus H125",
+   "seviye": "siradan",
+   "grup": "helikopter",
+   "etiketler": [],
+   "aciklama": "Dağlarda kurtarmada kullanılan hafif helikopter.",
+   "puan": {
+    "hiz": 4,
+    "teknoloji": 5,
+    "menzil": 4,
+    "i_koniklik": 3
+   }
+  }
+ ]
+}

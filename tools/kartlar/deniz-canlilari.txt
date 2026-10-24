@@ -1,0 +1,36 @@
+# Deniz Canlıları — ad|seviye|grup|etiketler|açıklama|Güç,Tehlike,Hız,Hayatta kalma
+Katil Balina (Orka)|e|memeli||Okyanusun tepe avcısı, grupla avlanır.|10,9,8,9
+Büyük Beyaz Köpek Balığı|e|acik_deniz||Okyanusun en ünlü avcısı.|9,9,8,8
+Mavi Balina|e|memeli||Dünyanın en büyük hayvanı, kimseye zarar vermez.|10,2,6,8
+Kaplan Köpek Balığı|e|acik_deniz||Önüne geleni yiyen çizgili avcı.|8,9,7,8
+Dev Kalamar|e|derin||Derinliklerin efsanevi canavarı.|7,6,5,7
+Kaşalot|e|memeli||Dev kalamarlarla savaşan derin dalgıç.|10,6,6,9
+Tuzlu Su Timsahı|e|kiyi||Kıyıların en büyük ve en tehlikeli sürüngeni.|9,10,5,9
+Çekiç Başlı Köpek Balığı|g|acik_deniz||Tuhaf kafası geniş görüş sağlar.|7,7,7,7
+Kılıç Balığı|g|acik_deniz||Okyanusun en hızlı balıklarından.|6,6,10,7
+Yunus|g|memeli||Zeki ve hızlı, köpek balıklarını bile kovar.|5,3,9,8
+Mors|g|memeli||Dev dişleriyle kutup buzlarının sakini.|7,5,3,8
+Fil Foku|g|memeli||En büyük fok, derinlere dalabilir.|7,4,4,8
+Dev Pasifik Ahtapotu|g|kiyi||Denizin dâhisi, kılık değiştirme ustası.|5,5,5,8
+Barakuda|g|kiyi||Ok gibi hızlı, keskin dişli avcı.|5,6,9,6
+Manta Vatozu|g|acik_deniz||Dev kanatlarıyla süzülen nazik dev.|6,2,6,7
+Kutu Denizanası|g|kiyi|zehirli|Dünyanın en zehirli deniz canlılarından.|1,10,3,7
+Taş Balığı|g|kiyi|zehirli|Taş gibi görünen, dikenleri çok zehirli balık.|2,9,1,8
+Mavi Halkalı Ahtapot|g|kiyi|zehirli|Minicik ama zehri öldürücü.|1,9,3,6
+Deniz Yılanı|g|kiyi|zehirli|Kuvvetli zehirli, iyi yüzen yılan.|2,8,6,6
+Fener Balığı|g|derin||Başındaki ışıkla karanlıkta av yakalar.|3,4,2,8
+Murena|g|kiyi||Kayalıklarda pusuya yatan yılan balığı.|5,6,5,7
+Palyaço Balığı|s|kiyi||Şakayıkların arasında yaşayan turuncu balık.|1,1,3,6
+Deniz Kaplumbağası|s|acik_deniz||Okyanuslarda binlerce kilometre yüzer.|3,1,4,9
+Denizatı|s|kiyi||Babanın yavruladığı minik deniz canlısı.|1,1,1,5
+Denizyıldızı|s|kiyi||Kopan kolunu yeniden büyütebilir.|1,1,1,8
+Istakoz|s|kiyi||Güçlü kıskaçlı zırhlı deniz canlısı.|3,3,3,7
+Yengeç|s|kiyi||Yan yan yürüyen kıskaçlı kıyı sakini.|3,3,3,8
+Ton Balığı|s|acik_deniz||Okyanusu hızla geçen güçlü yüzücü.|5,2,9,7
+Balon Balığı|s|kiyi|zehirli|Şişip diken çıkarır, zehri çok güçlü.|1,8,3,7
+Uçan Balık|s|acik_deniz||Suyun üstünde süzülerek kaçar.|1,1,8,5
+Mantis Karidesi|s|kiyi||Hayvanlar aleminin en hızlı yumruklarından biri.|3,4,10,7
+Fok|s|memeli||Kıyıların sevimli ve çevik yüzücüsü.|4,2,6,7
+Ay Denizanası|s|acik_deniz||Hafif yakan, şeffaf denizanası.|1,2,2,7
+Deniz Kestanesi|s|kiyi||Dikenleriyle kayalıkların bekçisi.|1,3,1,7
+Sardalya|s|acik_deniz||Sürüyle yüzerek kendini korur.|1,1,7,6

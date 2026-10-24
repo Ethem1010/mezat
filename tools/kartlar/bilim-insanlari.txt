@@ -1,0 +1,36 @@
+# Bilim İnsanları — ad|seviye|grup|etiketler|açıklama|Keşiflerin önemi,İnsanlığa etkisi,Ödüller,Çok yönlülük
+Albert Einstein|e|fizik||Görelilik kuramıyla zamanı ve uzayı yeniden tanımladı.|10,9,10,7
+Isaac Newton|e|fizik||Yerçekimi, hareket yasaları ve kalkülüs.|10,10,6,10
+Marie Curie|e|kimya||İki farklı alanda Nobel kazanan ilk kişi.|9,9,10,7
+Nikola Tesla|e|fizik||Alternatif akımla dünyayı aydınlattı.|9,10,4,8
+Charles Darwin|e|biyoloji||Evrim kuramının babası.|10,9,6,7
+Galileo Galilei|e|fizik||Teleskopla gökyüzünü inceleyen modern bilimin öncüsü.|9,9,4,8
+Alan Turing|e|matematik||Bilgisayar biliminin ve yapay zekanın kurucusu.|9,10,5,8
+Aziz Sancar|g|kimya||DNA onarımı çalışmalarıyla Nobel kazanan Türk bilim insanı.|8,8,10,5
+Louis Pasteur|g|biyoloji||Aşılar ve pastörizasyonla milyonlarca hayat kurtardı.|9,10,7,6
+Alexander Fleming|g|biyoloji||Penisilini keşfeden bilim insanı.|9,10,9,4
+Stephen Hawking|g|fizik||Kara delikler ve evrenin kökeni üzerine çalıştı.|8,7,7,6
+İbn-i Sina|g|biyoloji||Tıbbın Kanunu ile yüzyıllarca okutulan hekim.|8,9,5,10
+El-Harezmî|g|matematik||Cebirin babası, algoritma kelimesinin kaynağı.|9,9,4,7
+Ali Kuşçu|g|fizik||Astronomi ve matematikte öncü Osmanlı bilgini.|7,6,3,8
+Cahit Arf|g|matematik||Arf değişmezi ile tanınan Türk matematikçi.|8,6,6,5
+Leonardo da Vinci|g|fizik||Ressam, mucit ve mühendis; çok yönlülüğün simgesi.|8,8,4,10
+Arşimet|g|matematik||Kaldıraç ve kaldırma kuvvetinin kâşifi.|9,8,4,9
+Thomas Edison|g|fizik||Binden fazla patent alan mucit.|8,9,5,7
+Dmitri Mendeleyev|g|kimya||Periyodik tabloyu düzenleyen kimyacı.|9,8,5,5
+Gregor Mendel|g|biyoloji||Bezelyelerle genetiğin temelini attı.|9,8,3,4
+Niels Bohr|g|fizik||Atom modeliyle Nobel kazandı.|9,8,10,6
+Carl Sagan|s|fizik||Bilimi milyonlara sevdiren astronom.|6,7,6,7
+Richard Feynman|s|fizik||Nobel'li, esprili kuantum fizikçisi.|8,6,10,7
+Rosalind Franklin|s|biyoloji||DNA'nın yapısının çözülmesinde kilit rol oynadı.|8,7,3,5
+Jonas Salk|s|biyoloji||Çocuk felci aşısını geliştirdi.|8,10,5,4
+Ada Lovelace|s|matematik||İlk bilgisayar programını yazdığı kabul edilir.|7,7,2,6
+Pisagor|s|matematik||Üçgenler denince akla gelen isim.|8,7,3,7
+Öklid|s|matematik||Geometrinin temel kitabını yazdı.|9,7,3,6
+Kopernik|s|fizik||Dünyanın Güneş'in etrafında döndüğünü savundu.|9,8,3,6
+Johannes Kepler|s|fizik||Gezegen hareketlerinin yasalarını buldu.|9,7,3,6
+Michael Faraday|s|fizik||Elektromanyetizmanın temellerini attı.|9,9,5,6
+Antoine Lavoisier|s|kimya||Modern kimyanın babası.|9,7,3,6
+Alfred Nobel|s|kimya||Dinamitin mucidi, Nobel Ödülü'nün kurucusu.|6,7,4,6
+Feza Gürsey|s|fizik||Parçacık fiziğine katkılarıyla tanınan Türk fizikçi.|7,5,6,5
+Oktay Sinanoğlu|s|kimya||Kuantum kimyası alanında çalışan Türk bilim insanı.|7,5,5,5

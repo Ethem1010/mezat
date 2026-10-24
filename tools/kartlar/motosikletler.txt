@@ -1,0 +1,36 @@
+# Motosikletler — ad|seviye|grup|etiketler|açıklama|Hız,Hızlanma,Tasarım,Efsanelik
+Kawasaki Ninja H2R|e|sport||Süper şarjlı, pist için yapılmış canavar.|10,10,9,9
+Ducati Panigale V4|e|sport||İtalyan tasarımı ve yarış teknolojisi.|10,10,10,8
+Honda CBR1000RR Fireblade|e|sport||Süper spor sınıfının uzun soluklu efsanesi.|9,9,8,9
+Harley-Davidson Fat Boy|e|klasik||Amerikan chopper kültürünün ikonu.|5,5,9,10
+Suzuki Hayabusa|e|sport||Uzun yıllar en hızlı seri üretim motor.|10,9,7,10
+Yamaha YZF-R1|e|sport||Yamaha'nın pistten gelen süper sporu.|9,9,8,9
+BMW R 1250 GS|e|naked||Dünyayı dolaşanların macera motoru.|7,7,8,9
+Kawasaki Ninja ZX-10R|g|sport||Dünya Superbike şampiyonu.|9,9,8,8
+Ducati Monster|g|naked||Naked motor akımını başlatan tasarım.|7,8,9,9
+Yamaha MT-09|g|naked||Üç silindirli eğlenceli naked.|7,9,8,7
+KTM 1290 Super Duke|g|naked||Turuncu canavar lakaplı güçlü naked.|9,10,8,7
+Triumph Bonneville|g|klasik||İngiliz klasik motor efsanesi.|5,5,9,9
+Royal Enfield Classic|g|klasik||Hindistan'dan gelen nostaljik tasarım.|3,3,8,8
+Indian Chief|g|klasik||Amerika'nın en eski motosiklet markasından.|5,5,9,8
+Harley-Davidson Sportster|g|klasik||Harley'nin daha çevik kardeşi.|5,5,8,8
+Vespa|g|sehir||İtalyan şıklığının şehir simgesi.|2,2,10,10
+Honda CB750|g|klasik||Süper motor çağını başlatan klasik.|6,6,8,9
+Kawasaki Z900|g|naked||Güçlü ve dengeli naked.|8,8,8,7
+Honda Africa Twin|g|naked||Çölde ve asfaltta gezgin motoru.|7,7,8,8
+Suzuki GSX-R750|g|sport||Gixxer lakaplı efsane süper spor.|9,8,8,8
+MV Agusta F4|g|sport||Dünyanın en güzel motorlarından sayılan tasarım.|9,9,10,8
+Yamaha R25|s|sport||Gençlerin ilk spor motoru.|5,5,7,5
+Honda PCX|s|sehir||Şehir içinin yakıt cimrisi scooterı.|2,3,6,6
+Yamaha NMAX|s|sehir||Kuryelerin ve şehirlilerin favorisi.|2,3,6,5
+Mondial|s|sehir||Türkiye'de çok yaygın uygun fiyatlı motor.|1,2,4,6
+Mobilet|s|sehir||Pedallı nostaljik mahalle motoru.|1,1,5,8
+Honda CBR250R|s|sport||Küçük hacimli spor motor.|5,5,6,5
+KTM Duke 390|s|naked||Hafif ve çevik şehir naked'ı.|6,7,7,6
+Kawasaki Ninja 400|s|sport||Ninja ailesinin giriş modeli.|6,6,7,6
+Suzuki Bandit|s|naked||Dayanıklı ve klasik naked.|6,6,6,6
+BMW C 650|s|sehir||Maxi scooter konforu.|5,5,6,4
+Ural|s|klasik||Sepetli Rus klasik motoru.|3,3,7,8
+MZ|s|klasik||Eski Doğu Almanya'nın dayanıklı motoru.|3,3,5,7
+Honda Super Cub|s|sehir||Dünyanın en çok üretilen motorlu taşıtı.|1,1,7,10
+Bajaj Pulsar|s|naked||Uygun fiyatlı popüler naked.|4,5,5,4

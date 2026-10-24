@@ -1,0 +1,533 @@
+{
+ "id": "oyuncular",
+ "ad": "Oyuncular",
+ "sablon": "turnuva",
+ "gorev_mesaji": "Film kadronu kur: hangi kadro daha iyi film çeker?",
+ "olcutler": {
+  "oyunculuk": {
+   "ad": "Oyunculuk",
+   "agirlik": 0.4
+  },
+  "oduller": {
+   "ad": "Ödüller",
+   "agirlik": 0.2
+  },
+  "populerlik": {
+   "ad": "Popülerlik",
+   "agirlik": 0.25
+  },
+  "rol_cesitliligi": {
+   "ad": "Rol çeşitliliği",
+   "agirlik": 0.15
+  }
+ },
+ "gruplar": {
+  "dram": "Dram",
+  "komedi": "Komedi",
+  "aksiyon": "Aksiyon"
+ },
+ "sinerjiler": [
+  {
+   "tip": "cesitlilik",
+   "ad": "Her role hazır kadro",
+   "esikler": {
+    "3": 5
+   }
+  }
+ ],
+ "garanti": {},
+ "hakem_notu": "Hem dram hem komedi oynayabilen dengeli kadroya uyum bonusu ver.",
+ "kart_sayisi": 35,
+ "kartlar": [
+  {
+   "id": "kemal-sunal",
+   "ad": "Kemal Sunal",
+   "seviye": "efsane",
+   "grup": "komedi",
+   "etiketler": [],
+   "aciklama": "Saf ama akıllı karakterleriyle Türk sinemasının en sevileni.",
+   "puan": {
+    "oyunculuk": 9,
+    "oduller": 6,
+    "populerlik": 10,
+    "rol_cesitliligi": 8
+   }
+  },
+  {
+   "id": "sener-sen",
+   "ad": "Şener Şen",
+   "seviye": "efsane",
+   "grup": "komedi",
+   "etiketler": [],
+   "aciklama": "Komediden drama, her rolün hakkını veren usta.",
+   "puan": {
+    "oyunculuk": 10,
+    "oduller": 8,
+    "populerlik": 9,
+    "rol_cesitliligi": 9
+   }
+  },
+  {
+   "id": "turkan-soray",
+   "ad": "Türkan Şoray",
+   "seviye": "efsane",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Yeşilçam'ın Sultanı.",
+   "puan": {
+    "oyunculuk": 9,
+    "oduller": 8,
+    "populerlik": 9,
+    "rol_cesitliligi": 7
+   }
+  },
+  {
+   "id": "leonardo-dicaprio",
+   "ad": "Leonardo DiCaprio",
+   "seviye": "efsane",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Titanik'ten Oscar'a uzanan kariyer.",
+   "puan": {
+    "oyunculuk": 9,
+    "oduller": 9,
+    "populerlik": 10,
+    "rol_cesitliligi": 8
+   }
+  },
+  {
+   "id": "tom-hanks",
+   "ad": "Tom Hanks",
+   "seviye": "efsane",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "İki yıl üst üste Oscar kazanan sevimli dev.",
+   "puan": {
+    "oyunculuk": 10,
+    "oduller": 9,
+    "populerlik": 9,
+    "rol_cesitliligi": 9
+   }
+  },
+  {
+   "id": "meryl-streep",
+   "ad": "Meryl Streep",
+   "seviye": "efsane",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "En çok Oscar adaylığı alan oyuncu.",
+   "puan": {
+    "oyunculuk": 10,
+    "oduller": 10,
+    "populerlik": 8,
+    "rol_cesitliligi": 10
+   }
+  },
+  {
+   "id": "cem-yilmaz",
+   "ad": "Cem Yılmaz",
+   "seviye": "efsane",
+   "grup": "komedi",
+   "etiketler": [],
+   "aciklama": "Stand-up'tan sinemaya mizahın zirvesi.",
+   "puan": {
+    "oyunculuk": 8,
+    "oduller": 6,
+    "populerlik": 10,
+    "rol_cesitliligi": 6
+   }
+  },
+  {
+   "id": "haluk-bilginer",
+   "ad": "Haluk Bilginer",
+   "seviye": "guclu",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Uluslararası Emmy kazanan usta oyuncu.",
+   "puan": {
+    "oyunculuk": 10,
+    "oduller": 9,
+    "populerlik": 7,
+    "rol_cesitliligi": 9
+   }
+  },
+  {
+   "id": "kivanc-tatlitug",
+   "ad": "Kıvanç Tatlıtuğ",
+   "seviye": "guclu",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Dizileri dünyaya satılan yıldız.",
+   "puan": {
+    "oyunculuk": 7,
+    "oduller": 5,
+    "populerlik": 9,
+    "rol_cesitliligi": 6
+   }
+  },
+  {
+   "id": "tarik-akan",
+   "ad": "Tarık Akan",
+   "seviye": "guclu",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Yeşilçam'ın yakışıklısı ve güçlü dram oyuncusu.",
+   "puan": {
+    "oyunculuk": 9,
+    "oduller": 8,
+    "populerlik": 8,
+    "rol_cesitliligi": 8
+   }
+  },
+  {
+   "id": "kadir-i-nanir",
+   "ad": "Kadir İnanır",
+   "seviye": "guclu",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Yeşilçam'ın sert ve karizmatik yüzü.",
+   "puan": {
+    "oyunculuk": 8,
+    "oduller": 6,
+    "populerlik": 8,
+    "rol_cesitliligi": 6
+   }
+  },
+  {
+   "id": "cuneyt-arkin",
+   "ad": "Cüneyt Arkın",
+   "seviye": "guclu",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Yeşilçam'ın aksiyon kahramanı.",
+   "puan": {
+    "oyunculuk": 7,
+    "oduller": 5,
+    "populerlik": 9,
+    "rol_cesitliligi": 7
+   }
+  },
+  {
+   "id": "ata-demirer",
+   "ad": "Ata Demirer",
+   "seviye": "guclu",
+   "grup": "komedi",
+   "etiketler": [],
+   "aciklama": "Taklitleri ve filmleriyle sevilen komedyen.",
+   "puan": {
+    "oyunculuk": 8,
+    "oduller": 5,
+    "populerlik": 8,
+    "rol_cesitliligi": 6
+   }
+  },
+  {
+   "id": "sahan-gokbakar",
+   "ad": "Şahan Gökbakar",
+   "seviye": "guclu",
+   "grup": "komedi",
+   "etiketler": [],
+   "aciklama": "Recep İvedik'in yaratıcısı.",
+   "puan": {
+    "oyunculuk": 7,
+    "oduller": 3,
+    "populerlik": 8,
+    "rol_cesitliligi": 6
+   }
+  },
+  {
+   "id": "brad-pitt",
+   "ad": "Brad Pitt",
+   "seviye": "guclu",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Hollywood'un en tanınan yüzlerinden.",
+   "puan": {
+    "oyunculuk": 8,
+    "oduller": 8,
+    "populerlik": 9,
+    "rol_cesitliligi": 8
+   }
+  },
+  {
+   "id": "morgan-freeman",
+   "ad": "Morgan Freeman",
+   "seviye": "guclu",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Sesi ve bilge rolleriyle tanınan usta.",
+   "puan": {
+    "oyunculuk": 9,
+    "oduller": 8,
+    "populerlik": 8,
+    "rol_cesitliligi": 7
+   }
+  },
+  {
+   "id": "robert-de-niro",
+   "ad": "Robert De Niro",
+   "seviye": "guclu",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Mafya filmlerinin ve dramın efsanesi.",
+   "puan": {
+    "oyunculuk": 10,
+    "oduller": 9,
+    "populerlik": 8,
+    "rol_cesitliligi": 9
+   }
+  },
+  {
+   "id": "al-pacino",
+   "ad": "Al Pacino",
+   "seviye": "guclu",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Baba ve Yaralı Yüz'ün unutulmaz yüzü.",
+   "puan": {
+    "oyunculuk": 10,
+    "oduller": 9,
+    "populerlik": 8,
+    "rol_cesitliligi": 8
+   }
+  },
+  {
+   "id": "jim-carrey",
+   "ad": "Jim Carrey",
+   "seviye": "guclu",
+   "grup": "komedi",
+   "etiketler": [],
+   "aciklama": "Lastik gibi yüzüyle komedinin kralı.",
+   "puan": {
+    "oyunculuk": 9,
+    "oduller": 6,
+    "populerlik": 9,
+    "rol_cesitliligi": 8
+   }
+  },
+  {
+   "id": "johnny-depp",
+   "ad": "Johnny Depp",
+   "seviye": "guclu",
+   "grup": "komedi",
+   "etiketler": [],
+   "aciklama": "Kaptan Jack Sparrow ve tuhaf karakterlerin ustası.",
+   "puan": {
+    "oyunculuk": 9,
+    "oduller": 6,
+    "populerlik": 9,
+    "rol_cesitliligi": 10
+   }
+  },
+  {
+   "id": "keanu-reeves",
+   "ad": "Keanu Reeves",
+   "seviye": "guclu",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Matrix ve John Wick'in sevilen yıldızı.",
+   "puan": {
+    "oyunculuk": 7,
+    "oduller": 4,
+    "populerlik": 9,
+    "rol_cesitliligi": 6
+   }
+  },
+  {
+   "id": "engin-akyurek",
+   "ad": "Engin Akyürek",
+   "seviye": "siradan",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Romantik dizilerin sevilen başrolü.",
+   "puan": {
+    "oyunculuk": 7,
+    "oduller": 4,
+    "populerlik": 8,
+    "rol_cesitliligi": 5
+   }
+  },
+  {
+   "id": "beren-saat",
+   "ad": "Beren Saat",
+   "seviye": "siradan",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Aşk-ı Memnu ile zirveye çıkan oyuncu.",
+   "puan": {
+    "oyunculuk": 8,
+    "oduller": 5,
+    "populerlik": 8,
+    "rol_cesitliligi": 6
+   }
+  },
+  {
+   "id": "demet-akbag",
+   "ad": "Demet Akbağ",
+   "seviye": "siradan",
+   "grup": "komedi",
+   "etiketler": [],
+   "aciklama": "Komedinin ve dramın usta kadın oyuncusu.",
+   "puan": {
+    "oyunculuk": 9,
+    "oduller": 7,
+    "populerlik": 8,
+    "rol_cesitliligi": 8
+   }
+  },
+  {
+   "id": "tuba-buyukustun",
+   "ad": "Tuba Büyüküstün",
+   "seviye": "siradan",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Uluslararası Emmy adayı olmuş oyuncu.",
+   "puan": {
+    "oyunculuk": 8,
+    "oduller": 6,
+    "populerlik": 7,
+    "rol_cesitliligi": 6
+   }
+  },
+  {
+   "id": "nejat-i-sler",
+   "ad": "Nejat İşler",
+   "seviye": "siradan",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Karakter oyunculuğuyla öne çıkan usta.",
+   "puan": {
+    "oyunculuk": 9,
+    "oduller": 6,
+    "populerlik": 6,
+    "rol_cesitliligi": 8
+   }
+  },
+  {
+   "id": "engin-gunaydin",
+   "ad": "Engin Günaydın",
+   "seviye": "siradan",
+   "grup": "komedi",
+   "etiketler": [],
+   "aciklama": "Yeşil Deniz ve Bir Demet Tiyatro'nun komedyeni.",
+   "puan": {
+    "oyunculuk": 8,
+    "oduller": 4,
+    "populerlik": 7,
+    "rol_cesitliligi": 6
+   }
+  },
+  {
+   "id": "burak-ozcivit",
+   "ad": "Burak Özçivit",
+   "seviye": "siradan",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Tarihi aksiyon dizilerinin yıldızı.",
+   "puan": {
+    "oyunculuk": 6,
+    "oduller": 3,
+    "populerlik": 8,
+    "rol_cesitliligi": 4
+   }
+  },
+  {
+   "id": "tom-cruise",
+   "ad": "Tom Cruise",
+   "seviye": "siradan",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Dublörsüz aksiyon sahneleriyle ünlü.",
+   "puan": {
+    "oyunculuk": 8,
+    "oduller": 5,
+    "populerlik": 9,
+    "rol_cesitliligi": 6
+   }
+  },
+  {
+   "id": "dwayne-johnson",
+   "ad": "Dwayne Johnson",
+   "seviye": "siradan",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Güreşten Hollywood'a The Rock.",
+   "puan": {
+    "oyunculuk": 6,
+    "oduller": 2,
+    "populerlik": 9,
+    "rol_cesitliligi": 5
+   }
+  },
+  {
+   "id": "jackie-chan",
+   "ad": "Jackie Chan",
+   "seviye": "siradan",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Dövüşü komediyle birleştiren usta.",
+   "puan": {
+    "oyunculuk": 7,
+    "oduller": 5,
+    "populerlik": 9,
+    "rol_cesitliligi": 7
+   }
+  },
+  {
+   "id": "arnold-schwarzenegger",
+   "ad": "Arnold Schwarzenegger",
+   "seviye": "siradan",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Terminatör'ün demir yüzü.",
+   "puan": {
+    "oyunculuk": 6,
+    "oduller": 4,
+    "populerlik": 9,
+    "rol_cesitliligi": 6
+   }
+  },
+  {
+   "id": "denzel-washington",
+   "ad": "Denzel Washington",
+   "seviye": "siradan",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "İki Oscar'lı güçlü dram oyuncusu.",
+   "puan": {
+    "oyunculuk": 9,
+    "oduller": 9,
+    "populerlik": 7,
+    "rol_cesitliligi": 7
+   }
+  },
+  {
+   "id": "scarlett-johansson",
+   "ad": "Scarlett Johansson",
+   "seviye": "siradan",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Aksiyondan bağımsız sinemaya geniş bir kariyer.",
+   "puan": {
+    "oyunculuk": 7,
+    "oduller": 5,
+    "populerlik": 8,
+    "rol_cesitliligi": 7
+   }
+  },
+  {
+   "id": "rowan-atkinson",
+   "ad": "Rowan Atkinson",
+   "seviye": "siradan",
+   "grup": "komedi",
+   "etiketler": [],
+   "aciklama": "Konuşmadan güldüren Mr. Bean.",
+   "puan": {
+    "oyunculuk": 8,
+    "oduller": 5,
+    "populerlik": 9,
+    "rol_cesitliligi": 6
+   }
+  }
+ ]
+}

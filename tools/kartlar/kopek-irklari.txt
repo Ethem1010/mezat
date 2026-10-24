@@ -1,0 +1,36 @@
+# Köpek Irkları — ad|seviye|grup|etiketler|açıklama|Koruma,Zeka,Sadakat,Dayanıklılık
+Kangal|e|bekci||Anadolu'nun çoban köpeği, sürüyü kurda karşı korur.|10,7,10,10
+Alman Çoban Köpeği|e|bekci||Polislerin ve askerlerin en sadık ortağı.|9,10,10,8
+Golden Retriever|e|aile||Herkesi seven altın renkli aile dostu.|4,9,10,7
+Border Collie|e|calisma||Köpekler arasında zeka şampiyonu.|5,10,9,9
+Labrador|e|aile||Rehber köpeklerin en sevilen ırkı.|4,9,10,8
+Sibirya Kurdu (Husky)|e|calisma||Buz gibi soğukta kızak çeken mavi gözlü koşucu.|4,7,7,10
+Rottweiler|e|bekci||Güçlü yapısıyla korkusuz bir bekçi.|9,8,9,8
+Doberman|g|bekci||Zarif, hızlı ve son derece dikkatli.|9,9,9,7
+Belçika Malinois|g|bekci||Özel kuvvetlerin tercih ettiği çalışkan ırk.|9,9,9,9
+Akita|g|bekci||Hachiko'nun ırkı; sadakatin sembolü.|8,7,9,8
+Boxer|g|aile||Enerjik, oyuncu ve korumacı.|6,7,9,7
+Beagle|g|calisma||Burnu çok iyi koku alan iz sürücü.|3,7,8,8
+Alaska Malamutu|g|calisma||Ağır kızakları çeken dev kar köpeği.|5,6,7,10
+Bernese Dağ Köpeği|g|aile||Üç renkli tüyleriyle uysal dev.|5,7,9,7
+Kaniş|g|aile||Göründüğünden çok daha zeki.|3,10,8,6
+Avustralya Çoban Köpeği|g|calisma||Sürü güden enerjik ve zeki köpek.|5,9,9,8
+Cane Corso|g|bekci||İtalyan bekçi köpeği, kaslı ve cesur.|9,7,9,8
+Akbaş|g|bekci||Beyaz tüylü Anadolu çoban köpeği.|9,7,9,9
+Dalmaçyalı|g|aile||Benekleriyle tanınan itfaiye köpeği.|4,7,8,8
+Samoyed|g|calisma||Gülümseyen beyaz kızak köpeği.|3,7,8,9
+İngiliz Bulldog|g|aile||Buruşuk yüzlü, sakin ve inatçı.|3,5,8,4
+Chihuahua|s|aile||Dünyanın en küçük köpeği ama kendini dev sanır.|2,6,8,4
+Pug|s|aile||Basık burunlu, tatlı ve uykucu.|1,5,8,3
+Pomeranian|s|aile||Pamuk gibi tüylü minik köpek.|2,6,7,4
+Yorkshire Terrier|s|aile||Kucak köpeği ama cesareti büyük.|2,7,7,4
+Shih Tzu|s|aile||Uzun tüylü, sakin ev köpeği.|1,5,8,4
+Jack Russell Terrier|s|calisma||Bitmeyen enerjisiyle küçük avcı.|3,8,7,8
+Dachshund|s|calisma||Uzun gövdeli sosis köpek, aslında porsuk avcısı.|3,6,8,5
+Corgi|s|calisma||Kısa bacaklı ama çevik çoban köpeği.|3,8,8,6
+Shiba Inu|s|aile||Tilkiye benzeyen bağımsız Japon ırkı.|4,7,6,7
+Chow Chow|s|bekci||Mor dilli, aslan yeleli mesafeli köpek.|6,5,7,6
+Saint Bernard|s|calisma||Karda kaybolanları kurtaran dev.|5,6,9,8
+Büyük Danua|s|bekci||Dünyanın en uzun köpek ırklarından.|7,6,8,6
+Türk Tazısı|s|calisma||Rüzgâr gibi koşan av köpeği.|3,7,7,8
+Pitbull|s|bekci||Güçlü ve kararlı, iyi eğitim ister.|7,6,8,8

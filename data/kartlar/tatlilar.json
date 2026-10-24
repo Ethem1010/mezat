@@ -1,0 +1,535 @@
+{
+ "id": "tatlilar",
+ "ad": "Tatlılar",
+ "sablon": "juri",
+ "gorev_mesaji": "Tatlı vitrinini kur: müşteri hangi vitrine koşar?",
+ "olcutler": {
+  "lezzet": {
+   "ad": "Lezzet",
+   "agirlik": 0.4
+  },
+  "populerlik": {
+   "ad": "Popülerlik",
+   "agirlik": 0.25
+  },
+  "gorunum": {
+   "ad": "Görünüm",
+   "agirlik": 0.2
+  },
+  "cesitlilik": {
+   "ad": "Çeşitlilik",
+   "agirlik": 0.15
+  }
+ },
+ "gruplar": {
+  "serbetli": "Şerbetli",
+  "sutlu": "Sütlü",
+  "pasta": "Pasta ve hamur işi",
+  "soguk": "Dondurma ve soğuk"
+ },
+ "sinerjiler": [
+  {
+   "tip": "cesitlilik",
+   "ad": "Zengin vitrin",
+   "esikler": {
+    "3": 4,
+    "4": 7
+   }
+  }
+ ],
+ "garanti": {},
+ "hakem_notu": "Şerbetli, sütlü ve hamur işi tatlıları karıştıran vitrine uyum bonusu ver.",
+ "kart_sayisi": 35,
+ "kartlar": [
+  {
+   "id": "baklava",
+   "ad": "Baklava",
+   "seviye": "efsane",
+   "grup": "serbetli",
+   "etiketler": [],
+   "aciklama": "Fıstıklı, cevizli, sarığı burma; tatlıların sultanı.",
+   "puan": {
+    "lezzet": 10,
+    "populerlik": 10,
+    "gorunum": 9,
+    "cesitlilik": 8
+   }
+  },
+  {
+   "id": "kunefe",
+   "ad": "Künefe",
+   "seviye": "efsane",
+   "grup": "serbetli",
+   "etiketler": [],
+   "aciklama": "Uzayan peyniri ve çıtır kadayıfıyla Hatay'ın gururu.",
+   "puan": {
+    "lezzet": 10,
+    "populerlik": 9,
+    "gorunum": 8,
+    "cesitlilik": 5
+   }
+  },
+  {
+   "id": "sutlac",
+   "ad": "Sütlaç",
+   "seviye": "efsane",
+   "grup": "sutlu",
+   "etiketler": [],
+   "aciklama": "Fırında kızarmış üstüyle sütlü tatlıların kralı.",
+   "puan": {
+    "lezzet": 8,
+    "populerlik": 9,
+    "gorunum": 6,
+    "cesitlilik": 6
+   }
+  },
+  {
+   "id": "profiterol",
+   "ad": "Profiterol",
+   "seviye": "efsane",
+   "grup": "pasta",
+   "etiketler": [],
+   "aciklama": "Çikolata sosuna gömülmüş kremalı toplar.",
+   "puan": {
+    "lezzet": 9,
+    "populerlik": 9,
+    "gorunum": 8,
+    "cesitlilik": 6
+   }
+  },
+  {
+   "id": "maras-dondurmasi",
+   "ad": "Maraş Dondurması",
+   "seviye": "efsane",
+   "grup": "soguk",
+   "etiketler": [],
+   "aciklama": "Bıçakla kesilen, uzayan efsane dondurma.",
+   "puan": {
+    "lezzet": 9,
+    "populerlik": 9,
+    "gorunum": 8,
+    "cesitlilik": 6
+   }
+  },
+  {
+   "id": "tiramisu",
+   "ad": "Tiramisu",
+   "seviye": "efsane",
+   "grup": "pasta",
+   "etiketler": [],
+   "aciklama": "Kahveli ve kremalı İtalyan klasiği.",
+   "puan": {
+    "lezzet": 9,
+    "populerlik": 9,
+    "gorunum": 8,
+    "cesitlilik": 6
+   }
+  },
+  {
+   "id": "cheesecake",
+   "ad": "Cheesecake",
+   "seviye": "efsane",
+   "grup": "pasta",
+   "etiketler": [],
+   "aciklama": "Frambuazlı, limonlu, karamelli; her kafenin yıldızı.",
+   "puan": {
+    "lezzet": 9,
+    "populerlik": 9,
+    "gorunum": 9,
+    "cesitlilik": 8
+   }
+  },
+  {
+   "id": "kadayif",
+   "ad": "Kadayıf",
+   "seviye": "guclu",
+   "grup": "serbetli",
+   "etiketler": [],
+   "aciklama": "Tel tel çıtır ve şerbetli.",
+   "puan": {
+    "lezzet": 9,
+    "populerlik": 8,
+    "gorunum": 7,
+    "cesitlilik": 6
+   }
+  },
+  {
+   "id": "sobiyet",
+   "ad": "Şöbiyet",
+   "seviye": "guclu",
+   "grup": "serbetli",
+   "etiketler": [],
+   "aciklama": "Kaymaklı ve fıstıklı üçgen baklava.",
+   "puan": {
+    "lezzet": 9,
+    "populerlik": 7,
+    "gorunum": 8,
+    "cesitlilik": 5
+   }
+  },
+  {
+   "id": "tulumba",
+   "ad": "Tulumba",
+   "seviye": "guclu",
+   "grup": "serbetli",
+   "etiketler": [],
+   "aciklama": "Sokak tatlısının çıtır ve şerbetli hali.",
+   "puan": {
+    "lezzet": 8,
+    "populerlik": 8,
+    "gorunum": 6,
+    "cesitlilik": 4
+   }
+  },
+  {
+   "id": "revani",
+   "ad": "Revani",
+   "seviye": "guclu",
+   "grup": "serbetli",
+   "etiketler": [],
+   "aciklama": "Hafif irmikli kek, şerbetle ıslanır.",
+   "puan": {
+    "lezzet": 7,
+    "populerlik": 7,
+    "gorunum": 6,
+    "cesitlilik": 5
+   }
+  },
+  {
+   "id": "kazandibi",
+   "ad": "Kazandibi",
+   "seviye": "guclu",
+   "grup": "sutlu",
+   "etiketler": [],
+   "aciklama": "Dibi yanık, üstü pürüzsüz sütlü tatlı.",
+   "puan": {
+    "lezzet": 8,
+    "populerlik": 7,
+    "gorunum": 7,
+    "cesitlilik": 5
+   }
+  },
+  {
+   "id": "tavuk-gogsu",
+   "ad": "Tavuk Göğsü",
+   "seviye": "guclu",
+   "grup": "sutlu",
+   "etiketler": [],
+   "aciklama": "İçinde tavuk olan şaşırtıcı sütlü tatlı.",
+   "puan": {
+    "lezzet": 8,
+    "populerlik": 7,
+    "gorunum": 6,
+    "cesitlilik": 5
+   }
+  },
+  {
+   "id": "muhallebi",
+   "ad": "Muhallebi",
+   "seviye": "guclu",
+   "grup": "sutlu",
+   "etiketler": [],
+   "aciklama": "Sade, hafif ve her evin tatlısı.",
+   "puan": {
+    "lezzet": 7,
+    "populerlik": 8,
+    "gorunum": 6,
+    "cesitlilik": 7
+   }
+  },
+  {
+   "id": "kemalpasa",
+   "ad": "Kemalpaşa",
+   "seviye": "guclu",
+   "grup": "serbetli",
+   "etiketler": [],
+   "aciklama": "Peynirli hamur topları, şerbette.",
+   "puan": {
+    "lezzet": 7,
+    "populerlik": 6,
+    "gorunum": 6,
+    "cesitlilik": 4
+   }
+  },
+  {
+   "id": "brownie",
+   "ad": "Brownie",
+   "seviye": "guclu",
+   "grup": "pasta",
+   "etiketler": [],
+   "aciklama": "Islak çikolatalı kare dilimler.",
+   "puan": {
+    "lezzet": 9,
+    "populerlik": 8,
+    "gorunum": 7,
+    "cesitlilik": 6
+   }
+  },
+  {
+   "id": "magnolia",
+   "ad": "Magnolia",
+   "seviye": "guclu",
+   "grup": "sutlu",
+   "etiketler": [],
+   "aciklama": "Bisküvili, muzlu ve çilekli kupa tatlısı.",
+   "puan": {
+    "lezzet": 8,
+    "populerlik": 8,
+    "gorunum": 8,
+    "cesitlilik": 6
+   }
+  },
+  {
+   "id": "supangle",
+   "ad": "Supangle",
+   "seviye": "guclu",
+   "grup": "sutlu",
+   "etiketler": [],
+   "aciklama": "Bol kakaolu, üstü kek kırıntılı puding.",
+   "puan": {
+    "lezzet": 8,
+    "populerlik": 7,
+    "gorunum": 7,
+    "cesitlilik": 5
+   }
+  },
+  {
+   "id": "waffle",
+   "ad": "Waffle",
+   "seviye": "guclu",
+   "grup": "pasta",
+   "etiketler": [],
+   "aciklama": "Meyve ve sosla istediğin gibi süslenen.",
+   "puan": {
+    "lezzet": 8,
+    "populerlik": 8,
+    "gorunum": 9,
+    "cesitlilik": 10
+   }
+  },
+  {
+   "id": "sufle",
+   "ad": "Sufle",
+   "seviye": "guclu",
+   "grup": "pasta",
+   "etiketler": [],
+   "aciklama": "İçi akan sıcak çikolatalı kek.",
+   "puan": {
+    "lezzet": 9,
+    "populerlik": 8,
+    "gorunum": 8,
+    "cesitlilik": 4
+   }
+  },
+  {
+   "id": "katmer",
+   "ad": "Katmer",
+   "seviye": "guclu",
+   "grup": "pasta",
+   "etiketler": [],
+   "aciklama": "Gaziantep'in fıstıklı ve kaymaklı ince hamuru.",
+   "puan": {
+    "lezzet": 9,
+    "populerlik": 7,
+    "gorunum": 7,
+    "cesitlilik": 5
+   }
+  },
+  {
+   "id": "asure",
+   "ad": "Aşure",
+   "seviye": "siradan",
+   "grup": "sutlu",
+   "etiketler": [],
+   "aciklama": "Bereketi temsil eden, içinde her şey olan tatlı.",
+   "puan": {
+    "lezzet": 7,
+    "populerlik": 6,
+    "gorunum": 7,
+    "cesitlilik": 8
+   }
+  },
+  {
+   "id": "gullac",
+   "ad": "Güllaç",
+   "seviye": "siradan",
+   "grup": "sutlu",
+   "etiketler": [],
+   "aciklama": "Ramazan'ın sütlü, güllü ve ince yaprakları.",
+   "puan": {
+    "lezzet": 8,
+    "populerlik": 7,
+    "gorunum": 8,
+    "cesitlilik": 5
+   }
+  },
+  {
+   "id": "lokma",
+   "ad": "Lokma",
+   "seviye": "siradan",
+   "grup": "serbetli",
+   "etiketler": [],
+   "aciklama": "Sıcak ve şerbetli minik hamur topları.",
+   "puan": {
+    "lezzet": 8,
+    "populerlik": 8,
+    "gorunum": 6,
+    "cesitlilik": 4
+   }
+  },
+  {
+   "id": "kabak-tatlisi",
+   "ad": "Kabak Tatlısı",
+   "seviye": "siradan",
+   "grup": "serbetli",
+   "etiketler": [],
+   "aciklama": "Tahin ve cevizle sonbaharın tatlısı.",
+   "puan": {
+    "lezzet": 7,
+    "populerlik": 6,
+    "gorunum": 7,
+    "cesitlilik": 4
+   }
+  },
+  {
+   "id": "ayva-tatlisi",
+   "ad": "Ayva Tatlısı",
+   "seviye": "siradan",
+   "grup": "serbetli",
+   "etiketler": [],
+   "aciklama": "Kaymakla servis edilen kırmızı ayva.",
+   "puan": {
+    "lezzet": 8,
+    "populerlik": 6,
+    "gorunum": 7,
+    "cesitlilik": 4
+   }
+  },
+  {
+   "id": "i-rmik-helvasi",
+   "ad": "İrmik Helvası",
+   "seviye": "siradan",
+   "grup": "pasta",
+   "etiketler": [],
+   "aciklama": "Dondurmayla da yenen sıcak helva.",
+   "puan": {
+    "lezzet": 7,
+    "populerlik": 7,
+    "gorunum": 5,
+    "cesitlilik": 5
+   }
+  },
+  {
+   "id": "krep",
+   "ad": "Krep",
+   "seviye": "siradan",
+   "grup": "pasta",
+   "etiketler": [],
+   "aciklama": "İnce gözleme gibi, içine ne istersen.",
+   "puan": {
+    "lezzet": 8,
+    "populerlik": 8,
+    "gorunum": 7,
+    "cesitlilik": 9
+   }
+  },
+  {
+   "id": "ekler",
+   "ad": "Ekler",
+   "seviye": "siradan",
+   "grup": "pasta",
+   "etiketler": [],
+   "aciklama": "Çikolata kaplı, kremalı uzun hamur.",
+   "puan": {
+    "lezzet": 8,
+    "populerlik": 8,
+    "gorunum": 7,
+    "cesitlilik": 5
+   }
+  },
+  {
+   "id": "makaron",
+   "ad": "Makaron",
+   "seviye": "siradan",
+   "grup": "pasta",
+   "etiketler": [],
+   "aciklama": "Renk renk küçük Fransız kurabiyeleri.",
+   "puan": {
+    "lezzet": 7,
+    "populerlik": 7,
+    "gorunum": 10,
+    "cesitlilik": 7
+   }
+  },
+  {
+   "id": "kulah-dondurma",
+   "ad": "Külah Dondurma",
+   "seviye": "siradan",
+   "grup": "soguk",
+   "etiketler": [],
+   "aciklama": "Yaz akşamlarının klasik keyfi.",
+   "puan": {
+    "lezzet": 8,
+    "populerlik": 9,
+    "gorunum": 6,
+    "cesitlilik": 7
+   }
+  },
+  {
+   "id": "limonlu-sorbe",
+   "ad": "Limonlu Sorbe",
+   "seviye": "siradan",
+   "grup": "soguk",
+   "etiketler": [],
+   "aciklama": "Ferah ve hafif buzlu tatlı.",
+   "puan": {
+    "lezzet": 7,
+    "populerlik": 5,
+    "gorunum": 6,
+    "cesitlilik": 5
+   }
+  },
+  {
+   "id": "frozen-yogurt",
+   "ad": "Frozen Yoğurt",
+   "seviye": "siradan",
+   "grup": "soguk",
+   "etiketler": [],
+   "aciklama": "Meyveli ve hafif soğuk tatlı.",
+   "puan": {
+    "lezzet": 7,
+    "populerlik": 6,
+    "gorunum": 7,
+    "cesitlilik": 8
+   }
+  },
+  {
+   "id": "puding",
+   "ad": "Puding",
+   "seviye": "siradan",
+   "grup": "sutlu",
+   "etiketler": [],
+   "aciklama": "Hazır paketten çocukluk tatlısı.",
+   "puan": {
+    "lezzet": 6,
+    "populerlik": 7,
+    "gorunum": 5,
+    "cesitlilik": 6
+   }
+  },
+  {
+   "id": "keskul",
+   "ad": "Keşkül",
+   "seviye": "siradan",
+   "grup": "sutlu",
+   "etiketler": [],
+   "aciklama": "Bademli ve hindistan cevizli saray tatlısı.",
+   "puan": {
+    "lezzet": 7,
+    "populerlik": 5,
+    "gorunum": 6,
+    "cesitlilik": 4
+   }
+  }
+ ]
+}

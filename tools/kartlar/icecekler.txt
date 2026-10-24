@@ -1,0 +1,36 @@
+# İçecekler — ad|seviye|grup|etiketler|açıklama|Lezzet,Popülerlik,Her mevsime uygunluk,Çeşitlilik
+Türk Kahvesi|e|geleneksel||Köpüğü, fincanı ve falıyla bir kültür.|9,9,8,6
+Çay|e|sicak||İnce belli bardakta, günün her saatinde.|9,10,9,6
+Ayran|e|geleneksel||Kebabın, pidenin ve yazın en iyi dostu.|8,10,6,4
+Kola|e|soguk||Dünyanın en çok bilinen gazlı içeceği.|8,10,7,5
+Limonata|e|soguk||Ev yapımı, naneli ve buz gibi.|8,9,6,7
+Latte|e|sicak||Sütlü kahvenin kafelerdeki en popüler hali.|8,9,8,9
+Taze Portakal Suyu|e|soguk||Sabah kahvaltısının vitamin dolu başlangıcı.|9,8,7,5
+Sahlep|g|geleneksel||Tarçınlı ve sıcak, kış akşamlarının içeceği.|9,7,4,4
+Şalgam|g|geleneksel||Acılı ya da acısız, Adana'nın kırmızı suyu.|7,7,6,3
+Boza|g|geleneksel||Leblebiyle içilen kış klasiği.|7,6,4,3
+Espresso|g|sicak||Kahvenin en yoğun ve kısa hali.|8,8,8,7
+Cappuccino|g|sicak||Köpüklü sütle yumuşayan espresso.|8,8,8,7
+Sıcak Çikolata|g|sicak||Soğuk günlerin tatlı kurtarıcısı.|9,8,4,6
+Ice Latte|g|soguk||Yaz aylarında kahvenin buzlu hali.|8,8,5,8
+Milkshake|g|soguk||Dondurmalı ve köpüklü tatlı içecek.|9,8,5,9
+Smoothie|g|soguk||Meyveler blenderda buluşur.|8,7,6,10
+Maden Suyu|g|soguk||Ferahlatan ve yemekleri hafifleten klasik.|6,9,9,6
+Ihlamur|g|sicak||Kışın şifa niyetine içilen bitki çayı.|7,6,5,3
+Şerbet|g|geleneksel||Osmanlı mutfağının meyveli tatlı içeceği.|8,5,6,7
+Ice Tea|g|soguk||Şeftalili ya da limonlu soğuk çay.|7,8,6,5
+Bitki Çayı|g|sicak||Papatya, adaçayı, kuşburnu; her derde bir çay.|6,6,7,8
+Kefir|s|soguk||Probiyotik dolu ekşimsi süt içeceği.|6,5,7,6
+Gazoz|s|soguk||Mahalle bakkalının nostaljik içeceği.|7,7,6,6
+Kutu Meyve Suyu|s|soguk||Okul çantalarının vazgeçilmezi.|6,7,7,8
+Enerji İçeceği|s|soguk||Sınav haftalarının kurtarıcısı.|5,7,6,5
+Filtre Kahve|s|sicak||Büyük kupada uzun uzun içilen kahve.|7,8,8,5
+Menengiç Kahvesi|s|geleneksel||Kahve değil, menengiç meyvesinden yapılan sıcak içecek.|7,4,6,3
+Yeşil Çay|s|sicak||Hafif ve sağlıklı bir alternatif.|6,7,8,4
+Matcha|s|sicak||Japonya'dan gelen yeşil toz çay.|6,5,7,6
+Demir Hindi|s|geleneksel||Ekşi tatlı tadıyla Ramazan şerbeti.|7,4,5,3
+Tarçınlı Süt|s|sicak||Uykudan önce içilen sıcak süt.|7,4,4,4
+Vişne Suyu|s|soguk||Ekşimsi, koyu kırmızı meyve suyu.|8,6,6,5
+Hibiskus Çayı|s|sicak||Kırmızı renkli, mayhoş bitki çayı.|6,4,7,5
+Bubble Tea|s|soguk||İçinde tapyoka topları olan Tayvan içeceği.|7,5,5,8
+Frappe|s|soguk||Köpürtülmüş buzlu kahve.|8,6,5,7

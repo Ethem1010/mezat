@@ -1,0 +1,535 @@
+{
+ "id": "meyveler",
+ "ad": "Meyveler",
+ "sablon": "juri",
+ "gorev_mesaji": "En lezzetli meyve sepetini kur: hangi sepet daha çok sevilir?",
+ "olcutler": {
+  "lezzet": {
+   "ad": "Lezzet",
+   "agirlik": 0.4
+  },
+  "saglik": {
+   "ad": "Sağlık",
+   "agirlik": 0.25
+  },
+  "populerlik": {
+   "ad": "Popülerlik",
+   "agirlik": 0.2
+  },
+  "cok_yonluluk": {
+   "ad": "Çok yönlülük",
+   "agirlik": 0.15
+  }
+ },
+ "gruplar": {
+  "yaz": "Yaz meyvesi",
+  "kis": "Kış meyvesi",
+  "tropik": "Tropik",
+  "her_mevsim": "Her mevsim"
+ },
+ "sinerjiler": [
+  {
+   "tip": "cesitlilik",
+   "ad": "Dört mevsim sepeti",
+   "esikler": {
+    "3": 4,
+    "4": 7
+   }
+  }
+ ],
+ "garanti": {},
+ "hakem_notu": "Farklı mevsimlerin meyvelerini içeren sepete uyum bonusu ver. Aynı türden çok meyve tekdüzelik sayılır.",
+ "kart_sayisi": 35,
+ "kartlar": [
+  {
+   "id": "cilek",
+   "ad": "Çilek",
+   "seviye": "efsane",
+   "grup": "yaz",
+   "etiketler": [],
+   "aciklama": "Tatlıdan reçele, herkesin sevdiği kırmızı yıldız.",
+   "puan": {
+    "lezzet": 9,
+    "saglik": 8,
+    "populerlik": 10,
+    "cok_yonluluk": 9
+   }
+  },
+  {
+   "id": "karpuz",
+   "ad": "Karpuz",
+   "seviye": "efsane",
+   "grup": "yaz",
+   "etiketler": [],
+   "aciklama": "Yazın vazgeçilmezi, buz gibi ve sulu.",
+   "puan": {
+    "lezzet": 9,
+    "saglik": 6,
+    "populerlik": 10,
+    "cok_yonluluk": 5
+   }
+  },
+  {
+   "id": "kiraz",
+   "ad": "Kiraz",
+   "seviye": "efsane",
+   "grup": "yaz",
+   "etiketler": [],
+   "aciklama": "Kısa sezonu yüzünden hep özlenen tatlı meyve.",
+   "puan": {
+    "lezzet": 9,
+    "saglik": 8,
+    "populerlik": 9,
+    "cok_yonluluk": 6
+   }
+  },
+  {
+   "id": "muz",
+   "ad": "Muz",
+   "seviye": "efsane",
+   "grup": "tropik",
+   "etiketler": [],
+   "aciklama": "Pratik, doyurucu ve her yaşın meyvesi.",
+   "puan": {
+    "lezzet": 8,
+    "saglik": 8,
+    "populerlik": 10,
+    "cok_yonluluk": 9
+   }
+  },
+  {
+   "id": "mango",
+   "ad": "Mango",
+   "seviye": "efsane",
+   "grup": "tropik",
+   "etiketler": [],
+   "aciklama": "Tropiklerin kralı; kokusu ve tadı eşsiz.",
+   "puan": {
+    "lezzet": 10,
+    "saglik": 8,
+    "populerlik": 8,
+    "cok_yonluluk": 8
+   }
+  },
+  {
+   "id": "elma",
+   "ad": "Elma",
+   "seviye": "efsane",
+   "grup": "her_mevsim",
+   "etiketler": [],
+   "aciklama": "Günde bir elma doktoru uzak tutar.",
+   "puan": {
+    "lezzet": 7,
+    "saglik": 9,
+    "populerlik": 10,
+    "cok_yonluluk": 10
+   }
+  },
+  {
+   "id": "portakal",
+   "ad": "Portakal",
+   "seviye": "efsane",
+   "grup": "kis",
+   "etiketler": [],
+   "aciklama": "Kışın C vitamini deposu, sıkması da yemesi de güzel.",
+   "puan": {
+    "lezzet": 8,
+    "saglik": 9,
+    "populerlik": 9,
+    "cok_yonluluk": 9
+   }
+  },
+  {
+   "id": "seftali",
+   "ad": "Şeftali",
+   "seviye": "guclu",
+   "grup": "yaz",
+   "etiketler": [],
+   "aciklama": "Kadife kabuklu, sulu yaz meyvesi.",
+   "puan": {
+    "lezzet": 8,
+    "saglik": 7,
+    "populerlik": 8,
+    "cok_yonluluk": 7
+   }
+  },
+  {
+   "id": "kavun",
+   "ad": "Kavun",
+   "seviye": "guclu",
+   "grup": "yaz",
+   "etiketler": [],
+   "aciklama": "Peynirle buluşunca efsane olan yaz klasiği.",
+   "puan": {
+    "lezzet": 8,
+    "saglik": 6,
+    "populerlik": 8,
+    "cok_yonluluk": 5
+   }
+  },
+  {
+   "id": "uzum",
+   "ad": "Üzüm",
+   "seviye": "guclu",
+   "grup": "yaz",
+   "etiketler": [],
+   "aciklama": "Taze de kuru da pekmezi de ayrı lezzet.",
+   "puan": {
+    "lezzet": 8,
+    "saglik": 7,
+    "populerlik": 8,
+    "cok_yonluluk": 9
+   }
+  },
+  {
+   "id": "i-ncir",
+   "ad": "İncir",
+   "seviye": "guclu",
+   "grup": "yaz",
+   "etiketler": [],
+   "aciklama": "Ballı tadıyla Ege'nin hazinesi.",
+   "puan": {
+    "lezzet": 8,
+    "saglik": 8,
+    "populerlik": 6,
+    "cok_yonluluk": 7
+   }
+  },
+  {
+   "id": "kayisi",
+   "ad": "Kayısı",
+   "seviye": "guclu",
+   "grup": "yaz",
+   "etiketler": [],
+   "aciklama": "Malatya'nın gururu, kurusu da bir başka.",
+   "puan": {
+    "lezzet": 8,
+    "saglik": 8,
+    "populerlik": 7,
+    "cok_yonluluk": 8
+   }
+  },
+  {
+   "id": "ananas",
+   "ad": "Ananas",
+   "seviye": "guclu",
+   "grup": "tropik",
+   "etiketler": [],
+   "aciklama": "Ekşi tatlı tadıyla tropik bir patlama.",
+   "puan": {
+    "lezzet": 8,
+    "saglik": 7,
+    "populerlik": 8,
+    "cok_yonluluk": 8
+   }
+  },
+  {
+   "id": "mandalina",
+   "ad": "Mandalina",
+   "seviye": "guclu",
+   "grup": "kis",
+   "etiketler": [],
+   "aciklama": "Soyması kolay, kışın en çok tüketilen meyve.",
+   "puan": {
+    "lezzet": 8,
+    "saglik": 8,
+    "populerlik": 9,
+    "cok_yonluluk": 6
+   }
+  },
+  {
+   "id": "nar",
+   "ad": "Nar",
+   "seviye": "guclu",
+   "grup": "kis",
+   "etiketler": [],
+   "aciklama": "Tanesi, ekşisi ve suyuyla süper meyve.",
+   "puan": {
+    "lezzet": 7,
+    "saglik": 10,
+    "populerlik": 7,
+    "cok_yonluluk": 8
+   }
+  },
+  {
+   "id": "avokado",
+   "ad": "Avokado",
+   "seviye": "guclu",
+   "grup": "tropik",
+   "etiketler": [],
+   "aciklama": "Kahvaltıların yeni yıldızı, sağlıklı yağ deposu.",
+   "puan": {
+    "lezzet": 6,
+    "saglik": 10,
+    "populerlik": 7,
+    "cok_yonluluk": 9
+   }
+  },
+  {
+   "id": "armut",
+   "ad": "Armut",
+   "seviye": "guclu",
+   "grup": "her_mevsim",
+   "etiketler": [],
+   "aciklama": "Yumuşak ve sulu, sessiz sedasız sevilen meyve.",
+   "puan": {
+    "lezzet": 7,
+    "saglik": 8,
+    "populerlik": 7,
+    "cok_yonluluk": 7
+   }
+  },
+  {
+   "id": "bogurtlen",
+   "ad": "Böğürtlen",
+   "seviye": "guclu",
+   "grup": "yaz",
+   "etiketler": [],
+   "aciklama": "Dikenli dallardan toplanan mor hazine.",
+   "puan": {
+    "lezzet": 7,
+    "saglik": 10,
+    "populerlik": 5,
+    "cok_yonluluk": 7
+   }
+  },
+  {
+   "id": "ahududu",
+   "ad": "Ahududu",
+   "seviye": "guclu",
+   "grup": "yaz",
+   "etiketler": [],
+   "aciklama": "Tatlı ekşi tadıyla pastaların süsü.",
+   "puan": {
+    "lezzet": 8,
+    "saglik": 9,
+    "populerlik": 6,
+    "cok_yonluluk": 7
+   }
+  },
+  {
+   "id": "kivi",
+   "ad": "Kivi",
+   "seviye": "guclu",
+   "grup": "kis",
+   "etiketler": [],
+   "aciklama": "Tüylü kabuğunun altında yeşil bir C vitamini bombası.",
+   "puan": {
+    "lezzet": 7,
+    "saglik": 9,
+    "populerlik": 7,
+    "cok_yonluluk": 6
+   }
+  },
+  {
+   "id": "dut",
+   "ad": "Dut",
+   "seviye": "guclu",
+   "grup": "yaz",
+   "etiketler": [],
+   "aciklama": "Ağaçtan yemesi en güzel olan yaz meyvesi.",
+   "puan": {
+    "lezzet": 8,
+    "saglik": 8,
+    "populerlik": 6,
+    "cok_yonluluk": 6
+   }
+  },
+  {
+   "id": "erik",
+   "ad": "Erik",
+   "seviye": "siradan",
+   "grup": "yaz",
+   "etiketler": [],
+   "aciklama": "Yeşili tuzla, mürdümü tatlı tatlı yenir.",
+   "puan": {
+    "lezzet": 7,
+    "saglik": 7,
+    "populerlik": 7,
+    "cok_yonluluk": 6
+   }
+  },
+  {
+   "id": "visne",
+   "ad": "Vişne",
+   "seviye": "siradan",
+   "grup": "yaz",
+   "etiketler": [],
+   "aciklama": "Reçeli, şerbeti ve kekleriyle sevilen ekşi meyve.",
+   "puan": {
+    "lezzet": 7,
+    "saglik": 8,
+    "populerlik": 6,
+    "cok_yonluluk": 8
+   }
+  },
+  {
+   "id": "greyfurt",
+   "ad": "Greyfurt",
+   "seviye": "siradan",
+   "grup": "kis",
+   "etiketler": [],
+   "aciklama": "Acımsı tadıyla sağlıkçıların sevdiği turunçgil.",
+   "puan": {
+    "lezzet": 5,
+    "saglik": 9,
+    "populerlik": 5,
+    "cok_yonluluk": 6
+   }
+  },
+  {
+   "id": "limon",
+   "ad": "Limon",
+   "seviye": "siradan",
+   "grup": "her_mevsim",
+   "etiketler": [],
+   "aciklama": "Tek başına yenmez ama mutfağın her yerinde.",
+   "puan": {
+    "lezzet": 4,
+    "saglik": 9,
+    "populerlik": 7,
+    "cok_yonluluk": 10
+   }
+  },
+  {
+   "id": "ayva",
+   "ad": "Ayva",
+   "seviye": "siradan",
+   "grup": "kis",
+   "etiketler": [],
+   "aciklama": "Tatlısı efsane, kendisi biraz sert.",
+   "puan": {
+    "lezzet": 6,
+    "saglik": 8,
+    "populerlik": 5,
+    "cok_yonluluk": 7
+   }
+  },
+  {
+   "id": "hurma",
+   "ad": "Hurma",
+   "seviye": "siradan",
+   "grup": "tropik",
+   "etiketler": [],
+   "aciklama": "Enerji deposu, iftar sofralarının vazgeçilmezi.",
+   "puan": {
+    "lezzet": 7,
+    "saglik": 7,
+    "populerlik": 6,
+    "cok_yonluluk": 7
+   }
+  },
+  {
+   "id": "hindistan-cevizi",
+   "ad": "Hindistan Cevizi",
+   "seviye": "siradan",
+   "grup": "tropik",
+   "etiketler": [],
+   "aciklama": "Suyu, sütü ve rendesiyle çok yönlü.",
+   "puan": {
+    "lezzet": 7,
+    "saglik": 7,
+    "populerlik": 6,
+    "cok_yonluluk": 8
+   }
+  },
+  {
+   "id": "papaya",
+   "ad": "Papaya",
+   "seviye": "siradan",
+   "grup": "tropik",
+   "etiketler": [],
+   "aciklama": "Turuncu iç dokusuyla tropik bir sindirim dostu.",
+   "puan": {
+    "lezzet": 6,
+    "saglik": 8,
+    "populerlik": 4,
+    "cok_yonluluk": 5
+   }
+  },
+  {
+   "id": "trabzon-hurmasi",
+   "ad": "Trabzon Hurması",
+   "seviye": "siradan",
+   "grup": "kis",
+   "etiketler": [],
+   "aciklama": "Olgunlaşınca bal gibi olan kış meyvesi.",
+   "puan": {
+    "lezzet": 7,
+    "saglik": 7,
+    "populerlik": 5,
+    "cok_yonluluk": 4
+   }
+  },
+  {
+   "id": "yaban-mersini",
+   "ad": "Yaban Mersini",
+   "seviye": "siradan",
+   "grup": "yaz",
+   "etiketler": [],
+   "aciklama": "Küçük ama antioksidan şampiyonu.",
+   "puan": {
+    "lezzet": 7,
+    "saglik": 10,
+    "populerlik": 6,
+    "cok_yonluluk": 7
+   }
+  },
+  {
+   "id": "carkifelek-meyvesi",
+   "ad": "Çarkıfelek Meyvesi",
+   "seviye": "siradan",
+   "grup": "tropik",
+   "etiketler": [],
+   "aciklama": "Mayhoş ve kokulu, kokteyllerin gizli yıldızı.",
+   "puan": {
+    "lezzet": 7,
+    "saglik": 8,
+    "populerlik": 4,
+    "cok_yonluluk": 6
+   }
+  },
+  {
+   "id": "ejder-meyvesi",
+   "ad": "Ejder Meyvesi",
+   "seviye": "siradan",
+   "grup": "tropik",
+   "etiketler": [],
+   "aciklama": "Görüntüsü çarpıcı, tadı hafif.",
+   "puan": {
+    "lezzet": 5,
+    "saglik": 7,
+    "populerlik": 4,
+    "cok_yonluluk": 4
+   }
+  },
+  {
+   "id": "kizilcik",
+   "ad": "Kızılcık",
+   "seviye": "siradan",
+   "grup": "yaz",
+   "etiketler": [],
+   "aciklama": "Ekşi tadıyla şerbeti ve reçeli meşhur.",
+   "puan": {
+    "lezzet": 5,
+    "saglik": 8,
+    "populerlik": 4,
+    "cok_yonluluk": 6
+   }
+  },
+  {
+   "id": "musmula",
+   "ad": "Muşmula",
+   "seviye": "siradan",
+   "grup": "kis",
+   "etiketler": [],
+   "aciklama": "Büyükannelerin bildiği, unutulmaya yüz tutmuş meyve.",
+   "puan": {
+    "lezzet": 5,
+    "saglik": 6,
+    "populerlik": 3,
+    "cok_yonluluk": 3
+   }
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+# Kuşlar — ad|seviye|grup|etiketler|açıklama|Avcılık,Hız,Uçuş yeteneği,Zeka
+Altın Kartal|e|yirtici|yirtici|Göklerin hükümdarı, dağ keçisi bile avlar.|9,9,9,7
+Gökdoğan|e|yirtici|yirtici|Dalışta dünyanın en hızlı canlısı.|9,10,10,6
+Harpi Kartalı|e|yirtici|yirtici|Pençeleri ayı pençesi kadar büyük orman avcısı.|10,7,8,6
+Kel Kartal|e|yirtici|yirtici|ABD'nin sembolü, balık avcısı.|8,8,9,6
+Puhu Baykuşu|e|yirtici|yirtici|Gecenin sessiz ve en büyük baykuşlarından.|8,6,8,6
+Albatros|e|deniz||Kanat açıklığı rekortmeni, okyanusları aşar.|5,7,10,5
+Kuzgun|e|diger||Bulmaca çözen, alet kullanan dâhi kuş.|5,6,8,10
+Şahin|g|yirtici|yirtici|Keskin gözlü, çevik avcı.|8,8,9,6
+Akbaba|g|yirtici|yirtici|Saatlerce süzülen gökyüzü temizlikçisi.|5,5,9,5
+Kasuar|g|ucamayan||Uçamaz ama pençeleriyle en tehlikeli kuş.|7,5,1,4
+Devekuşu|g|ucamayan||En büyük kuş, karada çok hızlı koşar.|5,8,1,3
+Pelikan|g|deniz||Gagasındaki keseyle balık avlar.|6,4,8,4
+Martı|g|deniz||Simitçinin ve vapurun daimi yolcusu.|5,6,8,6
+Leylek|g|diger||Kıtalar arası göçün ustası.|4,6,9,5
+Papağan|g|diger||Konuşmayı taklit eden zeki kuş.|1,5,6,10
+Atmaca|g|yirtici|yirtici|Ormanın hızlı ve çevik avcısı.|8,8,9,6
+Fırkateyn Kuşu|g|deniz||Haftalarca konmadan uçabilir.|6,8,10,5
+Kırlangıç|g|diger||Baharın habercisi, havada böcek avlar.|3,9,9,5
+Saksağan|g|diger||Aynada kendini tanıyan zeki kuş.|3,5,6,9
+İmparator Penguen|g|ucamayan||Uçamaz ama denizde usta dalgıç.|4,3,1,5
+Turna|g|diger||Zarif dansıyla bilinen uzun bacaklı göçmen.|3,6,9,5
+Serçe|s|diger||Her şehrin küçük sakini.|1,5,6,4
+Güvercin|s|diger||Yolunu kaybetmeyen posta kuşu.|1,7,8,5
+Tavuk|s|ucamayan||Neredeyse uçamaz ama kahvaltının kahramanı.|1,2,1,3
+Ördek|s|deniz||Hem yüzer hem uçar.|2,6,6,3
+Kaz|s|deniz||Bahçenin bekçisi, göçmen kuş.|3,5,7,4
+Hindi|s|ucamayan||İri ve gürültülü çiftlik kuşu.|2,3,2,3
+Tavus Kuşu|s|ucamayan||Kuyruğunu açınca gösteri başlar.|1,3,2,3
+Flamingo|s|deniz||Tek ayak üstünde duran pembe kuş.|2,5,7,3
+Sinek Kuşu|s|diger||Havada asılı kalabilen minik kuş.|1,9,10,4
+Ağaçkakan|s|diger||Gagasıyla ağaca delik açar.|2,4,6,5
+Kanarya|s|diger||Sesiyle evleri neşelendirir.|1,4,5,3
+Muhabbet Kuşu|s|diger||Konuşmayı öğrenebilen renkli kafes kuşu.|1,5,5,6
+Kivi|s|ucamayan||Yeni Zelanda'nın uçamayan gece kuşu.|2,3,1,3
+Bıldırcın|s|diger||Kısa mesafede hızlı kalkış yapan küçük kuş.|1,6,4,2

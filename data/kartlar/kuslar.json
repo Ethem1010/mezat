@@ -1,0 +1,557 @@
+{
+ "id": "kuslar",
+ "ad": "Kuşlar",
+ "sablon": "duello",
+ "gorev_mesaji": "Gökyüzü ekibini kur: havada kim hükmeder?",
+ "olcutler": {
+  "avcilik": {
+   "ad": "Avcılık",
+   "agirlik": 0.35
+  },
+  "hiz": {
+   "ad": "Hız",
+   "agirlik": 0.25
+  },
+  "ucus_yetenegi": {
+   "ad": "Uçuş yeteneği",
+   "agirlik": 0.25
+  },
+  "zeka": {
+   "ad": "Zeka",
+   "agirlik": 0.15
+  }
+ },
+ "gruplar": {
+  "yirtici": "Yırtıcı",
+  "deniz": "Deniz kuşu",
+  "ucamayan": "Uçamayan",
+  "diger": "Diğer"
+ },
+ "sinerjiler": [
+  {
+   "tip": "etiket",
+   "ad": "Yırtıcılar filosu",
+   "etiket": "yirtici",
+   "en_az": 3,
+   "bonus": 5
+  },
+  {
+   "tip": "cesitlilik",
+   "ad": "Karışık sürü",
+   "esikler": {
+    "3": 4
+   }
+  }
+ ],
+ "garanti": {},
+ "hakem_notu": "Düellolar havada geçer. Uçamayan kuşlar havada dezavantajlıdır ama karada savunmaya geçebilir.",
+ "kart_sayisi": 35,
+ "kartlar": [
+  {
+   "id": "altin-kartal",
+   "ad": "Altın Kartal",
+   "seviye": "efsane",
+   "grup": "yirtici",
+   "etiketler": [
+    "yirtici"
+   ],
+   "aciklama": "Göklerin hükümdarı, dağ keçisi bile avlar.",
+   "puan": {
+    "avcilik": 9,
+    "hiz": 9,
+    "ucus_yetenegi": 9,
+    "zeka": 7
+   }
+  },
+  {
+   "id": "gokdogan",
+   "ad": "Gökdoğan",
+   "seviye": "efsane",
+   "grup": "yirtici",
+   "etiketler": [
+    "yirtici"
+   ],
+   "aciklama": "Dalışta dünyanın en hızlı canlısı.",
+   "puan": {
+    "avcilik": 9,
+    "hiz": 10,
+    "ucus_yetenegi": 10,
+    "zeka": 6
+   }
+  },
+  {
+   "id": "harpi-kartali",
+   "ad": "Harpi Kartalı",
+   "seviye": "efsane",
+   "grup": "yirtici",
+   "etiketler": [
+    "yirtici"
+   ],
+   "aciklama": "Pençeleri ayı pençesi kadar büyük orman avcısı.",
+   "puan": {
+    "avcilik": 10,
+    "hiz": 7,
+    "ucus_yetenegi": 8,
+    "zeka": 6
+   }
+  },
+  {
+   "id": "kel-kartal",
+   "ad": "Kel Kartal",
+   "seviye": "efsane",
+   "grup": "yirtici",
+   "etiketler": [
+    "yirtici"
+   ],
+   "aciklama": "ABD'nin sembolü, balık avcısı.",
+   "puan": {
+    "avcilik": 8,
+    "hiz": 8,
+    "ucus_yetenegi": 9,
+    "zeka": 6
+   }
+  },
+  {
+   "id": "puhu-baykusu",
+   "ad": "Puhu Baykuşu",
+   "seviye": "efsane",
+   "grup": "yirtici",
+   "etiketler": [
+    "yirtici"
+   ],
+   "aciklama": "Gecenin sessiz ve en büyük baykuşlarından.",
+   "puan": {
+    "avcilik": 8,
+    "hiz": 6,
+    "ucus_yetenegi": 8,
+    "zeka": 6
+   }
+  },
+  {
+   "id": "albatros",
+   "ad": "Albatros",
+   "seviye": "efsane",
+   "grup": "deniz",
+   "etiketler": [],
+   "aciklama": "Kanat açıklığı rekortmeni, okyanusları aşar.",
+   "puan": {
+    "avcilik": 5,
+    "hiz": 7,
+    "ucus_yetenegi": 10,
+    "zeka": 5
+   }
+  },
+  {
+   "id": "kuzgun",
+   "ad": "Kuzgun",
+   "seviye": "efsane",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Bulmaca çözen, alet kullanan dâhi kuş.",
+   "puan": {
+    "avcilik": 5,
+    "hiz": 6,
+    "ucus_yetenegi": 8,
+    "zeka": 10
+   }
+  },
+  {
+   "id": "sahin",
+   "ad": "Şahin",
+   "seviye": "guclu",
+   "grup": "yirtici",
+   "etiketler": [
+    "yirtici"
+   ],
+   "aciklama": "Keskin gözlü, çevik avcı.",
+   "puan": {
+    "avcilik": 8,
+    "hiz": 8,
+    "ucus_yetenegi": 9,
+    "zeka": 6
+   }
+  },
+  {
+   "id": "akbaba",
+   "ad": "Akbaba",
+   "seviye": "guclu",
+   "grup": "yirtici",
+   "etiketler": [
+    "yirtici"
+   ],
+   "aciklama": "Saatlerce süzülen gökyüzü temizlikçisi.",
+   "puan": {
+    "avcilik": 5,
+    "hiz": 5,
+    "ucus_yetenegi": 9,
+    "zeka": 5
+   }
+  },
+  {
+   "id": "kasuar",
+   "ad": "Kasuar",
+   "seviye": "guclu",
+   "grup": "ucamayan",
+   "etiketler": [],
+   "aciklama": "Uçamaz ama pençeleriyle en tehlikeli kuş.",
+   "puan": {
+    "avcilik": 7,
+    "hiz": 5,
+    "ucus_yetenegi": 1,
+    "zeka": 4
+   }
+  },
+  {
+   "id": "devekusu",
+   "ad": "Devekuşu",
+   "seviye": "guclu",
+   "grup": "ucamayan",
+   "etiketler": [],
+   "aciklama": "En büyük kuş, karada çok hızlı koşar.",
+   "puan": {
+    "avcilik": 5,
+    "hiz": 8,
+    "ucus_yetenegi": 1,
+    "zeka": 3
+   }
+  },
+  {
+   "id": "pelikan",
+   "ad": "Pelikan",
+   "seviye": "guclu",
+   "grup": "deniz",
+   "etiketler": [],
+   "aciklama": "Gagasındaki keseyle balık avlar.",
+   "puan": {
+    "avcilik": 6,
+    "hiz": 4,
+    "ucus_yetenegi": 8,
+    "zeka": 4
+   }
+  },
+  {
+   "id": "marti",
+   "ad": "Martı",
+   "seviye": "guclu",
+   "grup": "deniz",
+   "etiketler": [],
+   "aciklama": "Simitçinin ve vapurun daimi yolcusu.",
+   "puan": {
+    "avcilik": 5,
+    "hiz": 6,
+    "ucus_yetenegi": 8,
+    "zeka": 6
+   }
+  },
+  {
+   "id": "leylek",
+   "ad": "Leylek",
+   "seviye": "guclu",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Kıtalar arası göçün ustası.",
+   "puan": {
+    "avcilik": 4,
+    "hiz": 6,
+    "ucus_yetenegi": 9,
+    "zeka": 5
+   }
+  },
+  {
+   "id": "papagan",
+   "ad": "Papağan",
+   "seviye": "guclu",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Konuşmayı taklit eden zeki kuş.",
+   "puan": {
+    "avcilik": 1,
+    "hiz": 5,
+    "ucus_yetenegi": 6,
+    "zeka": 10
+   }
+  },
+  {
+   "id": "atmaca",
+   "ad": "Atmaca",
+   "seviye": "guclu",
+   "grup": "yirtici",
+   "etiketler": [
+    "yirtici"
+   ],
+   "aciklama": "Ormanın hızlı ve çevik avcısı.",
+   "puan": {
+    "avcilik": 8,
+    "hiz": 8,
+    "ucus_yetenegi": 9,
+    "zeka": 6
+   }
+  },
+  {
+   "id": "firkateyn-kusu",
+   "ad": "Fırkateyn Kuşu",
+   "seviye": "guclu",
+   "grup": "deniz",
+   "etiketler": [],
+   "aciklama": "Haftalarca konmadan uçabilir.",
+   "puan": {
+    "avcilik": 6,
+    "hiz": 8,
+    "ucus_yetenegi": 10,
+    "zeka": 5
+   }
+  },
+  {
+   "id": "kirlangic",
+   "ad": "Kırlangıç",
+   "seviye": "guclu",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Baharın habercisi, havada böcek avlar.",
+   "puan": {
+    "avcilik": 3,
+    "hiz": 9,
+    "ucus_yetenegi": 9,
+    "zeka": 5
+   }
+  },
+  {
+   "id": "saksagan",
+   "ad": "Saksağan",
+   "seviye": "guclu",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Aynada kendini tanıyan zeki kuş.",
+   "puan": {
+    "avcilik": 3,
+    "hiz": 5,
+    "ucus_yetenegi": 6,
+    "zeka": 9
+   }
+  },
+  {
+   "id": "i-mparator-penguen",
+   "ad": "İmparator Penguen",
+   "seviye": "guclu",
+   "grup": "ucamayan",
+   "etiketler": [],
+   "aciklama": "Uçamaz ama denizde usta dalgıç.",
+   "puan": {
+    "avcilik": 4,
+    "hiz": 3,
+    "ucus_yetenegi": 1,
+    "zeka": 5
+   }
+  },
+  {
+   "id": "turna",
+   "ad": "Turna",
+   "seviye": "guclu",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Zarif dansıyla bilinen uzun bacaklı göçmen.",
+   "puan": {
+    "avcilik": 3,
+    "hiz": 6,
+    "ucus_yetenegi": 9,
+    "zeka": 5
+   }
+  },
+  {
+   "id": "serce",
+   "ad": "Serçe",
+   "seviye": "siradan",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Her şehrin küçük sakini.",
+   "puan": {
+    "avcilik": 1,
+    "hiz": 5,
+    "ucus_yetenegi": 6,
+    "zeka": 4
+   }
+  },
+  {
+   "id": "guvercin",
+   "ad": "Güvercin",
+   "seviye": "siradan",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Yolunu kaybetmeyen posta kuşu.",
+   "puan": {
+    "avcilik": 1,
+    "hiz": 7,
+    "ucus_yetenegi": 8,
+    "zeka": 5
+   }
+  },
+  {
+   "id": "tavuk",
+   "ad": "Tavuk",
+   "seviye": "siradan",
+   "grup": "ucamayan",
+   "etiketler": [],
+   "aciklama": "Neredeyse uçamaz ama kahvaltının kahramanı.",
+   "puan": {
+    "avcilik": 1,
+    "hiz": 2,
+    "ucus_yetenegi": 1,
+    "zeka": 3
+   }
+  },
+  {
+   "id": "ordek",
+   "ad": "Ördek",
+   "seviye": "siradan",
+   "grup": "deniz",
+   "etiketler": [],
+   "aciklama": "Hem yüzer hem uçar.",
+   "puan": {
+    "avcilik": 2,
+    "hiz": 6,
+    "ucus_yetenegi": 6,
+    "zeka": 3
+   }
+  },
+  {
+   "id": "kaz",
+   "ad": "Kaz",
+   "seviye": "siradan",
+   "grup": "deniz",
+   "etiketler": [],
+   "aciklama": "Bahçenin bekçisi, göçmen kuş.",
+   "puan": {
+    "avcilik": 3,
+    "hiz": 5,
+    "ucus_yetenegi": 7,
+    "zeka": 4
+   }
+  },
+  {
+   "id": "hindi",
+   "ad": "Hindi",
+   "seviye": "siradan",
+   "grup": "ucamayan",
+   "etiketler": [],
+   "aciklama": "İri ve gürültülü çiftlik kuşu.",
+   "puan": {
+    "avcilik": 2,
+    "hiz": 3,
+    "ucus_yetenegi": 2,
+    "zeka": 3
+   }
+  },
+  {
+   "id": "tavus-kusu",
+   "ad": "Tavus Kuşu",
+   "seviye": "siradan",
+   "grup": "ucamayan",
+   "etiketler": [],
+   "aciklama": "Kuyruğunu açınca gösteri başlar.",
+   "puan": {
+    "avcilik": 1,
+    "hiz": 3,
+    "ucus_yetenegi": 2,
+    "zeka": 3
+   }
+  },
+  {
+   "id": "flamingo",
+   "ad": "Flamingo",
+   "seviye": "siradan",
+   "grup": "deniz",
+   "etiketler": [],
+   "aciklama": "Tek ayak üstünde duran pembe kuş.",
+   "puan": {
+    "avcilik": 2,
+    "hiz": 5,
+    "ucus_yetenegi": 7,
+    "zeka": 3
+   }
+  },
+  {
+   "id": "sinek-kusu",
+   "ad": "Sinek Kuşu",
+   "seviye": "siradan",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Havada asılı kalabilen minik kuş.",
+   "puan": {
+    "avcilik": 1,
+    "hiz": 9,
+    "ucus_yetenegi": 10,
+    "zeka": 4
+   }
+  },
+  {
+   "id": "agackakan",
+   "ad": "Ağaçkakan",
+   "seviye": "siradan",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Gagasıyla ağaca delik açar.",
+   "puan": {
+    "avcilik": 2,
+    "hiz": 4,
+    "ucus_yetenegi": 6,
+    "zeka": 5
+   }
+  },
+  {
+   "id": "kanarya",
+   "ad": "Kanarya",
+   "seviye": "siradan",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Sesiyle evleri neşelendirir.",
+   "puan": {
+    "avcilik": 1,
+    "hiz": 4,
+    "ucus_yetenegi": 5,
+    "zeka": 3
+   }
+  },
+  {
+   "id": "muhabbet-kusu",
+   "ad": "Muhabbet Kuşu",
+   "seviye": "siradan",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Konuşmayı öğrenebilen renkli kafes kuşu.",
+   "puan": {
+    "avcilik": 1,
+    "hiz": 5,
+    "ucus_yetenegi": 5,
+    "zeka": 6
+   }
+  },
+  {
+   "id": "kivi",
+   "ad": "Kivi",
+   "seviye": "siradan",
+   "grup": "ucamayan",
+   "etiketler": [],
+   "aciklama": "Yeni Zelanda'nın uçamayan gece kuşu.",
+   "puan": {
+    "avcilik": 2,
+    "hiz": 3,
+    "ucus_yetenegi": 1,
+    "zeka": 3
+   }
+  },
+  {
+   "id": "bildircin",
+   "ad": "Bıldırcın",
+   "seviye": "siradan",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Kısa mesafede hızlı kalkış yapan küçük kuş.",
+   "puan": {
+    "avcilik": 1,
+    "hiz": 6,
+    "ucus_yetenegi": 4,
+    "zeka": 2
+   }
+  }
+ ]
+}

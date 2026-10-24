@@ -1,0 +1,535 @@
+{
+ "id": "sarkicilar",
+ "ad": "Şarkıcılar",
+ "sablon": "turnuva",
+ "gorev_mesaji": "Konser kadronu kur: hangi kadro daha çok bilet satar?",
+ "olcutler": {
+  "hit_sarkilar": {
+   "ad": "Hit şarkılar",
+   "agirlik": 0.35
+  },
+  "sahne_performansi": {
+   "ad": "Sahne performansı",
+   "agirlik": 0.25
+  },
+  "hayran_kitlesi": {
+   "ad": "Hayran kitlesi",
+   "agirlik": 0.25
+  },
+  "efsanelik": {
+   "ad": "Efsanelik",
+   "agirlik": 0.15
+  }
+ },
+ "gruplar": {
+  "turk_pop": "Türk pop",
+  "turk_klasik": "Arabesk ve halk",
+  "turk_rock": "Türk rock",
+  "yabanci": "Yabancı"
+ },
+ "sinerjiler": [
+  {
+   "tip": "cesitlilik",
+   "ad": "Her zevke hitap",
+   "esikler": {
+    "3": 4,
+    "4": 7
+   }
+  }
+ ],
+ "garanti": {},
+ "hakem_notu": "Farklı tarzları bir araya getiren kadro daha geniş kitleye hitap eder; uyum bonusu ver.",
+ "kart_sayisi": 35,
+ "kartlar": [
+  {
+   "id": "tarkan",
+   "ad": "Tarkan",
+   "seviye": "efsane",
+   "grup": "turk_pop",
+   "etiketler": [],
+   "aciklama": "Megastar; şarkıları dünya listelerine girdi.",
+   "puan": {
+    "hit_sarkilar": 10,
+    "sahne_performansi": 9,
+    "hayran_kitlesi": 10,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "sezen-aksu",
+   "ad": "Sezen Aksu",
+   "seviye": "efsane",
+   "grup": "turk_pop",
+   "etiketler": [],
+   "aciklama": "Minik Serçe; Türk popunun annesi.",
+   "puan": {
+    "hit_sarkilar": 10,
+    "sahne_performansi": 7,
+    "hayran_kitlesi": 10,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "michael-jackson",
+   "ad": "Michael Jackson",
+   "seviye": "efsane",
+   "grup": "yabanci",
+   "etiketler": [],
+   "aciklama": "Pop'un Kralı, dans ve sahnenin efsanesi.",
+   "puan": {
+    "hit_sarkilar": 10,
+    "sahne_performansi": 10,
+    "hayran_kitlesi": 10,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "baris-manco",
+   "ad": "Barış Manço",
+   "seviye": "efsane",
+   "grup": "turk_rock",
+   "etiketler": [],
+   "aciklama": "Anadolu rock'ın öncüsü, çocukların Barış Abisi.",
+   "puan": {
+    "hit_sarkilar": 9,
+    "sahne_performansi": 9,
+    "hayran_kitlesi": 9,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "muslum-gurses",
+   "ad": "Müslüm Gürses",
+   "seviye": "efsane",
+   "grup": "turk_klasik",
+   "etiketler": [],
+   "aciklama": "Müslüm Baba; arabeskin efsane sesi.",
+   "puan": {
+    "hit_sarkilar": 9,
+    "sahne_performansi": 8,
+    "hayran_kitlesi": 10,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "zeki-muren",
+   "ad": "Zeki Müren",
+   "seviye": "efsane",
+   "grup": "turk_klasik",
+   "etiketler": [],
+   "aciklama": "Sanat Güneşi; sahnesi ve sesiyle eşsiz.",
+   "puan": {
+    "hit_sarkilar": 9,
+    "sahne_performansi": 9,
+    "hayran_kitlesi": 9,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "freddie-mercury",
+   "ad": "Freddie Mercury",
+   "seviye": "efsane",
+   "grup": "yabanci",
+   "etiketler": [],
+   "aciklama": "Queen'in solisti, rock tarihinin en güçlü sahne şovmeni.",
+   "puan": {
+    "hit_sarkilar": 10,
+    "sahne_performansi": 10,
+    "hayran_kitlesi": 9,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "ajda-pekkan",
+   "ad": "Ajda Pekkan",
+   "seviye": "guclu",
+   "grup": "turk_pop",
+   "etiketler": [],
+   "aciklama": "Süperstar; on yıllardır sahnede.",
+   "puan": {
+    "hit_sarkilar": 9,
+    "sahne_performansi": 9,
+    "hayran_kitlesi": 9,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "i-brahim-tatlises",
+   "ad": "İbrahim Tatlıses",
+   "seviye": "guclu",
+   "grup": "turk_klasik",
+   "etiketler": [],
+   "aciklama": "İmparator; uzun havanın ustası.",
+   "puan": {
+    "hit_sarkilar": 9,
+    "sahne_performansi": 8,
+    "hayran_kitlesi": 9,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "orhan-gencebay",
+   "ad": "Orhan Gencebay",
+   "seviye": "guclu",
+   "grup": "turk_klasik",
+   "etiketler": [],
+   "aciklama": "Arabeskin babası, bağlamanın virtüözü.",
+   "puan": {
+    "hit_sarkilar": 9,
+    "sahne_performansi": 7,
+    "hayran_kitlesi": 9,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "cem-karaca",
+   "ad": "Cem Karaca",
+   "seviye": "guclu",
+   "grup": "turk_rock",
+   "etiketler": [],
+   "aciklama": "Anadolu rock'ın güçlü ve isyankâr sesi.",
+   "puan": {
+    "hit_sarkilar": 8,
+    "sahne_performansi": 8,
+    "hayran_kitlesi": 8,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "teoman",
+   "ad": "Teoman",
+   "seviye": "guclu",
+   "grup": "turk_rock",
+   "etiketler": [],
+   "aciklama": "Bir kuşağın şarkılarını yazan rockçı.",
+   "puan": {
+    "hit_sarkilar": 8,
+    "sahne_performansi": 8,
+    "hayran_kitlesi": 8,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "sertab-erener",
+   "ad": "Sertab Erener",
+   "seviye": "guclu",
+   "grup": "turk_pop",
+   "etiketler": [],
+   "aciklama": "Eurovision'u Türkiye'ye kazandıran ses.",
+   "puan": {
+    "hit_sarkilar": 8,
+    "sahne_performansi": 8,
+    "hayran_kitlesi": 7,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "mustafa-sandal",
+   "ad": "Mustafa Sandal",
+   "seviye": "guclu",
+   "grup": "turk_pop",
+   "etiketler": [],
+   "aciklama": "90'ların hit makinesi.",
+   "puan": {
+    "hit_sarkilar": 8,
+    "sahne_performansi": 7,
+    "hayran_kitlesi": 8,
+    "efsanelik": 6
+   }
+  },
+  {
+   "id": "madonna",
+   "ad": "Madonna",
+   "seviye": "guclu",
+   "grup": "yabanci",
+   "etiketler": [],
+   "aciklama": "Pop'un Kraliçesi; kendini sürekli yeniler.",
+   "puan": {
+    "hit_sarkilar": 9,
+    "sahne_performansi": 9,
+    "hayran_kitlesi": 9,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "shakira",
+   "ad": "Shakira",
+   "seviye": "guclu",
+   "grup": "yabanci",
+   "etiketler": [],
+   "aciklama": "Kalçaları yalan söylemeyen Kolombiyalı yıldız.",
+   "puan": {
+    "hit_sarkilar": 9,
+    "sahne_performansi": 9,
+    "hayran_kitlesi": 9,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "beyonc",
+   "ad": "Beyoncé",
+   "seviye": "guclu",
+   "grup": "yabanci",
+   "etiketler": [],
+   "aciklama": "Sahne performansının zirvesi.",
+   "puan": {
+    "hit_sarkilar": 9,
+    "sahne_performansi": 10,
+    "hayran_kitlesi": 9,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "adele",
+   "ad": "Adele",
+   "seviye": "guclu",
+   "grup": "yabanci",
+   "etiketler": [],
+   "aciklama": "Güçlü sesiyle rekor satan baladların sahibi.",
+   "puan": {
+    "hit_sarkilar": 9,
+    "sahne_performansi": 7,
+    "hayran_kitlesi": 9,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "rihanna",
+   "ad": "Rihanna",
+   "seviye": "guclu",
+   "grup": "yabanci",
+   "etiketler": [],
+   "aciklama": "Hit üstüne hit çıkaran Barbadoslu yıldız.",
+   "puan": {
+    "hit_sarkilar": 9,
+    "sahne_performansi": 7,
+    "hayran_kitlesi": 9,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "kenan-dogulu",
+   "ad": "Kenan Doğulu",
+   "seviye": "guclu",
+   "grup": "turk_pop",
+   "etiketler": [],
+   "aciklama": "Dans pop'un en şık temsilcilerinden.",
+   "puan": {
+    "hit_sarkilar": 8,
+    "sahne_performansi": 7,
+    "hayran_kitlesi": 7,
+    "efsanelik": 6
+   }
+  },
+  {
+   "id": "neset-ertas",
+   "ad": "Neşet Ertaş",
+   "seviye": "guclu",
+   "grup": "turk_klasik",
+   "etiketler": [],
+   "aciklama": "Bozkırın Tezenesi; halk müziğinin ustası.",
+   "puan": {
+    "hit_sarkilar": 7,
+    "sahne_performansi": 6,
+    "hayran_kitlesi": 8,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "hadise",
+   "ad": "Hadise",
+   "seviye": "siradan",
+   "grup": "turk_pop",
+   "etiketler": [],
+   "aciklama": "Dans şovlarıyla sahneyi dolduran pop yıldızı.",
+   "puan": {
+    "hit_sarkilar": 7,
+    "sahne_performansi": 8,
+    "hayran_kitlesi": 7,
+    "efsanelik": 5
+   }
+  },
+  {
+   "id": "aleyna-tilki",
+   "ad": "Aleyna Tilki",
+   "seviye": "siradan",
+   "grup": "turk_pop",
+   "etiketler": [],
+   "aciklama": "Genç yaşta milyonlara ulaşan şarkıcı.",
+   "puan": {
+    "hit_sarkilar": 7,
+    "sahne_performansi": 6,
+    "hayran_kitlesi": 7,
+    "efsanelik": 3
+   }
+  },
+  {
+   "id": "edis",
+   "ad": "Edis",
+   "seviye": "siradan",
+   "grup": "turk_pop",
+   "etiketler": [],
+   "aciklama": "Yeni kuşak pop'un hit adamı.",
+   "puan": {
+    "hit_sarkilar": 8,
+    "sahne_performansi": 7,
+    "hayran_kitlesi": 7,
+    "efsanelik": 4
+   }
+  },
+  {
+   "id": "mabel-matiz",
+   "ad": "Mabel Matiz",
+   "seviye": "siradan",
+   "grup": "turk_pop",
+   "etiketler": [],
+   "aciklama": "Kendine has tarzıyla alternatif pop'un sesi.",
+   "puan": {
+    "hit_sarkilar": 7,
+    "sahne_performansi": 7,
+    "hayran_kitlesi": 7,
+    "efsanelik": 5
+   }
+  },
+  {
+   "id": "gokhan-turkmen",
+   "ad": "Gökhan Türkmen",
+   "seviye": "siradan",
+   "grup": "turk_pop",
+   "etiketler": [],
+   "aciklama": "Duygusal şarkılarıyla sevilen ses.",
+   "puan": {
+    "hit_sarkilar": 7,
+    "sahne_performansi": 6,
+    "hayran_kitlesi": 6,
+    "efsanelik": 4
+   }
+  },
+  {
+   "id": "haluk-levent",
+   "ad": "Haluk Levent",
+   "seviye": "siradan",
+   "grup": "turk_rock",
+   "etiketler": [],
+   "aciklama": "Rock'ın ve yardımlaşmanın sevilen ismi.",
+   "puan": {
+    "hit_sarkilar": 7,
+    "sahne_performansi": 8,
+    "hayran_kitlesi": 7,
+    "efsanelik": 6
+   }
+  },
+  {
+   "id": "sebnem-ferah",
+   "ad": "Şebnem Ferah",
+   "seviye": "siradan",
+   "grup": "turk_rock",
+   "etiketler": [],
+   "aciklama": "Türk rock'ın kraliçesi.",
+   "puan": {
+    "hit_sarkilar": 7,
+    "sahne_performansi": 8,
+    "hayran_kitlesi": 7,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "kirac",
+   "ad": "Kıraç",
+   "seviye": "siradan",
+   "grup": "turk_rock",
+   "etiketler": [],
+   "aciklama": "Rock ile arabeski buluşturan güçlü ses.",
+   "puan": {
+    "hit_sarkilar": 6,
+    "sahne_performansi": 6,
+    "hayran_kitlesi": 6,
+    "efsanelik": 5
+   }
+  },
+  {
+   "id": "bergen",
+   "ad": "Bergen",
+   "seviye": "siradan",
+   "grup": "turk_klasik",
+   "etiketler": [],
+   "aciklama": "Acıların Kadını; arabeskin unutulmaz sesi.",
+   "puan": {
+    "hit_sarkilar": 7,
+    "sahne_performansi": 5,
+    "hayran_kitlesi": 6,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "ebru-gundes",
+   "ad": "Ebru Gündeş",
+   "seviye": "siradan",
+   "grup": "turk_pop",
+   "etiketler": [],
+   "aciklama": "Güçlü sesiyle pop ile fanteziyi buluşturan isim.",
+   "puan": {
+    "hit_sarkilar": 7,
+    "sahne_performansi": 6,
+    "hayran_kitlesi": 7,
+    "efsanelik": 6
+   }
+  },
+  {
+   "id": "ferdi-tayfur",
+   "ad": "Ferdi Tayfur",
+   "seviye": "siradan",
+   "grup": "turk_klasik",
+   "etiketler": [],
+   "aciklama": "Arabeskin duygusal şarkıcısı ve oyuncusu.",
+   "puan": {
+    "hit_sarkilar": 8,
+    "sahne_performansi": 6,
+    "hayran_kitlesi": 8,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "ed-sheeran",
+   "ad": "Ed Sheeran",
+   "seviye": "siradan",
+   "grup": "yabanci",
+   "etiketler": [],
+   "aciklama": "Gitarı ve looper'ıyla tek başına stadyum dolduran şarkıcı.",
+   "puan": {
+    "hit_sarkilar": 8,
+    "sahne_performansi": 7,
+    "hayran_kitlesi": 8,
+    "efsanelik": 5
+   }
+  },
+  {
+   "id": "dua-lipa",
+   "ad": "Dua Lipa",
+   "seviye": "siradan",
+   "grup": "yabanci",
+   "etiketler": [],
+   "aciklama": "Dans pop'un yeni kuşak yıldızı.",
+   "puan": {
+    "hit_sarkilar": 8,
+    "sahne_performansi": 7,
+    "hayran_kitlesi": 8,
+    "efsanelik": 4
+   }
+  },
+  {
+   "id": "bruno-mars",
+   "ad": "Bruno Mars",
+   "seviye": "siradan",
+   "grup": "yabanci",
+   "etiketler": [],
+   "aciklama": "Funk ve pop'u dansla birleştiren şovmen.",
+   "puan": {
+    "hit_sarkilar": 8,
+    "sahne_performansi": 9,
+    "hayran_kitlesi": 8,
+    "efsanelik": 5
+   }
+  }
+ ]
+}

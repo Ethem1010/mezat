@@ -1,0 +1,36 @@
+# Issız Ada Malzemeleri — ad|seviye|grup|etiketler|açıklama|Hayatta kalma faydası,Çok amaçlılık,Dayanıklılık,Kurtarılma şansı
+Çakı Bıçağı|e|alet||Kesmek, açmak, yontmak; hayatta kalmanın bir numaralı aleti.|9,10,9,3
+Su Arıtma Filtresi|e|su||Deniz suyu olmasa da her dere suyunu içilebilir yapar.|10,5,8,2
+Çakmak|e|ates||Saniyeler içinde ateş: ısınma, pişirme ve işaret.|9,6,6,4
+Çadır|e|barinak||Yağmurdan, rüzgârdan ve böceklerden korunacağın ev.|8,5,7,3
+Uydu Telefonu|e|kurtarilma||Her yerden çekiyor; kurtarma ekibini doğrudan arar.|6,4,6,10
+Balta|e|alet||Odun kes, barınak kur, sal yap.|9,9,10,2
+Olta Takımı|e|yiyecek||Okyanus kocaman bir market; olta da anahtarı.|8,5,7,2
+Halat|g|alet||Barınak, sal, tuzak: bağlanacak her şey için.|7,9,9,3
+Branda|g|barinak||Çatı, yağmur toplayıcı ya da yelken olabilir.|7,8,8,4
+Pala|g|alet||Ormanı açar, hindistan cevizini kırar.|8,8,9,2
+Çakmaktaşı|g|ates||Bitmeyen kıvılcım kaynağı, ıslansa da çalışır.|8,5,10,3
+Kibrit Kutusu|g|ates||Hızlı ateş ama sayılı ve neme hassas.|7,4,3,3
+Su Matarası|g|su||Suyu taşır, saklar ve kaynatmaya yarar.|7,5,8,2
+Konserve Kolisi|g|yiyecek||Haftalarca yetecek hazır yiyecek.|8,3,7,1
+İlk Yardım Çantası|g|alet||Küçük bir yara bile adada tehlikelidir.|8,6,6,2
+İşaret Fişeği|g|kurtarilma||Geçen gemiye ya da uçağa kendini gösterir.|4,3,5,9
+Ayna|g|kurtarilma||Güneşi yansıtıp kilometrelerce öteye işaret verir.|3,6,8,7
+Güneş Enerjili Fener|g|alet||Şarjı bitmeyen ışık kaynağı.|6,6,7,4
+Uyku Tulumu|g|barinak||Soğuk adada geceleri hayat kurtarır.|7,4,7,1
+Su Bidonu|g|su||Yağmur suyunu toplayıp günlerce saklar.|8,6,8,2
+Pusula|g|kurtarilma||Adayı keşfederken yolunu kaybetmezsin.|4,4,9,4
+Balık Ağı|s|yiyecek||Kıyıdan balık ve yengeç toplamak için.|7,6,7,2
+Tencere|s|yiyecek||Su kaynatır, yemek pişirir.|6,7,9,1
+Büyüteç|s|ates||Güneşli günde ateş yakar.|6,4,8,2
+Telsiz|s|kurtarilma||Menzili kısa ama yakından geçene ulaşabilir.|3,3,5,7
+Cep Telefonu|s|kurtarilma||Çekmiyor ve şarjı bir günlük.|2,5,3,4
+Powerbank|s|konfor||Şarj edecek bir şey olmadıkça işe yaramaz.|2,3,5,2
+Gitar|s|konfor||Moral yükseltir, başka işe pek yaramaz.|1,2,5,2
+Hamak|s|konfor||Rahat uyku ama yağmurda çaresiz.|3,3,6,1
+Güneş Gözlüğü|s|konfor||Gözü korur ama hayatta tutmaz.|2,2,5,1
+Kitap|s|konfor||Can sıkıntısına iyi gelir, sayfaları tutuşturucu olur.|2,3,4,1
+Kürek|s|alet||Kumu kazar, salı yürütür.|6,7,8,2
+Şişme Bot|s|kurtarilma||Adadan kaçış umudu ama okyanus geniş.|4,5,4,6
+Düdük|s|kurtarilma||Küçük ama sesi uzaklara gider.|2,3,9,5
+Bal Kavanozu|s|yiyecek||Hiç bozulmayan enerji kaynağı.|6,4,10,1

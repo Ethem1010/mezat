@@ -1,0 +1,36 @@
+# Rapçiler — ad|seviye|grup|etiketler|açıklama|Söz yazarlığı,Flow,Hit şarkılar,Sahne enerjisi
+Ceza|e|turk_eski||Türkçe rap'in hız ve teknik ustası.|9,10,9,9
+Sagopa Kajmer|e|turk_eski||Melankolik sözleriyle bir kuşağı büyüten rapçi.|10,8,8,7
+Ezhel|e|turk_yeni||Yeni kuşak Türkçe rap'i ana akıma taşıyan isim.|8,9,9,8
+Eminem|e|yabanci||Kelime oyunları ve hızıyla rap'in tartışmasız ustalarından.|10,10,10,9
+Tupac|e|yabanci||Sözleri ve karizmasıyla rap tarihinin efsanesi.|10,8,9,9
+Kendrick Lamar|e|yabanci||Hikâye anlatıcılığıyla ödül toplayan rapçi.|10,9,9,9
+The Notorious B.I.G.|e|yabanci||Doğu yakasının efsane anlatıcısı.|10,9,9,8
+Fuat Ergin|g|turk_eski||Türkçe rap'in öncü ve teknik isimlerinden.|9,8,6,7
+Allame|g|turk_eski||Ağır sözleri ve kafiyeleriyle bilinen usta.|9,8,6,6
+Killa Hakan|g|turk_eski||Almanya'dan gelen sert ve enerjik ses.|7,8,8,9
+Server Uraz|g|turk_eski||Rap'i rock ile buluşturan karizmatik isim.|8,7,7,7
+Norm Ender|g|turk_eski||Hicivli sözleriyle gündem yaratan rapçi.|9,8,7,7
+Ben Fero|g|turk_yeni||Yeni kuşağın enerjik hit makinesi.|7,8,9,8
+Murda|g|turk_yeni||Melodik rap ile listeleri alt üst eden isim.|6,8,9,7
+Lvbel C5|g|turk_yeni||Drill sahnesinin en çok dinlenenlerinden.|6,8,9,8
+Motive|g|turk_yeni||Kayıt kalitesi ve flow'uyla öne çıkan yeni ses.|7,8,8,7
+Snoop Dogg|g|yabanci||Batı yakasının rahat flow'lu ikonu.|8,9,9,9
+Jay-Z|g|yabanci||Rap'in iş insanı, onlarca hitin sahibi.|9,8,9,8
+Drake|g|yabanci||Dinlenme rekorlarını kıran hit makinesi.|8,8,10,8
+50 Cent|g|yabanci||2000'lerin kulüp marşlarının sahibi.|7,8,9,8
+Travis Scott|g|yabanci||Konserleri adeta festivale dönüşen sahne canavarı.|6,8,9,10
+Patron|s|turk_eski||Türkçe rap'in sert ve dolu sözlü ismi.|6,7,6,7
+Hidra|s|turk_eski||Teknik kafiyeleriyle saygı gören rapçi.|8,7,5,6
+Massaka|s|turk_eski||Sokak hikâyeleriyle bilinen rapçi.|7,7,5,6
+Şehinşah|s|turk_eski||Hızlı ve sert sözleriyle tanınan isim.|8,8,6,7
+Velet|s|turk_eski||Sözleri ve vokaliyle sevilen eski kuşak ismi.|7,7,6,6
+Contra|s|turk_yeni||Sert sözleriyle yeni kuşağın dikkat çeken ismi.|7,7,7,7
+Uzi|s|turk_yeni||Kulüp şarkılarıyla öne çıkan yeni nesil.|5,7,8,8
+Reckol|s|turk_yeni||Ritim ve melodiyi iyi kullanan genç rapçi.|6,7,8,7
+Cakal|s|turk_yeni||Duygusal şarkılarıyla milyonlarca dinlenme.|6,7,8,7
+Sefo|s|turk_yeni||Kısa sürede listelere yerleşen hit isim.|5,6,8,6
+Gazapizm|s|turk_yeni||Toplumsal sözleriyle dinleyenini düşündüren rapçi.|8,7,7,6
+Post Malone|s|yabanci||Rap ile pop arasında gidip gelen hit sesi.|6,7,9,7
+Nicki Minaj|s|yabanci||Hızlı flow'u ve karakterleriyle rap'in kraliçelerinden.|7,9,8,8
+Cardi B|s|yabanci||Enerjisi ve esprileriyle listeleri sallayan isim.|6,7,8,8

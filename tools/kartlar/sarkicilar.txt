@@ -1,0 +1,36 @@
+# Şarkıcılar — ad|seviye|grup|etiketler|açıklama|Hit şarkılar,Sahne performansı,Hayran kitlesi,Efsanelik
+Tarkan|e|turk_pop||Megastar; şarkıları dünya listelerine girdi.|10,9,10,9
+Sezen Aksu|e|turk_pop||Minik Serçe; Türk popunun annesi.|10,7,10,10
+Michael Jackson|e|yabanci||Pop'un Kralı, dans ve sahnenin efsanesi.|10,10,10,10
+Barış Manço|e|turk_rock||Anadolu rock'ın öncüsü, çocukların Barış Abisi.|9,9,9,10
+Müslüm Gürses|e|turk_klasik||Müslüm Baba; arabeskin efsane sesi.|9,8,10,10
+Zeki Müren|e|turk_klasik||Sanat Güneşi; sahnesi ve sesiyle eşsiz.|9,9,9,10
+Freddie Mercury|e|yabanci||Queen'in solisti, rock tarihinin en güçlü sahne şovmeni.|10,10,9,10
+Ajda Pekkan|g|turk_pop||Süperstar; on yıllardır sahnede.|9,9,9,9
+İbrahim Tatlıses|g|turk_klasik||İmparator; uzun havanın ustası.|9,8,9,9
+Orhan Gencebay|g|turk_klasik||Arabeskin babası, bağlamanın virtüözü.|9,7,9,10
+Cem Karaca|g|turk_rock||Anadolu rock'ın güçlü ve isyankâr sesi.|8,8,8,9
+Teoman|g|turk_rock||Bir kuşağın şarkılarını yazan rockçı.|8,8,8,7
+Sertab Erener|g|turk_pop||Eurovision'u Türkiye'ye kazandıran ses.|8,8,7,7
+Mustafa Sandal|g|turk_pop||90'ların hit makinesi.|8,7,8,6
+Madonna|g|yabanci||Pop'un Kraliçesi; kendini sürekli yeniler.|9,9,9,9
+Shakira|g|yabanci||Kalçaları yalan söylemeyen Kolombiyalı yıldız.|9,9,9,8
+Beyoncé|g|yabanci||Sahne performansının zirvesi.|9,10,9,8
+Adele|g|yabanci||Güçlü sesiyle rekor satan baladların sahibi.|9,7,9,7
+Rihanna|g|yabanci||Hit üstüne hit çıkaran Barbadoslu yıldız.|9,7,9,7
+Kenan Doğulu|g|turk_pop||Dans pop'un en şık temsilcilerinden.|8,7,7,6
+Neşet Ertaş|g|turk_klasik||Bozkırın Tezenesi; halk müziğinin ustası.|7,6,8,10
+Hadise|s|turk_pop||Dans şovlarıyla sahneyi dolduran pop yıldızı.|7,8,7,5
+Aleyna Tilki|s|turk_pop||Genç yaşta milyonlara ulaşan şarkıcı.|7,6,7,3
+Edis|s|turk_pop||Yeni kuşak pop'un hit adamı.|8,7,7,4
+Mabel Matiz|s|turk_pop||Kendine has tarzıyla alternatif pop'un sesi.|7,7,7,5
+Gökhan Türkmen|s|turk_pop||Duygusal şarkılarıyla sevilen ses.|7,6,6,4
+Haluk Levent|s|turk_rock||Rock'ın ve yardımlaşmanın sevilen ismi.|7,8,7,6
+Şebnem Ferah|s|turk_rock||Türk rock'ın kraliçesi.|7,8,7,7
+Kıraç|s|turk_rock||Rock ile arabeski buluşturan güçlü ses.|6,6,6,5
+Bergen|s|turk_klasik||Acıların Kadını; arabeskin unutulmaz sesi.|7,5,6,8
+Ebru Gündeş|s|turk_pop||Güçlü sesiyle pop ile fanteziyi buluşturan isim.|7,6,7,6
+Ferdi Tayfur|s|turk_klasik||Arabeskin duygusal şarkıcısı ve oyuncusu.|8,6,8,8
+Ed Sheeran|s|yabanci||Gitarı ve looper'ıyla tek başına stadyum dolduran şarkıcı.|8,7,8,5
+Dua Lipa|s|yabanci||Dans pop'un yeni kuşak yıldızı.|8,7,8,4
+Bruno Mars|s|yabanci||Funk ve pop'u dansla birleştiren şovmen.|8,9,8,5

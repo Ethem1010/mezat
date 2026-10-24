@@ -1,0 +1,533 @@
+{
+ "id": "rapciler",
+ "ad": "Rapçiler",
+ "sablon": "turnuva",
+ "gorev_mesaji": "Rap festivalinin kadrosunu kur: sahneyi kim yakar?",
+ "olcutler": {
+  "soz_yazarligi": {
+   "ad": "Söz yazarlığı",
+   "agirlik": 0.3
+  },
+  "flow": {
+   "ad": "Flow",
+   "agirlik": 0.25
+  },
+  "hit_sarkilar": {
+   "ad": "Hit şarkılar",
+   "agirlik": 0.25
+  },
+  "sahne_enerjisi": {
+   "ad": "Sahne enerjisi",
+   "agirlik": 0.2
+  }
+ },
+ "gruplar": {
+  "turk_eski": "Türkçe rap, eski kuşak",
+  "turk_yeni": "Türkçe rap, yeni kuşak",
+  "yabanci": "Yabancı"
+ },
+ "sinerjiler": [
+  {
+   "tip": "cesitlilik",
+   "ad": "Kuşaklar buluşuyor",
+   "esikler": {
+    "3": 5
+   }
+  }
+ ],
+ "garanti": {},
+ "hakem_notu": "Hem eski kuşak hem yeni kuşak rapçileri bir araya getiren kadroya uyum bonusu ver.",
+ "kart_sayisi": 35,
+ "kartlar": [
+  {
+   "id": "ceza",
+   "ad": "Ceza",
+   "seviye": "efsane",
+   "grup": "turk_eski",
+   "etiketler": [],
+   "aciklama": "Türkçe rap'in hız ve teknik ustası.",
+   "puan": {
+    "soz_yazarligi": 9,
+    "flow": 10,
+    "hit_sarkilar": 9,
+    "sahne_enerjisi": 9
+   }
+  },
+  {
+   "id": "sagopa-kajmer",
+   "ad": "Sagopa Kajmer",
+   "seviye": "efsane",
+   "grup": "turk_eski",
+   "etiketler": [],
+   "aciklama": "Melankolik sözleriyle bir kuşağı büyüten rapçi.",
+   "puan": {
+    "soz_yazarligi": 10,
+    "flow": 8,
+    "hit_sarkilar": 8,
+    "sahne_enerjisi": 7
+   }
+  },
+  {
+   "id": "ezhel",
+   "ad": "Ezhel",
+   "seviye": "efsane",
+   "grup": "turk_yeni",
+   "etiketler": [],
+   "aciklama": "Yeni kuşak Türkçe rap'i ana akıma taşıyan isim.",
+   "puan": {
+    "soz_yazarligi": 8,
+    "flow": 9,
+    "hit_sarkilar": 9,
+    "sahne_enerjisi": 8
+   }
+  },
+  {
+   "id": "eminem",
+   "ad": "Eminem",
+   "seviye": "efsane",
+   "grup": "yabanci",
+   "etiketler": [],
+   "aciklama": "Kelime oyunları ve hızıyla rap'in tartışmasız ustalarından.",
+   "puan": {
+    "soz_yazarligi": 10,
+    "flow": 10,
+    "hit_sarkilar": 10,
+    "sahne_enerjisi": 9
+   }
+  },
+  {
+   "id": "tupac",
+   "ad": "Tupac",
+   "seviye": "efsane",
+   "grup": "yabanci",
+   "etiketler": [],
+   "aciklama": "Sözleri ve karizmasıyla rap tarihinin efsanesi.",
+   "puan": {
+    "soz_yazarligi": 10,
+    "flow": 8,
+    "hit_sarkilar": 9,
+    "sahne_enerjisi": 9
+   }
+  },
+  {
+   "id": "kendrick-lamar",
+   "ad": "Kendrick Lamar",
+   "seviye": "efsane",
+   "grup": "yabanci",
+   "etiketler": [],
+   "aciklama": "Hikâye anlatıcılığıyla ödül toplayan rapçi.",
+   "puan": {
+    "soz_yazarligi": 10,
+    "flow": 9,
+    "hit_sarkilar": 9,
+    "sahne_enerjisi": 9
+   }
+  },
+  {
+   "id": "the-notorious-b-i-g",
+   "ad": "The Notorious B.I.G.",
+   "seviye": "efsane",
+   "grup": "yabanci",
+   "etiketler": [],
+   "aciklama": "Doğu yakasının efsane anlatıcısı.",
+   "puan": {
+    "soz_yazarligi": 10,
+    "flow": 9,
+    "hit_sarkilar": 9,
+    "sahne_enerjisi": 8
+   }
+  },
+  {
+   "id": "fuat-ergin",
+   "ad": "Fuat Ergin",
+   "seviye": "guclu",
+   "grup": "turk_eski",
+   "etiketler": [],
+   "aciklama": "Türkçe rap'in öncü ve teknik isimlerinden.",
+   "puan": {
+    "soz_yazarligi": 9,
+    "flow": 8,
+    "hit_sarkilar": 6,
+    "sahne_enerjisi": 7
+   }
+  },
+  {
+   "id": "allame",
+   "ad": "Allame",
+   "seviye": "guclu",
+   "grup": "turk_eski",
+   "etiketler": [],
+   "aciklama": "Ağır sözleri ve kafiyeleriyle bilinen usta.",
+   "puan": {
+    "soz_yazarligi": 9,
+    "flow": 8,
+    "hit_sarkilar": 6,
+    "sahne_enerjisi": 6
+   }
+  },
+  {
+   "id": "killa-hakan",
+   "ad": "Killa Hakan",
+   "seviye": "guclu",
+   "grup": "turk_eski",
+   "etiketler": [],
+   "aciklama": "Almanya'dan gelen sert ve enerjik ses.",
+   "puan": {
+    "soz_yazarligi": 7,
+    "flow": 8,
+    "hit_sarkilar": 8,
+    "sahne_enerjisi": 9
+   }
+  },
+  {
+   "id": "server-uraz",
+   "ad": "Server Uraz",
+   "seviye": "guclu",
+   "grup": "turk_eski",
+   "etiketler": [],
+   "aciklama": "Rap'i rock ile buluşturan karizmatik isim.",
+   "puan": {
+    "soz_yazarligi": 8,
+    "flow": 7,
+    "hit_sarkilar": 7,
+    "sahne_enerjisi": 7
+   }
+  },
+  {
+   "id": "norm-ender",
+   "ad": "Norm Ender",
+   "seviye": "guclu",
+   "grup": "turk_eski",
+   "etiketler": [],
+   "aciklama": "Hicivli sözleriyle gündem yaratan rapçi.",
+   "puan": {
+    "soz_yazarligi": 9,
+    "flow": 8,
+    "hit_sarkilar": 7,
+    "sahne_enerjisi": 7
+   }
+  },
+  {
+   "id": "ben-fero",
+   "ad": "Ben Fero",
+   "seviye": "guclu",
+   "grup": "turk_yeni",
+   "etiketler": [],
+   "aciklama": "Yeni kuşağın enerjik hit makinesi.",
+   "puan": {
+    "soz_yazarligi": 7,
+    "flow": 8,
+    "hit_sarkilar": 9,
+    "sahne_enerjisi": 8
+   }
+  },
+  {
+   "id": "murda",
+   "ad": "Murda",
+   "seviye": "guclu",
+   "grup": "turk_yeni",
+   "etiketler": [],
+   "aciklama": "Melodik rap ile listeleri alt üst eden isim.",
+   "puan": {
+    "soz_yazarligi": 6,
+    "flow": 8,
+    "hit_sarkilar": 9,
+    "sahne_enerjisi": 7
+   }
+  },
+  {
+   "id": "lvbel-c5",
+   "ad": "Lvbel C5",
+   "seviye": "guclu",
+   "grup": "turk_yeni",
+   "etiketler": [],
+   "aciklama": "Drill sahnesinin en çok dinlenenlerinden.",
+   "puan": {
+    "soz_yazarligi": 6,
+    "flow": 8,
+    "hit_sarkilar": 9,
+    "sahne_enerjisi": 8
+   }
+  },
+  {
+   "id": "motive",
+   "ad": "Motive",
+   "seviye": "guclu",
+   "grup": "turk_yeni",
+   "etiketler": [],
+   "aciklama": "Kayıt kalitesi ve flow'uyla öne çıkan yeni ses.",
+   "puan": {
+    "soz_yazarligi": 7,
+    "flow": 8,
+    "hit_sarkilar": 8,
+    "sahne_enerjisi": 7
+   }
+  },
+  {
+   "id": "snoop-dogg",
+   "ad": "Snoop Dogg",
+   "seviye": "guclu",
+   "grup": "yabanci",
+   "etiketler": [],
+   "aciklama": "Batı yakasının rahat flow'lu ikonu.",
+   "puan": {
+    "soz_yazarligi": 8,
+    "flow": 9,
+    "hit_sarkilar": 9,
+    "sahne_enerjisi": 9
+   }
+  },
+  {
+   "id": "jay-z",
+   "ad": "Jay-Z",
+   "seviye": "guclu",
+   "grup": "yabanci",
+   "etiketler": [],
+   "aciklama": "Rap'in iş insanı, onlarca hitin sahibi.",
+   "puan": {
+    "soz_yazarligi": 9,
+    "flow": 8,
+    "hit_sarkilar": 9,
+    "sahne_enerjisi": 8
+   }
+  },
+  {
+   "id": "drake",
+   "ad": "Drake",
+   "seviye": "guclu",
+   "grup": "yabanci",
+   "etiketler": [],
+   "aciklama": "Dinlenme rekorlarını kıran hit makinesi.",
+   "puan": {
+    "soz_yazarligi": 8,
+    "flow": 8,
+    "hit_sarkilar": 10,
+    "sahne_enerjisi": 8
+   }
+  },
+  {
+   "id": "50-cent",
+   "ad": "50 Cent",
+   "seviye": "guclu",
+   "grup": "yabanci",
+   "etiketler": [],
+   "aciklama": "2000'lerin kulüp marşlarının sahibi.",
+   "puan": {
+    "soz_yazarligi": 7,
+    "flow": 8,
+    "hit_sarkilar": 9,
+    "sahne_enerjisi": 8
+   }
+  },
+  {
+   "id": "travis-scott",
+   "ad": "Travis Scott",
+   "seviye": "guclu",
+   "grup": "yabanci",
+   "etiketler": [],
+   "aciklama": "Konserleri adeta festivale dönüşen sahne canavarı.",
+   "puan": {
+    "soz_yazarligi": 6,
+    "flow": 8,
+    "hit_sarkilar": 9,
+    "sahne_enerjisi": 10
+   }
+  },
+  {
+   "id": "patron",
+   "ad": "Patron",
+   "seviye": "siradan",
+   "grup": "turk_eski",
+   "etiketler": [],
+   "aciklama": "Türkçe rap'in sert ve dolu sözlü ismi.",
+   "puan": {
+    "soz_yazarligi": 6,
+    "flow": 7,
+    "hit_sarkilar": 6,
+    "sahne_enerjisi": 7
+   }
+  },
+  {
+   "id": "hidra",
+   "ad": "Hidra",
+   "seviye": "siradan",
+   "grup": "turk_eski",
+   "etiketler": [],
+   "aciklama": "Teknik kafiyeleriyle saygı gören rapçi.",
+   "puan": {
+    "soz_yazarligi": 8,
+    "flow": 7,
+    "hit_sarkilar": 5,
+    "sahne_enerjisi": 6
+   }
+  },
+  {
+   "id": "massaka",
+   "ad": "Massaka",
+   "seviye": "siradan",
+   "grup": "turk_eski",
+   "etiketler": [],
+   "aciklama": "Sokak hikâyeleriyle bilinen rapçi.",
+   "puan": {
+    "soz_yazarligi": 7,
+    "flow": 7,
+    "hit_sarkilar": 5,
+    "sahne_enerjisi": 6
+   }
+  },
+  {
+   "id": "sehinsah",
+   "ad": "Şehinşah",
+   "seviye": "siradan",
+   "grup": "turk_eski",
+   "etiketler": [],
+   "aciklama": "Hızlı ve sert sözleriyle tanınan isim.",
+   "puan": {
+    "soz_yazarligi": 8,
+    "flow": 8,
+    "hit_sarkilar": 6,
+    "sahne_enerjisi": 7
+   }
+  },
+  {
+   "id": "velet",
+   "ad": "Velet",
+   "seviye": "siradan",
+   "grup": "turk_eski",
+   "etiketler": [],
+   "aciklama": "Sözleri ve vokaliyle sevilen eski kuşak ismi.",
+   "puan": {
+    "soz_yazarligi": 7,
+    "flow": 7,
+    "hit_sarkilar": 6,
+    "sahne_enerjisi": 6
+   }
+  },
+  {
+   "id": "contra",
+   "ad": "Contra",
+   "seviye": "siradan",
+   "grup": "turk_yeni",
+   "etiketler": [],
+   "aciklama": "Sert sözleriyle yeni kuşağın dikkat çeken ismi.",
+   "puan": {
+    "soz_yazarligi": 7,
+    "flow": 7,
+    "hit_sarkilar": 7,
+    "sahne_enerjisi": 7
+   }
+  },
+  {
+   "id": "uzi",
+   "ad": "Uzi",
+   "seviye": "siradan",
+   "grup": "turk_yeni",
+   "etiketler": [],
+   "aciklama": "Kulüp şarkılarıyla öne çıkan yeni nesil.",
+   "puan": {
+    "soz_yazarligi": 5,
+    "flow": 7,
+    "hit_sarkilar": 8,
+    "sahne_enerjisi": 8
+   }
+  },
+  {
+   "id": "reckol",
+   "ad": "Reckol",
+   "seviye": "siradan",
+   "grup": "turk_yeni",
+   "etiketler": [],
+   "aciklama": "Ritim ve melodiyi iyi kullanan genç rapçi.",
+   "puan": {
+    "soz_yazarligi": 6,
+    "flow": 7,
+    "hit_sarkilar": 8,
+    "sahne_enerjisi": 7
+   }
+  },
+  {
+   "id": "cakal",
+   "ad": "Cakal",
+   "seviye": "siradan",
+   "grup": "turk_yeni",
+   "etiketler": [],
+   "aciklama": "Duygusal şarkılarıyla milyonlarca dinlenme.",
+   "puan": {
+    "soz_yazarligi": 6,
+    "flow": 7,
+    "hit_sarkilar": 8,
+    "sahne_enerjisi": 7
+   }
+  },
+  {
+   "id": "sefo",
+   "ad": "Sefo",
+   "seviye": "siradan",
+   "grup": "turk_yeni",
+   "etiketler": [],
+   "aciklama": "Kısa sürede listelere yerleşen hit isim.",
+   "puan": {
+    "soz_yazarligi": 5,
+    "flow": 6,
+    "hit_sarkilar": 8,
+    "sahne_enerjisi": 6
+   }
+  },
+  {
+   "id": "gazapizm",
+   "ad": "Gazapizm",
+   "seviye": "siradan",
+   "grup": "turk_yeni",
+   "etiketler": [],
+   "aciklama": "Toplumsal sözleriyle dinleyenini düşündüren rapçi.",
+   "puan": {
+    "soz_yazarligi": 8,
+    "flow": 7,
+    "hit_sarkilar": 7,
+    "sahne_enerjisi": 6
+   }
+  },
+  {
+   "id": "post-malone",
+   "ad": "Post Malone",
+   "seviye": "siradan",
+   "grup": "yabanci",
+   "etiketler": [],
+   "aciklama": "Rap ile pop arasında gidip gelen hit sesi.",
+   "puan": {
+    "soz_yazarligi": 6,
+    "flow": 7,
+    "hit_sarkilar": 9,
+    "sahne_enerjisi": 7
+   }
+  },
+  {
+   "id": "nicki-minaj",
+   "ad": "Nicki Minaj",
+   "seviye": "siradan",
+   "grup": "yabanci",
+   "etiketler": [],
+   "aciklama": "Hızlı flow'u ve karakterleriyle rap'in kraliçelerinden.",
+   "puan": {
+    "soz_yazarligi": 7,
+    "flow": 9,
+    "hit_sarkilar": 8,
+    "sahne_enerjisi": 8
+   }
+  },
+  {
+   "id": "cardi-b",
+   "ad": "Cardi B",
+   "seviye": "siradan",
+   "grup": "yabanci",
+   "etiketler": [],
+   "aciklama": "Enerjisi ve esprileriyle listeleri sallayan isim.",
+   "puan": {
+    "soz_yazarligi": 6,
+    "flow": 7,
+    "hit_sarkilar": 8,
+    "sahne_enerjisi": 8
+   }
+  }
+ ]
+}

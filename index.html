@@ -15,7 +15,28 @@
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<main class="app" id="app" aria-live="polite"></main>
+<main class="app" id="app" aria-live="polite"><noscript>Bu oyun için JavaScript açık olmalı.</noscript></main>
+<script>
+// Bir dosya eksik ya da hatalıysa ekran beyaz kalmasın: sebebi yazsın.
+(function () {
+  function goster(msg) {
+    var el = document.getElementById("app");
+    if (!el) return;
+    el.innerHTML = '<section style="font:15px/1.5 system-ui,sans-serif;padding:16px;border:2px solid #C62828;border-radius:14px;background:#fff;color:#1c1a16">' +
+      '<b>Oyun açılamadı.</b><br>' + msg + '<br><br>Çözüm: GitHub\'da <b>Code</b> sekmesinde <code>index.html</code>, <code>css</code>, <code>js</code> ve <code>data</code> klasörlerinin en üst seviyede olduğundan emin ol, sonra sayfayı yenile.</section>';
+  }
+  window.addEventListener("error", function (e) {
+    if (e.target && (e.target.src || e.target.href)) goster("Yüklenemeyen dosya: <code>" + (e.target.src || e.target.href).split("/").slice(-2).join("/") + "</code>");
+    else if (e.message) goster("Hata: " + e.message);
+  }, true);
+  window.addEventListener("load", function () {
+    var eksik = [];
+    if (!window.MezatEngine) eksik.push("js/engine.js");
+    if (!window.MezatTema) eksik.push("js/temalar.js");
+    if (eksik.length) goster("Eksik dosya: <code>" + eksik.join("</code>, <code>") + "</code>");
+  });
+})();
+</script>
 <script src="js/engine.js"></script>
 <script src="js/temalar.js"></script>
 <script src="js/app.js"></script>

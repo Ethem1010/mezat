@@ -1,0 +1,536 @@
+{
+ "id": "arabalar",
+ "ad": "Arabalar",
+ "sablon": "yaris",
+ "gorev_mesaji": "Garajını kur: hangi garaj daha havalı ve güçlü?",
+ "olcutler": {
+  "performans": {
+   "ad": "Performans",
+   "agirlik": 0.3
+  },
+  "i_koniklik": {
+   "ad": "İkoniklik",
+   "agirlik": 0.3
+  },
+  "nostalji": {
+   "ad": "Nostalji",
+   "agirlik": 0.2
+  },
+  "tasarim": {
+   "ad": "Tasarım",
+   "agirlik": 0.2
+  }
+ },
+ "gruplar": {
+  "klasik": "Klasik",
+  "spor": "Spor ve süper",
+  "luks": "Lüks",
+  "jdm": "JDM",
+  "yerli": "Yerli efsane"
+ },
+ "sinerjiler": [
+  {
+   "tip": "cesitlilik",
+   "ad": "Koleksiyoncu garajı",
+   "esikler": {
+    "3": 4,
+    "4": 7
+   }
+  }
+ ],
+ "garanti": {},
+ "hakem_notu": "Yarış simülasyonu yap (düz yol, viraj, gösteri turu). Antika ve efsane araçlar ikoniklik ve nostaljide yeni ama sıradan modelleri geçer.",
+ "kart_sayisi": 35,
+ "kartlar": [
+  {
+   "id": "ford-mustang-1967",
+   "ad": "Ford Mustang (1967)",
+   "seviye": "efsane",
+   "grup": "klasik",
+   "etiketler": [],
+   "aciklama": "Amerikan muscle car efsanesi.",
+   "puan": {
+    "performans": 7,
+    "i_koniklik": 10,
+    "nostalji": 10,
+    "tasarim": 9
+   }
+  },
+  {
+   "id": "dodge-charger-1970",
+   "ad": "Dodge Charger (1970)",
+   "seviye": "efsane",
+   "grup": "klasik",
+   "etiketler": [],
+   "aciklama": "Kükreyen V8'iyle filmlerin yıldızı.",
+   "puan": {
+    "performans": 8,
+    "i_koniklik": 10,
+    "nostalji": 10,
+    "tasarim": 9
+   }
+  },
+  {
+   "id": "toyota-supra-mk4",
+   "ad": "Toyota Supra MK4",
+   "seviye": "efsane",
+   "grup": "jdm",
+   "etiketler": [],
+   "aciklama": "Hızlı ve Öfkeli'yle efsaneleşen JDM ikonu.",
+   "puan": {
+    "performans": 9,
+    "i_koniklik": 10,
+    "nostalji": 9,
+    "tasarim": 8
+   }
+  },
+  {
+   "id": "nissan-skyline-gt-r-r34",
+   "ad": "Nissan Skyline GT-R R34",
+   "seviye": "efsane",
+   "grup": "jdm",
+   "etiketler": [],
+   "aciklama": "Godzilla lakaplı Japon efsanesi.",
+   "puan": {
+    "performans": 9,
+    "i_koniklik": 10,
+    "nostalji": 9,
+    "tasarim": 9
+   }
+  },
+  {
+   "id": "ferrari-f40",
+   "ad": "Ferrari F40",
+   "seviye": "efsane",
+   "grup": "spor",
+   "etiketler": [],
+   "aciklama": "Enzo Ferrari'nin son imzaladığı süper araba.",
+   "puan": {
+    "performans": 10,
+    "i_koniklik": 10,
+    "nostalji": 9,
+    "tasarim": 10
+   }
+  },
+  {
+   "id": "volkswagen-beetle",
+   "ad": "Volkswagen Beetle",
+   "seviye": "efsane",
+   "grup": "klasik",
+   "etiketler": [],
+   "aciklama": "Vosvos; dünyanın en tanınan araba siluetlerinden.",
+   "puan": {
+    "performans": 3,
+    "i_koniklik": 10,
+    "nostalji": 10,
+    "tasarim": 8
+   }
+  },
+  {
+   "id": "mercedes-benz-g-serisi",
+   "ad": "Mercedes-Benz G Serisi",
+   "seviye": "efsane",
+   "grup": "luks",
+   "etiketler": [],
+   "aciklama": "Kutu gibi tasarımıyla lüks arazinin kralı.",
+   "puan": {
+    "performans": 7,
+    "i_koniklik": 10,
+    "nostalji": 7,
+    "tasarim": 8
+   }
+  },
+  {
+   "id": "lamborghini-countach",
+   "ad": "Lamborghini Countach",
+   "seviye": "guclu",
+   "grup": "spor",
+   "etiketler": [],
+   "aciklama": "Makas kapılarıyla 80'lerin poster arabası.",
+   "puan": {
+    "performans": 9,
+    "i_koniklik": 10,
+    "nostalji": 9,
+    "tasarim": 10
+   }
+  },
+  {
+   "id": "porsche-911",
+   "ad": "Porsche 911",
+   "seviye": "guclu",
+   "grup": "spor",
+   "etiketler": [],
+   "aciklama": "Yıllardır siluetini koruyan spor araba.",
+   "puan": {
+    "performans": 9,
+    "i_koniklik": 10,
+    "nostalji": 8,
+    "tasarim": 9
+   }
+  },
+  {
+   "id": "bmw-e30-m3",
+   "ad": "BMW E30 M3",
+   "seviye": "guclu",
+   "grup": "spor",
+   "etiketler": [],
+   "aciklama": "Yarış pistlerinden gelen efsane BMW.",
+   "puan": {
+    "performans": 8,
+    "i_koniklik": 9,
+    "nostalji": 9,
+    "tasarim": 8
+   }
+  },
+  {
+   "id": "mercedes-190e-w201",
+   "ad": "Mercedes 190E (W201)",
+   "seviye": "guclu",
+   "grup": "luks",
+   "etiketler": [],
+   "aciklama": "Kasa Mercedes'in kompakt efsanesi.",
+   "puan": {
+    "performans": 5,
+    "i_koniklik": 8,
+    "nostalji": 9,
+    "tasarim": 7
+   }
+  },
+  {
+   "id": "mercedes-w124",
+   "ad": "Mercedes W124",
+   "seviye": "guclu",
+   "grup": "luks",
+   "etiketler": [],
+   "aciklama": "Bitmeyen dayanıklılığıyla taksi ve makam aracı.",
+   "puan": {
+    "performans": 5,
+    "i_koniklik": 8,
+    "nostalji": 9,
+    "tasarim": 7
+   }
+  },
+  {
+   "id": "rolls-royce-phantom",
+   "ad": "Rolls-Royce Phantom",
+   "seviye": "guclu",
+   "grup": "luks",
+   "etiketler": [],
+   "aciklama": "Lüksün zirvesi.",
+   "puan": {
+    "performans": 6,
+    "i_koniklik": 9,
+    "nostalji": 6,
+    "tasarim": 9
+   }
+  },
+  {
+   "id": "bugatti-veyron",
+   "ad": "Bugatti Veyron",
+   "seviye": "guclu",
+   "grup": "spor",
+   "etiketler": [],
+   "aciklama": "400 km/s'yi aşan hiper araba.",
+   "puan": {
+    "performans": 10,
+    "i_koniklik": 9,
+    "nostalji": 6,
+    "tasarim": 8
+   }
+  },
+  {
+   "id": "mazda-rx-7",
+   "ad": "Mazda RX-7",
+   "seviye": "guclu",
+   "grup": "jdm",
+   "etiketler": [],
+   "aciklama": "Rotary motorlu zarif JDM.",
+   "puan": {
+    "performans": 8,
+    "i_koniklik": 8,
+    "nostalji": 9,
+    "tasarim": 9
+   }
+  },
+  {
+   "id": "honda-civic-type-r",
+   "ad": "Honda Civic Type R",
+   "seviye": "guclu",
+   "grup": "jdm",
+   "etiketler": [],
+   "aciklama": "Yüksek devirli sokak canavarı.",
+   "puan": {
+    "performans": 8,
+    "i_koniklik": 8,
+    "nostalji": 7,
+    "tasarim": 7
+   }
+  },
+  {
+   "id": "mitsubishi-lancer-evolution",
+   "ad": "Mitsubishi Lancer Evolution",
+   "seviye": "guclu",
+   "grup": "jdm",
+   "etiketler": [],
+   "aciklama": "Ralli kökenli dört çeker.",
+   "puan": {
+    "performans": 8,
+    "i_koniklik": 8,
+    "nostalji": 8,
+    "tasarim": 7
+   }
+  },
+  {
+   "id": "tofas-sahin",
+   "ad": "Tofaş Şahin",
+   "seviye": "guclu",
+   "grup": "yerli",
+   "etiketler": [],
+   "aciklama": "Türkiye'nin sokaklarında bir efsane.",
+   "puan": {
+    "performans": 3,
+    "i_koniklik": 9,
+    "nostalji": 10,
+    "tasarim": 5
+   }
+  },
+  {
+   "id": "volkswagen-scirocco",
+   "ad": "Volkswagen Scirocco",
+   "seviye": "guclu",
+   "grup": "klasik",
+   "etiketler": [],
+   "aciklama": "Spor tasarımlı nostaljik hatchback.",
+   "puan": {
+    "performans": 6,
+    "i_koniklik": 7,
+    "nostalji": 8,
+    "tasarim": 7
+   }
+  },
+  {
+   "id": "chevrolet-camaro",
+   "ad": "Chevrolet Camaro",
+   "seviye": "guclu",
+   "grup": "klasik",
+   "etiketler": [],
+   "aciklama": "Mustang'in ezeli rakibi.",
+   "puan": {
+    "performans": 8,
+    "i_koniklik": 8,
+    "nostalji": 8,
+    "tasarim": 8
+   }
+  },
+  {
+   "id": "audi-quattro",
+   "ad": "Audi Quattro",
+   "seviye": "guclu",
+   "grup": "spor",
+   "etiketler": [],
+   "aciklama": "Rallide dört çeker devrimini başlatan araba.",
+   "puan": {
+    "performans": 8,
+    "i_koniklik": 8,
+    "nostalji": 8,
+    "tasarim": 7
+   }
+  },
+  {
+   "id": "murat-131",
+   "ad": "Murat 131",
+   "seviye": "siradan",
+   "grup": "yerli",
+   "etiketler": [],
+   "aciklama": "Türkiye'nin ilk yerli üretimlerinden, dayanıklı aile arabası.",
+   "puan": {
+    "performans": 3,
+    "i_koniklik": 8,
+    "nostalji": 10,
+    "tasarim": 5
+   }
+  },
+  {
+   "id": "tofas-dogan",
+   "ad": "Tofaş Doğan",
+   "seviye": "siradan",
+   "grup": "yerli",
+   "etiketler": [],
+   "aciklama": "Şahin'in daha şık kardeşi.",
+   "puan": {
+    "performans": 4,
+    "i_koniklik": 8,
+    "nostalji": 9,
+    "tasarim": 5
+   }
+  },
+  {
+   "id": "tofas-kartal",
+   "ad": "Tofaş Kartal",
+   "seviye": "siradan",
+   "grup": "yerli",
+   "etiketler": [],
+   "aciklama": "Geniş bagajlı station wagon.",
+   "puan": {
+    "performans": 3,
+    "i_koniklik": 7,
+    "nostalji": 9,
+    "tasarim": 4
+   }
+  },
+  {
+   "id": "renault-12-toros",
+   "ad": "Renault 12 Toros",
+   "seviye": "siradan",
+   "grup": "yerli",
+   "etiketler": [],
+   "aciklama": "Her köyün ve kasabanın vazgeçilmezi.",
+   "puan": {
+    "performans": 3,
+    "i_koniklik": 7,
+    "nostalji": 9,
+    "tasarim": 4
+   }
+  },
+  {
+   "id": "anadol",
+   "ad": "Anadol",
+   "seviye": "siradan",
+   "grup": "yerli",
+   "etiketler": [],
+   "aciklama": "Türkiye'nin ilk seri üretim yerli otomobili.",
+   "puan": {
+    "performans": 2,
+    "i_koniklik": 8,
+    "nostalji": 10,
+    "tasarim": 5
+   }
+  },
+  {
+   "id": "togg-t10x",
+   "ad": "Togg T10X",
+   "seviye": "siradan",
+   "grup": "yerli",
+   "etiketler": [],
+   "aciklama": "Türkiye'nin yeni nesil elektrikli otomobili.",
+   "puan": {
+    "performans": 7,
+    "i_koniklik": 7,
+    "nostalji": 3,
+    "tasarim": 8
+   }
+  },
+  {
+   "id": "volkswagen-golf-gti",
+   "ad": "Volkswagen Golf GTI",
+   "seviye": "siradan",
+   "grup": "spor",
+   "etiketler": [],
+   "aciklama": "Sıcak hatchback akımının öncüsü.",
+   "puan": {
+    "performans": 7,
+    "i_koniklik": 8,
+    "nostalji": 8,
+    "tasarim": 7
+   }
+  },
+  {
+   "id": "bmw-e46",
+   "ad": "BMW E46",
+   "seviye": "siradan",
+   "grup": "luks",
+   "etiketler": [],
+   "aciklama": "Sürüş keyfiyle sevilen 3 Serisi.",
+   "puan": {
+    "performans": 7,
+    "i_koniklik": 7,
+    "nostalji": 8,
+    "tasarim": 8
+   }
+  },
+  {
+   "id": "mercedes-s-serisi",
+   "ad": "Mercedes S Serisi",
+   "seviye": "siradan",
+   "grup": "luks",
+   "etiketler": [],
+   "aciklama": "Makam arabalarının zirvesi.",
+   "puan": {
+    "performans": 7,
+    "i_koniklik": 8,
+    "nostalji": 6,
+    "tasarim": 9
+   }
+  },
+  {
+   "id": "range-rover",
+   "ad": "Range Rover",
+   "seviye": "siradan",
+   "grup": "luks",
+   "etiketler": [],
+   "aciklama": "Lüks arazi aracının öncüsü.",
+   "puan": {
+    "performans": 6,
+    "i_koniklik": 8,
+    "nostalji": 5,
+    "tasarim": 8
+   }
+  },
+  {
+   "id": "tesla-model-s",
+   "ad": "Tesla Model S",
+   "seviye": "siradan",
+   "grup": "luks",
+   "etiketler": [],
+   "aciklama": "Elektrikli otomobili popüler yapan sedan.",
+   "puan": {
+    "performans": 9,
+    "i_koniklik": 7,
+    "nostalji": 2,
+    "tasarim": 8
+   }
+  },
+  {
+   "id": "toyota-corolla",
+   "ad": "Toyota Corolla",
+   "seviye": "siradan",
+   "grup": "jdm",
+   "etiketler": [],
+   "aciklama": "Dünyanın en çok satan modellerinden.",
+   "puan": {
+    "performans": 4,
+    "i_koniklik": 6,
+    "nostalji": 6,
+    "tasarim": 5
+   }
+  },
+  {
+   "id": "renault-clio",
+   "ad": "Renault Clio",
+   "seviye": "siradan",
+   "grup": "yerli",
+   "etiketler": [],
+   "aciklama": "Bursa'da üretilen popüler küçük araba.",
+   "puan": {
+    "performans": 5,
+    "i_koniklik": 5,
+    "nostalji": 6,
+    "tasarim": 6
+   }
+  },
+  {
+   "id": "mini-cooper-klasik",
+   "ad": "Mini Cooper (Klasik)",
+   "seviye": "siradan",
+   "grup": "klasik",
+   "etiketler": [],
+   "aciklama": "Küçük gövdesiyle büyük bir ikon.",
+   "puan": {
+    "performans": 5,
+    "i_koniklik": 9,
+    "nostalji": 9,
+    "tasarim": 9
+   }
+  }
+ ]
+}

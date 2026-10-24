@@ -1,0 +1,535 @@
+{
+ "id": "tarihi-komutanlar",
+ "ad": "Tarihi Komutanlar",
+ "sablon": "duello",
+ "gorev_mesaji": "Ordunun komutanlarını seç: savaş meydanında hangi ordu kazanır?",
+ "olcutler": {
+  "askeri_deha": {
+   "ad": "Askeri deha",
+   "agirlik": 0.35
+  },
+  "zafer_sayisi": {
+   "ad": "Zafer sayısı",
+   "agirlik": 0.25
+  },
+  "liderlik": {
+   "ad": "Liderlik",
+   "agirlik": 0.25
+  },
+  "strateji": {
+   "ad": "Strateji",
+   "agirlik": 0.15
+  }
+ },
+ "gruplar": {
+  "antik": "Antik çağ",
+  "orta_cag": "Orta çağ",
+  "turk": "Türk ve Osmanlı",
+  "yeni_cag": "Yeni çağ"
+ },
+ "sinerjiler": [
+  {
+   "tip": "cesitlilik",
+   "ad": "Çağlar ötesi ordu",
+   "esikler": {
+    "3": 4,
+    "4": 7
+   }
+  }
+ ],
+ "garanti": {},
+ "hakem_notu": "Savaşı taktik düzeyde, şiddet ayrıntısına girmeden anlat. Farklı dönemlerden komutanları birleştiren orduya uyum bonusu ver.",
+ "kart_sayisi": 35,
+ "kartlar": [
+  {
+   "id": "buyuk-i-skender",
+   "ad": "Büyük İskender",
+   "seviye": "efsane",
+   "grup": "antik",
+   "etiketler": [],
+   "aciklama": "Hiç yenilmeden dünyanın büyük kısmını fethetti.",
+   "puan": {
+    "askeri_deha": 10,
+    "zafer_sayisi": 10,
+    "liderlik": 10,
+    "strateji": 10
+   }
+  },
+  {
+   "id": "cengiz-han",
+   "ad": "Cengiz Han",
+   "seviye": "efsane",
+   "grup": "orta_cag",
+   "etiketler": [],
+   "aciklama": "Tarihin en büyük kara imparatorluğunu kurdu.",
+   "puan": {
+    "askeri_deha": 10,
+    "zafer_sayisi": 10,
+    "liderlik": 10,
+    "strateji": 9
+   }
+  },
+  {
+   "id": "fatih-sultan-mehmet",
+   "ad": "Fatih Sultan Mehmet",
+   "seviye": "efsane",
+   "grup": "turk",
+   "etiketler": [],
+   "aciklama": "İstanbul'u fethederek bir çağı kapattı.",
+   "puan": {
+    "askeri_deha": 10,
+    "zafer_sayisi": 9,
+    "liderlik": 10,
+    "strateji": 10
+   }
+  },
+  {
+   "id": "napolyon-bonapart",
+   "ad": "Napolyon Bonapart",
+   "seviye": "efsane",
+   "grup": "yeni_cag",
+   "etiketler": [],
+   "aciklama": "Avrupa'yı baştan sona dolaşan askeri dâhi.",
+   "puan": {
+    "askeri_deha": 10,
+    "zafer_sayisi": 9,
+    "liderlik": 10,
+    "strateji": 9
+   }
+  },
+  {
+   "id": "hannibal",
+   "ad": "Hannibal",
+   "seviye": "efsane",
+   "grup": "antik",
+   "etiketler": [],
+   "aciklama": "Filleriyle Alpleri aşıp Roma'yı titretti.",
+   "puan": {
+    "askeri_deha": 10,
+    "zafer_sayisi": 8,
+    "liderlik": 9,
+    "strateji": 10
+   }
+  },
+  {
+   "id": "julius-caesar",
+   "ad": "Julius Caesar",
+   "seviye": "efsane",
+   "grup": "antik",
+   "etiketler": [],
+   "aciklama": "Galya'yı fethedip Roma'yı değiştirdi.",
+   "puan": {
+    "askeri_deha": 9,
+    "zafer_sayisi": 9,
+    "liderlik": 10,
+    "strateji": 9
+   }
+  },
+  {
+   "id": "mete-han",
+   "ad": "Mete Han",
+   "seviye": "efsane",
+   "grup": "turk",
+   "etiketler": [],
+   "aciklama": "Hun İmparatorluğu'nu kuran, onlu ordu sisteminin öncüsü.",
+   "puan": {
+    "askeri_deha": 9,
+    "zafer_sayisi": 9,
+    "liderlik": 10,
+    "strateji": 9
+   }
+  },
+  {
+   "id": "kanuni-sultan-suleyman",
+   "ad": "Kanuni Sultan Süleyman",
+   "seviye": "guclu",
+   "grup": "turk",
+   "etiketler": [],
+   "aciklama": "Osmanlı'nın en uzun ve en geniş dönemi.",
+   "puan": {
+    "askeri_deha": 9,
+    "zafer_sayisi": 9,
+    "liderlik": 10,
+    "strateji": 8
+   }
+  },
+  {
+   "id": "yavuz-sultan-selim",
+   "ad": "Yavuz Sultan Selim",
+   "seviye": "guclu",
+   "grup": "turk",
+   "etiketler": [],
+   "aciklama": "Kısa sürede imparatorluğu ikiye katladı.",
+   "puan": {
+    "askeri_deha": 9,
+    "zafer_sayisi": 9,
+    "liderlik": 9,
+    "strateji": 9
+   }
+  },
+  {
+   "id": "alparslan",
+   "ad": "Alparslan",
+   "seviye": "guclu",
+   "grup": "turk",
+   "etiketler": [],
+   "aciklama": "Malazgirt'le Anadolu'nun kapısını açtı.",
+   "puan": {
+    "askeri_deha": 9,
+    "zafer_sayisi": 8,
+    "liderlik": 9,
+    "strateji": 9
+   }
+  },
+  {
+   "id": "timur",
+   "ad": "Timur",
+   "seviye": "guclu",
+   "grup": "orta_cag",
+   "etiketler": [],
+   "aciklama": "Orta Asya'dan Anadolu'ya uzanan fetihler.",
+   "puan": {
+    "askeri_deha": 9,
+    "zafer_sayisi": 10,
+    "liderlik": 9,
+    "strateji": 9
+   }
+  },
+  {
+   "id": "selahaddin-eyyubi",
+   "ad": "Selahaddin Eyyubi",
+   "seviye": "guclu",
+   "grup": "orta_cag",
+   "etiketler": [],
+   "aciklama": "Haçlılara karşı Kudüs'ü alan komutan.",
+   "puan": {
+    "askeri_deha": 9,
+    "zafer_sayisi": 8,
+    "liderlik": 10,
+    "strateji": 8
+   }
+  },
+  {
+   "id": "attila",
+   "ad": "Attila",
+   "seviye": "guclu",
+   "grup": "antik",
+   "etiketler": [],
+   "aciklama": "Avrupa'nın korkulu rüyası Hun hükümdarı.",
+   "puan": {
+    "askeri_deha": 8,
+    "zafer_sayisi": 8,
+    "liderlik": 9,
+    "strateji": 8
+   }
+  },
+  {
+   "id": "barbaros-hayreddin-pasa",
+   "ad": "Barbaros Hayreddin Paşa",
+   "seviye": "guclu",
+   "grup": "turk",
+   "etiketler": [],
+   "aciklama": "Akdeniz'in hâkimi efsane kaptan-ı derya.",
+   "puan": {
+    "askeri_deha": 9,
+    "zafer_sayisi": 9,
+    "liderlik": 9,
+    "strateji": 9
+   }
+  },
+  {
+   "id": "sun-tzu",
+   "ad": "Sun Tzu",
+   "seviye": "guclu",
+   "grup": "antik",
+   "etiketler": [],
+   "aciklama": "Savaş Sanatı kitabının yazarı.",
+   "puan": {
+    "askeri_deha": 9,
+    "zafer_sayisi": 7,
+    "liderlik": 8,
+    "strateji": 10
+   }
+  },
+  {
+   "id": "buyuk-kiros",
+   "ad": "Büyük Kiros",
+   "seviye": "guclu",
+   "grup": "antik",
+   "etiketler": [],
+   "aciklama": "Pers İmparatorluğu'nun kurucusu.",
+   "puan": {
+    "askeri_deha": 9,
+    "zafer_sayisi": 9,
+    "liderlik": 9,
+    "strateji": 8
+   }
+  },
+  {
+   "id": "aslan-yurekli-richard",
+   "ad": "Aslan Yürekli Richard",
+   "seviye": "guclu",
+   "grup": "orta_cag",
+   "etiketler": [],
+   "aciklama": "Haçlı seferlerinin ünlü İngiliz kralı.",
+   "puan": {
+    "askeri_deha": 8,
+    "zafer_sayisi": 7,
+    "liderlik": 9,
+    "strateji": 7
+   }
+  },
+  {
+   "id": "buyuk-friedrich",
+   "ad": "Büyük Friedrich",
+   "seviye": "guclu",
+   "grup": "yeni_cag",
+   "etiketler": [],
+   "aciklama": "Prusya'yı büyük güç yapan kral.",
+   "puan": {
+    "askeri_deha": 9,
+    "zafer_sayisi": 8,
+    "liderlik": 8,
+    "strateji": 9
+   }
+  },
+  {
+   "id": "wellington-duku",
+   "ad": "Wellington Dükü",
+   "seviye": "guclu",
+   "grup": "yeni_cag",
+   "etiketler": [],
+   "aciklama": "Waterloo'da Napolyon'u yenen komutan.",
+   "puan": {
+    "askeri_deha": 8,
+    "zafer_sayisi": 8,
+    "liderlik": 8,
+    "strateji": 8
+   }
+  },
+  {
+   "id": "amiral-nelson",
+   "ad": "Amiral Nelson",
+   "seviye": "guclu",
+   "grup": "yeni_cag",
+   "etiketler": [],
+   "aciklama": "Trafalgar'ın deniz kahramanı.",
+   "puan": {
+    "askeri_deha": 9,
+    "zafer_sayisi": 8,
+    "liderlik": 9,
+    "strateji": 9
+   }
+  },
+  {
+   "id": "jeanne-d-arc",
+   "ad": "Jeanne d'Arc",
+   "seviye": "guclu",
+   "grup": "orta_cag",
+   "etiketler": [],
+   "aciklama": "Genç yaşta Fransa'ya umut olan savaşçı.",
+   "puan": {
+    "askeri_deha": 7,
+    "zafer_sayisi": 6,
+    "liderlik": 10,
+    "strateji": 6
+   }
+  },
+  {
+   "id": "osman-gazi",
+   "ad": "Osman Gazi",
+   "seviye": "siradan",
+   "grup": "turk",
+   "etiketler": [],
+   "aciklama": "Osmanlı Devleti'nin kurucusu.",
+   "puan": {
+    "askeri_deha": 7,
+    "zafer_sayisi": 7,
+    "liderlik": 9,
+    "strateji": 7
+   }
+  },
+  {
+   "id": "orhan-gazi",
+   "ad": "Orhan Gazi",
+   "seviye": "siradan",
+   "grup": "turk",
+   "etiketler": [],
+   "aciklama": "Bursa'yı alıp devleti büyüten bey.",
+   "puan": {
+    "askeri_deha": 7,
+    "zafer_sayisi": 7,
+    "liderlik": 8,
+    "strateji": 7
+   }
+  },
+  {
+   "id": "i-kilic-arslan",
+   "ad": "I. Kılıç Arslan",
+   "seviye": "siradan",
+   "grup": "turk",
+   "etiketler": [],
+   "aciklama": "Haçlılara karşı Anadolu Selçuklu'yu savundu.",
+   "puan": {
+    "askeri_deha": 7,
+    "zafer_sayisi": 6,
+    "liderlik": 7,
+    "strateji": 7
+   }
+  },
+  {
+   "id": "tugrul-bey",
+   "ad": "Tuğrul Bey",
+   "seviye": "siradan",
+   "grup": "turk",
+   "etiketler": [],
+   "aciklama": "Büyük Selçuklu Devleti'nin kurucusu.",
+   "puan": {
+    "askeri_deha": 7,
+    "zafer_sayisi": 7,
+    "liderlik": 8,
+    "strateji": 7
+   }
+  },
+  {
+   "id": "leonidas",
+   "ad": "Leonidas",
+   "seviye": "siradan",
+   "grup": "antik",
+   "etiketler": [],
+   "aciklama": "300 Spartalı ile Thermopylae'yi savundu.",
+   "puan": {
+    "askeri_deha": 7,
+    "zafer_sayisi": 4,
+    "liderlik": 10,
+    "strateji": 7
+   }
+  },
+  {
+   "id": "spartakus",
+   "ad": "Spartaküs",
+   "seviye": "siradan",
+   "grup": "antik",
+   "etiketler": [],
+   "aciklama": "Roma'ya karşı köle isyanının lideri.",
+   "puan": {
+    "askeri_deha": 6,
+    "zafer_sayisi": 5,
+    "liderlik": 9,
+    "strateji": 6
+   }
+  },
+  {
+   "id": "scipio-africanus",
+   "ad": "Scipio Africanus",
+   "seviye": "siradan",
+   "grup": "antik",
+   "etiketler": [],
+   "aciklama": "Hannibal'ı yenen Romalı general.",
+   "puan": {
+    "askeri_deha": 9,
+    "zafer_sayisi": 8,
+    "liderlik": 8,
+    "strateji": 9
+   }
+  },
+  {
+   "id": "fatih-william",
+   "ad": "Fatih William",
+   "seviye": "siradan",
+   "grup": "orta_cag",
+   "etiketler": [],
+   "aciklama": "İngiltere'yi fetheden Normandiya dükü.",
+   "puan": {
+    "askeri_deha": 8,
+    "zafer_sayisi": 7,
+    "liderlik": 8,
+    "strateji": 7
+   }
+  },
+  {
+   "id": "el-cid",
+   "ad": "El Cid",
+   "seviye": "siradan",
+   "grup": "orta_cag",
+   "etiketler": [],
+   "aciklama": "İspanya'nın efsane şövalyesi.",
+   "puan": {
+    "askeri_deha": 7,
+    "zafer_sayisi": 7,
+    "liderlik": 8,
+    "strateji": 7
+   }
+  },
+  {
+   "id": "sim-n-bol-var",
+   "ad": "Simón Bolívar",
+   "seviye": "siradan",
+   "grup": "yeni_cag",
+   "etiketler": [],
+   "aciklama": "Güney Amerika'nın özgürlük lideri.",
+   "puan": {
+    "askeri_deha": 7,
+    "zafer_sayisi": 7,
+    "liderlik": 9,
+    "strateji": 7
+   }
+  },
+  {
+   "id": "giuseppe-garibaldi",
+   "ad": "Giuseppe Garibaldi",
+   "seviye": "siradan",
+   "grup": "yeni_cag",
+   "etiketler": [],
+   "aciklama": "İtalya'nın birleşmesinin kahramanı.",
+   "puan": {
+    "askeri_deha": 7,
+    "zafer_sayisi": 7,
+    "liderlik": 9,
+    "strateji": 7
+   }
+  },
+  {
+   "id": "george-washington",
+   "ad": "George Washington",
+   "seviye": "siradan",
+   "grup": "yeni_cag",
+   "etiketler": [],
+   "aciklama": "Amerikan Bağımsızlık Savaşı'nın komutanı.",
+   "puan": {
+    "askeri_deha": 7,
+    "zafer_sayisi": 6,
+    "liderlik": 10,
+    "strateji": 7
+   }
+  },
+  {
+   "id": "babur-sah",
+   "ad": "Babür Şah",
+   "seviye": "siradan",
+   "grup": "turk",
+   "etiketler": [],
+   "aciklama": "Hindistan'da Babür İmparatorluğu'nu kurdu.",
+   "puan": {
+    "askeri_deha": 8,
+    "zafer_sayisi": 8,
+    "liderlik": 8,
+    "strateji": 8
+   }
+  },
+  {
+   "id": "oda-nobunaga",
+   "ad": "Oda Nobunaga",
+   "seviye": "siradan",
+   "grup": "orta_cag",
+   "etiketler": [],
+   "aciklama": "Japonya'yı birleştirmeye başlayan derebeyi.",
+   "puan": {
+    "askeri_deha": 8,
+    "zafer_sayisi": 7,
+    "liderlik": 8,
+    "strateji": 8
+   }
+  }
+ ]
+}

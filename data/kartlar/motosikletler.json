@@ -1,0 +1,535 @@
+{
+ "id": "motosikletler",
+ "ad": "Motosikletler",
+ "sablon": "yaris",
+ "gorev_mesaji": "Motor garajını kur: yarışı hangi garaj kazanır?",
+ "olcutler": {
+  "hiz": {
+   "ad": "Hız",
+   "agirlik": 0.35
+  },
+  "hizlanma": {
+   "ad": "Hızlanma",
+   "agirlik": 0.25
+  },
+  "tasarim": {
+   "ad": "Tasarım",
+   "agirlik": 0.2
+  },
+  "efsanelik": {
+   "ad": "Efsanelik",
+   "agirlik": 0.2
+  }
+ },
+ "gruplar": {
+  "sport": "Süper spor",
+  "naked": "Naked ve tur",
+  "klasik": "Klasik ve chopper",
+  "sehir": "Şehir ve scooter"
+ },
+ "sinerjiler": [
+  {
+   "tip": "cesitlilik",
+   "ad": "Her yola bir motor",
+   "esikler": {
+    "3": 4,
+    "4": 7
+   }
+  }
+ ],
+ "garanti": {},
+ "hakem_notu": "Yarış simülasyonu yap (düz yol, viraj, şehir içi). Şehir içi turda küçük ve çevik motorlar avantajlıdır.",
+ "kart_sayisi": 35,
+ "kartlar": [
+  {
+   "id": "kawasaki-ninja-h2r",
+   "ad": "Kawasaki Ninja H2R",
+   "seviye": "efsane",
+   "grup": "sport",
+   "etiketler": [],
+   "aciklama": "Süper şarjlı, pist için yapılmış canavar.",
+   "puan": {
+    "hiz": 10,
+    "hizlanma": 10,
+    "tasarim": 9,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "ducati-panigale-v4",
+   "ad": "Ducati Panigale V4",
+   "seviye": "efsane",
+   "grup": "sport",
+   "etiketler": [],
+   "aciklama": "İtalyan tasarımı ve yarış teknolojisi.",
+   "puan": {
+    "hiz": 10,
+    "hizlanma": 10,
+    "tasarim": 10,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "honda-cbr1000rr-fireblade",
+   "ad": "Honda CBR1000RR Fireblade",
+   "seviye": "efsane",
+   "grup": "sport",
+   "etiketler": [],
+   "aciklama": "Süper spor sınıfının uzun soluklu efsanesi.",
+   "puan": {
+    "hiz": 9,
+    "hizlanma": 9,
+    "tasarim": 8,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "harley-davidson-fat-boy",
+   "ad": "Harley-Davidson Fat Boy",
+   "seviye": "efsane",
+   "grup": "klasik",
+   "etiketler": [],
+   "aciklama": "Amerikan chopper kültürünün ikonu.",
+   "puan": {
+    "hiz": 5,
+    "hizlanma": 5,
+    "tasarim": 9,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "suzuki-hayabusa",
+   "ad": "Suzuki Hayabusa",
+   "seviye": "efsane",
+   "grup": "sport",
+   "etiketler": [],
+   "aciklama": "Uzun yıllar en hızlı seri üretim motor.",
+   "puan": {
+    "hiz": 10,
+    "hizlanma": 9,
+    "tasarim": 7,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "yamaha-yzf-r1",
+   "ad": "Yamaha YZF-R1",
+   "seviye": "efsane",
+   "grup": "sport",
+   "etiketler": [],
+   "aciklama": "Yamaha'nın pistten gelen süper sporu.",
+   "puan": {
+    "hiz": 9,
+    "hizlanma": 9,
+    "tasarim": 8,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "bmw-r-1250-gs",
+   "ad": "BMW R 1250 GS",
+   "seviye": "efsane",
+   "grup": "naked",
+   "etiketler": [],
+   "aciklama": "Dünyayı dolaşanların macera motoru.",
+   "puan": {
+    "hiz": 7,
+    "hizlanma": 7,
+    "tasarim": 8,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "kawasaki-ninja-zx-10r",
+   "ad": "Kawasaki Ninja ZX-10R",
+   "seviye": "guclu",
+   "grup": "sport",
+   "etiketler": [],
+   "aciklama": "Dünya Superbike şampiyonu.",
+   "puan": {
+    "hiz": 9,
+    "hizlanma": 9,
+    "tasarim": 8,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "ducati-monster",
+   "ad": "Ducati Monster",
+   "seviye": "guclu",
+   "grup": "naked",
+   "etiketler": [],
+   "aciklama": "Naked motor akımını başlatan tasarım.",
+   "puan": {
+    "hiz": 7,
+    "hizlanma": 8,
+    "tasarim": 9,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "yamaha-mt-09",
+   "ad": "Yamaha MT-09",
+   "seviye": "guclu",
+   "grup": "naked",
+   "etiketler": [],
+   "aciklama": "Üç silindirli eğlenceli naked.",
+   "puan": {
+    "hiz": 7,
+    "hizlanma": 9,
+    "tasarim": 8,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "ktm-1290-super-duke",
+   "ad": "KTM 1290 Super Duke",
+   "seviye": "guclu",
+   "grup": "naked",
+   "etiketler": [],
+   "aciklama": "Turuncu canavar lakaplı güçlü naked.",
+   "puan": {
+    "hiz": 9,
+    "hizlanma": 10,
+    "tasarim": 8,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "triumph-bonneville",
+   "ad": "Triumph Bonneville",
+   "seviye": "guclu",
+   "grup": "klasik",
+   "etiketler": [],
+   "aciklama": "İngiliz klasik motor efsanesi.",
+   "puan": {
+    "hiz": 5,
+    "hizlanma": 5,
+    "tasarim": 9,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "royal-enfield-classic",
+   "ad": "Royal Enfield Classic",
+   "seviye": "guclu",
+   "grup": "klasik",
+   "etiketler": [],
+   "aciklama": "Hindistan'dan gelen nostaljik tasarım.",
+   "puan": {
+    "hiz": 3,
+    "hizlanma": 3,
+    "tasarim": 8,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "indian-chief",
+   "ad": "Indian Chief",
+   "seviye": "guclu",
+   "grup": "klasik",
+   "etiketler": [],
+   "aciklama": "Amerika'nın en eski motosiklet markasından.",
+   "puan": {
+    "hiz": 5,
+    "hizlanma": 5,
+    "tasarim": 9,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "harley-davidson-sportster",
+   "ad": "Harley-Davidson Sportster",
+   "seviye": "guclu",
+   "grup": "klasik",
+   "etiketler": [],
+   "aciklama": "Harley'nin daha çevik kardeşi.",
+   "puan": {
+    "hiz": 5,
+    "hizlanma": 5,
+    "tasarim": 8,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "vespa",
+   "ad": "Vespa",
+   "seviye": "guclu",
+   "grup": "sehir",
+   "etiketler": [],
+   "aciklama": "İtalyan şıklığının şehir simgesi.",
+   "puan": {
+    "hiz": 2,
+    "hizlanma": 2,
+    "tasarim": 10,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "honda-cb750",
+   "ad": "Honda CB750",
+   "seviye": "guclu",
+   "grup": "klasik",
+   "etiketler": [],
+   "aciklama": "Süper motor çağını başlatan klasik.",
+   "puan": {
+    "hiz": 6,
+    "hizlanma": 6,
+    "tasarim": 8,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "kawasaki-z900",
+   "ad": "Kawasaki Z900",
+   "seviye": "guclu",
+   "grup": "naked",
+   "etiketler": [],
+   "aciklama": "Güçlü ve dengeli naked.",
+   "puan": {
+    "hiz": 8,
+    "hizlanma": 8,
+    "tasarim": 8,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "honda-africa-twin",
+   "ad": "Honda Africa Twin",
+   "seviye": "guclu",
+   "grup": "naked",
+   "etiketler": [],
+   "aciklama": "Çölde ve asfaltta gezgin motoru.",
+   "puan": {
+    "hiz": 7,
+    "hizlanma": 7,
+    "tasarim": 8,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "suzuki-gsx-r750",
+   "ad": "Suzuki GSX-R750",
+   "seviye": "guclu",
+   "grup": "sport",
+   "etiketler": [],
+   "aciklama": "Gixxer lakaplı efsane süper spor.",
+   "puan": {
+    "hiz": 9,
+    "hizlanma": 8,
+    "tasarim": 8,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "mv-agusta-f4",
+   "ad": "MV Agusta F4",
+   "seviye": "guclu",
+   "grup": "sport",
+   "etiketler": [],
+   "aciklama": "Dünyanın en güzel motorlarından sayılan tasarım.",
+   "puan": {
+    "hiz": 9,
+    "hizlanma": 9,
+    "tasarim": 10,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "yamaha-r25",
+   "ad": "Yamaha R25",
+   "seviye": "siradan",
+   "grup": "sport",
+   "etiketler": [],
+   "aciklama": "Gençlerin ilk spor motoru.",
+   "puan": {
+    "hiz": 5,
+    "hizlanma": 5,
+    "tasarim": 7,
+    "efsanelik": 5
+   }
+  },
+  {
+   "id": "honda-pcx",
+   "ad": "Honda PCX",
+   "seviye": "siradan",
+   "grup": "sehir",
+   "etiketler": [],
+   "aciklama": "Şehir içinin yakıt cimrisi scooterı.",
+   "puan": {
+    "hiz": 2,
+    "hizlanma": 3,
+    "tasarim": 6,
+    "efsanelik": 6
+   }
+  },
+  {
+   "id": "yamaha-nmax",
+   "ad": "Yamaha NMAX",
+   "seviye": "siradan",
+   "grup": "sehir",
+   "etiketler": [],
+   "aciklama": "Kuryelerin ve şehirlilerin favorisi.",
+   "puan": {
+    "hiz": 2,
+    "hizlanma": 3,
+    "tasarim": 6,
+    "efsanelik": 5
+   }
+  },
+  {
+   "id": "mondial",
+   "ad": "Mondial",
+   "seviye": "siradan",
+   "grup": "sehir",
+   "etiketler": [],
+   "aciklama": "Türkiye'de çok yaygın uygun fiyatlı motor.",
+   "puan": {
+    "hiz": 1,
+    "hizlanma": 2,
+    "tasarim": 4,
+    "efsanelik": 6
+   }
+  },
+  {
+   "id": "mobilet",
+   "ad": "Mobilet",
+   "seviye": "siradan",
+   "grup": "sehir",
+   "etiketler": [],
+   "aciklama": "Pedallı nostaljik mahalle motoru.",
+   "puan": {
+    "hiz": 1,
+    "hizlanma": 1,
+    "tasarim": 5,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "honda-cbr250r",
+   "ad": "Honda CBR250R",
+   "seviye": "siradan",
+   "grup": "sport",
+   "etiketler": [],
+   "aciklama": "Küçük hacimli spor motor.",
+   "puan": {
+    "hiz": 5,
+    "hizlanma": 5,
+    "tasarim": 6,
+    "efsanelik": 5
+   }
+  },
+  {
+   "id": "ktm-duke-390",
+   "ad": "KTM Duke 390",
+   "seviye": "siradan",
+   "grup": "naked",
+   "etiketler": [],
+   "aciklama": "Hafif ve çevik şehir naked'ı.",
+   "puan": {
+    "hiz": 6,
+    "hizlanma": 7,
+    "tasarim": 7,
+    "efsanelik": 6
+   }
+  },
+  {
+   "id": "kawasaki-ninja-400",
+   "ad": "Kawasaki Ninja 400",
+   "seviye": "siradan",
+   "grup": "sport",
+   "etiketler": [],
+   "aciklama": "Ninja ailesinin giriş modeli.",
+   "puan": {
+    "hiz": 6,
+    "hizlanma": 6,
+    "tasarim": 7,
+    "efsanelik": 6
+   }
+  },
+  {
+   "id": "suzuki-bandit",
+   "ad": "Suzuki Bandit",
+   "seviye": "siradan",
+   "grup": "naked",
+   "etiketler": [],
+   "aciklama": "Dayanıklı ve klasik naked.",
+   "puan": {
+    "hiz": 6,
+    "hizlanma": 6,
+    "tasarim": 6,
+    "efsanelik": 6
+   }
+  },
+  {
+   "id": "bmw-c-650",
+   "ad": "BMW C 650",
+   "seviye": "siradan",
+   "grup": "sehir",
+   "etiketler": [],
+   "aciklama": "Maxi scooter konforu.",
+   "puan": {
+    "hiz": 5,
+    "hizlanma": 5,
+    "tasarim": 6,
+    "efsanelik": 4
+   }
+  },
+  {
+   "id": "ural",
+   "ad": "Ural",
+   "seviye": "siradan",
+   "grup": "klasik",
+   "etiketler": [],
+   "aciklama": "Sepetli Rus klasik motoru.",
+   "puan": {
+    "hiz": 3,
+    "hizlanma": 3,
+    "tasarim": 7,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "mz",
+   "ad": "MZ",
+   "seviye": "siradan",
+   "grup": "klasik",
+   "etiketler": [],
+   "aciklama": "Eski Doğu Almanya'nın dayanıklı motoru.",
+   "puan": {
+    "hiz": 3,
+    "hizlanma": 3,
+    "tasarim": 5,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "honda-super-cub",
+   "ad": "Honda Super Cub",
+   "seviye": "siradan",
+   "grup": "sehir",
+   "etiketler": [],
+   "aciklama": "Dünyanın en çok üretilen motorlu taşıtı.",
+   "puan": {
+    "hiz": 1,
+    "hizlanma": 1,
+    "tasarim": 7,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "bajaj-pulsar",
+   "ad": "Bajaj Pulsar",
+   "seviye": "siradan",
+   "grup": "naked",
+   "etiketler": [],
+   "aciklama": "Uygun fiyatlı popüler naked.",
+   "puan": {
+    "hiz": 4,
+    "hizlanma": 5,
+    "tasarim": 5,
+    "efsanelik": 4
+   }
+  }
+ ]
+}
