@@ -6,7 +6,7 @@ Hulk|e|guc||Sinirlendikçe güçlenen yeşil dev.|10,8,3,4
 Captain Marvel|e|guc||Kozmik enerjiyle uçan en güçlülerden.|10,9,6,7
 Supergirl|e|guc||Superman'in kuzeni, aynı güçlere sahip.|9,9,6,8
 Shazam|e|guc||Tek kelimeyle yetişkin kahramana dönüşen çocuk.|9,8,4,7
-Martian Manhunter|e|guc||Şekil değiştiren güçlü Marslı.|9,9,8,9
+Ghost Rider|e|guc||Alevli kafatasıyla intikam meleği.|8,9,5,5
 Aquaman|e|guc||Denizlerin kralı.|8,8,6,7
 Wolverine|e|guc||Pençeleri ve iyileşme gücüyle dayanıklı savaşçı.|8,8,5,5
 Örümcek Adam|e|guc||Ağ atan, duvarlara tırmanan mahalle kahramanı.|7,8,8,8
@@ -21,7 +21,7 @@ Scarlet Witch|e|ozel||Gerçekliği büken güçlü büyücü.|8,10,6,6
 Flash|e|ozel||Işıktan hızlı koşabilen kahraman.|6,10,7,8
 Green Lantern|e|ozel||Yüzüğüyle hayal ettiğini yaratan kahraman.|8,9,6,8
 Jean Grey|e|ozel||Telekinezi ve telepatinin en güçlüsü.|8,10,7,7
-Silver Surfer|e|ozel||Kozmik güçlerle evreni dolaşan sörfçü.|9,10,7,6
+Blade|e|ozel||Vampir avcısı yarı vampir.|7,8,7,5
 Storm|e|ozel||Havayı kontrol eden mutant.|7,9,7,8
 Vision|e|ozel||Yapay zekâdan doğan güçlü android.|8,8,8,8
 Deadpool|g|guc||Ölümsüz ve geveze antikahraman.|7,7,5,3

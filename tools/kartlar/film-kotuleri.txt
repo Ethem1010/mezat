@@ -7,21 +7,21 @@ Magneto|e|guc||Metali yöneten güçlü mutant.|9,8,7,8
 Ajan Smith|e|guc||Matrix'te kendini çoğaltan program.|7,8,7,8
 Terminatör (T-800)|e|guc||Durdurulamayan robot suikastçi.|8,6,9,9
 Bane|e|guc||Batman'in belini kıran güçlü stratejist.|9,8,8,7
-Darkseid|e|guc||Apokolips'in acımasız hükümdarı.|10,8,8,7
+Venom|e|guc||Siyah yapışkan uzaylı ortakyaşar.|9,6,8,9
 Ultron|e|guc||İnsanlığı yok etmek isteyen yapay zekâ.|9,9,7,7
 Joker|e|zeka||Kaosu planlayan gülümseyen deli.|4,9,9,10
 Hannibal Lecter|e|zeka||Dâhi ve ürkütücü psikiyatrist.|3,10,10,9
 Loki|e|zeka||Yalanların ve hilelerin tanrısı.|6,9,5,8
 Lex Luthor|e|zeka||Superman'in dâhi düşmanı.|3,10,6,8
 Darth Sidious|e|zeka||Galaksiyi perde arkasından yöneten imparator.|9,10,8,8
-Hans Gruber|e|zeka||Gökdelen soygununun soğukkanlı beyni.|3,9,6,8
+Kaptan Kanca|e|zeka||Peter Pan'ın kancalı korsan düşmanı.|5,8,5,9
 Scar|e|zeka||Tahta göz diken kıskanç aslan.|5,8,6,9
-Anton Chigurh|e|korku||Yazı turayla karar veren soğuk tetikçi.|6,8,10,8
+Drakula|e|korku||Kan emen efsanevi kont.|8,8,9,10
 Freddy Krueger|e|korku||Rüyalarda avlanan kâbus.|6,6,10,9
-Ksenomorf (Alien)|e|korku||Uzayda kimse çığlığını duymaz.|8,5,10,9
+Alien (Yaratık)|e|korku||Uzayda kimse çığlığını duymaz.|8,5,10,9
 Pennywise|e|korku||Kanalizasyondaki korkunç palyaço.|7,7,10,8
-Jack Torrance|e|korku||Issız otelde aklını kaybeden adam.|4,4,9,9
-Norman Bates|e|korku||Bates Motel'in ürkütücü sahibi.|3,6,9,9
+Testere (Jigsaw)|e|korku||Ölümcül oyunlar kuran seri katil.|3,10,9,9
+Valak|e|korku||Conjuring'in korkunç rahibe kılıklı iblisi.|8,6,10,8
 Michael Myers|e|korku||Cadılar Bayramı'nın sessiz avcısı.|7,3,9,8
 Jason Voorhees|e|korku||Maskeli ve durdurulamaz.|7,2,9,8
 Megatron|g|guc||Decepticon'ların lideri dev robot.|9,6,7,7

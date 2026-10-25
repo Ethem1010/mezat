@@ -4,8 +4,8 @@ Cristiano Ronaldo|e|forvet||Şampiyonlar Ligi'nin en golcüsü.|10,9,10,10
 Pelé|e|forvet||Üç Dünya Kupası kazanan efsane.|10,9,10,10
 Ronaldo Nazário|e|forvet||Fenomen; hız ve bitiriciliğin tanımı.|10,9,9,10
 Johan Cruyff|e|forvet||Total futbolun dâhisi.|9,10,9,10
-Eusébio|e|forvet||Benfica'nın Kara Panteri.|9,9,8,9
-Ferenc Puskás|e|forvet||Adına gol ödülü verilen Macar efsane.|10,9,9,10
+Neymar|e|forvet||Çalımlarıyla büyüleyen Brezilyalı yıldız.|9,10,8,8
+Robert Lewandowski|e|forvet||Gol makinesi Polonyalı santrfor.|10,8,8,8
 Thierry Henry|e|forvet||Arsenal'in zarif ve hızlı golcüsü.|9,9,9,9
 Diego Maradona|e|orta||1986 Dünya Kupası'nın dâhisi.|10,10,9,10
 Zinedine Zidane|e|orta||Zarafetiyle oyunu yöneten Fransız usta.|9,10,10,10
@@ -13,15 +13,15 @@ Ronaldinho|e|orta||Gülümseyerek oynayan sihirbaz.|10,10,9,9
 Andrés Iniesta|e|orta||Dünya Kupası finalinin golcüsü.|9,10,10,9
 Xavi|e|orta||Orta sahanın beyni, pas makinesi.|9,10,10,9
 Luka Modrić|e|orta||Ballon d'Or kazanan Hırvat orta saha.|9,10,10,9
-Michel Platini|e|orta||Üç kez üst üste Ballon d'Or.|9,9,8,9
+Kevin De Bruyne|e|orta||Asist ustası Belçikalı.|9,9,8,8
 Franz Beckenbauer|e|defans||Kaiser; libero mevkisinin efsanesi.|10,9,10,10
 Paolo Maldini|e|defans||Milan'ın ve İtalya'nın efsane defansı.|10,9,10,10
-Franco Baresi|e|defans||Savunmanın ustası Milan kaptanı.|10,8,10,9
+Carles Puyol|e|defans||Barcelona'nın kıvırcık saçlı kaptanı.|9,7,10,8
 Sergio Ramos|e|defans||Son dakika golleriyle bilinen sert stoper.|9,8,10,9
 Roberto Carlos|e|defans||Muz şutlarıyla efsane sol bek.|9,9,10,9
 Cafu|e|defans||İki Dünya Kupası kazanan sağ bek.|9,8,10,9
 Gianluigi Buffon|e|kaleci||Uzun kariyeriyle kalecilerin efsanesi.|10,8,9,10
-Lev Yashin|e|kaleci||Ballon d'Or kazanan tek kaleci, Kara Örümcek.|10,8,8,10
+Oliver Kahn|e|kaleci||Almanya'nın "Titan" lakaplı kalecisi.|9,7,8,9
 Iker Casillas|e|kaleci||Refleksleriyle Aziz İker.|10,8,10,9
 Manuel Neuer|e|kaleci||Libero gibi oynayan modern kaleci.|10,8,10,9
 Kylian Mbappé|g|forvet||Yeni neslin en hızlı yıldızı.|10,8,8,8

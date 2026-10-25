@@ -33,4 +33,4 @@ Ekler|g|pasta||Kremalı çikolatalı uzun pasta.|8,8,8,6
 Donut|g|pasta||Ortası delik renkli halka.|8,9,8,8
 Cupcake|g|pasta||Kremalı minik kek.|7,8,9,8
 Frozen yoğurt|g|soguk||Hafif dondurulmuş yoğurt.|7,7,8,8
-Sorbe|g|soguk||Meyveli buzlu tatlı.|7,6,8,7
+Külah dondurma|g|soguk||Yaz akşamlarının vazgeçilmezi.|8,10,7,7

@@ -1,6 +1,6 @@
 # Arabalar — ad|seviye(e=efsane, g=yıldız)|grup|etiketler|açıklama|Performans,İkoniklik,Nostalji,Tasarım
 Ferrari F40|e|spor||Enzo Ferrari'nin imzasını taşıyan son efsane.|10,10,9,10
-Ferrari 250 GTO (1962)|e|klasik||Dünyanın en değerli klasik otomobillerinden.|9,10,10,10
+Ferrari Testarossa|e|klasik||80'lerin posterlerini süsleyen yan ızgaralı efsane.|8,10,10,10
 Lamborghini Miura|e|klasik||Süper araba kavramını başlatan İtalyan.|9,10,10,10
 Lamborghini Countach|e|spor||Makas kapılarıyla 80'lerin poster arabası.|9,10,10,10
 Porsche 911 (1964)|e|klasik||Siluetini 60 yıldır koruyan efsane.|8,10,10,9
@@ -13,7 +13,7 @@ Ford Mustang (1967)|e|klasik||Amerikan muscle car efsanesi.|7,10,10,9
 Dodge Charger (1970)|e|klasik||Kükreyen V8'iyle filmlerin yıldızı.|8,10,10,9
 Chevrolet Corvette Stingray (1963)|e|klasik||Bölünmüş arka camıyla Amerikan ikonu.|8,9,10,10
 McLaren F1|e|spor||Ortada sürücü koltuğuyla 90'ların hız rekortmeni.|10,10,9,10
-Porsche 959|e|spor||Zamanının en teknolojik süper arabası.|10,9,9,9
+Porsche Carrera GT|e|spor||V10 sesiyle efsaneleşen süper otomobil.|9,9,8,9
 Ferrari Enzo|e|spor||Formula 1 teknolojisiyle yol arabası.|10,9,7,9
 Bugatti Veyron|e|spor||400 km/s'yi aşan hiper araba.|10,9,6,9
 Bugatti Chiron|e|spor||1500 beygirlik hiper araba.|10,9,5,9
@@ -24,12 +24,12 @@ Honda NSX (1990)|e|jdm||Japonya'nın Ferrari'lere meydan okuyan süper arabası.
 Mazda RX-7 FD|e|jdm||Rotary motorlu zarif JDM.|8,9,10,10
 Mercedes-Benz G Serisi|e|luks||Kutu gibi tasarımıyla lüks arazinin kralı.|7,10,8,8
 Rolls-Royce Phantom|e|luks||Lüksün zirvesi.|7,10,7,10
-Mercedes 190E 2.5-16 Evo II|g|luks||Kasa Mercedes'in yarış ruhlu en efsane hâli.|8,9,9,8
-Mercedes-Benz 500E (W124)|g|luks||Porsche'nin de katkı verdiği güçlü sedan.|8,8,9,8
+Mercedes 190E|g|luks||Türkiye'nin "Kasa" diye sevdiği efsane Mercedes.|6,9,10,8
+Mercedes E Serisi (W124)|g|luks||Yıllarca yollarda kalan sağlam ve şık Mercedes.|6,9,10,8
 BMW M3 (E30)|g|spor||Yarış pistlerinden gelen efsane BMW.|8,9,9,8
 Audi Quattro|g|spor||Rallide dört çeker devrimini başlatan araba.|8,9,9,7
-Lancia Stratos|g|spor||Ralli için doğmuş kama tasarım.|8,9,9,9
-Mitsubishi Lancer Evolution VI|g|jdm||Ralli kökenli dört çeker efsane.|8,8,8,7
+Audi R8|g|spor||Iron Man'in de kullandığı Alman süper otomobili.|9,8,6,9
+Mitsubishi Lancer Evolution|g|jdm||Ralli ruhlu, Hızlı ve Öfkeli'nin gözdesi.|8,8,9,7
 Tofaş Şahin|g|yerli||Türkiye sokaklarının efsanesi.|4,9,10,6
 Anadol|g|yerli||Türkiye'nin ilk seri üretim yerli otomobili.|3,9,10,6
 Devrim|g|yerli||1961'de üretilen ilk Türk otomobili.|3,9,10,7

@@ -22,8 +22,8 @@ Bubble tea|e|soguk||Toplu Tayvan çayı.|8,8,7,9
 Mocha|e|sicak||Çikolatalı espresso keyfi.|9,8,8,8
 Şıra|e|geleneksel||Üzümden yapılan tatlı içecek.|8,6,6,5
 Kefir|e|geleneksel||Probiyotik ekşimsi süt içeceği.|7,7,9,6
-Demirhindi şerbeti|e|geleneksel||Osmanlı'nın serinleten şerbeti.|8,6,6,5
-Lassi|e|geleneksel||Hint usulü yoğurt içeceği.|8,6,8,7
+Süt|e|geleneksel||Her evin, her kahvaltının içeceği.|7,9,10,8
+Meyve suyu|e|soguk||Kutu kutu içilen çocukluk klasiği.|8,10,9,9
 Yeşil çay|g|sicak||Sağlıklı hafif çay.|7,8,9,7
 Ihlamur|g|sicak||Kışın şifa çayı.|7,8,6,5
 Kakaolu süt|g|sicak||Çocukluğun sıcak içeceği.|7,7,5,5
@@ -31,6 +31,6 @@ Gazoz|g|soguk||Nostaljik şişe gazoz.|8,8,7,6
 Ayva suyu|g|soguk||Hafif tatlı meyve suyu.|7,6,7,5
 Vişne suyu|g|soguk||Ekşimsi kırmızı lezzet.|8,8,7,6
 Enerji içeceği|g|soguk||Kafeinli enerji.|6,8,7,6
-Hibiskus çayı|g|sicak||Kırmızı mayhoş çay.|7,6,7,6
+Papatya çayı|g|sicak||Rahatlatan sarı çiçek çayı.|6,7,7,5
 Gül şerbeti|g|geleneksel||Gül kokulu tatlı şerbet.|8,6,6,5
-Mate|g|sicak||Güney Amerika'nın enerji çayı.|6,6,8,6
+Ada çayı|g|sicak||Hastalıkta ilk akla gelen bitki çayı.|7,8,7,5

@@ -1,11 +1,11 @@
 # Issız Ada — ad|seviye|grup|etiketler|açıklama|Hayatta kalma faydası,Çok amaçlılık,Dayanıklılık,Kurtarılma şansı
 Su arıtma pompası|e|su||Deniz suyunu içilir hale getirir.|10,6,8,3
-Su filtresi pipet|e|su||Her suyu güvenle içmeni sağlar.|10,5,7,2
-Güneş enerjili damıtıcı|e|su||Güneşle tuzlu sudan tatlı su.|9,5,8,2
+Su filtresi|e|su||Her suyu güvenle içmeni sağlar.|10,5,7,2
+Tencere|e|su||Suyu kaynatıp arıtır, yemek pişirir.|9,9,9,1
 Büyük su bidonu|e|su||Yağmur suyu biriktirir.|8,7,9,2
-Çakmak taşı (magnezyum)|e|ates||Islanınca bile kıvılcım çıkarır.|9,6,10,5
-Fırtına kibriti|e|ates||Rüzgârda yağmurda yanar.|9,5,6,5
-Pürmüz|e|ates||Anında güçlü alev.|8,6,7,5
+Çakmak taşı|e|ates||Islanınca bile kıvılcım çıkarır.|9,6,10,5
+Kibrit|e|ates||En bilinen ateş yakıcı.|8,5,4,4
+Çakmak|e|ates||Cepte anında ateş.|9,6,6,4
 Olta takımı|e|yiyecek||Denizden sınırsız yemek.|9,6,8,2
 Zıpkın|e|yiyecek||Balık avının ustası.|9,6,9,2
 Konserve kutusu (koli)|e|yiyecek||Haftalarca yetecek erzak.|9,4,9,2
@@ -16,14 +16,14 @@ Hamak|e|barinak||Yerden yüksekte güvenli uyku.|7,5,7,2
 İsviçre çakısı|e|alet||Bıçak, testere, makas bir arada.|10,10,9,2
 Pala|e|alet||Ormanı açar, odun keser.|10,9,10,2
 Balta|e|alet||Kulübe yapmak için şart.|9,8,10,2
-Paracord ip|e|alet||Yüzlerce kullanım alanı.|9,10,9,3
+Halat|e|alet||Bağla, as, sal yap.|9,10,9,3
 İlk yardım çantası|e|alet||Yaraları ve enfeksiyonu önler.|10,6,7,2
 Uydu telefonu|e|kurtarilma||Her yerden yardım çağırır.|6,4,6,10
-Acil durum işareti (EPIRB)|e|kurtarilma||Konumunu otomatik bildirir.|6,2,9,10
+El feneri|e|kurtarilma||Geceleri gemilere ışıkla işaret verir.|7,6,7,8
 İşaret fişeği|e|kurtarilma||Gemiye ve uçağa haber verir.|5,3,7,9
 Şişme bot|e|kurtarilma||Adadan kaçış aracı.|6,6,6,9
 Güneş enerjili telsiz|e|kurtarilma||Şarj derdi olmayan iletişim.|6,6,8,9
-Sinyal aynası|e|kurtarilma||Güneşle kilometrelerce uzağa işaret.|5,4,10,8
+Ayna|e|kurtarilma||Güneşi yansıtıp uzağa işaret verir.|5,4,9,8
 Büyüteç|g|ates||Güneşle ateş yakar.|7,5,9,3
 Su arıtma tableti|g|su||Suyu mikroplardan arındırır.|8,3,8,2
 Pusula|g|alet||Yön bulmayı sağlar.|6,4,9,5

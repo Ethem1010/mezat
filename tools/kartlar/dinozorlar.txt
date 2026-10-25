@@ -2,35 +2,35 @@
 Tyrannosaurus rex|e|etobur||Muz büyüklüğünde dişleriyle dinozorların kralı.|10,9,6,10
 Spinosaurus|e|etobur||Sırtında yelkeni olan, suda avlanan dev etobur.|9,10,5,8
 Giganotosaurus|e|etobur||T-rex'ten uzun olabilen dev avcı.|10,9,6,9
-Carcharodontosaurus|e|etobur||Köpek balığı dişli dev avcı.|9,9,6,9
+Kılıç Dişli Kaplan|e|etobur||Buz Devri'nin Diego'su, dev köpek dişli avcı.|8,6,7,9
 Allosaurus|e|etobur||Jura döneminin baş avcısı.|8,8,7,9
 Carnotaurus|e|etobur||Boynuzlu ve çok hızlı avcı.|7,7,9,8
 Baryonyx|e|etobur||Timsah çeneli balık avcısı.|7,7,6,8
 Velociraptor|e|etobur|suru|Zeki, sürüyle avlandığı düşünülen avcı.|3,2,9,9
-Utahraptor|e|etobur|suru|Raptorların en büyüğü.|6,5,8,9
-Deinonychus|e|etobur|suru|Pençeli ve çevik, grupla avlandığı düşünülür.|4,3,8,9
+Mamut|e|otobur|suru|Buz Devri'nin Manny'si, yünlü dev fil.|9,9,4,3
+Compsognathus|e|etobur|suru|Jurassic Park'ın tavuk boyundaki sürü avcısı.|2,1,8,7
 Therizinosaurus|e|otobur||Metre uzunluğunda pençeli dev.|7,8,3,4
 Triceratops|e|otobur||Üç boynuzu ve kalkanıyla T-rex'e kafa tutar.|8,8,5,2
 Ankylosaurus|e|otobur||Zırhlı gövde ve topuz kuyruk.|7,7,3,2
 Stegosaurus|e|otobur||Sırt plakaları ve dikenli kuyruk.|7,8,3,2
 Brachiosaurus|e|otobur||Ağaç tepelerine uzanan dev boyunlu.|8,10,2,1
-Argentinosaurus|e|otobur||Bilinen en büyük kara hayvanlarından.|9,10,2,1
+Dimetrodon|e|etobur||Sırtında yelken olan tarih öncesi sürüngen.|6,5,4,7
 Diplodocus|e|otobur||Kuyruğunu kamçı gibi kullanır.|7,10,3,1
 Brontosaurus|e|otobur||Uzun boyunlu efsane dev.|7,10,2,1
 Pachycephalosaurus|e|otobur||Kalın kafatasıyla kafa atar.|5,4,6,2
 Parasaurolophus|e|otobur||Kafasındaki boruyla ses çıkarır.|5,7,6,1
 Mosasaurus|e|ucan_yuzen||Denizlerin dev avcı sürüngeni; dinozor değil.|9,10,7,10
-Liopleurodon|e|ucan_yuzen||Güçlü çeneli deniz sürüngeni; dinozor değil.|9,8,7,9
+Archaeopteryx|e|ucan_yuzen||Kuşların atası, ilk tüylü uçan.|2,1,6,5
 Megalodon|e|ucan_yuzen||Dev tarih öncesi köpek balığı; dinozorlardan sonra yaşadı.|10,10,7,10
 Quetzalcoatlus|e|ucan_yuzen||Uçak büyüklüğünde kanatlı sürüngen; dinozor değil.|5,8,7,6
 Pteranodon|e|ucan_yuzen||Gökyüzünün kanatlı sürüngeni; dinozor değil.|3,6,8,6
 Ceratosaurus|g|etobur||Burnunda boynuz taşıyan avcı.|7,7,6,8
 Dilophosaurus|g|etobur||Kafasında iki ibik olan avcı.|5,5,7,7
-Troodon|g|etobur||En zeki dinozorlardan.|2,2,7,7
-Coelophysis|g|etobur|suru|Grup halinde yaşayan ince yapılı avcı.|3,3,8,7
+Titanoboa|g|etobur||13 metrelik dev yılan.|8,8,4,8
+Dev Tembel Hayvan|g|otobur|suru|Buz Devri'nin Sid'i, fil boyunda tembel hayvan.|7,8,2,2
 Iguanodon|g|otobur||Başparmağında diken taşır.|6,7,5,2
-Edmontosaurus|g|otobur||Sürüler halinde gezen ördek gagalı.|6,8,5,1
-Styracosaurus|g|otobur||Dikenli yakalı boynuzlu dinozor.|7,7,5,2
+Yünlü Gergedan|g|otobur||Buz devrinin boynuzlu devi.|8,7,4,3
+Pterodaktil|g|ucan_yuzen||Belgesellerin ve oyuncakların ünlü uçan sürüngeni.|5,6,7,7
 Gallimimus|g|otobur||Devekuşu gibi koşan hızlı dinozor.|2,4,10,2
 Plesiosaurus|g|ucan_yuzen||Uzun boyunlu deniz sürüngeni; dinozor değil.|6,7,6,7
 Ichthyosaurus|g|ucan_yuzen||Yunusa benzeyen deniz sürüngeni; dinozor değil.|5,5,8,6

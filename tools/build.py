@@ -13,6 +13,14 @@ SEVIYE = {"e": "efsane", "g": "guclu"}
 HEDEF = {"efsane": 25, "guclu": 10}
 CEKILIS = {"efsane": 7, "guclu": 3}
 
+# Havuzda sadece en iyiler var; ham 1-10 puanlar zirve kartları gereksiz düşük gösteriyordu.
+# Kalibrasyon: 10 sabit kalır, aşağısı yukarı sıkışır (7 -> 8.2, 5 -> 7.0). Sıralama değişmez.
+SIKISTIRMA = 0.6
+
+
+def kalibre(v):
+    return round(10 - (10 - v) * SIKISTIRMA, 1)
+
 
 def slug(s):
     t = s.lower().translate(str.maketrans("çğıöşüâîû", "cgiosuaiu"))
@@ -59,7 +67,7 @@ def parse(kat):
         cards.append({
             "id": cid, "ad": ad, "seviye": SEVIYE.get(sev, sev), "grup": grup,
             "etiketler": [t for t in tags.split(",") if t],
-            "aciklama": aciklama, "puan": dict(zip(keys, vals)),
+            "aciklama": aciklama, "puan": dict(zip(keys, (kalibre(v) for v in vals))),
         })
     counts = {s: sum(c["seviye"] == s for c in cards) for s in HEDEF}
     if any(c["seviye"] not in HEDEF for c in cards):

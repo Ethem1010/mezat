@@ -20,10 +20,10 @@ Napolyon Bonapart|e|yeni_cag||Avrupa'yı fetheden dâhi.|10,10,10,10
 George Washington|e|yeni_cag||ABD bağımsızlık savaşının lideri.|8,7,10,8
 Horatio Nelson|e|yeni_cag||Trafalgar zaferi.|9,8,9,10
 Erwin Rommel|e|yeni_cag||"Çöl Tilkisi".|9,7,9,10
-Georgi Jukov|e|yeni_cag||Berlin'e giden Sovyet mareşali.|9,9,8,9
+Ertuğrul Gazi|e|turk||Osmanlı'nın temelini atan Kayı beyi.|8,7,10,8
 Wellington Dükü|e|yeni_cag||Waterloo'da Napolyon'u yendi.|9,9,8,9
 Simón Bolívar|e|yeni_cag||Güney Amerika'nın kurtarıcısı.|8,8,10,8
-Tomoyuki Yamashita|e|yeni_cag||"Malaya Kaplanı".|8,7,8,8
+Oruç Reis|e|turk||Akdeniz'in korkusu Türk denizci.|9,8,9,9
 Leonidas|g|antik||300 Spartalı'nın kralı.|8,5,10,8
 Ramses II|g|antik||Mısır'ın büyük firavunu.|7,7,9,7
 Jeanne d'Arc|g|orta_cag||Fransa'nın kahraman kızı.|7,6,10,6
@@ -31,6 +31,6 @@ William Wallace|g|orta_cag||İskoçya'nın özgürlük savaşçısı.|7,5,10,7
 Osman Gazi|g|turk||Osmanlı'nın kurucusu.|8,7,9,8
 Kılıç Arslan|g|turk||Haçlılara karşı Anadolu'yu korudu.|8,7,9,8
 Patton|g|yeni_cag||Hızlı tank harekâtları.|8,7,8,8
-Ulysses Grant|g|yeni_cag||ABD İç Savaşı'nın galibi.|8,8,8,8
-Robert E. Lee|g|yeni_cag||Güney'in usta generali.|9,6,9,9
-Montgomery|g|yeni_cag||El Alamein zaferi.|8,7,8,8
+Şarlman|g|orta_cag||Avrupa'yı birleştiren Frank kralı.|8,8,9,8
+Tomris Hatun|g|antik||Pers kralı Kiros'u yenen Türk kraliçesi.|8,6,10,8
+Spartaküs|g|antik||Roma'ya kafa tutan köle isyancısı.|8,6,10,7

@@ -33,4 +33,4 @@ KFC|g|gida||Albay'ın kızarmış tavuğu.|9,8,6,9
 Porsche|g|otomotiv||911'in efsane spor otomobil markası.|9,9,10,8
 Volkswagen|g|otomotiv||Halkın arabası, Golf ve Beetle.|9,8,8,10
 LEGO|g|perakende||Renkli tuğlaların oyuncak devi.|9,9,9,9
-Walmart|g|perakende||Dünyanın en büyük market zinciri.|8,8,6,7
+Migros|g|perakende||Türkiye'nin en bilinen market zinciri.|9,7,7,4

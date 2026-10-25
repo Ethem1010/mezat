@@ -3,31 +3,31 @@ Altın Kartal|e|yirtici|yirtici|Göklerin hükümdarı, dağ keçisi bile avlar.
 Gökdoğan|e|yirtici|yirtici|Dalışta dünyanın en hızlı canlısı.|9,10,10,6
 Harpi Kartalı|e|yirtici|yirtici|Maymun avlayan dev orman kartalı.|10,7,8,6
 Kel Kartal|e|yirtici|yirtici|ABD'nin sembolü, usta balık avcısı.|8,8,9,6
-Filipin Kartalı|e|yirtici|yirtici|Dünyanın en büyük kartallarından.|9,7,8,6
-Taçlı Kartal|e|yirtici|yirtici|Afrika'nın güçlü orman kartalı.|9,7,8,6
-Steller Deniz Kartalı|e|yirtici|yirtici|En ağır kartallardan biri.|9,7,8,6
+Akbaba|e|yirtici|yirtici|Gökyüzünde süzülen dev leş avcısı.|6,6,10,6
+Ördek|e|deniz||Hem yüzen hem uçan, her gölün sakini.|2,7,7,6
+Tavus Kuşu|e|diger||Göz kamaştıran kuyruk yelpazesi.|1,4,3,5
 Şah Kartal|e|yirtici|yirtici|Bozkırların güçlü kartalı.|8,8,9,6
-Puhu Baykuşu|e|yirtici|yirtici|Gecenin en büyük baykuşlarından.|8,6,8,6
-Sakallı Akbaba|e|yirtici|yirtici|Kemik kırarak beslenen dağ kuşu.|6,6,9,7
-And Kondoru|e|yirtici||Kanat açıklığı devi, süzülme ustası.|4,6,10,6
+Baykuş|e|yirtici|yirtici|Gecenin sessiz avcısı.|9,6,9,8
+Karga|e|diger||Hayvanlar âleminin en zekilerinden.|4,6,7,10
+Kondor|e|yirtici|yirtici|Dünyanın en büyük uçan kuşlarından.|6,6,10,6
 Albatros|e|deniz||Kanat açıklığı rekortmeni, okyanusları aşar.|5,7,10,5
-Fırkateyn Kuşu|e|deniz||Haftalarca konmadan uçabilir.|6,8,10,5
-Ak Pelikan|e|deniz||Gagasındaki keseyle balık avlar.|6,5,8,5
+Kuğu|e|deniz||Gölleri süsleyen zarif ve güçlü kuş.|3,6,7,6
+Pelikan|e|deniz||Gagasındaki keseyle balık tutar.|6,5,8,6
 Kuzgun|e|diger||Bulmaca çözen dâhi kuş.|5,6,8,10
-Yeni Kaledonya Kargası|e|diger||Alet yapabilen zeka şampiyonu.|5,5,7,10
-Afrika Gri Papağanı|e|diger||Kelimeleri anlamıyla kullanabilen papağan.|1,5,7,10
-Kara Sağan|e|diger||Aylarca konmadan uçabilen hız ustası.|5,10,10,5
+Güvercin|e|diger||Yolunu hiç kaybetmeyen haberci.|1,8,9,8
+Papağan|e|diger||Konuşmayı taklit eden zeki kuş.|1,5,6,10
+Bülbül|e|diger||Şarkısıyla ünlü küçük kuş.|1,5,6,6
 Kırlangıç|e|diger||Havada böcek avlayan çevik göçmen.|5,9,10,5
 Sinek Kuşu|e|diger||Havada asılı kalabilen minik kuş.|2,9,10,5
 Leylek|e|diger||Kıtalar arası göçün ustası.|4,6,10,6
 Turna|e|diger||Zarif dansı ve uzun göçüyle ünlü.|3,6,10,6
-Kasuar|e|ucamayan||Pençeleriyle en tehlikeli kuş.|7,6,1,5
+Kivi Kuşu|e|ucamayan||Yeni Zelanda'nın simgesi uçamayan kuş.|3,4,1,6
 Devekuşu|e|ucamayan||En büyük ve en hızlı koşan kuş.|5,9,1,4
 İmparator Penguen|e|ucamayan||Denizde usta dalgıç.|5,4,1,6
 Şahin|g|yirtici|yirtici|Keskin gözlü çevik avcı.|8,8,9,6
 Atmaca|g|yirtici|yirtici|Ormanın hızlı ve çevik avcısı.|8,8,9,6
 Balık Kartalı|g|yirtici|yirtici|Suya dalıp balık kapan uzman.|8,7,9,6
-Kızıl Akbaba|g|yirtici|yirtici|Saatlerce süzülen gökyüzü temizlikçisi.|5,5,9,6
+Tukan|g|diger||Kocaman renkli gagalı tropik kuş.|2,4,5,6
 Martı|g|deniz||Vapurların daimi yolcusu.|5,6,8,7
 Flamingo|g|deniz||Tek ayak üstünde duran pembe kuş.|2,5,7,4
 Saksağan|g|diger||Aynada kendini tanıyan zeki kuş.|3,5,6,9

@@ -25,9 +25,9 @@ Ferrero Rocher|e|tatli||Altın kâğıtlı fındıklı lüks.|10,8,9,8
 Biskrem|e|tatli||Kakaolu kremalı efsane bisküvi.|9,10,9,9
 Kinder Sürpriz|e|tatli||İçinden oyuncak çıkan yumurta.|8,10,9,8
 Leblebi|g|tuzlu||Tuzlu-sarı çerez.|7,8,7,7
-Mısır cipsi (Tostitos)|g|tuzlu||Soslu mısır üçgenleri.|8,6,7,8
+Çerezza|g|tuzlu||Çıtır mısırlı Türk klasiği.|8,9,8,8
 Çubuk kraker|g|tuzlu||Tuzlu ince çubuklar.|7,9,8,8
-Pretzel|g|tuzlu||Düğüm şekilli tuzlu.|7,6,7,7
+Patos|g|tuzlu||Okul kantinlerinin mısır cipsi.|7,9,8,8
 Bebe bisküvi|g|tatli||Çayın yanına nostalji.|7,10,8,7
 Eti Burçak|g|tatli||Kepekli sevilen bisküvi.|7,8,8,7
 Albeni|g|tatli||Karamelli çikolatalı bar.|8,9,8,8

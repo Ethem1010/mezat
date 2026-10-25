@@ -5,22 +5,22 @@ Kobe Bryant|e|kanat||Mamba zihniyetinin sahibi, beş şampiyonluk.|10,8,9,10
 Larry Bird|e|kanat||Celtics'in efsane şutörü.|9,10,9,10
 Kevin Durant|e|kanat||Durdurulamayan uzun şutör.|10,8,8,9
 Giannis Antetokounmpo|e|kanat||Yunan Ucube; atletizm ve güç.|10,8,8,9
-Julius Erving|e|kanat||Dr. J; smacın sanatçısı.|9,8,8,10
+Vince Carter|e|kanat||Smaç yarışmalarının efsanesi.|8,7,5,9
 Scottie Pippen|e|kanat||Jordan'ın sağ kolu, savunma ustası.|9,9,10,9
 Dwyane Wade|e|kanat||Miami Heat'in Flash'ı.|9,8,9,9
 Magic Johnson|e|oyun_kurucu||Pas sihirbazı, Showtime Lakers'ın lideri.|9,10,9,10
 Stephen Curry|e|oyun_kurucu||Üçlük atışını yeniden tanımlayan şutör.|10,9,9,10
-Isiah Thomas|e|oyun_kurucu||Bad Boys Pistons'ın lideri.|9,9,8,9
-Oscar Robertson|e|oyun_kurucu||Bir sezon ortalama triple-double yapan ilk isim.|9,9,7,9
-Jerry West|e|oyun_kurucu||NBA logosundaki adam.|9,9,7,10
+Damian Lillard|e|oyun_kurucu||Son saniye üçlükleriyle ünlü yıldız.|8,8,5,7
+James Harden|e|oyun_kurucu||Sakalıyla ünlü, MVP'li skor makinesi.|9,9,6,8
+Russell Westbrook|e|oyun_kurucu||Triple-double rekortmeni, MVP.|8,8,6,8
 Steve Nash|e|oyun_kurucu||İki kez MVP olan pas ustası.|9,10,4,9
 Allen Iverson|e|oyun_kurucu||Crossover'ıyla devleri deviren küçük dev.|10,7,4,10
 Shaquille O'Neal|e|pivot||Potanın altındaki durdurulamaz dev.|10,8,9,10
 Kareem Abdul-Jabbar|e|pivot||Skyhook atışıyla altı şampiyonluk.|10,9,10,10
 Tim Duncan|e|pivot||Sessiz ama ölümcül, beş şampiyonluk.|10,9,10,9
 Hakeem Olajuwon|e|pivot||Dream Shake hareketiyle ünlü pivot.|10,9,8,9
-Wilt Chamberlain|e|pivot||Bir maçta 100 sayı atan dev.|10,7,7,10
-Bill Russell|e|pivot||On bir şampiyonluk yüzüğü.|10,9,10,10
+Anthony Davis|e|pivot||Lakers'la şampiyon olmuş uzun.|9,8,7,7
+Joel Embiid|e|pivot||MVP'li modern pivot.|9,8,5,7
 Nikola Jokić|e|pivot||Pas veren pivot, birden çok MVP.|9,10,7,8
 Kevin Garnett|e|pivot||Savunmanın ve tutkunun sembolü.|10,8,7,8
 Dirk Nowitzki|e|pivot||Tek ayak fadeaway şutunun Alman ustası.|9,8,7,9

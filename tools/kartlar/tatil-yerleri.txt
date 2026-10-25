@@ -17,7 +17,7 @@ Pamukkale|e|doga||Bembeyaz travertenler ve antik havuz.|9,5,6,8
 Ayder Yaylası|e|doga||Sisli yeşil yaylalar ve kaplıcalar.|9,2,8,7
 Uzungöl|e|doga||Karadeniz'in kartpostal gölü.|9,2,7,7
 İsviçre Alpleri|e|doga||Karlı zirveler ve tren yolculukları.|10,5,7,3
-İzlanda Yolculuğu|e|doga||Şelaleler, buzullar ve kuzey ışıkları.|10,3,5,3
+İzlanda|e|doga||Kuzey ışıkları, şelaleler ve volkanlar.|9,8,10,7
 İstanbul|e|sehir||Boğaz, tarih ve bitmeyen lezzetler.|5,7,10,8
 Paris|e|sehir||Eyfel, Louvre ve kafeler.|4,7,9,5
 Roma|e|sehir||Kolezyum, çeşmeler ve makarna.|4,6,10,5

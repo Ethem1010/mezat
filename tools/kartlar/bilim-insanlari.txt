@@ -6,13 +6,13 @@ Nikola Tesla|e|fizik||Alternatif akımın dâhisi.|9,10,6,9
 Marie Curie|e|kimya||İki farklı dalda Nobel kazanan tek kişi.|10,9,10,8
 Stephen Hawking|e|fizik||Kara deliklerin sırları.|9,8,8,7
 Michael Faraday|e|fizik||Elektromanyetizmanın kâşifi.|10,10,7,8
-James Clerk Maxwell|e|fizik||Elektromanyetizma denklemleri.|10,9,6,8
+Thomas Edison|e|fizik||Ampulü yaygınlaştıran ünlü mucit.|9,10,6,8
 Niels Bohr|e|fizik||Atom modelinin mimarı.|9,9,9,7
-Richard Feynman|e|fizik||Kuantumu anlatan efsane hoca.|9,7,9,8
+Robert Oppenheimer|e|fizik||Atom bombasının babası, ünlü filmin konusu.|9,10,7,7
 Dmitri Mendeleyev|e|kimya||Periyodik tabloyu kurdu.|10,9,6,7
 Antoine Lavoisier|e|kimya||Modern kimyanın babası.|9,8,5,8
 Alfred Nobel|e|kimya||Dinamit ve Nobel ödülleri.|8,9,6,7
-Linus Pauling|e|kimya||İki tek başına Nobel kazanan kimyager.|9,8,10,8
+Câbir bin Hayyan|e|kimya||Kimyanın babası sayılan İslam bilgini.|9,8,4,9
 Aziz Sancar|e|kimya||DNA onarımıyla Nobel alan Türk bilim insanı.|9,9,10,6
 Charles Darwin|e|biyoloji||Evrim kuramı.|10,10,7,8
 Louis Pasteur|e|biyoloji||Aşı ve pastörizasyon.|10,10,7,8
@@ -27,10 +27,10 @@ Leonardo da Vinci|e|matematik||Sanatçı, mucit, bilim insanı.|9,9,5,10
 Carl Friedrich Gauss|g|matematik||Matematiğin prensi.|10,7,6,9
 Alan Turing|g|matematik||Bilgisayar biliminin babası.|10,10,6,8
 Ada Lovelace|g|matematik||İlk bilgisayar programcısı.|8,8,4,7
-Euclid|g|matematik||Geometrinin babası.|9,8,3,7
+Öklid|g|matematik||Geometrinin babası.|9,8,3,7
 Uğur Şahin|g|biyoloji||mRNA aşısının öncülerinden.|8,9,8,6
 Cahit Arf|g|matematik||Arf değişmezinin sahibi Türk matematikçi.|8,6,6,6
-Robert Hooke|g|biyoloji||Hücreyi ilk gören bilim insanı.|8,7,4,8
+Hipokrat|g|biyoloji||Tıbbın babası, Hipokrat yemininin sahibi.|8,9,4,8
 Johannes Kepler|g|fizik||Gezegen hareket yasaları.|9,8,4,7
 Max Planck|g|fizik||Kuantum kuramının kurucusu.|9,8,9,6
-Rosalind Franklin|g|kimya||DNA'nın ilk fotoğrafını çekti.|8,8,4,6
+John Dalton|g|kimya||Okulda öğrendiğimiz atom modelinin sahibi.|9,8,5,7

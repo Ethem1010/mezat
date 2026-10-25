@@ -26,9 +26,9 @@ Roka|e|yesillik||Acımsı tadıyla salata yıldızı.|8,8,7,8
 Maydanoz|e|yesillik||Her şeyin üstüne serpilen yeşillik.|9,7,9,8
 Bezelye|g|yaz||Tatlı yeşil taneler.|8,7,7,7
 Enginar|g|yaz||Zeytinyağlısı lezzetli.|9,7,6,5
-Kuşkonmaz|g|yaz||Şık restoranların sebzesi.|9,7,5,5
+Barbunya|g|yaz||Zeytinyağlısı meşhur.|9,8,7,7
 Tatlı patates|g|kok||Fırında enfes.|9,8,7,7
-Brüksel lahanası|g|kis||Minik lahanalar.|9,5,5,4
+Mantar|g|kis||Sote, pizza, güveç; her yemeğe uyar.|8,8,9,8
 Kara lahana|g|kis||Karadeniz'in yeşili.|10,6,6,5
 Semizotu|g|yesillik||Yoğurtlusu meşhur.|9,7,6,7
 Dereotu|g|yesillik||Kokusuyla mezelerin süsü.|8,7,7,7

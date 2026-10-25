@@ -25,10 +25,10 @@ Sundae|e|tatli||Soslu kap dondurma.|9,4,8,8
 McFlurry|e|tatli||Parçacıklı karıştırılmış dondurma.|9,4,7,9
 Elmalı turta|e|tatli||Sıcak çıtır turta.|8,4,8,7
 Sucuklu tost|g|ana||Kantinlerin kralı.|9,7,9,9
-Fish & chips|g|ana||İngiliz balık-patates.|8,8,7,7
-Quesadilla|g|ana||Peynirli lavaş.|8,7,8,6
+Köfte ekmek|g|ana||Maç önü ve sahil klasiği.|9,8,9,9
+Kumpir|g|ana||Ortaköy'ün dolu dolu patatesi.|9,9,7,9
 Mozzarella stick|g|yan||Uzayan peynir çubukları.|9,5,7,7
-Coleslaw|g|yan||Lahana salatası.|6,3,8,6
+Patates püresi|g|yan||Tavuğun yanına sıcak eşlikçi.|7,5,8,6
 Limonata|g|icecek||Ferah eşlikçi.|8,2,8,7
 Buzlu çay|g|icecek||Şeftalili soğuk çay.|7,2,8,8
 Cookie|g|tatli||Çikolata parçacıklı kurabiye.|9,4,8,8

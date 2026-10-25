@@ -6,23 +6,23 @@ Tokyo|e|asya||Temiz, güvenli ve teknolojik dev metropol.|9,9,9,5
 İstanbul|e|turkiye||İki kıtayı birleştiren, tarihi ve boğazıyla eşsiz şehir.|6,9,10,6
 Barselona|e|avrupa||Deniz, futbol ve Gaudí'nin mimarisi bir arada.|8,7,9,8
 Sidney|e|diger||Opera binası ve plajlarıyla Avustralya'nın yıldızı.|9,7,8,9
-Melbourne|e|diger||Kahve, sanat ve sporun başkenti.|9,7,8,8
+Moskova|e|avrupa||Kızıl Meydan'ı ve dev metrosuyla.|6,8,8,5
 Singapur|e|asya||Bahçe şehir; temiz, güvenli, iş dünyasının gözdesi.|9,10,7,6
 Seul|e|asya||K-pop ve teknolojinin başkenti.|8,9,9,5
 Dubai|e|asya||Çölün ortasında gökdelenler ve lüks.|7,9,8,3
 Viyana|e|avrupa||Yaşam kalitesi listelerinin sürekli zirvesinde.|10,7,7,7
-Zürih|e|avrupa||Göl kenarında düzenli ve yüksek maaşlı şehir.|10,9,6,9
-Kopenhag|e|avrupa||Mutluluk listelerinin müdavimi, bisiklet cenneti.|10,8,7,7
+Venedik|e|avrupa||Kanallar ve gondollar şehri.|7,5,8,7
+Madrid|e|avrupa||Real Madrid'in ve canlı gecelerin şehri.|8,8,9,6
 Amsterdam|e|avrupa||Kanallar ve rahat bir şehir hayatı.|8,8,8,6
 Münih|e|avrupa||Bira bahçeleri ve Alplere yakınlık.|9,8,7,8
 Berlin|e|avrupa||Yaratıcı ve enerjik başkent.|8,8,9,5
 Roma|e|avrupa||Her köşesi açık hava müzesi olan ebedi şehir.|7,6,8,6
 Los Angeles|e|amerika||Hollywood, güneş ve okyanus kıyısı.|6,9,9,7
 San Francisco|e|amerika||Teknoloji başkenti ve Golden Gate.|7,10,8,8
-Vancouver|e|amerika||Dağlarla okyanus arasına kurulmuş yeşil şehir.|9,7,6,10
+Las Vegas|e|amerika||Işıkları hiç sönmeyen eğlence şehri.|6,7,10,4
 Toronto|e|amerika||Kanada'nın çok kültürlü güvenli metropolü.|8,8,7,7
 Rio de Janeiro|e|amerika||Karnaval, plajlar ve dağlar.|5,5,10,10
-Cape Town|e|diger||Masa Dağı ve okyanusuyla Afrika'nın en güzel şehirlerinden.|6,5,7,10
+Kahire|e|diger||Piramitlerin yanı başındaki dev şehir.|5,6,7,6
 İzmir|e|turkiye||Ege'nin incisi; kordonu ve rahat havasıyla sevilir.|7,6,7,8
 Ankara|g|turkiye||Düzenli, yeşil alanları bol başkent.|7,8,5,4
 Antalya|g|turkiye||Deniz, güneş ve turizmin başkenti.|7,5,7,9
@@ -30,7 +30,7 @@ Bursa|g|turkiye||Uludağ'ın eteğinde yeşil ve sanayisi güçlü.|7,6,5,7
 Eskişehir|g|turkiye||Genç, temiz ve kültür dolu öğrenci şehri.|7,5,6,5
 Lizbon|g|avrupa||Tepeleri, tramvayları ve okyanus manzarası.|7,6,8,7
 Prag|g|avrupa||Masal gibi eski şehri ve köprüleri.|7,6,8,6
-Oslo|g|avrupa||Fiyortların kıyısında sakin başkent.|9,7,6,9
-Helsinki|g|avrupa||Temiz ve sakin kuzey başkenti.|9,7,6,8
-Osaka|g|asya||Japonya'nın mutfağı ve neşesi.|8,8,8,5
-Montreal|g|amerika||Kuzey Amerika'nın Fransız ruhu.|8,7,8,7
+Milano|g|avrupa||Moda ve futbolun başkenti.|8,9,8,5
+Atina|g|avrupa||Akropolis'in tarihi şehri.|7,6,8,7
+Hong Kong|g|asya||Gökdelenler ve ticaret merkezi.|7,10,8,5
+Miami|g|amerika||Plajları ve gece hayatıyla.|7,7,9,8

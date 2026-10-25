@@ -19,13 +19,13 @@ Ananas|e|tropik||Tatlı-ekşi tropik meyve.|9,8,8,9
 Avokado|e|tropik||Sağlıklı yağ deposu.|7,10,9,9
 Hindistan cevizi|e|tropik||Suyu, sütü, eti kullanılır.|8,8,8,10
 Kivi|e|tropik||C vitamini şampiyonu.|8,9,8,7
-Papaya|e|tropik||Sindirime iyi gelen tropik meyve.|8,9,6,6
+Yenidünya|e|yaz||Baharın ilk sulu meyvesi.|8,8,7,6
 Elma|e|her_mevsim||Günde bir elma doktoru uzak tutar.|9,9,10,10
 Muz|e|her_mevsim||Enerji veren pratik meyve.|9,8,10,9
 Armut|e|her_mevsim||Sulu ve lifli.|8,8,8,7
 Vişne|e|yaz||Şerbeti ve reçeliyle meşhur.|8,8,8,9
 Ejder meyvesi|g|tropik||Renkli görünümlü egzotik meyve.|6,8,6,5
-Liçi|g|tropik||Kokulu Asya meyvesi.|8,7,5,5
+Zeytin|g|her_mevsim||Kahvaltıların vazgeçilmezi.|8,9,10,9
 Erik|g|yaz||Yeşili tuzla, morusu tatlı.|8,7,8,6
 Dut|g|yaz||Pekmezi meşhur.|8,8,6,7
 Böğürtlen|g|yaz||Yol kenarının lezzetli meyvesi.|8,9,6,7
@@ -33,4 +33,4 @@ Ahududu|g|yaz||Tatlıların süsü.|8,9,7,7
 Trabzon hurması|g|kis||Bal gibi kış meyvesi.|8,8,6,5
 Kestane|g|kis||Közde kış keyfi.|8,7,8,6
 Hurma|g|her_mevsim||Doğal şeker deposu.|8,8,8,7
-Çarkıfelek|g|tropik||Mayhoş aromalı tropik meyve.|8,8,5,6
+Kızılcık|g|kis||Ekşi tadı ve şerbetiyle meşhur.|7,9,6,7

@@ -4,7 +4,7 @@ Basketbol|e|takim||Hızlı, sayılı ve son saniyeye kadar heyecanlı.|9,9,9,8
 Voleybol|e|takim||Filenin Sultanları'yla Türkiye'nin gururu.|7,8,8,9
 Amerikan Futbolu|e|takim||Super Bowl'un sporu.|9,8,5,3
 Buz Hokeyi|e|takim||Buz üstünde hızlı ve sert mücadele.|7,9,6,2
-Kriket|e|takim||Hindistan ve İngiltere'de milyarların tutkusu.|9,6,7,1
+Plaj Voleybolu|e|takim||Yazın kumda oynanan heyecanlı oyun.|6,8,7,8
 Beyzbol|e|takim||Amerika'nın milli eğlencesi.|8,6,6,1
 Hentbol|e|takim||Hızlı ve sert bir salon sporu.|6,8,6,6
 Ragbi|e|takim||Sert temaslı oval top sporu.|7,8,5,2
@@ -33,4 +33,4 @@ Eskrim|g|dovus||Kılıçla yapılan zarif düello.|4,7,5,3
 Karate|g|dovus||Disiplin ve hızın dövüş sanatı.|5,7,8,6
 Sutopu|g|takim||Havuzda oynanan sert takım sporu.|4,7,4,2
 Bilardo|g|bireysel||Masa başında hassasiyet.|5,5,7,6
-Kürek|g|bireysel||Takım halinde suda güç ve uyum.|4,5,5,2
+Bowling|g|bireysel||Arkadaşlarla en sevilen salon sporu.|5,7,7,7

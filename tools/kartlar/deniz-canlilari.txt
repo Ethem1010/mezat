@@ -4,33 +4,33 @@ Büyük Beyaz Köpek Balığı|e|acik_deniz||Okyanusun en ünlü avcısı.|9,9,8
 Mavi Balina|e|memeli||Dünyanın en büyük hayvanı.|10,2,6,8
 Kaşalot|e|memeli||Dişli balinaların en büyüğü.|10,6,6,9
 Kambur Balina|e|memeli||Şarkılarıyla ünlü dev balina.|9,2,5,8
-Leopar Foku|e|memeli||Antarktika'nın yırtıcı foku.|7,7,7,8
+Deniz Aslanı|e|memeli||Kıyıların güçlü ve zeki memelisi.|7,6,7,8
 Mors|e|memeli||Dev dişleriyle kutup buzlarının sakini.|7,5,3,8
-Fil Foku|e|memeli||En büyük fok.|7,4,4,8
+Fok|e|memeli||Buzların sevimli ama güçlü yüzücüsü.|6,4,6,8
 Yunus|e|memeli||Zeki ve hızlı, köpek balıklarını kovalayabilir.|5,3,9,8
 Kaplan Köpek Balığı|e|acik_deniz||Önüne geleni yiyen çizgili avcı.|8,9,7,8
 Çekiç Başlı Köpek Balığı|e|acik_deniz||Tuhaf kafası geniş görüş sağlar.|7,7,7,7
 Balina Köpek Balığı|e|acik_deniz||Dünyanın en büyük balığı.|9,1,4,8
 Kılıç Balığı|e|acik_deniz||Okyanusun en hızlılarından.|6,6,10,7
 Yelken Balığı|e|acik_deniz||Denizin en hızlı balığı sayılır.|5,5,10,7
-Mavi Yüzgeçli Orkinos|e|acik_deniz||Okyanusu hızla geçen dev yüzücü.|6,2,9,7
+Ton Balığı|e|acik_deniz||Okyanusu hızla geçen dev yüzücü.|6,2,9,7
 Manta Vatozu|e|acik_deniz||Dev kanatlarıyla süzülen nazik dev.|6,2,6,7
 Dev Kalamar|e|derin||Derinliklerin efsanevi canavarı.|7,6,5,7
 Tuzlu Su Timsahı|e|kiyi||Kıyıların en büyük ve en tehlikeli sürüngeni.|9,10,5,9
 Boğa Köpek Balığı|e|kiyi||Tatlı suya da girebilen sert avcı.|8,9,7,8
 Kutu Denizanası|e|kiyi|zehirli|En zehirli deniz canlılarından.|1,10,3,7
 Mavi Halkalı Ahtapot|e|kiyi|zehirli|Minicik ama zehri öldürücü.|1,9,3,6
-Taş Balığı|e|kiyi|zehirli|Taş gibi görünür, dikenleri çok zehirli.|2,9,1,8
+Vatoz|e|kiyi|zehirli|Kuyruğundaki zehirli dikenle bilinir.|4,7,5,8
 Deniz Yılanı|e|kiyi|zehirli|Kuvvetli zehirli yüzücü yılan.|2,8,6,6
-Dev Pasifik Ahtapotu|e|kiyi||Kılık değiştirme ustası.|5,5,5,8
-Mantis Karidesi|e|kiyi||Hayvanlar alemindeki en hızlı yumruklardan biri.|3,4,10,7
-Grönland Köpek Balığı|g|derin||Yüzyıllarca yaşayabilen yavaş dev.|7,5,1,10
-Goblin Köpek Balığı|g|derin||Fırlayan çenesiyle derinlerin tuhafı.|5,5,4,7
+Ahtapot|e|kiyi||Sekiz kollu, kılık değiştirme ustası.|5,5,5,8
+Deniz Atı|e|kiyi||Yavrularını erkeğin taşıdığı ilginç balık.|1,1,2,8
+Caretta Caretta|g|acik_deniz||Türkiye kıyılarının simgesi deniz kaplumbağası.|4,1,4,9
+Lüfer|g|acik_deniz||Boğaz'ın keskin dişli avcısı.|4,4,7,7
 Fener Balığı|g|derin||Başındaki ışıkla karanlıkta avlanır.|3,4,2,8
-Japon Örümcek Yengeci|g|derin||Bacak açıklığı rekortmeni.|4,2,2,8
+Yengeç|g|kiyi||Kıskaçlarıyla kendini koruyan zırhlı.|4,3,3,8
 Narval|g|memeli||Tek boynuzlu "deniz unicornu".|6,3,6,8
 Beluga|g|memeli||Beyaz ve konuşkan balina.|6,2,5,8
-Deri Sırtlı Deniz Kaplumbağası|g|acik_deniz||En büyük kaplumbağa, okyanus gezgini.|5,1,5,9
+Pembe Yunus|g|memeli||Nehirlerin pembe renkli yunusu.|5,2,6,7
 Barakuda|g|kiyi||Ok gibi hızlı, keskin dişli.|5,6,9,6
-Murena|g|kiyi||Kayalıklarda pusuya yatan avcı.|5,6,5,7
+Mürekkep Balığı|g|kiyi||Mürekkep püskürtüp kaçan hızlı yüzücü.|4,3,7,7
 Balon Balığı|g|kiyi|zehirli|Şişip diken çıkarır, zehri güçlü.|1,8,3,7

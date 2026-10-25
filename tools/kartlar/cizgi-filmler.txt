@@ -4,13 +4,13 @@ Tom ve Jerry|e|klasik||Kedi ile farenin bitmeyen kovalamacası.|10,10,10,10
 Pembe Panter|e|klasik||Sessiz ve şık pembe kahraman.|8,9,8,9
 Temel Reis|e|klasik||Ispanakla güçlenen denizci.|7,9,8,9
 Red Kit|e|klasik||Gölgesinden hızlı silah çeken kovboy.|8,9,8,8
-Scooby-Doo|e|klasik||Gizem çözen korkak köpek ve arkadaşları.|8,9,9,9
+Scooby-Doo|e|klasik||Gizem çözen korkak köpek ve arkadaşları; 50 yılı aşkın efsane.|9,10,10,10
 Looney Tunes|e|klasik||Bugs Bunny ve arkadaşlarının çılgın dünyası.|9,9,9,10
 Garfield|e|klasik||Lazanya seven tembel turuncu kedi.|8,8,9,8
 Ninja Kaplumbağalar|e|doksanlar||Kanalizasyondaki pizza sever dört kahraman.|9,10,9,9
 Simpsonlar|e|doksanlar||Springfield'ın en ünlü sarı ailesi.|9,9,9,10
 Dexter'ın Laboratuvarı|e|doksanlar||Gizli laboratuvarı olan dâhi çocuk.|8,9,8,8
-Örümcek Adam (çizgi dizi)|e|doksanlar||90'ların sabahlarının ağ atan kahramanı.|8,9,8,8
+Örümcek Adam (çizgi dizi)|g|doksanlar||90'ların sabahlarının ağ atan kahramanı.|8,9,8,8
 Pokémon|e|anime||Ash ve Pikachu'nun macerası.|9,10,10,9
 Dragon Ball Z|e|anime||Goku'nun güç dolu dövüşleri.|9,9,9,9
 Şeker Kız Candy|e|anime||Nesillerin ağladığı yetim kızın hikâyesi.|7,10,8,8
@@ -22,15 +22,15 @@ Heidi|e|anime||Alplerde dedesiyle yaşayan küçük kız.|7,9,8,8
 Sünger Bob|e|yeni||Ananas evde yaşayan neşeli sünger.|10,8,10,9
 Avatar: Son Hava Bükücü|e|yeni||Dört elementi birleştiren Aang'in yolculuğu.|9,8,9,9
 Ben 10|e|yeni||Saatiyle uzaylıya dönüşen çocuk.|8,8,8,7
-Rafadan Tayfa|e|yerli||Mahallenin maceracı çocukları.|8,7,9,7
-Kral Şakir|e|yerli||Şakir ailesinin komik maceraları.|9,7,9,7
-Keloğlan|g|yerli||Türk masallarının sevimli kahramanı.|7,9,8,8
-Pepee|g|yerli||Okul öncesinin sevilen kahramanı.|6,7,8,6
-Niloya|g|yerli||Minik Niloya'nın sevimli dünyası.|6,6,8,5
+Rafadan Tayfa|e|yerli||Sinemada rekor kıran mahalle çocukları.|9,8,10,9
+Kral Şakir|e|yerli||Şakir ailesinin komik maceraları.|9,8,10,9
+Keloğlan|e|yerli||Türk masallarının en sevilen kahramanı, TRT'nin efsane çizgi filmi.|9,10,10,9
+Pepee|g|yerli||Bir kuşağın büyüdüğü yerli çizgi film.|8,8,9,8
+Niloya|g|yerli||Minik Niloya'nın sevimli dünyası.|8,7,9,7
 Johnny Bravo|g|doksanlar||Kendini çok yakışıklı sanan kaslı adam.|8,9,7,7
 Powerpuff Girls|g|doksanlar||Şehri koruyan üç süper kız.|8,8,8,7
 Cesur Korkak Köpek|g|doksanlar||Courage'ın korku dolu maceraları.|7,9,8,7
 Maşa ile Koca Ayı|g|yeni||Yaramaz Maşa ile sabırlı ayı.|8,6,8,6
 Phineas ve Ferb|g|yeni||Yaz tatilini icatlarla dolduran kardeşler.|8,7,8,7
 Gumball|g|yeni||Mavi kedi Gumball'un absürt okul hayatı.|8,6,7,6
-Adventure Time|g|yeni||Finn ve Jake'in tuhaf maceraları.|8,6,8,7
+Caillou|g|yeni||Dört yaşındaki Caillou'nun günlük maceraları.|7,8,8,7

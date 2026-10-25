@@ -11,26 +11,26 @@ Cane Corso|e|bekci||İtalyan bekçi köpeği, kaslı ve cesur.|9,7,9,8
 Akita Inu|e|bekci||Hachiko'nun ırkı, sadakatin simgesi.|8,7,10,8
 Golden Retriever|e|aile||Herkesi seven altın renkli aile dostu.|4,9,10,7
 Labrador Retriever|e|aile||Rehber köpeklerin en sevilen ırkı.|4,9,10,8
-Bernese Dağ Köpeği|e|aile||Üç renkli tüyleriyle uysal dev.|5,7,9,7
-Büyük İsviçre Dağ Köpeği|e|aile||Güçlü ve sakin aile koruyucusu.|7,7,9,8
-Newfoundland|e|aile||Suda can kurtaran dev.|5,7,9,8
-Kaniş (Standart)|e|aile||Göründüğünden çok daha zeki.|3,10,8,7
+Pomeranian|e|aile||Pamuk gibi tüylü minik dost.|3,7,8,5
+Fransız Bulldog|e|aile||Yarasa kulaklı şehir köpeği.|4,6,9,5
+Cocker Spaniel|e|aile||Uzun kulaklı neşeli aile köpeği.|4,7,9,6
+Kaniş|e|aile||Bukleli ve çok zeki.|4,10,8,6
 Boxer|e|aile||Enerjik, oyuncu ve korumacı.|6,7,9,7
 Border Collie|e|calisma||Köpekler arasında zeka şampiyonu.|5,10,9,9
 Avustralya Çoban Köpeği|e|calisma||Sürü güden zeki ve enerjik köpek.|5,9,9,9
 Sibirya Kurdu (Husky)|e|calisma||Buz gibi soğukta kızak çeken koşucu.|4,7,7,10
 Alaska Malamutu|e|calisma||Ağır kızakları çeken dev kar köpeği.|5,6,7,10
 Saint Bernard|e|calisma||Karda kaybolanları kurtaran dev.|5,6,9,8
-Bloodhound|e|calisma||Koku alma şampiyonu iz sürücü.|3,7,8,8
+Yorkshire Terrier|e|calisma||Küçük ama cesur, eskiden fare avcısı.|4,7,8,5
 Samoyed|e|calisma||Gülümseyen beyaz kızak köpeği.|3,7,8,9
-Türk Tazısı|e|calisma||Rüzgâr gibi koşan av köpeği.|3,7,8,9
-Dev Schnauzer|g|bekci||Sakallı ve güçlü bekçi.|8,8,8,8
+Tazı (Greyhound)|e|calisma||Köpeklerin en hızlısı.|4,7,8,8
+Pitbull|g|bekci||Güçlü çeneli, sahibine bağlı.|8,6,8,8
 American Staffordshire Terrier|g|bekci||Güçlü ve kararlı.|7,6,8,8
 Büyük Danua|g|bekci||Dünyanın en uzun köpek ırklarından.|7,6,8,6
 Chow Chow|g|bekci||Mor dilli, aslan yeleli mesafeli köpek.|6,5,7,6
 Dalmaçyalı|g|aile||Benekleriyle tanınan itfaiye köpeği.|4,7,8,8
 Shiba Inu|g|aile||Tilkiye benzeyen bağımsız Japon ırkı.|4,7,6,7
-Weimaraner|g|calisma||Gri "hayalet" av köpeği.|5,8,8,8
+Pug|g|aile||Buruşuk yüzlü sevimli köpek.|2,6,9,4
 Beagle|g|calisma||Burnu çok iyi koku alan iz sürücü.|3,7,8,8
 Jack Russell Terrier|g|calisma||Bitmeyen enerjili küçük avcı.|3,8,7,8
 Corgi|g|calisma||Kısa bacaklı ama çevik çoban köpeği.|3,8,8,7

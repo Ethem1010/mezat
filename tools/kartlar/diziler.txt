@@ -1,6 +1,6 @@
 # Diziler — ad|seviye|grup|etiketler|açıklama|Hikâye,Reyting,Efsanelik,Tekrar izlenme
 Breaking Bad|e|aksiyon||Kimya öğretmeninin suç dünyasına dönüşümü.|10,9,10,8
-The Sopranos|e|aksiyon||Mafya babasının terapi seansları.|10,8,10,8
+Diriliş Ertuğrul|e|aksiyon||Dünyada milyonların izlediği Türk tarih dizisi.|8,10,9,8
 Kurtlar Vadisi|e|aksiyon||Polat Alemdar; Türk dizilerinin en efsanelerinden.|8,10,9,7
 Prison Break|e|aksiyon||Dövmedeki planla hapisten kaçış.|8,9,9,7
 La Casa de Papel|e|aksiyon||Profesör ve darphane soygunu.|8,9,8,6

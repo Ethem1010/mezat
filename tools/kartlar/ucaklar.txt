@@ -20,8 +20,8 @@ Bayraktar TB2|e|askeri||Dünyaya ihraç edilen Türk insansız hava aracı.|4,8,
 Uzay Mekiği|e|ozel||Uzaya gidip piste inen mekik.|10,10,9,10
 Wright Flyer|e|ozel||İnsanlığın ilk motorlu uçuşu.|1,4,1,10
 Antonov An-225 Mriya|e|ozel||Dünyanın en büyük kargo uçağıydı.|6,7,9,10
-X-15|e|ozel||Uzayın kıyısına çıkan roket uçağı.|10,9,3,9
-U-2|e|ozel||Stratosferde uçan casus uçak.|6,8,9,8
+Air Force One|e|ozel||ABD başkanının uçan ofisi.|7,9,10,10
+Bayraktar Kızılelma|e|askeri||Türkiye'nin insansız savaş uçağı.|8,9,7,9
 AH-64 Apache|e|helikopter||Güçlü taarruz helikopteri.|6,8,5,9
 UH-60 Black Hawk|e|helikopter||Dünyanın en bilinen askeri helikopterlerinden.|6,7,5,9
 T129 ATAK|g|helikopter||Türkiye'de üretilen taarruz helikopteri.|6,8,5,8
@@ -33,4 +33,4 @@ Harrier|g|askeri||Dikey kalkış yapabilen savaş uçağı.|6,7,4,8
 C-130 Hercules|g|askeri||Her yere inebilen kargo efsanesi.|5,6,8,8
 Boeing 777|g|yolcu||En büyük çift motorlu jetlerden.|7,8,10,7
 Airbus A320|g|yolcu||Kısa ve orta mesafenin işçi uçağı.|6,7,6,6
-Douglas DC-3|g|yolcu||Hava yolculuğunu yaygınlaştıran klasik.|4,3,5,9
+Boeing 737|g|yolcu||Dünyanın en çok uçan yolcu uçağı.|6,7,7,8

@@ -5,7 +5,7 @@ Fuat Ergin|e|turk_eski||Türkçe rap'in öncü ve teknik isimlerinden.|9,9,7,7
 Norm Ender|e|turk_eski||Hicivli sözleriyle gündem yaratan rapçi.|9,8,8,8
 Allame|e|turk_eski||Ağır sözleri ve kafiyeleriyle bilinen usta.|9,9,7,7
 Killa Hakan|e|turk_eski||Almanya'dan gelen sert ve enerjik ses.|8,8,8,9
-Server Uraz|e|turk_eski||Rap'i rock ile buluşturan karizmatik isim.|8,8,8,8
+Patron|e|turk_eski||Türkçe rapin sert ve bilinen isimlerinden.|7,8,8,8
 Şehinşah|e|turk_eski||Hızlı ve sert sözleriyle tanınan isim.|8,9,7,8
 Ezhel|e|turk_yeni||Türkçe rap'i ana akıma taşıyan isim.|9,9,10,9
 Ben Fero|e|turk_yeni||Yeni kuşağın enerjik hit makinesi.|7,9,9,9
@@ -25,7 +25,7 @@ Drake|e|yabanci||Dinlenme rekorlarını kıran hit makinesi.|8,8,10,8
 Travis Scott|e|yabanci||Konserleri festivale dönüşen sahne canavarı.|7,8,9,10
 Nicki Minaj|e|yabanci||Hızlı flow'u ve karakterleriyle rap'in kraliçelerinden.|8,9,9,9
 Hidra|g|turk_eski||Teknik kafiyeleriyle saygı gören rapçi.|8,8,6,7
-Velet|g|turk_eski||Sözleri ve vokaliyle sevilen eski kuşak ismi.|8,7,7,7
+Sansar Salvo|g|turk_eski||Mersin'den çıkan sevilen rapçi.|8,8,7,7
 Murda|g|turk_yeni||Melodik rap ile listeleri alt üst eden isim.|7,8,9,7
 Lvbel C5|g|turk_yeni||Drill sahnesinin en çok dinlenenlerinden.|7,8,9,8
 Motive|g|turk_yeni||Flow'uyla öne çıkan yeni ses.|8,8,8,7
