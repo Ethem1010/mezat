@@ -138,7 +138,7 @@
         <li>Sırası gelen oyuncu lotu <b>en az 1</b> ile açar. Sonra sırayla artırılır; pas diyen lotu bırakır.</li>
         <li>Bütçe serbest: istersen hepsini tek karta basabilirsin.</li>
         <li>Parası biten teklif veremez. Açılış sırası ondaysa karar rakibe geçer: rakip <b>1 verip alır</b> ya da lotu ona <b>bedava bırakır</b>.</li>
-        <li>Bir oyuncunun 5 slotu dolunca kalan lotlar otomatik olarak diğerine geçer.</li>
+        <li>Bir oyuncunun 5 slotu dolunca kalan lotlar yine tek tek tahtaya çıkar, her biri otomatik olarak diğerine geçer.</li>
         <li>Puanlar mezatta gizli. Sonunda hakem kategorinin ölçütlerine ve bonuslara bakar. Eşitlikte kalan bütçesi fazla olan kazanır.</li>
       </ul></details>`;
   }
@@ -165,14 +165,14 @@
       <div class="slots">${slots}</div>
       <div class="owned">${pl.kartlar.map((x) => esc(x.ad)).join(", ")}</div>`;
     // Ters dönen oyuncu ortadaki kartı tersten görür; kendi alanında da özetini görsün.
-    const mini = flip && c && !(s.sold && s.sold.reason === "full")
+    const mini = flip && c
       ? `<div class="lotmini"><span class="chip ${c.seviye}">${LABEL[c.seviye]}</span> <b>${esc(c.ad)}</b>${s.bid ? ` · teklif <b class="num">${s.bid}</b>` : ""}</div>` : "";
     let body;
     if (s.phase === "sold") {
       const sd = s.sold, mine = sd.player === p;
       const last = s.lot === s.deck.length - 1;
       let msg;
-      if (sd.reason === "full") msg = mine ? `Kalan lotlar bedava <b>sana</b> geçti.` : `Takımın tamam! Kalan lotlar rakibine geçti.`;
+      if (sd.reason === "full") msg = mine ? `Rakibinin takımı dolu: <b>${esc(c.ad)}</b> otomatik sende.` : `Takımın tamam! ${esc(c.ad)} otomatik rakibine geçti.`;
       else if (sd.reason === "both_broke") msg = mine ? `İkinizin de parası yok: <b>${esc(c.ad)}</b> bedava sende.` : `İkinizin de parası yok: ${esc(c.ad)} bedava rakibe gitti.`;
       else if (sd.gift) msg = mine ? `Rakibin bıraktı: <b>${esc(c.ad)}</b> bedava sende.` : `${esc(c.ad)} rakibine bedava bırakıldı.`;
       else msg = mine ? `Senin oldu: <b>${esc(c.ad)}</b>, ${sd.price} bütçe` : `${esc(c.ad)} rakibe gitti (${sd.price}).`;
@@ -215,14 +215,6 @@
   function center() {
     const s = A.state, c = E.currentCard(s), kat = A.kategori, tm = T.tema(kat.id);
     const top = `<div class="center-top"><span class="eyebrow arena-name">${tm.simge} ${esc(tm.arenaAd)}</span><span class="eyebrow num">Lot ${Math.min(s.lot + 1, s.deck.length)}/${s.deck.length}</span></div>`;
-    if (s.sold && s.sold.reason === "full") {
-      const to = s.players[s.sold.player].ad;
-      return `<section class="center">${top}
-        <div class="lot"><div class="stamp">OTOMATİK</div><div class="chips"><span class="chip">Slot doldu</span></div>
-          <h2>Kalan lotlar ${esc(to)} tarafına geçti</h2>
-          <p>${s.sold.cards.map(esc).join(", ")}</p></div>
-        <button class="linkbtn" data-act="quit">Mezatı bırak</button></section>`;
-    }
     const reveal = A.shownLot !== s.lot && !reduced();
     A.shownLot = s.lot;
     const bump = s.bid !== A.shownBid && s.bid > 0 && !reduced();
@@ -232,9 +224,11 @@
     let stamp = "";
     if (s.phase === "sold") {
       const sd = s.sold;
-      stamp = sd.gift ? `<div class="stamp gift">HEDİYE</div>` : sd.reason === "both_broke" ? `<div class="stamp gift">BEDAVA</div>` : `<div class="stamp">SATILDI</div>`;
+      stamp = sd.reason === "full" ? `<div class="stamp gift">OTOMATİK</div>` : sd.gift ? `<div class="stamp gift">HEDİYE</div>` : sd.reason === "both_broke" ? `<div class="stamp gift">BEDAVA</div>` : `<div class="stamp">SATILDI</div>`;
     }
-    const lead = s.phase === "decide"
+    const lead = s.sold && s.sold.reason === "full"
+      ? `Otomatik → <span class="c${s.sold.player + 1}">${esc(s.players[s.sold.player].ad)}</span>`
+      : s.phase === "decide"
       ? `<span class="c${s.turn + 1}">${esc(s.players[s.turn].ad)}</span> karar veriyor`
       : s.leader === null ? "Teklif bekleniyor" : `<span class="c${s.leader + 1}">${esc(s.players[s.leader].ad)}</span> önde`;
     const last = s.log.slice(-2).map((e) => {

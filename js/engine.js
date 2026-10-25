@@ -101,7 +101,7 @@
   }
 
   // Her lotun başında üç özel durum kontrol edilir:
-  //  1) Bir oyuncunun slotları doldu  -> kalan TÜM lotlar bedava diğerine geçer.
+  //  1) Bir oyuncunun slotları doldu  -> kalan lotlar tek tek açılır, her biri bedava diğerine geçer.
   //  2) İki oyuncunun da parası bitti -> lot bedava açılış sırasındakine gider.
   //  3) Açılış sırası parası bitende  -> karar rakipte: 1 verip alır ya da bedava bırakır.
   function startLot(state) {
@@ -110,14 +110,9 @@
     let opener = (state.lot + state.first) % 2;
     const full0 = isFull(state, 0), full1 = isFull(state, 1);
     if (full0 || full1) {
+      // Lotlar yine tek tek tahtaya çıkar; her biri otomatik olarak diğer oyuncuya geçer.
       const to = full0 ? 1 : 0;
-      const cards = [];
-      for (let i = state.lot; i < state.deck.length; i++) {
-        state.lot = i;
-        give(state, to, 0, true);
-        cards.push(state.deck[i].ad);
-      }
-      state.sold = { player: to, price: 0, auto: true, reason: "full", from: full0 ? 0 : 1, cards };
+      state.sold = { ...give(state, to, 0, true), reason: "full", from: full0 ? 0 : 1 };
       state.phase = "sold";
       return state;
     }
