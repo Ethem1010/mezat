@@ -1,36 +1,36 @@
 # Atıştırmalıklar — ad|seviye|grup|etiketler|açıklama|Lezzet,Nostalji,Popülerlik,Bağımlılık
-Patlamış Mısır|e|tuzlu||Film gecesinin tartışmasız kralı.|8,9,10,9
-Çekirdek|e|tuzlu||Maç izlerken bitmeyen keyif.|8,10,10,10
-Cips|e|tuzlu||Paketi açınca bitene kadar durulmaz.|9,8,10,10
-Çikolata|e|tatli||Herkesin mutluluk kaynağı.|10,8,10,10
-Halley|e|tatli||Çikolata kaplı marshmallowlu efsane.|8,10,9,8
-Gofret|e|tatli||Kat kat çıtır ve kremalı.|8,9,9,8
-Leblebi|e|tuzlu||Sarı, beyaz, şekerli; boza yanında.|7,9,8,7
-Albeni|g|tatli||Karamelli ve çikolatalı bar.|9,9,9,8
-Eti Puf|g|tatli||Marshmallowlu yumuşak nostalji.|8,10,8,7
-Kraker|g|tuzlu||Tuzlu ve çıtır bisküvi.|7,8,8,8
-Çubuk Kraker|g|tuzlu||İnce, uzun ve durmadan yenen.|7,8,8,9
-Fıstık|g|tuzlu||Antep fıstığı ya da yer fıstığı.|8,8,9,9
-Karışık Kuruyemiş|g|tuzlu||Misafir sofrasının klasiği.|8,7,8,8
-Pötibör|g|tatli||Süte batırılan çocukluk bisküvisi.|7,10,8,7
-Topkek|g|tatli||Okul çantalarının kakaolu keki.|8,9,8,7
-Doritos|g|tuzlu||Üçgen mısır cipsi.|8,7,8,9
-Jelibon|g|tatli||Rengârenk ve sakızımsı şekerleme.|8,8,8,8
-Lokum|g|tatli||Kahvenin yanındaki geleneksel tatlı.|8,9,7,6
-Pişmaniye|g|tatli||Ağızda eriyen ince tel tatlı.|8,8,6,6
-Biskrem|g|tatli||Kakaolu kremalı efsane bisküvi.|9,9,9,9
-Bonibon|g|tatli||Renkli şeker kaplı çikolata taneleri.|8,9,8,8
-Pringles|s|tuzlu||Tüpte gelen dizi dizi cips.|8,6,8,9
-Patos|s|tuzlu||Mısır cipsinin nostaljik markası.|7,9,7,8
-Pestil|s|tatli||Kurutulmuş meyve tabakası.|6,7,4,4
-Kuru Meyve|s|tatli||Kayısı, üzüm, incir; sağlıklı atıştırma.|6,5,6,5
-Çiğ Badem|s|tuzlu||Sağlıklı ve doyurucu.|6,5,6,6
-Pamuk Şeker|s|tatli||Lunaparkın pembe bulutu.|6,9,5,4
-Lolipop|s|tatli||Çubuklu renkli şeker.|5,8,6,5
-Sakız|s|tatli||Balon yapma yarışmaları.|4,8,8,7
-Tadelle|s|tatli||Fındıklı çikolata bar.|8,8,7,8
-Kestane Şekeri|s|tatli||Bursa'nın şekerli kestanesi.|8,6,5,5
-Nachos|s|tuzlu||Peynir soslu mısır cipsi.|7,5,6,7
-Pirinç Patlağı|s|tuzlu||Hafif ve çıtır diyet atıştırmalığı.|4,4,5,4
-Mısır Gevreği|s|tatli||Sütle de kuru da yenen gevrek.|7,8,8,7
-Kabak Çekirdeği|s|tuzlu||Çitlemesi ayrı keyif.|7,7,6,8
+Pringles|e|tuzlu||Tüpteki istiflenmiş cips.|9,8,10,10
+Lay's|e|tuzlu||Dünyanın en çok satan cipsi.|9,8,10,10
+Doritos|e|tuzlu||Üçgen çıtır mısır cipsi.|9,8,9,10
+Cheetos|e|tuzlu||Peynirli turuncu çıtırlar.|8,9,9,9
+Ruffles|e|tuzlu||Tırtıklı kalın cips.|9,7,9,9
+Patlamış mısır|e|tuzlu||Sinemanın değişmez eşi.|8,9,10,9
+Fıstık|e|tuzlu||Kavrulmuş klasik çerez.|8,8,9,9
+Antep fıstığı|e|tuzlu||Çerezlerin şahı.|10,8,9,10
+Simit|e|tuzlu||Susamlı sokak lezzeti.|9,10,10,8
+Kraker|e|tuzlu||Balık krakeriyle bir kuşak büyüdü.|8,10,9,9
+Çekirdek|e|tuzlu||Maç ve sohbet klasiği.|8,10,10,10
+Nutella|e|tatli||Fındıklı kakaolu krema.|10,9,10,10
+Kinder Bueno|e|tatli||Fındık kremalı gofret.|10,8,9,9
+Snickers|e|tatli||Karamelli fıstıklı bar.|9,8,10,9
+KitKat|e|tatli||"Bir mola ver" gofreti.|9,9,10,9
+Twix|e|tatli||Bisküvili karamelli çift bar.|9,8,9,9
+Oreo|e|tatli||Kremalı siyah bisküvi.|9,9,10,9
+Ülker Çikolatalı Gofret|e|tatli||Bir kuşağın okul arası.|9,10,10,9
+Haribo|e|tatli||Meyveli jelibon ayıcıklar.|8,9,10,9
+M&M's|e|tatli||Renkli çikolata draje.|9,8,10,9
+Toblerone|e|tatli||Üçgen İsviçre çikolatası.|9,8,8,7
+Milka|e|tatli||Mor ineğin sütlü çikolatası.|9,9,10,9
+Ferrero Rocher|e|tatli||Altın kâğıtlı fındıklı lüks.|10,8,9,8
+Biskrem|e|tatli||Kakaolu kremalı efsane bisküvi.|9,10,9,9
+Kinder Sürpriz|e|tatli||İçinden oyuncak çıkan yumurta.|8,10,9,8
+Leblebi|g|tuzlu||Tuzlu-sarı çerez.|7,8,7,7
+Mısır cipsi (Tostitos)|g|tuzlu||Soslu mısır üçgenleri.|8,6,7,8
+Çubuk kraker|g|tuzlu||Tuzlu ince çubuklar.|7,9,8,8
+Pretzel|g|tuzlu||Düğüm şekilli tuzlu.|7,6,7,7
+Bebe bisküvi|g|tatli||Çayın yanına nostalji.|7,10,8,7
+Eti Burçak|g|tatli||Kepekli sevilen bisküvi.|7,8,8,7
+Albeni|g|tatli||Karamelli çikolatalı bar.|8,9,8,8
+Çokoprens|g|tatli||Okul çantalarının vazgeçilmezi.|8,10,8,8
+Pamuk şeker|g|tatli||Lunaparkların pembe bulutu.|7,10,7,6
+Lokum|g|tatli||Türk lokumu klasik.|8,8,8,7

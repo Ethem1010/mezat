@@ -1,36 +1,36 @@
 # Telefonlar — ad|seviye|grup|etiketler|açıklama|Yenilik,Popülerlik,Dayanıklılık,Nostalji
 Nokia 3310|e|tuslu||Kırılmaz efsane, yılan oyunuyla bir kuşağın telefonu.|5,10,10,10
-iPhone (2007)|e|erken_akilli||Akıllı telefon çağını başlatan cihaz.|10,9,5,10
-Motorola Razr V3|e|tuslu||İncecik kapaklı tasarımıyla moda ikonu.|8,9,6,9
-BlackBerry Bold|e|erken_akilli||Tam klavyesiyle iş dünyasının telefonu.|7,8,7,9
-Nokia N95|e|erken_akilli||Kızaklı tasarımı ve kamerasıyla zamanının en gelişmişi.|9,8,6,9
-iPhone 4|e|erken_akilli||Cam tasarımı ve Retina ekranıyla dönüm noktası.|9,10,5,9
+Nokia 3210|e|tuslu||Dahili anteniyle 3310'un abisi.|6,9,9,9
+Nokia 1100|e|tuslu||Tarihin en çok satan telefonlarından.|4,10,10,8
+Nokia 8210|e|tuslu||Minicik şık gövdesiyle 2000'lerin gözdesi.|6,8,8,9
+Nokia 6600|e|tuslu||Kameralı ve uygulamalı Symbian efsanesi.|8,8,7,9
+Nokia N-Gage|e|tuslu||Telefon ile oyun konsolunu birleştiren deneme.|9,6,6,9
+Motorola Razr V3|e|tuslu||İncecik kapaklı tasarımıyla moda ikonu.|8,9,6,10
+Motorola StarTAC|e|tuslu||İlk kapaklı cep telefonlarından.|9,7,6,9
+Motorola DynaTAC 8000X|e|tuslu||Dünyanın ilk ticari cep telefonu.|10,5,7,10
 Sony Ericsson W810i|e|tuslu||Walkman müzik telefonu.|7,8,7,9
-Nokia 1100|g|tuslu||Dünyanın en çok satan telefonlarından.|4,9,10,8
-Nokia 6600|g|tuslu||Kameralı ve uygulamalı Symbian efsanesi.|8,8,7,9
-Nokia N-Gage|g|tuslu||Telefon ile oyun konsolunu birleştirme denemesi.|8,6,6,8
-Samsung Galaxy S3|g|erken_akilli||Android'i zirveye taşıyan model.|8,9,6,8
-Samsung Galaxy Note|g|erken_akilli||Büyük ekran ve kalem akımını başlattı.|9,8,6,7
-HTC One|g|erken_akilli||Metal gövdesi ve hoparlörleriyle beğenilen telefon.|8,6,6,6
-iPhone 15 Pro|g|yeni_akilli||Titanyum kasalı yeni nesil iPhone.|9,9,7,3
-Samsung Galaxy S24 Ultra|g|yeni_akilli||Kalemli ve güçlü kameralı amiral gemisi.|9,8,7,2
-Google Pixel|g|yeni_akilli||Yazılım ve kamera odaklı Google telefonu.|9,6,7,3
-Samsung Galaxy Z Fold|g|yeni_akilli||Kitap gibi açılan katlanabilir telefon.|10,6,4,2
-Nokia 3210|g|tuslu||Dahili anteniyle 3310'un abisi.|5,9,9,9
+iPhone (2007)|e|erken_akilli||Akıllı telefon çağını başlatan cihaz.|10,9,5,10
+iPhone 4|e|erken_akilli||Cam tasarımı ve Retina ekranıyla dönüm noktası.|9,10,5,9
+iPhone 6|e|erken_akilli||Tüm zamanların en çok satan iPhone'u.|7,10,5,8
+BlackBerry Bold|e|erken_akilli||Tam klavyesiyle iş dünyasının telefonu.|7,8,7,9
+BlackBerry Curve|e|erken_akilli||Gençlerin BBM için kullandığı telefon.|6,8,6,9
+Nokia N95|e|erken_akilli||Kızaklı tasarımı ve kamerasıyla zamanının en gelişmişi.|9,8,6,9
+Samsung Galaxy S II|e|erken_akilli||Android'i ana akıma taşıyan model.|8,8,6,8
+Samsung Galaxy S3|e|erken_akilli||Android'i zirveye taşıyan model.|8,9,6,8
+Samsung Galaxy Note|e|erken_akilli||Büyük ekran ve kalem akımını başlattı.|9,8,6,7
+HTC One|e|erken_akilli||Metal gövdesi ve hoparlörleriyle beğenilen telefon.|8,6,7,6
+iPhone X|e|yeni_akilli||Çentikli tam ekran ve Face ID'nin gelişi.|9,9,6,6
+iPhone 15 Pro|e|yeni_akilli||Titanyum kasalı yeni nesil iPhone.|9,9,7,3
+Samsung Galaxy S24 Ultra|e|yeni_akilli||Kalemli ve güçlü kameralı amiral gemisi.|9,8,7,2
+Samsung Galaxy Z Fold|e|yeni_akilli||Kitap gibi açılan katlanabilir telefon.|10,7,5,3
+Google Pixel|e|yeni_akilli||Yazılım ve kamera odaklı Google telefonu.|9,7,7,3
+Nokia 5110|g|tuslu||Değiştirilebilir kapaklarıyla sevilen klasik.|5,8,9,8
 Siemens C35|g|tuslu||2000'lerin başının sevilen telefonu.|4,6,7,7
-Motorola StarTAC|g|tuslu||İlk kapaklı cep telefonlarından.|7,7,6,8
-iPhone X|g|yeni_akilli||Çentikli tam ekran ve Face ID'nin gelişi.|9,9,6,5
-Xiaomi Redmi Note|s|yeni_akilli||Uygun fiyatıyla çok satan model.|6,9,6,3
-Huawei P30|s|yeni_akilli||Gece çekimleriyle ses getiren kamera telefonu.|8,7,6,4
-General Mobile GM 8|s|yeni_akilli||Türkiye'de üretilen Android telefon.|4,5,5,4
-Vestel Venus|s|yeni_akilli||Yerli üretim akıllı telefon.|4,5,5,4
-Nokia Lumia|s|erken_akilli||Renkli gövdeli Windows telefon.|6,5,7,6
-Sony Xperia Z|s|erken_akilli||Suya dayanıklı şık Android.|7,6,7,5
-LG G2|s|erken_akilli||Tuşları arkaya taşıyan cesur tasarım.|7,5,6,4
-Samsung Galaxy Y|s|erken_akilli||Birçok kişinin ilk akıllı telefonu.|3,7,5,7
-Nokia 5110|s|tuslu||Değiştirilebilir renkli kapaklarıyla sevilen klasik.|4,8,9,8
-Samsung SGH-D500|s|tuslu||Kızaklı tasarımıyla popüler Samsung.|6,6,6,6
-BlackBerry Curve|s|erken_akilli||Gençlerin BBM için kullandığı telefon.|6,7,6,7
-OnePlus|s|yeni_akilli||Hızlı şarjı ve sade yazılımıyla bilinir.|7,6,6,3
-Nothing Phone|s|yeni_akilli||Arkası ışıklı şeffaf tasarım.|7,4,6,1
-iPhone SE|s|yeni_akilli||Küçük gövdeli uygun fiyatlı iPhone.|5,7,6,4
+Samsung SGH-D500|g|tuslu||Kızaklı tasarımıyla popüler Samsung.|6,6,6,6
+Nokia Lumia 920|g|erken_akilli||Renkli gövdeli Windows telefon.|7,5,7,6
+Sony Xperia Z|g|erken_akilli||Suya dayanıklı şık Android.|7,6,7,5
+LG G2|g|erken_akilli||Tuşları arkaya taşıyan cesur tasarım.|7,5,6,4
+Huawei P30 Pro|g|yeni_akilli||Gece çekimleriyle ses getiren kamera telefonu.|8,7,6,4
+Xiaomi Redmi Note|g|yeni_akilli||Uygun fiyatıyla çok satan model.|6,9,6,3
+OnePlus One|g|yeni_akilli||"Amiral gemisi katili" sloganıyla gelen telefon.|7,6,6,4
+iPhone SE|g|yeni_akilli||Küçük gövdeli uygun fiyatlı iPhone.|5,7,6,4

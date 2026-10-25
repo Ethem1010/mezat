@@ -1,36 +1,36 @@
 # İcatlar — ad|seviye|grup|etiketler|açıklama|Hayata etkisi,Yaygınlık,Yenilikçilik,Yerine konamazlık
-Tekerlek|e|ulasim||Ulaşımın ve makinelerin başlangıcı.|10,10,8,10
-Ampul|e|enerji||Geceyi aydınlatan icat.|10,10,8,9
-İnternet|e|iletisim||Dünyayı birbirine bağlayan ağ.|10,10,10,10
-Matbaa|e|iletisim||Bilgiyi herkese ulaştıran makine.|10,9,9,8
-Penisilin|e|saglik||Antibiyotik çağını başlatan keşif.|10,9,9,9
-Telefon|e|iletisim||Uzaktaki sesi yanına getiren icat.|9,10,9,9
-Aşı|e|saglik||Salgınları durduran koruma kalkanı.|10,10,9,10
-Buhar Makinesi|g|enerji||Sanayi devriminin motoru.|9,7,9,6
-Otomobil|g|ulasim||Kişisel ulaşımı değiştiren icat.|9,10,8,8
-Uçak|g|ulasim||Kıtaları saatlere indiren icat.|9,8,10,8
-Bilgisayar|g|iletisim||Hesaplamadan eğlenceye her şey.|10,10,10,9
-Pusula|g|ulasim||Denizlerde yön bulmayı sağladı.|8,7,8,5
-Buzdolabı|g|gunluk||Yiyecekleri günlerce taze tutar.|8,10,7,8
-Radyo|g|iletisim||Sesin dalgalarla yayılması.|8,8,8,5
-Televizyon|g|iletisim||Görüntüyü evlere taşıdı.|8,10,8,6
-Röntgen|g|saglik||Vücudun içini görmeyi sağladı.|9,8,9,9
-Kâğıt|g|gunluk||Yazının ve bilginin taşıyıcısı.|9,10,7,8
-Saat|g|gunluk||Zamanı ölçmenin aracı.|8,10,7,7
-Pil|g|enerji||Taşınabilir enerji.|8,10,7,8
-Akıllı Telefon|g|iletisim||Cebe sığan bilgisayar.|9,10,9,8
-Tren|g|ulasim||Şehirleri raylarla bağladı.|8,8,8,7
-Çamaşır Makinesi|s|gunluk||Ev işlerini kökten kolaylaştırdı.|8,9,7,7
-Mikrodalga Fırın|s|gunluk||Saniyelerde ısıtma.|5,8,7,4
-Klima|s|gunluk||Sıcak yazların kurtarıcısı.|6,8,6,5
-Fotoğraf Makinesi|s|iletisim||Anıları ölümsüzleştirdi.|7,8,8,5
-GPS|s|ulasim||Kaybolmayı neredeyse imkânsız yaptı.|8,9,9,7
-Güneş Paneli|s|enerji||Güneşten elektrik üretir.|7,6,8,6
-Bisiklet|s|ulasim||Basit, sağlıklı ve yakıtsız ulaşım.|7,9,7,6
-Gözlük|s|saglik||Milyonlara net görüş kazandırdı.|8,9,6,8
-Diş Fırçası|s|gunluk||Her sabah ve her akşam.|7,10,5,8
-Fermuar|s|gunluk||Giyimin küçük ama vazgeçilmez parçası.|5,10,6,5
-Konserve Kutusu|s|gunluk||Yiyeceği aylarca saklar.|6,9,6,5
-Anestezi|s|saglik||Ağrısız ameliyatı mümkün kıldı.|9,8,8,9
-Rüzgâr Türbini|s|enerji||Rüzgârdan temiz enerji.|6,6,7,5
-Mikroskop|s|saglik||Mikropların dünyasını açtı.|8,7,8,8
+Tekerlek|e|ulasim||Medeniyeti harekete geçirdi.|10,10,10,10
+Uçak|e|ulasim||Dünyayı küçülttü.|10,9,10,9
+Otomobil|e|ulasim||Kişisel ulaşım devrimi.|10,10,9,8
+Buharlı makine|e|ulasim||Sanayi devrimini başlattı.|10,7,10,8
+Roket|e|ulasim||İnsanı uzaya taşıdı.|8,5,10,9
+Gemi pusulası|e|ulasim||Okyanusları keşfe açtı.|9,7,9,7
+İnternet|e|iletisim||Tüm dünyayı birbirine bağladı.|10,10,10,10
+Akıllı telefon|e|iletisim||Bilgisayarı cebe soktu.|10,10,10,9
+Matbaa|e|iletisim||Bilgiyi herkese ulaştırdı.|10,9,10,9
+Telefon|e|iletisim||Uzaktaki sesi yanına getirdi.|10,10,9,8
+Bilgisayar|e|iletisim||Dijital çağın kalbi.|10,10,10,10
+Yazı|e|iletisim||Tarihin başlangıcı.|10,10,10,10
+Penisilin|e|saglik||Milyonlarca hayat kurtardı.|10,9,10,10
+Aşı|e|saglik||Salgınları yendi.|10,10,10,10
+Röntgen|e|saglik||Vücudun içini gösterdi.|9,9,10,9
+Anestezi|e|saglik||Ağrısız ameliyatı mümkün kıldı.|10,9,9,10
+Elektrik ampulü|e|enerji||Geceyi aydınlattı.|10,10,9,8
+Elektrik jeneratörü|e|enerji||Elektriği üretilebilir yaptı.|10,9,10,10
+Güneş paneli|e|enerji||Temiz enerjinin anahtarı.|8,8,9,7
+Batarya|e|enerji||Enerjiyi cebe soktu.|9,10,9,9
+Buzdolabı|e|gunluk||Yiyecekleri taze tuttu.|9,10,8,9
+Saat|e|gunluk||Zamanı ölçülebilir yaptı.|9,10,8,8
+Çamaşır makinesi|e|gunluk||Ev işini kolaylaştırdı.|9,9,8,8
+Kâğıt|e|gunluk||Yazının taşıyıcısı.|10,10,9,8
+Ateş kontrolü|e|gunluk||Pişirme ve sıcaklık.|10,10,10,10
+Radyo|g|iletisim||Sesi havadan ulaştırdı.|8,8,9,6
+Televizyon|g|iletisim||Görüntüyü evlere taşıdı.|8,9,9,6
+GPS|g|ulasim||Yolunu kaybetmeyi bitirdi.|8,9,9,8
+Bisiklet|g|ulasim||Ucuz ve temiz ulaşım.|7,9,7,6
+Mikroskop|g|saglik||Mikropları görünür kıldı.|9,7,9,9
+Gözlük|g|saglik||Milyonlara net görüş.|8,9,7,8
+Klima|g|gunluk||Sıcak iklimde konfor.|7,8,7,6
+Mikrodalga fırın|g|gunluk||Dakikada ısıtma.|6,8,7,5
+Nükleer enerji|g|enerji||Dev enerji kaynağı.|8,6,10,7
+Fotoğraf makinesi|g|gunluk||Anıları ölümsüz kıldı.|7,9,9,6

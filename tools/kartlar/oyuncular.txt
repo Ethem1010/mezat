@@ -1,36 +1,36 @@
 # Oyuncular — ad|seviye|grup|etiketler|açıklama|Oyunculuk,Ödüller,Popülerlik,Rol çeşitliliği
-Kemal Sunal|e|komedi||Saf ama akıllı karakterleriyle Türk sinemasının en sevileni.|9,6,10,8
-Şener Şen|e|komedi||Komediden drama, her rolün hakkını veren usta.|10,8,9,9
+Kemal Sunal|e|komedi||Türk sinemasının en sevilen yüzü.|9,6,10,8
+Şener Şen|e|komedi||Komediden drama her rolün hakkını veren usta.|10,8,9,9
+Cem Yılmaz|e|komedi||Stand-up'tan sinemaya mizahın zirvesi.|8,6,10,6
+Adile Naşit|e|komedi||Yeşilçam'ın herkesin annesi.|9,6,9,7
+Jim Carrey|e|komedi||Lastik gibi yüzüyle komedinin kralı.|9,7,9,8
+Charlie Chaplin|e|komedi||Sessiz sinemanın dâhisi Şarlo.|10,8,10,8
+Johnny Depp|e|komedi||Kaptan Jack Sparrow ve tuhaf karakterlerin ustası.|9,6,9,10
 Türkan Şoray|e|dram||Yeşilçam'ın Sultanı.|9,8,9,7
+Fatma Girik|e|dram||Yeşilçam'ın güçlü kadın rollerinin yıldızı.|9,7,8,8
+Münir Özkul|e|dram||Yeşilçam'ın sevilen baba figürü.|10,7,9,8
+Haluk Bilginer|e|dram||Uluslararası Emmy kazanan usta oyuncu.|10,9,7,9
+Tarık Akan|e|dram||Yeşilçam'ın yakışıklısı ve güçlü dram oyuncusu.|9,8,8,8
 Leonardo DiCaprio|e|dram||Titanik'ten Oscar'a uzanan kariyer.|9,9,10,8
 Tom Hanks|e|dram||İki yıl üst üste Oscar kazanan sevimli dev.|10,9,9,9
 Meryl Streep|e|dram||En çok Oscar adaylığı alan oyuncu.|10,10,8,10
-Cem Yılmaz|e|komedi||Stand-up'tan sinemaya mizahın zirvesi.|8,6,10,6
-Haluk Bilginer|g|dram||Uluslararası Emmy kazanan usta oyuncu.|10,9,7,9
-Kıvanç Tatlıtuğ|g|dram||Dizileri dünyaya satılan yıldız.|7,5,9,6
-Tarık Akan|g|dram||Yeşilçam'ın yakışıklısı ve güçlü dram oyuncusu.|9,8,8,8
-Kadir İnanır|g|aksiyon||Yeşilçam'ın sert ve karizmatik yüzü.|8,6,8,6
-Cüneyt Arkın|g|aksiyon||Yeşilçam'ın aksiyon kahramanı.|7,5,9,7
+Morgan Freeman|e|dram||Sesi ve bilge rolleriyle tanınan usta.|9,8,8,7
+Robert De Niro|e|dram||Mafya filmlerinin ve dramın efsanesi.|10,9,8,9
+Al Pacino|e|dram||Baba ve Yaralı Yüz'ün unutulmaz yüzü.|10,9,8,8
+Marlon Brando|e|dram||Modern oyunculuğu değiştiren efsane.|10,9,8,8
+Anthony Hopkins|e|dram||Hannibal Lecter'ın ürkütücü ustası.|10,9,8,9
+Denzel Washington|e|dram||İki Oscar'lı güçlü dram oyuncusu.|9,9,8,8
+Brad Pitt|e|dram||Hollywood'un en tanınan yüzlerinden.|8,8,9,8
+Kadir İnanır|e|aksiyon||Yeşilçam'ın sert ve karizmatik yüzü.|8,7,9,7
+Cüneyt Arkın|e|aksiyon||Yeşilçam'ın aksiyon kahramanı.|7,6,9,7
+Tom Cruise|e|aksiyon||Dublörsüz aksiyon sahneleriyle ünlü.|8,6,10,7
 Ata Demirer|g|komedi||Taklitleri ve filmleriyle sevilen komedyen.|8,5,8,6
 Şahan Gökbakar|g|komedi||Recep İvedik'in yaratıcısı.|7,3,8,6
-Brad Pitt|g|dram||Hollywood'un en tanınan yüzlerinden.|8,8,9,8
-Morgan Freeman|g|dram||Sesi ve bilge rolleriyle tanınan usta.|9,8,8,7
-Robert De Niro|g|dram||Mafya filmlerinin ve dramın efsanesi.|10,9,8,9
-Al Pacino|g|dram||Baba ve Yaralı Yüz'ün unutulmaz yüzü.|10,9,8,8
-Jim Carrey|g|komedi||Lastik gibi yüzüyle komedinin kralı.|9,6,9,8
-Johnny Depp|g|komedi||Kaptan Jack Sparrow ve tuhaf karakterlerin ustası.|9,6,9,10
+Demet Akbağ|g|komedi||Komedinin ve dramın usta kadın oyuncusu.|9,7,8,8
+Rowan Atkinson|g|komedi||Konuşmadan güldüren Mr. Bean.|8,5,9,6
+Kıvanç Tatlıtuğ|g|dram||Dizileri dünyaya satılan yıldız.|7,5,9,6
+Scarlett Johansson|g|aksiyon||Aksiyondan bağımsız sinemaya geniş kariyer.|8,6,9,7
 Keanu Reeves|g|aksiyon||Matrix ve John Wick'in sevilen yıldızı.|7,4,9,6
-Engin Akyürek|s|dram||Romantik dizilerin sevilen başrolü.|7,4,8,5
-Beren Saat|s|dram||Aşk-ı Memnu ile zirveye çıkan oyuncu.|8,5,8,6
-Demet Akbağ|s|komedi||Komedinin ve dramın usta kadın oyuncusu.|9,7,8,8
-Tuba Büyüküstün|s|dram||Uluslararası Emmy adayı olmuş oyuncu.|8,6,7,6
-Nejat İşler|s|dram||Karakter oyunculuğuyla öne çıkan usta.|9,6,6,8
-Engin Günaydın|s|komedi||Yeşil Deniz ve Bir Demet Tiyatro'nun komedyeni.|8,4,7,6
-Burak Özçivit|s|aksiyon||Tarihi aksiyon dizilerinin yıldızı.|6,3,8,4
-Tom Cruise|s|aksiyon||Dublörsüz aksiyon sahneleriyle ünlü.|8,5,9,6
-Dwayne Johnson|s|aksiyon||Güreşten Hollywood'a The Rock.|6,2,9,5
-Jackie Chan|s|aksiyon||Dövüşü komediyle birleştiren usta.|7,5,9,7
-Arnold Schwarzenegger|s|aksiyon||Terminatör'ün demir yüzü.|6,4,9,6
-Denzel Washington|s|dram||İki Oscar'lı güçlü dram oyuncusu.|9,9,7,7
-Scarlett Johansson|s|aksiyon||Aksiyondan bağımsız sinemaya geniş bir kariyer.|7,5,8,7
-Rowan Atkinson|s|komedi||Konuşmadan güldüren Mr. Bean.|8,5,9,6
+Dwayne Johnson|g|aksiyon||Güreşten Hollywood'a The Rock.|6,3,10,5
+Jackie Chan|g|aksiyon||Dövüşü komediyle birleştiren usta.|7,6,9,7
+Arnold Schwarzenegger|g|aksiyon||Terminatör'ün demir yüzü.|6,4,10,6

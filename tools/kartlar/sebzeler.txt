@@ -1,36 +1,36 @@
 # Sebzeler — ad|seviye|grup|etiketler|açıklama|Besin değeri,Lezzet,Mutfakta kullanım,Sevilme
-Domates|e|yaz|temel|Salatadan sosa, mutfağın kırmızı kralı.|8,9,10,10
-Patates|e|kok|temel|Kızartması, haşlaması, püresi; herkesin favorisi.|7,9,10,10
-Soğan|e|kok|temel|Neredeyse her yemeğin başlangıcı.|8,7,10,7
-Sivri Biber|e|yaz|temel|Kahvaltıdan kebaba her sofranın yeşil yıldızı.|8,8,9,8
-Patlıcan|e|yaz||Karnıyarıktan közlemeye, yaz sofrasının sultanı.|7,9,9,8
-Ispanak|e|yesillik||Demir deposu, yumurtayla bir başka güzel.|10,7,8,7
-Havuç|e|kok||Göze iyi gelen, çiğ de pişmiş de yenen sebze.|9,7,8,8
-Salatalık|g|yaz||Serinletici, çıtır ve her salatada.|7,8,8,9
-Kabak|g|yaz||Mücveri ve dolmasıyla sevilen yaz sebzesi.|7,7,8,6
-Brokoli|g|kis||Vitamin şampiyonu minik ağaçlar.|10,6,7,5
-Karnabahar|g|kis||Kızartması ve graten haliyle sevilir.|8,6,7,5
-Lahana|g|kis||Sarması ve turşusuyla kışın vazgeçilmezi.|8,6,7,5
-Pırasa|g|kis||Zeytinyağlısı annelerin klasiği.|8,6,6,4
-Sarımsak|g|kok|temel|Az kullanılır ama her şeyi lezzetlendirir.|9,8,9,7
-Marul|g|yesillik||Salatanın çıtır tabanı.|7,6,8,7
-Taze Fasulye|g|yaz||Zeytinyağlısıyla yaz sofralarının klasiği.|8,8,8,7
-Bezelye|g|yaz||Tatlı taneleri pilavı da yemeği de renklendirir.|8,7,7,7
-Mısır|g|yaz||Haşlaması, közü ve patlamışıyla sevilir.|7,8,7,9
-Kırmızı Biber|g|yaz||Közlemesi ve salçasıyla lezzet katar.|8,8,8,8
-Mantar|g|kis||Sote, pizza ve omletin gizli kahramanı.|8,8,8,7
-Bamya|g|yaz||Sevenleri için yazın en özel yemeği.|8,7,6,5
-Enginar|s|kis||Zeytinyağlısı ince bir lezzet işi.|9,7,5,5
-Kereviz|s|kok||Kökü yemeğe, sapı salataya.|8,5,5,3
-Turp|s|kok||Acımsı tadıyla salatanın keskin dokunuşu.|7,5,4,4
-Pancar|s|kok||Rengiyle şaşırtan, turşusu meşhur kök.|9,6,5,5
-Roka|s|yesillik||Hafif acı tadıyla salataların süsü.|8,7,6,7
-Maydanoz|s|yesillik||Her tabağın yeşil son dokunuşu.|9,6,9,6
-Dereotu|s|yesillik||Börekten cacığa ferah bir koku.|7,6,7,5
-Semizotu|s|yesillik||Yoğurtla buluşunca yaz salatası olur.|8,6,5,5
-Bakla|s|yaz||Zeytinyağlısı Ege'nin sevilen lezzeti.|8,6,5,4
-Kuşkonmaz|s|yesillik||Fırında ya da ızgarada şık bir sebze.|9,6,4,4
-Tatlı Patates|s|kok||Fırında karamelize olan turuncu patates.|8,8,5,6
-Yer Elması|s|kok||Unutulmaya yüz tutmuş kış sebzesi.|7,5,3,3
-Brüksel Lahanası|s|kis||Mini lahanalar; ya sevilir ya nefret edilir.|9,4,3,2
-Taze Soğan|s|yesillik||Bahar salatalarının ve kebapların yanında.|7,7,7,6
+Domates|e|yaz|temel|Mutfağın tartışmasız kralı.|8,9,10,10
+Patates|e|kok|temel|Kızartmadan püreye her şey.|7,10,10,10
+Soğan|e|kok|temel|Her yemeğin başlangıcı.|8,7,10,8
+Sarımsak|e|kok|temel|Lezzet ve sağlık bombası.|9,8,10,8
+Sivri biber|e|yaz|temel|Kahvaltının ve yemeklerin olmazsa olmazı.|8,8,10,9
+Patlıcan|e|yaz||Karnıyarık, imam bayıldı, kebap.|7,9,10,9
+Kabak|e|yaz||Mücver ve dolmanın yıldızı.|7,7,8,7
+Salatalık|e|yaz||Ferahlatan salata klasiği.|6,8,8,9
+Fasulye|e|yaz||Zeytinyağlının efsanesi.|8,8,8,8
+Bamya|e|yaz||Ekşili yemeğiyle sevilen sebze.|8,7,6,6
+Biber (kapya)|e|yaz||Közlemesi ve dolmasıyla tatlı biber.|9,8,8,8
+Mısır|e|yaz||Haşlaması ve közüyle yaz klasiği.|7,9,8,9
+Havuç|e|kok||Göze iyi gelen turuncu kök.|9,7,9,8
+Pancar|e|kok||Kan yapan kırmızı kök.|9,6,6,6
+Turp|e|kok||Kışın şifa kaynağı.|8,6,6,6
+Zencefil|e|kok||Çayından yemeğine şifalı kök.|9,6,7,7
+Brokoli|e|kis||Süper besin yeşil ağaç.|10,6,8,6
+Karnabahar|e|kis||Kızartması meşhur.|9,7,8,7
+Lahana|e|kis||Sarması ve turşusu meşhur.|9,6,8,6
+Pırasa|e|kis||Zeytinyağlısı kış sofrası.|8,7,7,6
+Kereviz|e|kis||Zeytinyağlısı nefis.|8,6,7,5
+Ispanak|e|yesillik||Temel Reis'in gücü.|10,7,8,7
+Marul|e|yesillik||Salatanın temeli.|7,7,8,8
+Roka|e|yesillik||Acımsı tadıyla salata yıldızı.|8,8,7,8
+Maydanoz|e|yesillik||Her şeyin üstüne serpilen yeşillik.|9,7,9,8
+Bezelye|g|yaz||Tatlı yeşil taneler.|8,7,7,7
+Enginar|g|yaz||Zeytinyağlısı lezzetli.|9,7,6,5
+Kuşkonmaz|g|yaz||Şık restoranların sebzesi.|9,7,5,5
+Tatlı patates|g|kok||Fırında enfes.|9,8,7,7
+Brüksel lahanası|g|kis||Minik lahanalar.|9,5,5,4
+Kara lahana|g|kis||Karadeniz'in yeşili.|10,6,6,5
+Semizotu|g|yesillik||Yoğurtlusu meşhur.|9,7,6,7
+Dereotu|g|yesillik||Kokusuyla mezelerin süsü.|8,7,7,7
+Nane|g|yesillik||Çorbadan limonataya.|7,7,8,8
+Taze soğan|g|yesillik||Salatanın tazeliği.|7,7,8,7

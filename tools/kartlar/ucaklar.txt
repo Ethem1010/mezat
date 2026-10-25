@@ -1,36 +1,36 @@
 # Uçaklar — ad|seviye|grup|etiketler|açıklama|Hız,Teknoloji,Menzil,İkoniklik
-Concorde|e|yolcu||Atlantik'i 3,5 saatte geçen ses üstü yolcu uçağı.|10,9,6,10
-SR-71 Blackbird|e|ozel||Hız rekoru hâlâ kırılmayan keşif uçağı.|10,10,7,10
+Concorde|e|yolcu||Atlantik'i 3,5 saatte geçen ses üstü yolcu uçağı.|10,9,7,10
+SR-71 Blackbird|e|ozel||Hız rekoru hâlâ kırılmayan keşif uçağı.|10,10,8,10
 Boeing 747|e|yolcu||Gökyüzünün Kraliçesi, ilk jumbo jet.|7,7,9,10
-F-22 Raptor|e|askeri||Radara yakalanmayan hava üstünlüğü uçağı.|9,10,7,8
-Wright Flyer|e|ozel||İnsanlığın ilk motorlu uçuşu.|1,3,1,10
 Airbus A380|e|yolcu||Dünyanın en büyük yolcu uçağı.|7,9,10,9
-F-16|e|askeri||Türk Hava Kuvvetleri'nin de belkemiği olan savaş uçağı.|8,8,7,9
-F-35|g|askeri||Yeni nesil gizli savaş uçağı.|8,10,7,7
-Spitfire|g|askeri||İkinci Dünya Savaşı'nın efsane avcısı.|6,5,4,9
-P-51 Mustang|g|askeri||Uzun menzilli eskort avcısı.|7,5,6,8
-Eurofighter Typhoon|g|askeri||Avrupa ortak yapımı çevik savaş uçağı.|9,9,7,7
-Su-57|g|askeri||Rus yapımı yeni nesil savaş uçağı.|9,9,7,6
-Hürjet|g|askeri||Türkiye'nin jet eğitim ve hafif taarruz uçağı.|8,8,6,6
-KAAN|g|askeri||Türkiye'nin milli muharip uçağı projesi.|8,9,6,7
-Boeing 787 Dreamliner|g|yolcu||Karbon gövdeli verimli uzun yol uçağı.|7,9,10,7
-Airbus A350|g|yolcu||Sessiz ve verimli geniş gövde uçak.|7,9,10,6
-Uzay Mekiği|g|ozel||Uzaya gidip pist üzerine inen mekik.|9,10,8,10
-U-2|g|ozel||Stratosferde uçan casus uçak.|5,7,9,7
-Black Hawk|g|helikopter||Dünyanın en bilinen askeri helikopterlerinden.|5,7,5,8
-Apache|g|helikopter||Güçlü taarruz helikopteri.|6,8,5,8
-T129 ATAK|g|helikopter||Türkiye'de üretilen taarruz helikopteri.|6,8,5,7
-Cessna 172|s|ozel||Pilotların ilk uçtuğu küçük uçak.|2,4,4,6
-Boeing 737|s|yolcu||Dünyanın en çok üretilen jet yolcu uçaklarından.|6,6,6,7
-Airbus A320|s|yolcu||Kısa ve orta mesafenin işçi uçağı.|6,7,6,6
-ATR 72|s|yolcu||Kısa hatların pervaneli uçağı.|4,5,4,3
-Hürkuş|s|askeri||Türkiye'nin ilk yerli eğitim uçağı.|4,6,4,5
-Bayraktar TB2|s|askeri||Dünyaya ihraç edilen Türk insansız hava aracı.|3,8,7,8
-Chinook|s|helikopter||Çift rotorlu ağır yük helikopteri.|4,6,5,7
-Robinson R44|s|helikopter||Küçük ve popüler sivil helikopter.|3,4,3,3
-Antonov An-225|s|ozel||Dünyanın en büyük kargo uçağıydı.|6,6,8,9
-Planör|s|ozel||Motorsuz, rüzgârla süzülen uçak.|1,3,3,4
-Douglas DC-3|s|yolcu||Hava yolculuğunu yaygınlaştıran klasik.|4,3,5,8
-Harrier|s|askeri||Dikey kalkış yapabilen savaş uçağı.|6,7,4,8
-V-22 Osprey|s|helikopter||Hem helikopter hem uçak gibi uçar.|6,9,7,7
-Airbus H125|s|helikopter||Dağlarda kurtarmada kullanılan hafif helikopter.|4,5,4,3
+Boeing 787 Dreamliner|e|yolcu||Karbon gövdeli verimli uzun yol uçağı.|7,9,10,8
+Airbus A350|e|yolcu||Sessiz ve verimli geniş gövde uçak.|7,9,10,7
+F-22 Raptor|e|askeri||Radara yakalanmayan hava üstünlüğü uçağı.|9,10,7,9
+F-35 Lightning II|e|askeri||Yeni nesil gizli savaş uçağı.|8,10,7,8
+F-16 Fighting Falcon|e|askeri||Dünyanın en yaygın savaş uçaklarından.|9,8,7,9
+F-14 Tomcat|e|askeri||Değişken kanatlı efsane, Top Gun'ın yıldızı.|9,8,7,10
+Eurofighter Typhoon|e|askeri||Avrupa'nın çevik savaş uçağı.|9,9,7,7
+Su-57|e|askeri||Rus yapımı yeni nesil savaş uçağı.|9,9,7,7
+B-2 Spirit|e|askeri||Kanat biçimli gizli bombardıman uçağı.|6,10,10,10
+KAAN|e|askeri||Türkiye'nin milli muharip uçağı.|9,9,7,9
+Spitfire|e|askeri||İkinci Dünya Savaşı'nın efsane avcısı.|6,5,4,10
+P-51 Mustang|e|askeri||Uzun menzilli efsane eskort avcısı.|7,5,7,9
+Bayraktar Akıncı|e|askeri||Türkiye'nin taarruz insansız hava aracı.|6,9,9,8
+Bayraktar TB2|e|askeri||Dünyaya ihraç edilen Türk insansız hava aracı.|4,8,8,9
+Uzay Mekiği|e|ozel||Uzaya gidip piste inen mekik.|10,10,9,10
+Wright Flyer|e|ozel||İnsanlığın ilk motorlu uçuşu.|1,4,1,10
+Antonov An-225 Mriya|e|ozel||Dünyanın en büyük kargo uçağıydı.|6,7,9,10
+X-15|e|ozel||Uzayın kıyısına çıkan roket uçağı.|10,9,3,9
+U-2|e|ozel||Stratosferde uçan casus uçak.|6,8,9,8
+AH-64 Apache|e|helikopter||Güçlü taarruz helikopteri.|6,8,5,9
+UH-60 Black Hawk|e|helikopter||Dünyanın en bilinen askeri helikopterlerinden.|6,7,5,9
+T129 ATAK|g|helikopter||Türkiye'de üretilen taarruz helikopteri.|6,8,5,8
+CH-47 Chinook|g|helikopter||Çift rotorlu ağır yük helikopteri.|5,7,6,8
+V-22 Osprey|g|helikopter||Helikopter gibi kalkıp uçak gibi uçar.|7,9,7,8
+Hürjet|g|askeri||Türkiye'nin jet eğitim uçağı.|8,8,6,7
+MiG-29|g|askeri||Sovyet çevikliğinin simgesi.|9,7,6,8
+Harrier|g|askeri||Dikey kalkış yapabilen savaş uçağı.|6,7,4,8
+C-130 Hercules|g|askeri||Her yere inebilen kargo efsanesi.|5,6,8,8
+Boeing 777|g|yolcu||En büyük çift motorlu jetlerden.|7,8,10,7
+Airbus A320|g|yolcu||Kısa ve orta mesafenin işçi uçağı.|6,7,6,6
+Douglas DC-3|g|yolcu||Hava yolculuğunu yaygınlaştıran klasik.|4,3,5,9

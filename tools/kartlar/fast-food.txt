@@ -1,36 +1,36 @@
 # Fast Food — ad|seviye|grup|etiketler|açıklama|Lezzet,Doyuruculuk,Fiyat,Popülerlik
-Döner Dürüm|e|ana||Türkiye'nin en sevilen ayaküstü lezzeti.|10,9,7,10
-Hamburger|e|ana||Dünyanın fast food simgesi.|9,9,6,10
-Pizza|e|ana||Paylaşmalık ya da tek başına; her saatte.|9,9,6,10
-Patates Kızartması|e|yan||Her menünün altın yanı.|9,5,9,10
-Lahmacun|e|ana||İnce, çıtır ve yanında ayranla.|9,7,8,9
-Islak Hamburger|e|ana||Taksim'in gece yarısı efsanesi.|9,6,10,9
-Kokoreç|e|ana||Sevenleri için gece yarısının kralı.|9,7,7,8
-Karışık Tost|g|ana||Kantinlerin ve kafelerin vazgeçilmezi.|8,7,9,9
-Kumpir|g|ana||Ortaköy'ün dolu dolu patatesi.|8,9,6,8
-Tavuk Kanat|g|ana||Soslu, çıtır ve paylaşmalık.|8,6,6,8
-Çiğ Köfte Dürüm|g|ana||Acılı ya da acısız, her köşede.|8,7,9,9
-Midye Dolma|g|ana||Limonla tek tek yenen sahil klasiği.|9,5,7,9
-Soğan Halkası|g|yan||Çıtır kaplamalı soğan dilimleri.|8,4,8,7
-Nugget|g|yan||Çocukların ve büyüklerin tavuk lokması.|7,5,7,8
-Ayran|g|icecek||Dönerin ve lahmacunun en iyi dostu.|8,3,9,9
-Kola|g|icecek||Burgerin klasik eşlikçisi.|7,1,8,10
-Milkshake|g|icecek||Dondurmalı tatlı içecek.|8,4,5,7
-Sufle|g|tatli||İçi akan sıcak çikolata.|8,3,5,7
-Waffle|g|tatli||Meyveli ve soslu tatlı.|8,5,5,8
-Hot Dog|g|ana||Ekmek arası sosis, bol soslu.|7,6,8,7
-Tantuni|g|ana||Mersin'in sac lezzeti.|9,7,7,8
-Kumru|s|ana||İzmir'in susamlı sandviçi.|8,7,8,6
-Simit|s|yan||Çay yanında her an.|7,5,10,9
-Patso|s|ana||Ekmek arası patates ve sosis.|7,8,9,5
-Taco|s|ana||Meksika'nın katlanmış lezzeti.|7,6,6,5
-Burrito|s|ana||Dolu dolu Meksika dürümü.|7,8,6,5
-Ice Tea|s|icecek||Soğuk ve hafif bir eşlikçi.|6,1,8,7
-Limonata|s|icecek||Ferahlatan ev yapımı içecek.|7,1,7,7
-Dondurma|s|tatli||Yazın en tatlı kapanış.|8,2,7,9
-Churros|s|tatli||Şekerli ve çikolatalı çubuklar.|7,4,6,5
-Coleslaw|s|yan||Lahana salatası.|5,3,7,4
-Sezar Salata|s|yan||Tavuklu, parmesanlı klasik salata.|6,5,5,5
-Bardak Mısır|s|yan||Soslu haşlanmış mısır.|6,3,8,6
-Suşi Roll|s|ana||Pirinç ve balıkla Japon lokmaları.|7,5,3,5
-Falafel|s|ana||Nohut köftesi dürümü.|7,6,8,5
+Cheeseburger|e|ana||Erimiş peynirli klasik.|10,9,7,10
+Big Mac|e|ana||Çift katlı dünyaca ünlü burger.|9,9,7,10
+Whopper|e|ana||Izgara alevli dev burger.|9,9,7,9
+Döner dürüm|e|ana||Türkiye'nin fast food kralı.|10,9,9,10
+İskender dürüm|e|ana||Tereyağlı dönerin dürümü.|10,9,7,8
+Pizza Margherita|e|ana||Domates, mozzarella, fesleğen.|9,8,7,10
+Pepperoni pizza|e|ana||Sucuk dilimli Amerikan klasiği.|10,9,7,10
+Tavuk kanat (wings)|e|ana||Soslu çıtır kanatlar.|9,7,7,9
+Kokoreç|e|ana||Gece yarısının efsane lezzeti.|9,8,8,8
+Islak hamburger|e|ana||Taksim'in sarımsaklı efsanesi.|9,6,10,9
+Tantuni|e|ana||Mersin'in ince dürümü.|10,8,9,8
+Taco|e|ana||Meksika'nın çıtır kabuklusu.|9,7,8,8
+Burrito|e|ana||Dolu dolu Meksika dürümü.|9,10,7,8
+Hot dog|e|ana||Sosisli sokak klasiği.|8,7,9,9
+Çıtır tavuk (KFC usulü)|e|ana||Baharatlı kızarmış tavuk.|9,8,7,9
+Patates kızartması|e|yan||Her menünün yıldızı.|9,6,9,10
+Soğan halkası|e|yan||Çıtır kaplamalı halkalar.|9,5,8,8
+Nugget|e|yan||Çocukların favorisi tavuk parçaları.|8,6,8,9
+Elma dilim patates|e|yan||Baharatlı kalın patates.|9,6,8,8
+Kola|e|icecek||Burgerin eşi.|9,2,8,10
+Milkshake|e|icecek||Dondurmalı yoğun içecek.|10,4,7,9
+Ayran|e|icecek||Dönerin vazgeçilmezi.|9,3,9,10
+Sundae|e|tatli||Soslu kap dondurma.|9,4,8,8
+McFlurry|e|tatli||Parçacıklı karıştırılmış dondurma.|9,4,7,9
+Elmalı turta|e|tatli||Sıcak çıtır turta.|8,4,8,7
+Sucuklu tost|g|ana||Kantinlerin kralı.|9,7,9,9
+Fish & chips|g|ana||İngiliz balık-patates.|8,8,7,7
+Quesadilla|g|ana||Peynirli lavaş.|8,7,8,6
+Mozzarella stick|g|yan||Uzayan peynir çubukları.|9,5,7,7
+Coleslaw|g|yan||Lahana salatası.|6,3,8,6
+Limonata|g|icecek||Ferah eşlikçi.|8,2,8,7
+Buzlu çay|g|icecek||Şeftalili soğuk çay.|7,2,8,8
+Cookie|g|tatli||Çikolata parçacıklı kurabiye.|9,4,8,8
+Churros|g|tatli||Şekerli kızarmış hamur.|9,4,7,7
+Brownie|g|tatli||Islak çikolatalı kare.|9,4,7,7

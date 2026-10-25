@@ -1,36 +1,36 @@
 # Meyveler — ad|seviye|grup|etiketler|açıklama|Lezzet,Sağlık,Popülerlik,Çok yönlülük
-Çilek|e|yaz||Tatlıdan reçele, herkesin sevdiği kırmızı yıldız.|9,8,10,9
-Karpuz|e|yaz||Yazın vazgeçilmezi, buz gibi ve sulu.|9,6,10,5
-Kiraz|e|yaz||Kısa sezonu yüzünden hep özlenen tatlı meyve.|9,8,9,6
-Muz|e|tropik||Pratik, doyurucu ve her yaşın meyvesi.|8,8,10,9
-Mango|e|tropik||Tropiklerin kralı; kokusu ve tadı eşsiz.|10,8,8,8
-Elma|e|her_mevsim||Günde bir elma doktoru uzak tutar.|7,9,10,10
-Portakal|e|kis||Kışın C vitamini deposu, sıkması da yemesi de güzel.|8,9,9,9
-Şeftali|g|yaz||Kadife kabuklu, sulu yaz meyvesi.|8,7,8,7
-Kavun|g|yaz||Peynirle buluşunca efsane olan yaz klasiği.|8,6,8,5
-Üzüm|g|yaz||Taze de kuru da pekmezi de ayrı lezzet.|8,7,8,9
-İncir|g|yaz||Ballı tadıyla Ege'nin hazinesi.|8,8,6,7
-Kayısı|g|yaz||Malatya'nın gururu, kurusu da bir başka.|8,8,7,8
-Ananas|g|tropik||Ekşi tatlı tadıyla tropik bir patlama.|8,7,8,8
-Mandalina|g|kis||Soyması kolay, kışın en çok tüketilen meyve.|8,8,9,6
-Nar|g|kis||Tanesi, ekşisi ve suyuyla süper meyve.|7,10,7,8
-Avokado|g|tropik||Kahvaltıların yeni yıldızı, sağlıklı yağ deposu.|6,10,7,9
-Armut|g|her_mevsim||Yumuşak ve sulu, sessiz sedasız sevilen meyve.|7,8,7,7
-Böğürtlen|g|yaz||Dikenli dallardan toplanan mor hazine.|7,10,5,7
-Ahududu|g|yaz||Tatlı ekşi tadıyla pastaların süsü.|8,9,6,7
-Kivi|g|kis||Tüylü kabuğunun altında yeşil bir C vitamini bombası.|7,9,7,6
-Dut|g|yaz||Ağaçtan yemesi en güzel olan yaz meyvesi.|8,8,6,6
-Erik|s|yaz||Yeşili tuzla, mürdümü tatlı tatlı yenir.|7,7,7,6
-Vişne|s|yaz||Reçeli, şerbeti ve kekleriyle sevilen ekşi meyve.|7,8,6,8
-Greyfurt|s|kis||Acımsı tadıyla sağlıkçıların sevdiği turunçgil.|5,9,5,6
-Limon|s|her_mevsim||Tek başına yenmez ama mutfağın her yerinde.|4,9,7,10
-Ayva|s|kis||Tatlısı efsane, kendisi biraz sert.|6,8,5,7
-Hurma|s|tropik||Enerji deposu, iftar sofralarının vazgeçilmezi.|7,7,6,7
-Hindistan Cevizi|s|tropik||Suyu, sütü ve rendesiyle çok yönlü.|7,7,6,8
-Papaya|s|tropik||Turuncu iç dokusuyla tropik bir sindirim dostu.|6,8,4,5
-Trabzon Hurması|s|kis||Olgunlaşınca bal gibi olan kış meyvesi.|7,7,5,4
-Yaban Mersini|s|yaz||Küçük ama antioksidan şampiyonu.|7,10,6,7
-Çarkıfelek Meyvesi|s|tropik||Mayhoş ve kokulu, kokteyllerin gizli yıldızı.|7,8,4,6
-Ejder Meyvesi|s|tropik||Görüntüsü çarpıcı, tadı hafif.|5,7,4,4
-Kızılcık|s|yaz||Ekşi tadıyla şerbeti ve reçeli meşhur.|5,8,4,6
-Muşmula|s|kis||Büyükannelerin bildiği, unutulmaya yüz tutmuş meyve.|5,6,3,3
+Çilek|e|yaz||Tatlıdan reçele herkesin sevdiği meyve.|10,8,10,9
+Karpuz|e|yaz||Yazın serinleten dev meyve.|10,7,10,6
+Kiraz|e|yaz||Dalından toplanan kırmızı mücevher.|10,8,9,7
+Şeftali|e|yaz||Sulu, kokulu yaz meyvesi.|9,8,8,7
+Kavun|e|yaz||Sofraların bal tadındaki misafiri.|9,7,8,6
+Üzüm|e|yaz||Pekmezden kurusuna her şeye dönüşür.|9,8,9,9
+İncir|e|yaz||Ballı, lifli Ege meyvesi.|9,9,7,7
+Kayısı|e|yaz||Malatya'nın dünyaca ünlü meyvesi.|9,9,8,9
+Yaban mersini|e|yaz||Antioksidan deposu minik meyve.|8,10,8,8
+Portakal|e|kis||C vitamininin simgesi.|9,9,10,9
+Mandalina|e|kis||Kolay soyulan kış klasiği.|9,8,9,6
+Nar|e|kis||Taneleriyle sağlık deposu.|8,10,8,8
+Greyfurt|e|kis||Ekşimsi tadıyla sağlıklı kış meyvesi.|6,9,6,6
+Ayva|e|kis||Tatlısı efsane kış meyvesi.|7,8,6,7
+Limon|e|kis||Mutfağın her yerinde kullanılır.|5,9,10,10
+Mango|e|tropik||Tropiklerin tatlı kralı.|10,8,9,9
+Ananas|e|tropik||Tatlı-ekşi tropik meyve.|9,8,8,9
+Avokado|e|tropik||Sağlıklı yağ deposu.|7,10,9,9
+Hindistan cevizi|e|tropik||Suyu, sütü, eti kullanılır.|8,8,8,10
+Kivi|e|tropik||C vitamini şampiyonu.|8,9,8,7
+Papaya|e|tropik||Sindirime iyi gelen tropik meyve.|8,9,6,6
+Elma|e|her_mevsim||Günde bir elma doktoru uzak tutar.|9,9,10,10
+Muz|e|her_mevsim||Enerji veren pratik meyve.|9,8,10,9
+Armut|e|her_mevsim||Sulu ve lifli.|8,8,8,7
+Vişne|e|yaz||Şerbeti ve reçeliyle meşhur.|8,8,8,9
+Ejder meyvesi|g|tropik||Renkli görünümlü egzotik meyve.|6,8,6,5
+Liçi|g|tropik||Kokulu Asya meyvesi.|8,7,5,5
+Erik|g|yaz||Yeşili tuzla, morusu tatlı.|8,7,8,6
+Dut|g|yaz||Pekmezi meşhur.|8,8,6,7
+Böğürtlen|g|yaz||Yol kenarının lezzetli meyvesi.|8,9,6,7
+Ahududu|g|yaz||Tatlıların süsü.|8,9,7,7
+Trabzon hurması|g|kis||Bal gibi kış meyvesi.|8,8,6,5
+Kestane|g|kis||Közde kış keyfi.|8,7,8,6
+Hurma|g|her_mevsim||Doğal şeker deposu.|8,8,8,7
+Çarkıfelek|g|tropik||Mayhoş aromalı tropik meyve.|8,8,5,6

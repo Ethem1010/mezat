@@ -1,36 +1,36 @@
 # Filmler — ad|seviye|grup|etiketler|açıklama|Gişe,Efsanelik,Ödüller,Tekrar izlenme
 Titanik|e|dram||Batan gemide unutulmaz bir aşk; Oscar rekortmeni.|10,10,10,7
-Avatar|e|fantastik||Pandora'da geçen, gişe rekorları kıran bilimkurgu.|10,8,7,6
+Baba|e|dram||Corleone ailesi; sinemanın zirvesi.|8,10,10,8
+Esaretin Bedeli|e|dram||Umut ve dostluk üzerine en sevilen filmlerden.|6,10,7,10
+Forrest Gump|e|dram||Hayat bir kutu çikolata gibidir.|9,9,10,9
+Schindler'in Listesi|e|dram||Holokost'ta bin kişiyi kurtaran adamın hikâyesi.|7,10,10,6
+Babam ve Oğlum|e|dram||Ağlatan baba oğul hikâyesi.|8,9,6,7
+Eşkıya|e|dram||Yıllar sonra hapisten çıkan eşkıyanın İstanbul'u.|7,9,6,7
+Kara Şövalye|e|aksiyon||Batman ve Joker'in efsane karşılaşması.|10,10,8,9
+Gladyatör|e|aksiyon||Generalden gladyatöre bir intikam hikâyesi.|9,9,9,8
+Avengers: Endgame|e|aksiyon||Süper kahraman destanının büyük finali.|10,8,5,7
+Pulp Fiction|e|aksiyon||İç içe geçmiş suç hikâyeleri.|7,10,8,8
 Yüzüklerin Efendisi|e|fantastik||Orta Dünya'da Tek Yüzük'ü yok etme yolculuğu.|9,10,10,9
-Baba|e|dram||Corleone ailesinin hikâyesi; sinemanın zirvesi.|8,10,10,8
 Matrix|e|fantastik||Kırmızı hap mı mavi hap mı?|9,10,7,9
+Star Wars|e|fantastik||Uzak bir galakside başlayan efsane seri.|10,10,8,8
+Avatar|e|fantastik||Pandora'da geçen gişe rekortmeni.|10,8,7,6
+Inception|e|fantastik||Rüya içinde rüya.|9,9,8,8
+Yıldızlararası|e|fantastik||Zaman ve uzayın ötesine yolculuk.|9,9,7,8
+Jurassic Park|e|fantastik||Dinozorlar yeniden canlanıyor.|10,9,7,8
+Geleceğe Dönüş|e|fantastik||DeLorean ile zaman yolculuğu.|9,10,6,9
+Harry Potter ve Felsefe Taşı|e|fantastik||Hogwarts'a ilk adım.|10,9,6,9
 Hababam Sınıfı|e|komedi||Yeşilçam'ın tekrar tekrar izlenen kült komedisi.|8,10,6,10
+G.O.R.A.|e|komedi||Uzaylılarla dolu kült Türk komedisi.|8,9,4,10
+Vizontele|e|komedi||Köye televizyonun gelişi.|8,9,5,9
 Aslan Kral|e|animasyon||Simba'nın hikâyesi ve unutulmaz müzikleri.|10,10,8,10
-Esaretin Bedeli|g|dram||Umut ve dostluk üzerine en sevilen filmlerden.|6,10,7,10
-Kara Şövalye|g|aksiyon||Batman ve Joker'in efsane karşılaşması.|10,10,8,9
-Inception|g|fantastik||Rüya içinde rüya.|9,9,8,8
-Avengers: Endgame|g|aksiyon||Süper kahraman destanının büyük finali.|10,8,5,7
-Star Wars|g|fantastik||Uzak bir galakside başlayan efsane seri.|10,10,8,8
-Jurassic Park|g|fantastik||Dinozorlar yeniden canlanıyor.|10,9,7,8
-Forrest Gump|g|dram||Hayat bir kutu çikolata gibidir.|9,9,10,9
-Gladyatör|g|aksiyon||Generalden gladyatöre bir intikam hikâyesi.|9,9,9,8
-Yıldızlararası|g|fantastik||Zaman ve uzayın ötesine yolculuk.|9,9,7,8
-Harry Potter ve Felsefe Taşı|g|fantastik||Hogwarts'a ilk adım.|10,9,6,9
-Vizontele|g|komedi||Köye televizyonun gelişi.|7,8,5,8
-G.O.R.A.|g|komedi||Uzaylılarla dolu kült Türk komedisi.|8,9,4,10
+Oyuncak Hikayesi|e|animasyon||Oyuncakların gizli dünyası.|9,9,8,8
+Joker|g|dram||Bir kötü karakterin doğuşu.|9,8,8,6
+Rocky|g|dram||Bir boksörün hayallerine tutunması.|7,9,9,7
+Deadpool|g|aksiyon||Dördüncü duvarı yıkan antikahraman.|9,7,3,7
+Hızlı ve Öfkeli|g|aksiyon||Arabalar, aile ve fizik kurallarını zorlayan sahneler.|9,7,2,7
+Karayip Korsanları|g|fantastik||Kaptan Jack Sparrow'un maceraları.|9,8,4,8
 Recep İvedik|g|komedi||Gişe rekorları kıran komedi serisi.|9,7,2,6
-Babam ve Oğlum|g|dram||Ağlatan baba oğul hikâyesi.|8,9,6,7
-Eşkıya|s|dram||Yıllar sonra hapisten çıkan eşkıyanın İstanbul'u.|6,9,6,7
-Kış Uykusu|s|dram||Cannes'da Altın Palmiye kazanan film.|3,6,10,3
-Ayla|s|dram||Kore Savaşı'nda bir askerle küçük kızın hikâyesi.|7,6,5,5
-Pulp Fiction|s|aksiyon||İç içe geçmiş suç hikâyeleri.|7,9,8,8
-Joker|s|dram||Bir kötü karakterin doğuşu.|9,7,8,6
-Deadpool|s|aksiyon||Dördüncü duvarı yıkan antikahraman.|9,7,3,7
-Hızlı ve Öfkeli|s|aksiyon||Arabalar, aile ve fizik kurallarını zorlayan sahneler.|9,7,2,7
-Shrek|s|animasyon||Bataklıktaki yeşil devin masalları ters yüz edişi.|9,8,6,9
-Buz Devri|s|animasyon||Mamut, tembel hayvan ve kaplan buzul çağında.|9,7,3,8
-Oyuncak Hikayesi|s|animasyon||Oyuncakların gizli dünyası.|9,9,8,8
-Evde Tek Başına|s|komedi||Yılbaşı klasiği; evi hırsızlardan korumak.|8,9,3,10
-Maske|s|komedi||Maskeyi takınca çılgına dönen adam.|8,8,3,8
-Karayip Korsanları|s|fantastik||Kaptan Jack Sparrow'un maceraları.|9,8,4,8
-Rocky|s|dram||Bir boksörün hayallerine tutunması.|7,9,9,7
+Evde Tek Başına|g|komedi||Yılbaşı klasiği; evi hırsızlardan korumak.|8,9,3,10
+Maske|g|komedi||Maskeyi takınca çılgına dönen adam.|8,8,3,8
+Shrek|g|animasyon||Bataklıktaki yeşil devin masalları ters yüz edişi.|9,8,6,9
+Buz Devri|g|animasyon||Mamut, tembel hayvan ve kaplan buzul çağında.|9,7,3,8

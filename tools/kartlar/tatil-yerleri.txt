@@ -1,36 +1,36 @@
 # Tatil Yerleri — ad|seviye|grup|etiketler|açıklama|Doğa,Deniz ve eğlence,Yemek,Ulaşım ve fiyat
-Bodrum|e|deniz||Gece hayatı, koylar ve beyaz evler.|7,10,8,5
-Kapadokya|e|doga||Peri bacaları ve gün doğumunda balonlar.|10,4,7,7
+Bodrum|e|deniz||Gece hayatı, koylar ve beyaz evler.|7,10,8,6
 Antalya|e|deniz||Kaleiçi, şelaleler ve uçsuz bucaksız plajlar.|8,10,8,8
+Ölüdeniz|e|deniz||Yamaç paraşütü ve masmavi lagün.|9,9,7,7
+Kaş|e|deniz||Dalış, koylar ve sakin sokaklar.|9,8,8,6
+Alaçatı|e|deniz||Rüzgâr sörfü ve taş evler.|6,9,9,5
+Bozcaada|e|deniz||Bağlar, rüzgâr ve sakin plajlar.|7,7,9,6
 Maldivler|e|deniz||Su üstü bungalovlar ve turkuaz deniz.|9,9,6,2
-Bali|e|deniz||Tapınaklar, pirinç terasları ve sörf.|9,8,8,4
-Paris|e|sehir||Eyfel, Louvre ve kafeler.|4,7,9,5
+Bali|e|deniz||Tapınaklar, pirinç terasları ve sörf.|9,8,8,5
+Santorini|e|deniz||Mavi kubbeler ve ünlü gün batımı.|7,8,8,4
+Mykonos|e|deniz||Yel değirmenleri ve gece hayatı.|6,10,8,4
+Amalfi Kıyısı|e|deniz||Uçurumlara kurulu renkli kasabalar.|9,8,9,4
+Phuket|e|deniz||Tayland'ın plaj ve eğlence adası.|8,9,8,6
+Bora Bora|e|deniz||Pasifik'in en ünlü lagünü.|10,8,6,1
+Kapadokya|e|doga||Peri bacaları ve gün doğumunda balonlar.|10,4,8,7
+Pamukkale|e|doga||Bembeyaz travertenler ve antik havuz.|9,5,6,8
+Ayder Yaylası|e|doga||Sisli yeşil yaylalar ve kaplıcalar.|9,2,8,7
+Uzungöl|e|doga||Karadeniz'in kartpostal gölü.|9,2,7,7
+İsviçre Alpleri|e|doga||Karlı zirveler ve tren yolculukları.|10,5,7,3
+İzlanda Yolculuğu|e|doga||Şelaleler, buzullar ve kuzey ışıkları.|10,3,5,3
 İstanbul|e|sehir||Boğaz, tarih ve bitmeyen lezzetler.|5,7,10,8
-Ölüdeniz|g|deniz||Yamaç paraşütü ve masmavi lagün.|9,9,7,7
-Kaş|g|deniz||Dalış, koylar ve sakin sokaklar.|9,8,7,6
-Alaçatı|g|deniz||Rüzgâr sörfü ve taş evler.|6,9,8,5
-Pamukkale|g|doga||Bembeyaz travertenler ve antik havuz.|9,5,6,8
-Uzungöl|g|doga||Karadeniz'in kartpostal gölü.|9,2,7,7
-Ayder Yaylası|g|doga||Sisli yeşil yaylalar ve kaplıcalar.|9,2,8,7
-Santorini|g|deniz||Mavi kubbeler ve ünlü gün batımı.|7,8,8,4
-Roma|g|sehir||Kolezyum, çeşmeler ve makarna.|4,6,10,5
-Dubai|g|sehir||Gökdelenler, alışveriş ve çöl safarisi.|3,8,7,4
-Tokyo|g|sehir||Teknoloji, tapınaklar ve ramen.|5,7,10,3
-İsviçre Alpleri|g|doga||Karlı zirveler ve tren yolculukları.|10,5,7,3
-Barselona|g|sehir||Gaudí, plaj ve tapas.|5,9,9,5
-Phuket|g|deniz||Tayland'ın plaj ve eğlence adası.|8,9,8,5
-Bozcaada|g|deniz||Bağlar, rüzgâr ve sakin plajlar.|7,7,8,6
-Amasra|s|deniz||Balığı ve tarihi kalesiyle Karadeniz kasabası.|7,6,8,7
-Safranbolu|s|sehir||Osmanlı konakları ve lokumu.|6,2,8,7
-Mardin|s|sehir||Taş evler ve Mezopotamya manzarası.|5,2,9,7
-Gökçeada|s|deniz||Türkiye'nin en büyük adası, sakin ve doğal.|8,6,7,6
-Abant Gölü|s|doga||Hafta sonu kaçamaklarının gölü.|8,2,6,8
-Yedigöller|s|doga||Sonbaharda renk cümbüşü.|9,1,4,7
-Kaz Dağları|s|doga||Oksijen deposu yeşil dağlar.|9,3,7,8
-Saklıkent Kanyonu|s|doga||Buz gibi suyuyla kanyon yürüyüşü.|9,5,6,7
-Prag|s|sehir||Masal gibi köprüler ve kuleler.|4,6,8,7
-Amsterdam|s|sehir||Kanallar ve bisikletler.|4,7,7,5
-Kıbrıs|s|deniz||Plajlar ve eğlence yakınında.|7,8,8,7
-Batum|s|sehir||Karadeniz kıyısında yakın bir yurt dışı.|5,6,7,8
-Sapanca|s|doga||Göl kenarında bungalov tatili.|7,4,7,8
-Ağva|s|doga||İki nehrin denize kavuştuğu yeşil köy.|7,5,7,8
+Paris|e|sehir||Eyfel, Louvre ve kafeler.|4,7,9,5
+Roma|e|sehir||Kolezyum, çeşmeler ve makarna.|4,6,10,5
+Barselona|e|sehir||Gaudí, plaj ve tapas.|5,9,9,5
+Tokyo|e|sehir||Teknoloji, tapınaklar ve ramen.|5,7,10,3
+New York|e|sehir||Gökdelenler, müzeler ve Broadway.|4,9,9,3
+Çeşme|g|deniz||Ilıcalar, koylar ve kumsallar.|7,9,8,6
+Kıbrıs|g|deniz||Plajlar ve eğlence yakınında.|7,8,8,7
+Gökçeada|g|deniz||Türkiye'nin en büyük adası, sakin ve doğal.|8,6,7,6
+Saklıkent Kanyonu|g|doga||Buz gibi suyuyla kanyon yürüyüşü.|9,5,6,7
+Kaz Dağları|g|doga||Oksijen deposu yeşil dağlar.|9,3,7,8
+Yedigöller|g|doga||Sonbaharda renk cümbüşü.|9,1,4,7
+Mardin|g|sehir||Taş evler ve Mezopotamya manzarası.|5,2,9,7
+Safranbolu|g|sehir||Osmanlı konakları ve lokumu.|6,2,8,7
+Prag|g|sehir||Masal gibi köprüler ve kuleler.|4,6,8,7
+Amsterdam|g|sehir||Kanallar ve bisikletler.|4,7,7,5

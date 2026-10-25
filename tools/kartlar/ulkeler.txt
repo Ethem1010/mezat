@@ -1,36 +1,36 @@
 # Ülkeler — ad|seviye|grup|etiketler|açıklama|Turistik yerler,Mutfak,Kültür,Doğa
 İtalya|e|avrupa||Roma, Venedik, Floransa ve pizzanın vatanı.|10,10,10,8
-Türkiye|e|asya||İki kıta, binlerce yıllık tarih ve dünyanın en zengin mutfaklarından biri.|9,10,10,9
+Türkiye|e|asya||İki kıta, binlerce yıllık tarih, zengin mutfak.|9,10,10,9
 Fransa|e|avrupa||Dünyanın en çok turist ağırlayan ülkesi.|10,9,10,8
-Japonya|e|asya||Tapınaklar, sakuralar ve suşi; gelenekle gelecek bir arada.|9,10,10,8
 İspanya|e|avrupa||Flamenko, tapas ve sonsuz plajlar.|9,9,9,8
-ABD|e|amerika||Büyük Kanyon'dan New York'a her şey bir ülkede.|9,7,8,9
 Yunanistan|e|avrupa||Antik tapınaklar ve masmavi adalar.|9,8,9,8
-Mısır|g|afrika||Piramitler, Nil ve firavunların izleri.|9,6,10,6
-Meksika|g|amerika||Maya tapınakları, tacolar ve renkli şenlikler.|8,9,8,8
-Tayland|g|asya||Tapınaklar, plajlar ve sokak yemekleri.|8,9,8,9
-Brezilya|g|amerika||Amazon, karnaval ve samba.|7,8,8,10
-Avustralya|g|okyanusya||Kanguruların ve Mercan Kayalığı'nın kıtası.|8,6,6,10
-Kanada|g|amerika||Dağlar, göller ve uçsuz bucaksız ormanlar.|7,6,6,10
-İsviçre|g|avrupa||Alpler, çikolata ve kartpostal köyler.|8,6,6,10
-Peru|g|amerika||Machu Picchu ve And Dağları.|8,8,8,9
-Hindistan|g|asya||Tac Mahal, baharatlar ve renk cümbüşü.|8,9,9,7
-Çin|g|asya||Çin Seddi ve binlerce yıllık bir medeniyet.|9,9,9,7
-Fas|g|afrika||Çarşılar, çöl ve Marakeş'in renkleri.|8,8,8,7
-Portekiz|g|avrupa||Okyanus kıyıları, Lizbon ve pastel de nata.|8,8,7,8
-Endonezya|g|asya||Bali ve binlerce adalık tropik cennet.|7,7,7,10
-Yeni Zelanda|g|okyanusya||Dünyanın en etkileyici doğa manzaralarından bazıları.|7,6,6,10
-Almanya|s|avrupa||Şatolar, Noel pazarları ve düzenli şehirler.|8,6,8,7
-İngiltere|s|avrupa||Londra, kraliyet ve tarih.|9,5,8,6
-Hollanda|s|avrupa||Laleler, yel değirmenleri ve kanallar.|7,5,7,6
-Norveç|s|avrupa||Fiyortlar ve kuzey ışıkları.|6,5,6,10
-İzlanda|s|avrupa||Volkanlar, buzullar ve gayzerler.|6,4,5,10
-Arjantin|s|amerika||Tango, et ve Patagonya.|7,8,7,8
-Güney Kore|s|asya||K-pop, teknoloji ve tapınaklar.|7,8,8,6
-Vietnam|s|asya||Ha Long Körfezi ve lezzetli sokak çorbaları.|7,8,7,8
-Güney Afrika|s|afrika||Safari, şarap bağları ve Cape Town.|7,6,6,9
-Kenya|s|afrika||Büyük göç ve safari ülkesi.|6,5,6,9
-Tanzanya|s|afrika||Kilimanjaro ve Serengeti.|7,5,6,9
-Küba|s|amerika||Klasik arabalar, salsa ve Havana.|7,6,8,7
-Fiji|s|okyanusya||Pasifik'te turkuaz adalar.|6,5,6,9
-Hırvatistan|s|avrupa||Dubrovnik ve Adriyatik koyları.|7,6,6,9
+Portekiz|e|avrupa||Okyanus kıyıları, Lizbon ve pastel de nata.|8,8,8,8
+İsviçre|e|avrupa||Alpler, çikolata ve kartpostal köyler.|8,7,7,10
+Norveç|e|avrupa||Fiyortlar ve kuzey ışıkları.|8,6,7,10
+İzlanda|e|avrupa||Volkanlar, buzullar ve gayzerler.|8,5,6,10
+Japonya|e|asya||Tapınaklar, sakuralar ve suşi.|9,10,10,8
+Çin|e|asya||Çin Seddi ve binlerce yıllık medeniyet.|9,9,9,8
+Hindistan|e|asya||Tac Mahal, baharatlar ve renk cümbüşü.|9,9,10,8
+Tayland|e|asya||Tapınaklar, plajlar ve sokak yemekleri.|9,9,8,9
+Güney Kore|e|asya||K-pop, teknoloji ve tapınaklar.|8,9,9,7
+Vietnam|e|asya||Ha Long Körfezi ve lezzetli sokak yemekleri.|8,9,8,9
+Endonezya|e|asya||Bali ve binlerce adalık tropik cennet.|8,8,8,10
+ABD|e|amerika||Büyük Kanyon'dan New York'a her şey bir ülkede.|10,8,9,9
+Kanada|e|amerika||Dağlar, göller ve uçsuz bucaksız ormanlar.|8,7,7,10
+Meksika|e|amerika||Maya tapınakları, tacolar ve renkli şenlikler.|9,9,9,8
+Brezilya|e|amerika||Amazon, karnaval ve samba.|8,8,9,10
+Peru|e|amerika||Machu Picchu ve And Dağları.|9,9,8,9
+Mısır|e|afrika||Piramitler, Nil ve firavunların izleri.|10,7,10,7
+Fas|e|afrika||Çarşılar, çöl ve Marakeş'in renkleri.|8,9,9,8
+Avustralya|e|okyanusya||Mercan Kayalığı ve kanguruların kıtası.|9,7,7,10
+Yeni Zelanda|e|okyanusya||Dünyanın en etkileyici doğa manzaralarından.|8,6,7,10
+Almanya|g|avrupa||Şatolar, Noel pazarları ve düzenli şehirler.|8,7,8,7
+İngiltere|g|avrupa||Londra, kraliyet ve tarih.|9,6,9,6
+Hollanda|g|avrupa||Laleler, yel değirmenleri ve kanallar.|8,6,7,6
+Avusturya|g|avrupa||Viyana'nın klasik müziği ve Alp köyleri.|8,7,8,9
+Hırvatistan|g|avrupa||Dubrovnik ve Adriyatik koyları.|8,7,7,9
+Arjantin|g|amerika||Tango, et ve Patagonya.|7,8,8,9
+Küba|g|amerika||Klasik arabalar, salsa ve Havana.|8,7,9,7
+Güney Afrika|g|afrika||Safari, şarap bağları ve Cape Town.|8,7,7,9
+Kenya|g|afrika||Büyük göç ve safari ülkesi.|7,6,7,10
+Tanzanya|g|afrika||Kilimanjaro, Serengeti ve Zanzibar.|8,6,7,10

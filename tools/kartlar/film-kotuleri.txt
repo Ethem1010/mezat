@@ -1,36 +1,36 @@
 # Film Kötüleri — ad|seviye|grup|etiketler|açıklama|Güç,Zeka ve plan,Korkutuculuk,Efsanelik
 Darth Vader|e|guc||Nefesiyle bile korkutan Sith lordu.|9,8,9,10
-Joker|e|zeka||Kaosu planlayan gülümseyen deli.|4,9,9,10
 Thanos|e|guc||Bir şıklatmayla evrenin yarısını silen titan.|10,9,8,9
 Voldemort|e|guc||Adı anılmaması gereken karanlık büyücü.|9,8,9,9
-Hannibal Lecter|e|zeka||Dâhi ve ürkütücü psikiyatrist.|3,10,10,9
 Sauron|e|guc||Tek Yüzük'ün karanlık efendisi.|10,8,9,9
+Magneto|e|guc||Metali yöneten güçlü mutant.|9,8,7,8
+Ajan Smith|e|guc||Matrix'te kendini çoğaltan program.|7,8,7,8
+Terminatör (T-800)|e|guc||Durdurulamayan robot suikastçi.|8,6,9,9
+Bane|e|guc||Batman'in belini kıran güçlü stratejist.|9,8,8,7
+Darkseid|e|guc||Apokolips'in acımasız hükümdarı.|10,8,8,7
+Ultron|e|guc||İnsanlığı yok etmek isteyen yapay zekâ.|9,9,7,7
+Joker|e|zeka||Kaosu planlayan gülümseyen deli.|4,9,9,10
+Hannibal Lecter|e|zeka||Dâhi ve ürkütücü psikiyatrist.|3,10,10,9
+Loki|e|zeka||Yalanların ve hilelerin tanrısı.|6,9,5,8
+Lex Luthor|e|zeka||Superman'in dâhi düşmanı.|3,10,6,8
+Darth Sidious|e|zeka||Galaksiyi perde arkasından yöneten imparator.|9,10,8,8
+Hans Gruber|e|zeka||Gökdelen soygununun soğukkanlı beyni.|3,9,6,8
+Scar|e|zeka||Tahta göz diken kıskanç aslan.|5,8,6,9
+Anton Chigurh|e|korku||Yazı turayla karar veren soğuk tetikçi.|6,8,10,8
 Freddy Krueger|e|korku||Rüyalarda avlanan kâbus.|6,6,10,9
-Loki|g|zeka||Yalanların ve hilelerin tanrısı.|6,9,5,8
-Magneto|g|guc||Metali yöneten güçlü mutant.|9,8,7,8
-Lex Luthor|g|zeka||Superman'in dâhi düşmanı.|3,10,6,8
-Ajan Smith|g|guc||Matrix'te kendini çoğaltan program.|7,8,7,8
-Terminatör (T-800)|g|guc||Durdurulamayan robot suikastçi.|8,6,9,9
-Ksenomorf (Alien)|g|korku||Uzayda kimse çığlığını duymaz.|8,5,10,9
-Pennywise|g|korku||Kanalizasyondaki korkunç palyaço.|7,7,10,8
-Darth Sidious|g|zeka||Galaksiyi perde arkasından yöneten imparator.|9,10,8,8
-Hans Gruber|g|zeka||Gökdelen soygununun soğukkanlı beyni.|3,9,6,8
-Jack Torrance|g|korku||Issız otelde aklını kaybeden adam.|4,4,9,9
+Ksenomorf (Alien)|e|korku||Uzayda kimse çığlığını duymaz.|8,5,10,9
+Pennywise|e|korku||Kanalizasyondaki korkunç palyaço.|7,7,10,8
+Jack Torrance|e|korku||Issız otelde aklını kaybeden adam.|4,4,9,9
+Norman Bates|e|korku||Bates Motel'in ürkütücü sahibi.|3,6,9,9
+Michael Myers|e|korku||Cadılar Bayramı'nın sessiz avcısı.|7,3,9,8
+Jason Voorhees|e|korku||Maskeli ve durdurulamaz.|7,2,9,8
+Megatron|g|guc||Decepticon'ların lideri dev robot.|9,6,7,7
+Green Goblin|g|guc||Örümcek Adam'ın uçan düşmanı.|7,7,7,7
+Jafar|g|zeka||Lambanın peşindeki hain vezir.|7,8,6,7
+Ursula|g|zeka||Denizlerin pazarlıkçı cadısı.|6,7,6,7
+Kötü Kraliçe|g|zeka||Ayna ayna söyle bana…|4,7,6,7
+Cruella de Vil|g|zeka||Dalmaçyalı peşindeki moda delisi.|2,6,5,7
 Annabelle|g|korku||Lanetli oyuncak bebek.|5,4,9,7
 Chucky|g|korku||Katil ruhlu oyuncak.|3,6,8,8
-Bane|g|guc||Batman'in belini kıran güçlü strateji ustası.|9,8,8,7
-Scar|g|zeka||Tahta göz diken kıskanç aslan.|5,8,6,9
-Jason Voorhees|s|korku||Maskeli ve durdurulamaz.|7,2,9,8
-Michael Myers|s|korku||Cadılar Bayramı'nın sessiz avcısı.|7,3,9,8
-Ghostface|s|korku||Telefondaki tüyler ürperten ses.|4,6,8,7
-Kötü Kraliçe|s|zeka||Ayna ayna söyle bana...|4,7,6,7
-Ursula|s|zeka||Denizlerin pazarlıkçı cadısı.|6,7,6,7
-Cruella de Vil|s|zeka||Dalmaçyalı peşindeki moda delisi.|2,6,5,7
-Jafar|s|zeka||Lambanın peşindeki hain vezir.|7,8,6,7
-Gargamel|s|zeka||Şirinleri hiç yakalayamayan büyücü.|1,3,1,6
-Dr. Evil|s|zeka||Bir milyon dolar isteyen komik kötü.|2,5,2,7
-Megatron|s|guc||Decepticon'ların lideri dev robot.|9,6,7,7
-Gollum|s|korku||Kıymetlisinin peşindeki yaratık.|2,5,6,8
-Darkseid|s|guc||Apokolips'in acımasız hükümdarı.|10,8,8,6
-Green Goblin|s|guc||Örümcek Adam'ın uçan düşmanı.|7,7,7,7
-Kaptan Kanca|s|zeka||Peter Pan'ın timsahtan korkan düşmanı.|3,6,4,7
+Ghostface|g|korku||Telefondaki tüyler ürperten ses.|4,6,8,7
+Gollum|g|korku||Kıymetlisinin peşindeki yaratık.|2,5,6,8

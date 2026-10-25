@@ -1,36 +1,36 @@
 # Futbol Takımları — ad|seviye|grup|etiketler|açıklama|Kupa sayısı,Kadro gücü,Tarihi başarı,Taraftar
 Real Madrid|e|ispanya||Şampiyonlar Ligi'nin rekortmeni.|10,10,10,10
 Barcelona|e|ispanya||Tiki-taka ve La Masia'nın kulübü.|10,9,10,10
+Atlético Madrid|e|ispanya||Mücadeleci oyunuyla Madrid'in diğer devi.|8,8,8,9
 Bayern Münih|e|almanya||Bundesliga'nın tartışmasız hâkimi.|10,9,10,9
-Manchester United|e|ingiltere||İngiltere'nin en çok sevilen kulüplerinden.|9,8,10,10
-Liverpool|e|ingiltere||You'll Never Walk Alone'un kulübü.|9,9,10,10
-AC Milan|e|italya||Yedi Avrupa kupasıyla İtalya'nın en büyüğü.|9,7,10,9
-Juventus|e|italya||İtalya'da en çok lig şampiyonluğu olan kulüp.|9,8,9,9
-Galatasaray|g|turkiye||UEFA Kupası ve Süper Kupa kazanan Türk kulübü.|8,7,8,10
-Fenerbahçe|g|turkiye||Dev taraftar kitlesiyle Kadıköy'ün kulübü.|7,7,8,10
-Beşiktaş|g|turkiye||Türkiye'nin en köklü kulüplerinden, Kara Kartal.|7,6,8,10
-Trabzonspor|g|turkiye||Anadolu'nun şampiyonluk kazanan kulübü.|6,6,7,9
-Manchester City|g|ingiltere||Son yılların İngiltere hâkimi.|8,10,7,8
-Chelsea|g|ingiltere||İki kez Avrupa şampiyonu Londra kulübü.|8,8,8,8
-Arsenal|g|ingiltere||Yenilmezler sezonuyla tarihe geçen kulüp.|7,9,8,9
-Inter|g|italya||Üçlü kupa sahibi Milano kulübü.|8,8,9,9
-Paris Saint-Germain|g|diger||Yıldızlarla dolu Fransız devi.|7,10,6,8
-Ajax|g|diger||Gençlik akademisiyle ünlü dört kez Avrupa şampiyonu.|8,6,9,8
-Borussia Dortmund|g|almanya||Sarı Duvar taraftarıyla meşhur.|6,8,7,10
-Atlético Madrid|g|ispanya||Mücadeleci oyunuyla Madrid'in diğer devi.|7,8,7,9
-Benfica|g|diger||Portekiz'in en çok taraftarı olan kulübü.|7,6,8,9
-Porto|g|diger||İki kez Avrupa şampiyonu Portekiz kulübü.|7,6,8,8
-Napoli|s|italya||Maradona'nın şehri, tutkulu taraftar.|6,7,6,10
-Roma|s|italya||Başkentin kulübü, Konferans Ligi şampiyonu.|5,6,6,9
-Tottenham|s|ingiltere||Kuzey Londra'nın Spurs'ü.|5,8,6,8
-Sevilla|s|ispanya||Avrupa Ligi'nin rekortmeni.|7,6,6,8
-Valencia|s|ispanya||İki Şampiyonlar Ligi finali oynamış kulüp.|5,5,6,8
-Celtic|s|diger||İskoçya'nın ilk Avrupa şampiyonu.|6,5,7,9
-Boca Juniors|s|diger||Bombonera'nın ateşli kulübü.|8,6,8,10
-Flamengo|s|diger||Brezilya'nın en çok taraftarı olan kulübü.|7,7,7,10
-Bayer Leverkusen|s|almanya||Yenilgisiz şampiyonluğuyla tarih yazan kulüp.|5,8,5,7
-Schalke 04|s|almanya||Ruhr bölgesinin köklü kulübü.|4,4,6,9
-Başakşehir|s|turkiye||İstanbul'un şampiyonluk yaşamış genç kulübü.|4,5,3,3
-Göztepe|s|turkiye||Avrupa'da yarı final görmüş İzmir kulübü.|3,4,4,7
-Bursaspor|s|turkiye||Anadolu'ya ilk şampiyonluklardan birini getiren Timsahlar.|4,3,5,8
-Marsilya|s|diger||Fransa'nın tek Şampiyonlar Ligi şampiyonu.|6,6,7,9
+Borussia Dortmund|e|almanya||Sarı Duvar taraftarıyla meşhur.|7,8,8,10
+Manchester United|e|ingiltere||İngiltere'nin en çok sevilen kulüplerinden.|10,8,10,10
+Liverpool|e|ingiltere||You'll Never Walk Alone'un kulübü.|10,9,10,10
+Manchester City|e|ingiltere||Son yılların İngiltere hâkimi.|9,10,8,8
+Chelsea|e|ingiltere||İki kez Avrupa şampiyonu Londra kulübü.|9,8,8,8
+Arsenal|e|ingiltere||Yenilmezler sezonuyla tarihe geçen kulüp.|8,9,9,9
+AC Milan|e|italya||Yedi Avrupa kupasıyla İtalya'nın en büyüğü.|10,8,10,9
+Juventus|e|italya||İtalya'da en çok lig şampiyonluğu olan kulüp.|10,8,9,9
+Inter|e|italya||Üçlü kupa sahibi Milano kulübü.|9,9,9,9
+Napoli|e|italya||Maradona'nın şehri, tutkulu taraftar.|7,8,7,10
+Galatasaray|e|turkiye||UEFA Kupası ve Süper Kupa kazanan Türk kulübü.|9,8,9,10
+Fenerbahçe|e|turkiye||Dev taraftar kitlesiyle Kadıköy'ün kulübü.|8,8,8,10
+Beşiktaş|e|turkiye||Türkiye'nin en köklü kulüplerinden, Kara Kartal.|8,7,8,10
+Ajax|e|diger||Gençlik akademisiyle ünlü dört kez Avrupa şampiyonu.|9,7,9,8
+Paris Saint-Germain|e|diger||Yıldızlarla dolu Fransız devi.|8,10,7,8
+Benfica|e|diger||Portekiz'in en çok taraftarı olan kulübü.|8,7,9,9
+Porto|e|diger||İki kez Avrupa şampiyonu Portekiz kulübü.|8,7,8,8
+Boca Juniors|e|diger||Bombonera'nın ateşli kulübü.|9,7,9,10
+River Plate|e|diger||Arjantin'in en başarılı kulüplerinden.|9,7,9,9
+Flamengo|e|diger||Brezilya'nın en çok taraftarı olan kulübü.|8,8,8,10
+Celtic|e|diger||İskoçya'nın ilk Avrupa şampiyonu.|8,6,8,9
+Trabzonspor|g|turkiye||Anadolu'nun şampiyonluk kazanan kulübü.|7,7,7,9
+Tottenham|g|ingiltere||Kuzey Londra'nın Spurs'ü.|6,8,6,8
+Aston Villa|g|ingiltere||1982 Avrupa şampiyonu köklü kulüp.|7,7,8,8
+Sevilla|g|ispanya||Avrupa Ligi'nin rekortmeni.|8,7,7,8
+Valencia|g|ispanya||İki Şampiyonlar Ligi finali oynamış kulüp.|7,6,7,8
+Roma|g|italya||Başkentin kulübü, Konferans Ligi şampiyonu.|6,7,6,9
+Bayer Leverkusen|g|almanya||Yenilgisiz şampiyonluğuyla tarih yazan kulüp.|6,8,6,7
+Marsilya|g|diger||Fransa'nın ilk Şampiyonlar Ligi şampiyonu.|7,7,7,9
+Feyenoord|g|diger||Avrupa şampiyonluğu yaşamış Rotterdam kulübü.|7,6,7,8
+Santos|g|diger||Pelé'nin efsane kulübü.|8,5,8,8

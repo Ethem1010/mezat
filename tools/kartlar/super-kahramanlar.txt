@@ -1,36 +1,36 @@
 # Süper Kahramanlar — ad|seviye|grup|etiketler|açıklama|Güç,Süper yetenek,Zeka,Takım uyumu
 Superman|e|guc||Uçan, kurşun geçirmez Krypton'lu.|10,10,7,8
-Batman|e|zeka||Süper gücü yok ama dâhi bir dedektif ve stratejist.|6,4,10,7
-Örümcek Adam|e|guc||Ağ atan, duvarlara tırmanan mahalle kahramanı.|7,8,8,8
-Iron Man|e|zeka||Zırhını kendi yapan dâhi mucit.|8,8,10,6
 Wonder Woman|e|guc||Amazon savaşçısı, gerçeğin kementinin sahibi.|9,8,7,9
 Thor|e|guc||Çekiciyle şimşek çağıran gök gürültüsü tanrısı.|10,9,6,7
 Hulk|e|guc||Sinirlendikçe güçlenen yeşil dev.|10,8,3,4
-Kaptan Amerika|g|guc||Kalkanıyla takımın doğal lideri.|7,6,8,10
-Doktor Strange|g|ozel||Büyünün ve zamanın ustası.|7,10,9,7
-Black Panther|g|zeka||Wakanda'nın kralı ve teknolojisi.|7,7,9,8
-Flash|g|ozel||Işıktan hızlı koşabilen kahraman.|6,10,7,8
-Aquaman|g|guc||Denizlerin kralı.|8,8,6,7
-Wolverine|g|guc||Pençeleri ve iyileşme gücüyle dayanıklı savaşçı.|8,8,5,5
-Scarlet Witch|g|ozel||Gerçekliği büken güçlü büyücü.|8,10,6,6
-Captain Marvel|g|guc||Kozmik enerjiyle uçan en güçlülerden.|10,9,6,7
-Green Lantern|g|ozel||Yüzüğüyle hayal ettiğini yaratan kahraman.|8,9,6,8
-Black Widow|g|zeka||Casusluk ve dövüş ustası.|5,4,9,9
-Profesör X|g|zeka||Zihinleri okuyan X-Men lideri.|3,10,10,8
-Storm|g|ozel||Havayı kontrol eden mutant.|7,9,7,8
-Vision|g|ozel||Yapay zekâdan doğan güçlü android.|8,8,8,8
-Supergirl|g|guc||Superman'in kuzeni, aynı güçlere sahip.|9,9,6,8
-Ant-Man|s|ozel||Küçülüp büyüyebilen kahraman.|5,7,6,7
-Hawkeye|s|zeka||Hiç ıskalamayan okçu.|4,4,7,8
-Robin|s|zeka||Batman'in genç ortağı.|4,3,7,8
-Deadpool|s|guc||Ölümsüz ve geveze antikahraman.|7,7,5,3
-Cyclops|s|ozel||Gözlerinden ışın atan X-Men lideri.|6,7,7,8
-Groot|s|guc||Sadece "Ben Groot'um" diyen ağaç.|7,6,3,9
-Rocket Raccoon|s|zeka||Silah ustası rakun.|4,3,9,6
-Star-Lord|s|zeka||Galaksinin Koruyucuları'nın lideri.|5,4,6,7
-Cyborg|s|zeka||Yarı insan yarı makine kahraman.|7,7,8,8
-Green Arrow|s|zeka||Teknolojik oklarıyla şehri koruyan okçu.|4,3,7,7
-Gambit|s|ozel||Kartlara enerji yükleyen mutant.|5,7,6,6
-Daredevil|s|guc||Görmeyen ama her şeyi hisseden avukat.|5,7,7,6
-Shazam|s|guc||Bir kelimeyle yetişkin kahramana dönüşen çocuk.|9,8,4,7
-Falcon|s|zeka||Kanatlarıyla uçan asker.|5,5,7,8
+Captain Marvel|e|guc||Kozmik enerjiyle uçan en güçlülerden.|10,9,6,7
+Supergirl|e|guc||Superman'in kuzeni, aynı güçlere sahip.|9,9,6,8
+Shazam|e|guc||Tek kelimeyle yetişkin kahramana dönüşen çocuk.|9,8,4,7
+Martian Manhunter|e|guc||Şekil değiştiren güçlü Marslı.|9,9,8,9
+Aquaman|e|guc||Denizlerin kralı.|8,8,6,7
+Wolverine|e|guc||Pençeleri ve iyileşme gücüyle dayanıklı savaşçı.|8,8,5,5
+Örümcek Adam|e|guc||Ağ atan, duvarlara tırmanan mahalle kahramanı.|7,8,8,8
+Kaptan Amerika|e|guc||Kalkanıyla takımın doğal lideri.|7,6,8,10
+Batman|e|zeka||Süper gücü yok ama dâhi dedektif ve stratejist.|6,4,10,7
+Iron Man|e|zeka||Zırhını kendi yapan dâhi mucit.|8,8,10,6
+Black Panther|e|zeka||Wakanda'nın kralı ve teknolojisi.|7,7,9,8
+Profesör X|e|zeka||Zihinleri okuyan X-Men lideri.|3,10,10,8
+Black Widow|e|zeka||Casusluk ve dövüş ustası.|5,4,9,9
+Doktor Strange|e|ozel||Büyünün ve zamanın ustası.|7,10,9,7
+Scarlet Witch|e|ozel||Gerçekliği büken güçlü büyücü.|8,10,6,6
+Flash|e|ozel||Işıktan hızlı koşabilen kahraman.|6,10,7,8
+Green Lantern|e|ozel||Yüzüğüyle hayal ettiğini yaratan kahraman.|8,9,6,8
+Jean Grey|e|ozel||Telekinezi ve telepatinin en güçlüsü.|8,10,7,7
+Silver Surfer|e|ozel||Kozmik güçlerle evreni dolaşan sörfçü.|9,10,7,6
+Storm|e|ozel||Havayı kontrol eden mutant.|7,9,7,8
+Vision|e|ozel||Yapay zekâdan doğan güçlü android.|8,8,8,8
+Deadpool|g|guc||Ölümsüz ve geveze antikahraman.|7,7,5,3
+Groot|g|guc||Sadece "Ben Groot'um" diyen ağaç.|7,6,3,9
+Daredevil|g|guc||Görmeyen ama her şeyi hisseden avukat.|5,7,7,6
+Cyborg|g|zeka||Yarı insan yarı makine kahraman.|7,7,8,8
+Rocket Raccoon|g|zeka||Silah ustası rakun.|4,3,9,6
+Star-Lord|g|zeka||Galaksinin Koruyucuları'nın lideri.|5,4,6,8
+Hawkeye|g|zeka||Hiç ıskalamayan okçu.|4,4,7,8
+Falcon|g|zeka||Kanatlarıyla uçan asker.|5,5,7,8
+Ant-Man|g|ozel||Küçülüp büyüyebilen kahraman.|5,7,6,7
+Cyclops|g|ozel||Gözlerinden ışın atan X-Men lideri.|6,7,7,8

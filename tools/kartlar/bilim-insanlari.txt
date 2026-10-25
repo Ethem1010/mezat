@@ -1,36 +1,36 @@
 # Bilim İnsanları — ad|seviye|grup|etiketler|açıklama|Keşiflerin önemi,İnsanlığa etkisi,Ödüller,Çok yönlülük
-Albert Einstein|e|fizik||Görelilik kuramıyla zamanı ve uzayı yeniden tanımladı.|10,9,10,7
-Isaac Newton|e|fizik||Yerçekimi, hareket yasaları ve kalkülüs.|10,10,6,10
-Marie Curie|e|kimya||İki farklı alanda Nobel kazanan ilk kişi.|9,9,10,7
-Nikola Tesla|e|fizik||Alternatif akımla dünyayı aydınlattı.|9,10,4,8
-Charles Darwin|e|biyoloji||Evrim kuramının babası.|10,9,6,7
-Galileo Galilei|e|fizik||Teleskopla gökyüzünü inceleyen modern bilimin öncüsü.|9,9,4,8
-Alan Turing|e|matematik||Bilgisayar biliminin ve yapay zekanın kurucusu.|9,10,5,8
-Aziz Sancar|g|kimya||DNA onarımı çalışmalarıyla Nobel kazanan Türk bilim insanı.|8,8,10,5
-Louis Pasteur|g|biyoloji||Aşılar ve pastörizasyonla milyonlarca hayat kurtardı.|9,10,7,6
-Alexander Fleming|g|biyoloji||Penisilini keşfeden bilim insanı.|9,10,9,4
-Stephen Hawking|g|fizik||Kara delikler ve evrenin kökeni üzerine çalıştı.|8,7,7,6
-İbn-i Sina|g|biyoloji||Tıbbın Kanunu ile yüzyıllarca okutulan hekim.|8,9,5,10
-El-Harezmî|g|matematik||Cebirin babası, algoritma kelimesinin kaynağı.|9,9,4,7
-Ali Kuşçu|g|fizik||Astronomi ve matematikte öncü Osmanlı bilgini.|7,6,3,8
-Cahit Arf|g|matematik||Arf değişmezi ile tanınan Türk matematikçi.|8,6,6,5
-Leonardo da Vinci|g|fizik||Ressam, mucit ve mühendis; çok yönlülüğün simgesi.|8,8,4,10
-Arşimet|g|matematik||Kaldıraç ve kaldırma kuvvetinin kâşifi.|9,8,4,9
-Thomas Edison|g|fizik||Binden fazla patent alan mucit.|8,9,5,7
-Dmitri Mendeleyev|g|kimya||Periyodik tabloyu düzenleyen kimyacı.|9,8,5,5
-Gregor Mendel|g|biyoloji||Bezelyelerle genetiğin temelini attı.|9,8,3,4
-Niels Bohr|g|fizik||Atom modeliyle Nobel kazandı.|9,8,10,6
-Carl Sagan|s|fizik||Bilimi milyonlara sevdiren astronom.|6,7,6,7
-Richard Feynman|s|fizik||Nobel'li, esprili kuantum fizikçisi.|8,6,10,7
-Rosalind Franklin|s|biyoloji||DNA'nın yapısının çözülmesinde kilit rol oynadı.|8,7,3,5
-Jonas Salk|s|biyoloji||Çocuk felci aşısını geliştirdi.|8,10,5,4
-Ada Lovelace|s|matematik||İlk bilgisayar programını yazdığı kabul edilir.|7,7,2,6
-Pisagor|s|matematik||Üçgenler denince akla gelen isim.|8,7,3,7
-Öklid|s|matematik||Geometrinin temel kitabını yazdı.|9,7,3,6
-Kopernik|s|fizik||Dünyanın Güneş'in etrafında döndüğünü savundu.|9,8,3,6
-Johannes Kepler|s|fizik||Gezegen hareketlerinin yasalarını buldu.|9,7,3,6
-Michael Faraday|s|fizik||Elektromanyetizmanın temellerini attı.|9,9,5,6
-Antoine Lavoisier|s|kimya||Modern kimyanın babası.|9,7,3,6
-Alfred Nobel|s|kimya||Dinamitin mucidi, Nobel Ödülü'nün kurucusu.|6,7,4,6
-Feza Gürsey|s|fizik||Parçacık fiziğine katkılarıyla tanınan Türk fizikçi.|7,5,6,5
-Oktay Sinanoğlu|s|kimya||Kuantum kimyası alanında çalışan Türk bilim insanı.|7,5,5,5
+Albert Einstein|e|fizik||Görelilik kuramının babası.|10,10,9,8
+Isaac Newton|e|fizik||Yerçekimi ve hareket yasaları.|10,10,7,10
+Galileo Galilei|e|fizik||Modern bilimin öncüsü.|10,9,5,9
+Nikola Tesla|e|fizik||Alternatif akımın dâhisi.|9,10,6,9
+Marie Curie|e|kimya||İki farklı dalda Nobel kazanan tek kişi.|10,9,10,8
+Stephen Hawking|e|fizik||Kara deliklerin sırları.|9,8,8,7
+Michael Faraday|e|fizik||Elektromanyetizmanın kâşifi.|10,10,7,8
+James Clerk Maxwell|e|fizik||Elektromanyetizma denklemleri.|10,9,6,8
+Niels Bohr|e|fizik||Atom modelinin mimarı.|9,9,9,7
+Richard Feynman|e|fizik||Kuantumu anlatan efsane hoca.|9,7,9,8
+Dmitri Mendeleyev|e|kimya||Periyodik tabloyu kurdu.|10,9,6,7
+Antoine Lavoisier|e|kimya||Modern kimyanın babası.|9,8,5,8
+Alfred Nobel|e|kimya||Dinamit ve Nobel ödülleri.|8,9,6,7
+Linus Pauling|e|kimya||İki tek başına Nobel kazanan kimyager.|9,8,10,8
+Aziz Sancar|e|kimya||DNA onarımıyla Nobel alan Türk bilim insanı.|9,9,10,6
+Charles Darwin|e|biyoloji||Evrim kuramı.|10,10,7,8
+Louis Pasteur|e|biyoloji||Aşı ve pastörizasyon.|10,10,7,8
+Alexander Fleming|e|biyoloji||Penisilini keşfetti.|10,10,9,6
+Gregor Mendel|e|biyoloji||Genetiğin babası.|10,9,4,6
+Watson & Crick|e|biyoloji||DNA'nın çift sarmalı.|10,10,10,6
+İbn-i Sina|e|biyoloji||Tıbbın kanonunu yazdı.|9,9,5,10
+Pisagor|e|matematik||Ünlü teoremin sahibi.|9,8,4,8
+Arşimet|e|matematik||"Evreka!" diyen dâhi.|10,9,4,10
+Harezmi|e|matematik||Algoritma ve cebirin babası.|10,10,4,9
+Leonardo da Vinci|e|matematik||Sanatçı, mucit, bilim insanı.|9,9,5,10
+Carl Friedrich Gauss|g|matematik||Matematiğin prensi.|10,7,6,9
+Alan Turing|g|matematik||Bilgisayar biliminin babası.|10,10,6,8
+Ada Lovelace|g|matematik||İlk bilgisayar programcısı.|8,8,4,7
+Euclid|g|matematik||Geometrinin babası.|9,8,3,7
+Uğur Şahin|g|biyoloji||mRNA aşısının öncülerinden.|8,9,8,6
+Cahit Arf|g|matematik||Arf değişmezinin sahibi Türk matematikçi.|8,6,6,6
+Robert Hooke|g|biyoloji||Hücreyi ilk gören bilim insanı.|8,7,4,8
+Johannes Kepler|g|fizik||Gezegen hareket yasaları.|9,8,4,7
+Max Planck|g|fizik||Kuantum kuramının kurucusu.|9,8,9,6
+Rosalind Franklin|g|kimya||DNA'nın ilk fotoğrafını çekti.|8,8,4,6

@@ -1,36 +1,36 @@
 # Motosikletler — ad|seviye|grup|etiketler|açıklama|Hız,Hızlanma,Tasarım,Efsanelik
 Kawasaki Ninja H2R|e|sport||Süper şarjlı, pist için yapılmış canavar.|10,10,9,9
-Ducati Panigale V4|e|sport||İtalyan tasarımı ve yarış teknolojisi.|10,10,10,8
-Honda CBR1000RR Fireblade|e|sport||Süper spor sınıfının uzun soluklu efsanesi.|9,9,8,9
-Harley-Davidson Fat Boy|e|klasik||Amerikan chopper kültürünün ikonu.|5,5,9,10
-Suzuki Hayabusa|e|sport||Uzun yıllar en hızlı seri üretim motor.|10,9,7,10
-Yamaha YZF-R1|e|sport||Yamaha'nın pistten gelen süper sporu.|9,9,8,9
-BMW R 1250 GS|e|naked||Dünyayı dolaşanların macera motoru.|7,7,8,9
+Ducati Panigale V4 R|e|sport||İtalyan tasarımı ve yarış teknolojisi.|10,10,10,9
+Suzuki Hayabusa|e|sport||Uzun yıllar en hızlı seri üretim motor.|10,9,8,10
+Honda CBR1000RR-R Fireblade|e|sport||Süper spor sınıfının uzun soluklu efsanesi.|10,10,8,9
+Yamaha YZF-R1M|e|sport||Yamaha'nın pistten gelen süper sporu.|10,10,9,9
+BMW M 1000 RR|e|sport||BMW'nin M ruhlu süper sporu.|10,10,9,8
+MV Agusta F4|e|sport||En güzel motosikletlerden sayılan tasarım.|9,9,10,9
+Aprilia RSV4|e|sport||Şampiyonluklarla gelen İtalyan V4.|10,9,9,8
+Ducati 916|e|sport||90'ların tasarım ikonu.|8,8,10,10
+Honda CBR900RR (1992)|e|sport||Hafif süper spor akımını başlatan model.|8,8,8,9
+Kawasaki Z1 (1972)|e|klasik||Japon süper motorlarının atası.|7,7,9,10
+Honda CB750 (1969)|e|klasik||Süper motor çağını başlatan klasik.|7,7,9,10
+Harley-Davidson Fat Boy|e|klasik||Amerikan chopper kültürünün ikonu.|6,6,10,10
+Harley-Davidson Electra Glide|e|klasik||Uzun yolun Amerikan kralı.|6,6,9,10
+Triumph Bonneville|e|klasik||İngiliz klasik motor efsanesi.|6,6,9,10
+Brough Superior SS100|e|klasik||Motosikletlerin Rolls-Royce'u diye anılan efsane.|7,7,10,10
+Vincent Black Shadow|e|klasik||1940'ların en hızlı motoru.|8,7,9,10
+Indian Chief|e|klasik||Amerika'nın en köklü motor markasının ikonu.|6,6,10,9
+Ducati Monster|e|naked||Naked motor akımını başlatan tasarım.|8,9,10,9
+KTM 1290 Super Duke R|e|naked||"Canavar" lakaplı güçlü naked.|9,10,9,8
+Ducati Streetfighter V4|e|naked||Süper spor gücünde naked.|10,10,9,8
+BMW R 1250 GS|e|naked||Dünyayı dolaşanların macera motoru.|8,8,8,10
+Honda Africa Twin|e|naked||Çölde ve asfaltta efsane gezgin.|7,7,8,9
+Vespa (klasik)|e|sehir||İtalyan şıklığının şehir simgesi.|3,3,10,10
+Honda Super Cub|e|sehir||Dünyanın en çok üretilen motorlu taşıtı.|3,3,8,10
 Kawasaki Ninja ZX-10R|g|sport||Dünya Superbike şampiyonu.|9,9,8,8
-Ducati Monster|g|naked||Naked motor akımını başlatan tasarım.|7,8,9,9
-Yamaha MT-09|g|naked||Üç silindirli eğlenceli naked.|7,9,8,7
-KTM 1290 Super Duke|g|naked||Turuncu canavar lakaplı güçlü naked.|9,10,8,7
-Triumph Bonneville|g|klasik||İngiliz klasik motor efsanesi.|5,5,9,9
-Royal Enfield Classic|g|klasik||Hindistan'dan gelen nostaljik tasarım.|3,3,8,8
-Indian Chief|g|klasik||Amerika'nın en eski motosiklet markasından.|5,5,9,8
-Harley-Davidson Sportster|g|klasik||Harley'nin daha çevik kardeşi.|5,5,8,8
-Vespa|g|sehir||İtalyan şıklığının şehir simgesi.|2,2,10,10
-Honda CB750|g|klasik||Süper motor çağını başlatan klasik.|6,6,8,9
-Kawasaki Z900|g|naked||Güçlü ve dengeli naked.|8,8,8,7
-Honda Africa Twin|g|naked||Çölde ve asfaltta gezgin motoru.|7,7,8,8
-Suzuki GSX-R750|g|sport||Gixxer lakaplı efsane süper spor.|9,8,8,8
-MV Agusta F4|g|sport||Dünyanın en güzel motorlarından sayılan tasarım.|9,9,10,8
-Yamaha R25|s|sport||Gençlerin ilk spor motoru.|5,5,7,5
-Honda PCX|s|sehir||Şehir içinin yakıt cimrisi scooterı.|2,3,6,6
-Yamaha NMAX|s|sehir||Kuryelerin ve şehirlilerin favorisi.|2,3,6,5
-Mondial|s|sehir||Türkiye'de çok yaygın uygun fiyatlı motor.|1,2,4,6
-Mobilet|s|sehir||Pedallı nostaljik mahalle motoru.|1,1,5,8
-Honda CBR250R|s|sport||Küçük hacimli spor motor.|5,5,6,5
-KTM Duke 390|s|naked||Hafif ve çevik şehir naked'ı.|6,7,7,6
-Kawasaki Ninja 400|s|sport||Ninja ailesinin giriş modeli.|6,6,7,6
-Suzuki Bandit|s|naked||Dayanıklı ve klasik naked.|6,6,6,6
-BMW C 650|s|sehir||Maxi scooter konforu.|5,5,6,4
-Ural|s|klasik||Sepetli Rus klasik motoru.|3,3,7,8
-MZ|s|klasik||Eski Doğu Almanya'nın dayanıklı motoru.|3,3,5,7
-Honda Super Cub|s|sehir||Dünyanın en çok üretilen motorlu taşıtı.|1,1,7,10
-Bajaj Pulsar|s|naked||Uygun fiyatlı popüler naked.|4,5,5,4
+Suzuki GSX-R1000|g|sport||"Gixxer" efsanesinin büyüğü.|9,9,8,8
+Yamaha MT-10|g|naked||R1 kalbi taşıyan naked.|9,9,8,7
+Triumph Speed Triple|g|naked||İngiliz naked efsanesi.|8,8,9,8
+Honda Gold Wing|g|naked||Konforun ve uzun yolun zirvesi.|7,6,8,9
+Kawasaki Z900RS|g|klasik||Z1'e selam veren retro tasarım.|7,7,9,8
+BMW R nineT|g|klasik||Retro ve modern bir arada.|7,7,9,8
+Royal Enfield Bullet|g|klasik||Dünyanın en uzun süre üretilen motorlarından.|5,5,8,9
+Harley-Davidson Sportster|g|klasik||Harley'nin çevik klasiği.|6,6,8,8
+Vespa GTS 300|g|sehir||Modern Vespa'nın güçlü hâli.|5,5,9,8

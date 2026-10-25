@@ -1,36 +1,36 @@
 # Okul Dersleri — ad|seviye|grup|etiketler|açıklama|Hayatta işe yarama,Meslek kapısı,Genel kültür,Eğlence
-Matematik|e|sayisal||Mühendislikten ekonomiye her şeyin temeli.|10,10,7,5
-Türkçe|e|sozel||Okumak, yazmak, anlamak ve anlatmak.|10,8,9,6
-İngilizce|e|dil||Dünyaya açılan kapı.|10,10,8,6
-Fizik|e|sayisal||Evrenin nasıl çalıştığını anlatır.|7,9,8,6
-Biyoloji|e|sayisal||Canlıları ve kendi vücudumuzu tanıtır.|8,9,8,6
-Bilişim Teknolojileri|e|sayisal||Bilgisayar ve kodlamanın ilk adımı.|9,10,6,8
-Beden Eğitimi|e|sanat_spor||Haftanın en çok beklenen dersi.|8,5,4,10
-Kimya|g|sayisal||Mutfaktan ilaca maddelerin dili.|7,9,7,5
-Tarih|g|sozel||Geçmişten ders almak için.|6,6,10,7
-Coğrafya|g|sozel||Dünyayı ve haritaları tanımak.|6,6,9,7
-Edebiyat|g|sozel||Şiirler, romanlar ve yazarlar.|7,6,9,6
-Felsefe|g|sozel||Düşünmeyi ve sorgulamayı öğretir.|7,5,9,5
-Müzik|g|sanat_spor||Nota, ritim ve flüt sesleri.|5,4,7,9
-Resim|g|sanat_spor||Hayal gücünü kâğıda dökmek.|5,4,6,9
-Almanca|g|dil||Avrupa'nın güçlü dili.|7,7,6,5
-Sağlık Bilgisi|g|sayisal||Vücudunu korumayı öğretir.|9,4,7,5
-Trafik ve İlk Yardım|g|sozel||Hayat kurtaran pratik bilgiler.|9,3,6,5
-Ekonomi|g|sozel||Para, piyasa ve bütçe yönetimi.|8,7,8,5
-Psikoloji|g|sozel||İnsan davranışını anlamak.|8,6,8,7
-Geometri|g|sayisal||Şekillerin ve açıların dünyası.|7,8,6,5
-Fransızca|g|dil||Diplomasi ve sanatın dili.|6,5,7,5
-Sosyoloji|s|sozel||Toplumu ve ilişkileri inceler.|6,5,8,6
-Mantık|s|sozel||Doğru düşünmenin kuralları.|7,5,6,5
-Astronomi|s|sayisal||Yıldızlar, gezegenler ve galaksiler.|4,5,9,8
-Tiyatro|s|sanat_spor||Sahnede özgüven kazanmak.|5,4,6,9
-Satranç|s|sanat_spor||Strateji ve sabır dersi.|5,3,5,8
-Teknoloji ve Tasarım|s|sanat_spor||Fikirleri ürüne dönüştürmek.|6,6,5,7
-İspanyolca|s|dil||Yarım milyardan fazla insanın dili.|6,5,7,6
-Arapça|s|dil||Geniş bir coğrafyanın dili.|5,5,6,4
-Japonca|s|dil||Anime ve teknolojinin dili.|4,4,6,6
-Rusça|s|dil||Geniş bir coğrafyada konuşulan dil.|5,5,5,4
-Ev Ekonomisi|s|sanat_spor||Yemek, bütçe ve ev işleri.|8,3,5,7
-Yüzme Dersi|s|sanat_spor||Hayat kurtaran bir beceri.|8,3,3,9
-Girişimcilik|s|sozel||Kendi işini kurmanın temelleri.|7,7,6,6
-Çevre Bilimi|s|sayisal||Doğayı korumayı öğretir.|6,5,7,6
+Matematik|e|sayisal||Her bilimin temeli.|10,10,7,5
+Fizik|e|sayisal||Evrenin kurallarını öğretir.|8,10,8,6
+Kimya|e|sayisal||Maddenin sırları.|7,9,7,6
+Biyoloji|e|sayisal||Canlıları ve vücudumuzu tanıtır.|9,10,8,7
+Bilişim/Kodlama|e|sayisal||Geleceğin dili.|10,10,7,9
+Geometri|e|sayisal||Şekillerin ve mekânın bilimi.|7,9,6,6
+Astronomi|e|sayisal||Yıldızlara uzanan merak.|5,7,9,9
+Türkçe/Edebiyat|e|sozel||Okuma, yazma, ifade gücü.|10,8,9,7
+Tarih|e|sozel||Geçmişi bilmeyen geleceği kuramaz.|7,7,10,7
+Coğrafya|e|sozel||Dünyayı tanıtır.|8,7,10,7
+Felsefe|e|sozel||Düşünmeyi öğretir.|8,6,10,6
+Psikoloji|e|sozel||İnsanı anlamanın anahtarı.|9,8,8,8
+Ekonomi|e|sozel||Paranın ve piyasanın dili.|10,9,8,6
+Hukuk|e|sozel||Haklarını bilmeyi öğretir.|9,9,8,5
+İngilizce|e|dil||Dünyanın ortak dili.|10,10,8,7
+Almanca|e|dil||Avrupa'nın iş dili.|7,8,6,5
+İspanyolca|e|dil||Yüz milyonların dili.|7,7,6,7
+Çince|e|dil||Dünyanın en çok konuşulan dili.|7,8,7,5
+Japonca|e|dil||Teknoloji ve kültür kapısı.|5,6,7,7
+Beden eğitimi|e|sanat_spor||Sağlıklı vücut, takım ruhu.|9,6,4,10
+Müzik|e|sanat_spor||Ruhun gıdası.|6,6,7,10
+Resim/Görsel sanatlar|e|sanat_spor||Yaratıcılığı açar.|6,6,7,9
+Drama/Tiyatro|e|sanat_spor||Kendini ifade etmeyi öğretir.|7,6,6,10
+Satranç|e|sanat_spor||Strateji ve sabır.|6,4,6,9
+Yüzme|e|sanat_spor||Hayat kurtaran beceri.|10,4,3,9
+Sosyoloji|g|sozel||Toplumu anlamak.|7,6,8,6
+Din kültürü|g|sozel||İnanç ve ahlak kültürü.|6,4,8,5
+Mantık|g|sozel||Doğru düşünme kuralları.|8,6,7,5
+Fransızca|g|dil||Diplomasinin klasik dili.|6,6,7,6
+Arapça|g|dil||Geniş bir coğrafyanın dili.|6,6,7,5
+Rusça|g|dil||Avrasya'nın dili.|5,6,6,5
+İstatistik|g|sayisal||Verinin dili.|8,9,5,4
+Teknoloji tasarım|g|sanat_spor||Üret ve tasarla.|7,7,5,8
+Robotik|g|sayisal||Kodla, robot yap.|7,9,6,9
+Trafik ve ilk yardım|g|sozel||Hayat kurtaran bilgiler.|10,5,5,5

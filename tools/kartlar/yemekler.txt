@@ -1,36 +1,36 @@
 # Yemekler — ad|seviye|grup|etiketler|açıklama|Lezzet,Doyuruculuk,Sofra uyumu,Sevilme
-İskender|e|ana||Tereyağı, yoğurt ve dönerin Bursa'daki buluşması.|10,9,7,10
-Mantı|e|hamur||Yoğurt ve tereyağlı sosuyla minik hamur bohçaları.|9,9,7,9
-Lahmacun|e|hamur||İnce hamur, kıymalı harç, bol yeşillik.|9,8,8,10
-Karnıyarık|e|ana||Kıymalı patlıcanın en sevilen hali.|9,8,9,9
-Mercimek Çorbası|e|corba||Her sofranın ve her lokantanın açılış çorbası.|9,6,10,10
-Kuru Fasulye|e|ana||Pilavla birlikte milli yemek.|8,9,9,9
-Baklava|e|tatli||Kat kat yufka, bol fıstık; bayram sofralarının yıldızı.|10,6,8,10
-Adana Kebap|g|ana||Zırhla çekilmiş acılı kıyma, közde pişer.|10,9,7,9
-Hünkâr Beğendi|g|ana||Patlıcan beğendi üstünde tas kebabı.|9,8,8,8
-Ezogelin Çorbası|g|corba||Bulgurlu, naneli ve doyurucu lokanta klasiği.|8,6,9,8
-Tavuk Döner|g|ana||Dürümde, porsiyonda; her köşede sevilen lezzet.|8,8,7,9
-Pide|g|hamur||Kıymalı, kaşarlı, kuşbaşılı; fırından taze.|9,9,7,9
-Börek|g|hamur||Su böreği, kol böreği, sigara böreği; her türlüsü sevilir.|9,7,8,9
-Pirinç Pilavı|g|yan||Tane tane pilav her ana yemeğin dostu.|8,7,10,9
-Çoban Salata|g|yan||Domates, salatalık, biber, soğan; sofraya ferahlık.|8,4,10,8
-İçli Köfte|g|yan||Bulgur kabuğun içinde cevizli kıyma.|9,6,8,8
-Sarma|g|yan||Zeytinyağlı yaprak sarması.|9,6,8,8
-Etli Ekmek|g|hamur||Konya'nın upuzun, çıtır kıymalı ekmeği.|9,9,6,8
-Künefe|g|tatli||Peynirli tel kadayıf, sıcak sıcak servis edilir.|10,6,6,9
-Yayla Çorbası|g|corba||Yoğurtlu ve naneli şifa çorbası.|8,5,9,7
-Kısır|g|yan||Bulgurlu, nar ekşili ev klasiği.|8,5,8,8
-Menemen|s|ana||Domates, biber ve yumurtanın kahvaltıdaki zaferi.|8,6,6,9
-İmam Bayıldı|s|yan||Zeytinyağlı patlıcanın en zarif hali.|8,5,8,7
-Haydari|s|yan||Süzme yoğurt ve naneyle meze klasiği.|7,3,9,7
-Cacık|s|yan||Yoğurt, salatalık ve sarımsakla serinletici eşlikçi.|7,3,9,8
-Tarhana Çorbası|s|corba||Kış günlerinin ev yapımı çorbası.|7,6,8,6
-İşkembe Çorbası|s|corba||Gece yarısı sevenlerinin şifası.|7,6,7,5
-Bulgur Pilavı|s|yan||Domatesli ve biberli Anadolu pilavı.|7,7,9,7
-Izgara Köfte|s|ana||Piyaz ve közlenmiş biberle esnaf lokantası klasiği.|9,8,8,9
-Gözleme|s|hamur||Sacda pişen, peynirli ıspanaklı köy lezzeti.|8,7,6,8
-Su Böreği|s|hamur||Haşlanmış yufkalarla yapılan zahmetli lezzet.|9,7,7,8
-Sütlaç|s|tatli||Fırında üstü kızarmış sütlü tatlı.|8,5,8,8
-Revani|s|tatli||İrmikli ve şerbetli hafif tatlı.|7,5,8,7
-Türlü|s|ana||Mevsim sebzelerinin bir arada pişen hali.|7,7,8,6
-Ali Nazik|s|ana||Közlenmiş patlıcanlı yoğurt üstünde kuşbaşı.|9,8,7,7
+Mercimek çorbası|e|corba||Lokantaların ilk tercihi.|9,7,10,10
+Ezogelin çorbası|e|corba||Baharatlı Anadolu çorbası.|9,7,9,9
+Yayla çorbası|e|corba||Yoğurtlu, naneli şifa.|8,6,9,8
+İşkembe çorbası|e|corba||Gece yarısının efsanesi.|8,7,7,6
+İskender kebap|e|ana||Tereyağlı, yoğurtlu Bursa efsanesi.|10,9,8,10
+Adana kebap|e|ana||Acılı, közde zırh kıyması.|10,9,8,10
+Karnıyarık|e|ana||Patlıcanın en güzel hali.|9,8,9,9
+Hünkar beğendi|e|ana||Saray mutfağından beğendili et.|10,9,8,8
+Kuzu tandır|e|ana||Ağır ateşte lokum gibi kuzu.|10,9,8,8
+Mantı|e|ana||Yoğurtlu minik bohçalar.|10,8,8,10
+İçli köfte|e|ana||Bulgur kabuklu doyurucu köfte.|9,8,8,9
+Yaprak sarma|e|ana||Zeytinyağlı ince sarma.|9,6,9,9
+Beyti|e|ana||Lavaşa sarılı kebap.|9,9,8,8
+Hamsi tava|e|ana||Karadeniz'in gümüş balığı.|9,7,8,8
+Pilav|e|yan||Her yemeğin yanına.|8,8,10,9
+Cacık|e|yan||Serinleten yoğurtlu eşlikçi.|8,4,10,9
+Çoban salata|e|yan||Taze sofra klasiği.|8,4,10,9
+Lahmacun|e|hamur||İnce hamurda kıymalı lezzet.|10,8,8,10
+Pide|e|hamur||Karadeniz'in kayık hamuru.|9,9,8,9
+Su böreği|e|hamur||Kat kat peynirli börek.|10,8,8,9
+Gözleme|e|hamur||Sacda pişen köy lezzeti.|9,8,8,9
+Baklava|e|tatli||Antep fıstıklı şerbetli efsane.|10,6,10,10
+Künefe|e|tatli||Peynirli, sıcak Hatay tatlısı.|10,6,9,10
+Ekmek kadayıfı|e|tatli||Kaymaklı Afyon tatlısı.|9,6,9,8
+Sütlaç|e|tatli||Fırında kızarmış süt tatlısı.|9,5,9,9
+Tarhana çorbası|g|corba||Kışın içi ısıtan çorba.|8,7,8,7
+Kelle paça|g|corba||Kış sabahlarının çorbası.|7,8,6,5
+Etli kuru fasulye|g|ana||Pilavla Türk klasiği.|9,9,9,9
+Tavuk sote|g|ana||Hızlı ve doyurucu ev yemeği.|8,8,8,8
+Köfte|g|ana||Izgara köfte klasiği.|9,8,9,9
+Bulgur pilavı|g|yan||Domatesli Anadolu pilavı.|8,8,9,8
+Patates kızartması|g|yan||Herkesin sevdiği eşlikçi.|9,6,9,10
+Çiğ köfte|g|hamur||Acılı, dürümlük lezzet.|9,7,7,9
+Kazandibi|g|tatli||Yanık tabanlı muhallebi.|9,5,9,8
+Revani|g|tatli||İrmikli şerbetli tatlı.|8,6,8,7

@@ -9,9 +9,9 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "tools"))
 from kategoriler import KATEGORILER  # noqa: E402
 
-SEVIYE = {"e": "efsane", "g": "guclu", "s": "siradan"}
-HEDEF = {"efsane": 7, "guclu": 14, "siradan": 14}
-CEKILIS = {"efsane": 2, "guclu": 4, "siradan": 4}
+SEVIYE = {"e": "efsane", "g": "guclu"}
+HEDEF = {"efsane": 25, "guclu": 10}
+CEKILIS = {"efsane": 7, "guclu": 3}
 
 
 def slug(s):
@@ -43,7 +43,7 @@ def parse(kat):
             errors.append(f"{path.name}:{no} tekrar eden kart: {ad}")
         seen.add(cid)
         if sev not in SEVIYE:
-            errors.append(f"{path.name}:{no} seviye e/g/s olmalı: {sev}")
+            errors.append(f"{path.name}:{no} seviye e (efsane) ya da g (yıldız) olmalı: {sev}")
         if grup not in kat["gruplar"]:
             errors.append(f"{path.name}:{no} bilinmeyen grup '{grup}'")
         try:
@@ -62,6 +62,8 @@ def parse(kat):
             "aciklama": aciklama, "puan": dict(zip(keys, vals)),
         })
     counts = {s: sum(c["seviye"] == s for c in cards) for s in HEDEF}
+    if any(c["seviye"] not in HEDEF for c in cards):
+        errors.append(f"{path.name}: sadece e ve g seviyesi kullanılabilir")
     if counts != HEDEF:
         errors.append(f"{path.name}: seviye dağılımı {counts}, beklenen {HEDEF}")
     for g, n in kat.get("garanti", {}).items():

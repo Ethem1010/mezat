@@ -1,36 +1,36 @@
 # Markalar — ad|seviye|grup|etiketler|açıklama|Bilinirlik,Marka değeri,Kalite algısı,Dünyaya yayılma
-Apple|e|teknoloji||iPhone ve Mac'in arkasındaki dünyanın en değerli markalarından.|10,10,9,10
-Google|e|teknoloji||İnternetin kapısı; arama, harita ve YouTube.|10,10,8,10
-Coca-Cola|e|gida||Dünyanın en tanınan içecek markası.|10,9,7,10
-Nike|e|giyim||Just Do It; spor giyimin lideri.|10,9,8,10
-Microsoft|e|teknoloji||Windows ve Office ile her bilgisayarda.|9,10,8,10
-Samsung|e|teknoloji||Telefondan buzdolabına dev teknoloji.|10,9,8,10
-Mercedes-Benz|e|otomotiv||Yıldızlı logosuyla lüks otomobilin simgesi.|9,9,10,9
-Amazon|g|perakende||Dünyanın en büyük online mağazası.|9,10,7,9
-McDonald's|g|gida||Dünyanın her yerinde aynı burger.|10,9,5,10
-Adidas|g|giyim||Üç çizgili spor devi.|9,8,8,9
-Toyota|g|otomotiv||Dayanıklılığıyla en çok satan otomobil markalarından.|9,9,9,10
-BMW|g|otomotiv||Sürüş keyfi denince akla gelen Alman.|9,9,9,9
-Louis Vuitton|g|giyim||Lüks modanın en değerli markası.|8,9,10,8
-Starbucks|g|gida||Dünyanın kahve zinciri.|9,8,7,9
-IKEA|g|perakende||Kendin kur mobilyaların İsveçli devi.|9,8,6,9
-Netflix|g|teknoloji||Dizi film izleme alışkanlığını değiştiren platform.|9,8,7,9
-Sony|g|teknoloji||PlayStation ve elektroniğin Japon ustası.|9,7,8,9
-Disney|g|perakende||Eğlence dünyasının devi.|10,9,8,10
-Tesla|g|otomotiv||Elektrikli otomobilin öncü markası.|9,9,7,8
-Ülker|g|gida||Türkiye'nin en tanınan atıştırmalık markası.|8,7,7,6
-Türk Hava Yolları|g|perakende||En çok ülkeye uçan havayollarından.|8,7,8,9
-Arçelik|s|teknoloji||Türkiye'nin beyaz eşya devi.|8,6,7,6
-LC Waikiki|s|giyim||Uygun fiyatlı giyimin Türk markası.|8,5,5,7
-Koton|s|giyim||Türk moda perakendecisi.|7,4,5,5
-Eti|s|gida||Bisküvi ve atıştırmalıklarıyla tanınan marka.|8,5,7,4
-Turkcell|s|teknoloji||Türkiye'nin büyük operatörü.|8,6,6,4
-Puma|s|giyim||Sıçrayan pumalı spor markası.|8,6,7,8
-Zara|s|giyim||Hızlı modanın İspanyol lideri.|9,8,6,9
-H&M|s|giyim||İsveçli moda zinciri.|8,6,5,8
-Pepsi|s|gida||Kola savaşlarının diğer tarafı.|9,7,6,9
-Nestlé|s|gida||Dünyanın en büyük gıda şirketi.|8,8,7,10
-Ford|s|otomotiv||Seri üretimi başlatan otomobil markası.|9,7,7,9
-Fiat|s|otomotiv||Küçük ve pratik İtalyan araçları.|8,5,5,7
-Huawei|s|teknoloji||Çinli telekom ve telefon devi.|8,6,7,7
-Trendyol|s|perakende||Türkiye'nin büyük online alışveriş sitesi.|8,6,5,4
+Apple|e|teknoloji||Dünyanın en değerli markalarından.|10,10,9,10
+Google|e|teknoloji||İnternetin kapısı.|10,10,9,10
+Microsoft|e|teknoloji||Windows ve Office'in sahibi.|10,10,8,10
+Samsung|e|teknoloji||Telefondan buzdolabına dev teknoloji markası.|10,9,8,10
+Sony|e|teknoloji||PlayStation ve Walkman'in yaratıcısı.|9,8,8,10
+Amazon|e|teknoloji||Dünyanın en büyük online mağazası.|10,10,8,10
+Nike|e|giyim||"Just Do It" sloganlı spor devi.|10,10,9,10
+Adidas|e|giyim||Üç bantlı efsane spor markası.|10,9,8,10
+Louis Vuitton|e|giyim||Lüks modanın en değerli markası.|9,10,10,9
+Gucci|e|giyim||İtalyan lüks moda ikonu.|9,9,9,9
+Chanel|e|giyim||Zarafetin ve No.5 parfümün evi.|9,9,10,9
+Rolex|e|giyim||Lüks saatin simgesi.|9,9,10,9
+Hermès|e|giyim||Birkin çantasının en seçkin lüks evi.|8,9,10,8
+Coca-Cola|e|gida||Dünyanın en tanınan içecek markası.|10,10,8,10
+McDonald's|e|gida||Altın kemerli fast food devi.|10,10,6,10
+Starbucks|e|gida||Yeşil logolu kahve zinciri.|10,9,7,10
+Nestlé|e|gida||Dünyanın en büyük gıda şirketi.|9,9,7,10
+Red Bull|e|gida||"Kanat verir" sloganlı enerji içeceği.|9,9,7,10
+Mercedes-Benz|e|otomotiv||Lüks ve güvenliğin yıldızı.|10,10,10,10
+BMW|e|otomotiv||Sürüş keyfinin Alman markası.|10,9,9,10
+Ferrari|e|otomotiv||Kırmızı efsane süper otomobil.|10,10,10,9
+Toyota|e|otomotiv||Dünyanın en çok araba satan şirketi.|10,9,9,10
+Tesla|e|otomotiv||Elektrikli otomobil devrimi.|9,9,8,9
+IKEA|e|perakende||Kendin kur mobilyaların İsveç devi.|10,9,7,10
+Disney|e|perakende||Mickey'den Marvel'a eğlence imparatorluğu.|10,10,9,10
+Netflix|g|teknoloji||Dizi film izlemenin adresi.|9,8,8,9
+Intel|g|teknoloji||Bilgisayarların içindeki işlemci.|8,8,8,9
+Puma|g|giyim||Hızlı kedi logolu spor markası.|8,7,7,9
+Zara|g|giyim||Hızlı modanın İspanyol devi.|9,8,7,9
+Pepsi|g|gida||Coca-Cola'nın ezeli rakibi.|9,8,7,10
+KFC|g|gida||Albay'ın kızarmış tavuğu.|9,8,6,9
+Porsche|g|otomotiv||911'in efsane spor otomobil markası.|9,9,10,8
+Volkswagen|g|otomotiv||Halkın arabası, Golf ve Beetle.|9,8,8,10
+LEGO|g|perakende||Renkli tuğlaların oyuncak devi.|9,9,9,9
+Walmart|g|perakende||Dünyanın en büyük market zinciri.|8,8,6,7

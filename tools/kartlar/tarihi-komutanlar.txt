@@ -1,36 +1,36 @@
 # Tarihi Komutanlar — ad|seviye|grup|etiketler|açıklama|Askeri deha,Zafer sayısı,Liderlik,Strateji
-Büyük İskender|e|antik||Hiç yenilmeden dünyanın büyük kısmını fethetti.|10,10,10,10
-Cengiz Han|e|orta_cag||Tarihin en büyük kara imparatorluğunu kurdu.|10,10,10,9
-Fatih Sultan Mehmet|e|turk||İstanbul'u fethederek bir çağı kapattı.|10,9,10,10
-Napolyon Bonapart|e|yeni_cag||Avrupa'yı baştan sona dolaşan askeri dâhi.|10,9,10,9
-Hannibal|e|antik||Filleriyle Alpleri aşıp Roma'yı titretti.|10,8,9,10
-Julius Caesar|e|antik||Galya'yı fethedip Roma'yı değiştirdi.|9,9,10,9
-Mete Han|e|turk||Hun İmparatorluğu'nu kuran, onlu ordu sisteminin öncüsü.|9,9,10,9
-Kanuni Sultan Süleyman|g|turk||Osmanlı'nın en uzun ve en geniş dönemi.|9,9,10,8
-Yavuz Sultan Selim|g|turk||Kısa sürede imparatorluğu ikiye katladı.|9,9,9,9
-Alparslan|g|turk||Malazgirt'le Anadolu'nun kapısını açtı.|9,8,9,9
-Timur|g|orta_cag||Orta Asya'dan Anadolu'ya uzanan fetihler.|9,10,9,9
-Selahaddin Eyyubi|g|orta_cag||Haçlılara karşı Kudüs'ü alan komutan.|9,8,10,8
-Attila|g|antik||Avrupa'nın korkulu rüyası Hun hükümdarı.|8,8,9,8
-Barbaros Hayreddin Paşa|g|turk||Akdeniz'in hâkimi efsane kaptan-ı derya.|9,9,9,9
-Sun Tzu|g|antik||Savaş Sanatı kitabının yazarı.|9,7,8,10
-Büyük Kiros|g|antik||Pers İmparatorluğu'nun kurucusu.|9,9,9,8
-Aslan Yürekli Richard|g|orta_cag||Haçlı seferlerinin ünlü İngiliz kralı.|8,7,9,7
-Büyük Friedrich|g|yeni_cag||Prusya'yı büyük güç yapan kral.|9,8,8,9
-Wellington Dükü|g|yeni_cag||Waterloo'da Napolyon'u yenen komutan.|8,8,8,8
-Amiral Nelson|g|yeni_cag||Trafalgar'ın deniz kahramanı.|9,8,9,9
-Jeanne d'Arc|g|orta_cag||Genç yaşta Fransa'ya umut olan savaşçı.|7,6,10,6
-Osman Gazi|s|turk||Osmanlı Devleti'nin kurucusu.|7,7,9,7
-Orhan Gazi|s|turk||Bursa'yı alıp devleti büyüten bey.|7,7,8,7
-I. Kılıç Arslan|s|turk||Haçlılara karşı Anadolu Selçuklu'yu savundu.|7,6,7,7
-Tuğrul Bey|s|turk||Büyük Selçuklu Devleti'nin kurucusu.|7,7,8,7
-Leonidas|s|antik||300 Spartalı ile Thermopylae'yi savundu.|7,4,10,7
-Spartaküs|s|antik||Roma'ya karşı köle isyanının lideri.|6,5,9,6
-Scipio Africanus|s|antik||Hannibal'ı yenen Romalı general.|9,8,8,9
-Fatih William|s|orta_cag||İngiltere'yi fetheden Normandiya dükü.|8,7,8,7
-El Cid|s|orta_cag||İspanya'nın efsane şövalyesi.|7,7,8,7
-Simón Bolívar|s|yeni_cag||Güney Amerika'nın özgürlük lideri.|7,7,9,7
-Giuseppe Garibaldi|s|yeni_cag||İtalya'nın birleşmesinin kahramanı.|7,7,9,7
-George Washington|s|yeni_cag||Amerikan Bağımsızlık Savaşı'nın komutanı.|7,6,10,7
-Babür Şah|s|turk||Hindistan'da Babür İmparatorluğu'nu kurdu.|8,8,8,8
-Oda Nobunaga|s|orta_cag||Japonya'yı birleştirmeye başlayan derebeyi.|8,7,8,8
+Büyük İskender|e|antik||Hiç yenilmeden dünyanın yarısını fethetti.|10,10,10,10
+Hannibal Barca|e|antik||Fillerle Alpleri aştı, Cannae'yi kazandı.|10,8,9,10
+Jül Sezar|e|antik||Galya'yı fethetti, Roma'yı değiştirdi.|10,9,10,9
+Sun Tzu|e|antik||Savaş Sanatı'nın yazarı.|10,7,8,10
+Mete Han|e|antik||Büyük Hun İmparatorluğu'nun kurucusu.|9,9,10,9
+Kserkes|e|antik||Dev Pers ordusunun komutanı.|7,7,8,6
+Cengiz Han|e|orta_cag||Tarihin en büyük kara imparatorluğu.|10,10,10,10
+Timur|e|orta_cag||Hiç yenilmeyen fatih.|10,10,9,9
+Selahaddin Eyyubi|e|orta_cag||Kudüs'ü geri alan komutan.|9,8,10,9
+Attila|e|orta_cag||Roma'yı titreten Hun hükümdarı.|9,9,10,8
+Richard Aslan Yürekli|e|orta_cag||Haçlı seferlerinin efsane kralı.|8,8,9,8
+Fatih Sultan Mehmet|e|turk||İstanbul'u fethetti, çağ kapattı.|10,9,10,10
+Atatürk|e|turk||Kurtuluş Savaşı'nın başkomutanı.|10,9,10,10
+Alp Arslan|e|turk||Malazgirt zaferi.|10,8,10,9
+Kanuni Sultan Süleyman|e|turk||Osmanlı'nın zirvesi.|9,10,10,9
+Yavuz Sultan Selim|e|turk||Çaldıran ve Mısır seferleri.|10,9,9,9
+Barbaros Hayreddin|e|turk||Akdeniz'in hâkimi amiral.|10,9,9,10
+Napolyon Bonapart|e|yeni_cag||Avrupa'yı fetheden dâhi.|10,10,10,10
+George Washington|e|yeni_cag||ABD bağımsızlık savaşının lideri.|8,7,10,8
+Horatio Nelson|e|yeni_cag||Trafalgar zaferi.|9,8,9,10
+Erwin Rommel|e|yeni_cag||"Çöl Tilkisi".|9,7,9,10
+Georgi Jukov|e|yeni_cag||Berlin'e giden Sovyet mareşali.|9,9,8,9
+Wellington Dükü|e|yeni_cag||Waterloo'da Napolyon'u yendi.|9,9,8,9
+Simón Bolívar|e|yeni_cag||Güney Amerika'nın kurtarıcısı.|8,8,10,8
+Tomoyuki Yamashita|e|yeni_cag||"Malaya Kaplanı".|8,7,8,8
+Leonidas|g|antik||300 Spartalı'nın kralı.|8,5,10,8
+Ramses II|g|antik||Mısır'ın büyük firavunu.|7,7,9,7
+Jeanne d'Arc|g|orta_cag||Fransa'nın kahraman kızı.|7,6,10,6
+William Wallace|g|orta_cag||İskoçya'nın özgürlük savaşçısı.|7,5,10,7
+Osman Gazi|g|turk||Osmanlı'nın kurucusu.|8,7,9,8
+Kılıç Arslan|g|turk||Haçlılara karşı Anadolu'yu korudu.|8,7,9,8
+Patton|g|yeni_cag||Hızlı tank harekâtları.|8,7,8,8
+Ulysses Grant|g|yeni_cag||ABD İç Savaşı'nın galibi.|8,8,8,8
+Robert E. Lee|g|yeni_cag||Güney'in usta generali.|9,6,9,9
+Montgomery|g|yeni_cag||El Alamein zaferi.|8,7,8,8

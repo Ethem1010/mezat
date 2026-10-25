@@ -1,36 +1,36 @@
 # Meslekler — ad|seviye|grup|etiketler|açıklama|Hayati önem,Topluma katkı,Çok yönlülük,Yerine konamazlık
-Doktor|e|saglik||Hastalıkları teşhis eder, hayat kurtarır.|10,10,7,10
-Çiftçi|e|gida||Tarlada üretir, şehri doyurur.|10,10,7,9
-İnşaat Mühendisi|e|barinma||Binaları, köprüleri ve yolları güvenle kurar.|9,9,7,8
-Polis|e|guvenlik||Düzeni ve güvenliği sağlar.|9,9,7,8
-Öğretmen|e|egitim||Tüm meslekleri yetiştiren meslek.|8,10,8,9
-Hemşire|e|saglik||Hastanenin bel kemiği.|9,10,7,9
-Elektrikçi|e|teknik||Işıkları yakar, şehri enerjiye bağlar.|8,8,7,8
-İtfaiyeci|g|guvenlik||Yangından selden insanları kurtarır.|9,9,7,8
-Cerrah|g|saglik||Ameliyatla hayat kurtaran uzman.|10,9,4,10
-Eczacı|g|saglik||İlacı doğru kişiye doğru dozda ulaştırır.|8,8,5,7
-Veteriner|g|saglik||Hayvanların ve gıda güvenliğinin doktoru.|7,7,6,7
-Duvar Ustası|g|barinma||Evlerin duvarlarını tuğla tuğla örer.|8,8,6,6
-Marangoz|g|barinma||Ahşaptan ev, kapı ve mobilya yapar.|7,7,7,6
-Tesisatçı|g|teknik||Su ve gaz hatlarını kurar, onarır.|8,8,6,7
-Aşçı|g|gida||Malzemeyi lezzete çevirir.|7,8,6,6
-Fırıncı|g|gida||Şehrin sabah ekmeğini çıkarır.|8,8,4,6
-Asker|g|guvenlik||Ülkeyi ve sınırları korur.|9,8,6,7
-Mimar|g|barinma||Yaşanacak yerleri tasarlar.|7,8,6,7
-Yazılım Mühendisi|g|teknik||Dijital sistemleri kurar ve çalıştırır.|6,8,8,6
-Kasap|g|gida||Eti hazırlar ve satar.|6,6,4,5
-Makine Mühendisi|g|teknik||Makineleri tasarlar ve tamir eder.|7,8,8,7
-Avukat|s|diger||Hakları savunur, adalete yol gösterir.|6,7,5,6
-Gazeteci|s|diger||Haberleri toplar ve halka duyurur.|5,7,6,4
-Muhasebeci|s|diger||Hesapları tutar, işleri düzenler.|5,6,5,4
-Şoför|s|diger||İnsanları ve yükleri taşır.|6,7,5,4
-Kuaför|s|diger||Saç ve bakımla insanları mutlu eder.|3,5,3,3
-Aktör|s|diger||Sahne ve ekranda hikâyeler canlandırır.|2,5,4,3
-Futbolcu|s|diger||Hafta sonları şehrin moralini yükseltir.|2,5,3,2
-YouTuber|s|diger||Video çekip internette paylaşır.|1,4,4,2
-Psikolog|s|saglik||Ruh sağlığına destek verir.|6,8,5,6
-Diş Hekimi|s|saglik||Diş ağrısından kurtarır.|7,7,4,8
-Balıkçı|s|gida||Denizden sofraya taze balık getirir.|7,7,5,5
-Kütüphaneci|s|egitim||Bilgiyi düzenler ve paylaşır.|3,6,4,3
-Bankacı|s|diger||Paranın akışını yönetir.|4,6,5,4
-Pilot|s|teknik||Uçakları güvenle uçurur.|5,7,4,8
+Doktor|e|saglik||Hayat kurtarır.|10,10,8,10
+Cerrah|e|saglik||Ameliyat masasında hayat kurtarır.|10,10,6,10
+Hemşire|e|saglik||Hastaların her an yanında.|10,10,8,9
+Eczacı|e|saglik||Doğru ilaç, doğru doz.|9,9,6,8
+Diş hekimi|e|saglik||Ağız ve diş sağlığı.|8,8,5,9
+Paramedik|e|saglik||Olay yerinde ilk müdahale.|10,10,7,9
+Çiftçi|e|gida||Sofradaki her şeyin kaynağı.|10,10,7,9
+Aşçı/Şef|e|gida||Lezzeti sanata çevirir.|8,8,7,7
+Fırıncı|e|gida||Her sabah taze ekmek.|9,9,5,8
+Balıkçı|e|gida||Denizden sofraya.|8,8,5,7
+Veteriner|e|saglik||Hayvanların doktoru.|8,9,7,9
+Mimar|e|barinma||Yaşayacağımız yerleri tasarlar.|8,9,8,8
+İnşaat mühendisi|e|barinma||Köprüleri ve binaları ayakta tutar.|9,9,7,9
+Usta (inşaat)|e|barinma||Binayı kendi elleriyle yükseltir.|9,9,7,8
+İtfaiyeci|e|guvenlik||Ateşe koşan kahraman.|10,10,8,10
+Polis|e|guvenlik||Düzeni ve güvenliği sağlar.|9,9,7,9
+Arama kurtarma uzmanı|e|guvenlik||Enkazdan hayat çıkarır.|10,10,8,10
+Asker|e|guvenlik||Ülkeyi korur.|9,9,7,9
+Öğretmen|e|egitim||Tüm mesleklerin öğretmeni.|9,10,9,10
+Akademisyen|e|egitim||Bilim üretir ve öğretir.|7,9,8,8
+Elektrik mühendisi|e|teknik||Enerji ağlarını kurar.|9,9,8,9
+Yazılım mühendisi|e|teknik||Dijital dünyayı inşa eder.|7,9,9,8
+Elektrikçi|e|teknik||Evlere ışık getirir.|8,8,7,8
+Pilot|e|teknik||Gökyüzünde yüzlerce yolcuyu taşır.|8,8,6,9
+Hakim|e|diger||Adaleti dağıtır.|8,9,6,9
+Diyetisyen|g|saglik||Sağlıklı beslenme rehberi.|6,7,5,6
+Kasap|g|gida||Eti hazırlar.|7,7,4,6
+Tesisatçı|g|barinma||Su ve doğalgazı akıtır.|8,8,6,7
+Bekçi|g|guvenlik||Gece mahalleyi korur.|6,7,4,5
+Kütüphaneci|g|egitim||Bilginin bekçisi.|5,7,6,5
+Makine mühendisi|g|teknik||Makineleri tasarlar.|8,8,8,8
+Avukat|g|diger||Hakkını savunur.|7,8,7,7
+Gazeteci|g|diger||Gerçeği halka ulaştırır.|6,8,8,6
+Psikolog|g|saglik||Ruh sağlığını destekler.|8,9,7,8
+Çöp toplayıcı|g|diger||Şehri temiz tutar.|9,9,3,7

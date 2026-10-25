@@ -1,36 +1,36 @@
-# Hayvanlar — ad|seviye(e/g/s)|grup|etiketler|açıklama|Güç,Tehlike,Savunma,Hız,Zeka
+# Hayvanlar — ad|seviye|grup|etiketler|açıklama|Güç,Tehlike,Savunma,Hız,Zeka
 Aslan|e|kara|suru|Savanın kralı, sürüyle avlanır.|9,9,6,7,6
-Kaplan|e|kara||En büyük kedigil, tek başına avlanır ve iyi yüzer.|10,9,6,7,6
-Goril|e|kara||En büyük primat, insan gücünün kat kat üstünde.|9,6,6,5,8
-Afrika Fili|e|kara|suru|Dünyanın en büyük kara hayvanı, zekası ve hafızasıyla ünlü.|10,8,9,4,9
-Tuzlu Su Timsahı|e|deniz||Yaşayan en büyük sürüngen, ısırığı korkunç güçlü.|10,10,10,5,4
+Kaplan|e|kara||En büyük kedigil, iyi yüzer.|10,9,6,7,6
+Boz Ayı|e|kara||Dev pençeleriyle ormanın tankı.|10,9,8,5,6
+Kutup Ayısı|e|kara||En büyük kara yırtıcısı.|10,9,8,5,6
+Afrika Fili|e|kara|suru|Dünyanın en büyük kara hayvanı.|10,8,9,4,9
+Gergedan|e|kara||Zırh gibi derisi ve boynuzuyla canlı tank.|9,8,10,6,4
+Su Aygırı|e|kara||Afrika'nın en saldırgan hayvanlarından.|9,10,9,4,4
+Goril|e|kara||En büyük primat.|9,6,6,5,8
+Afrika Mandası|e|kara|suru|Kara Ölüm lakaplı, aslanları bile kovalar.|9,9,8,6,4
+Jaguar|e|kara||Isırığı kaplumbağa kabuğunu kırar.|8,8,6,7,6
+Benekli Sırtlan|e|kara|suru|Kemik kıran çene ve sürü taktiği.|7,8,6,7,8
+Kurt|e|kara|suru|Sürü taktiğinin ustası.|6,7,5,7,8
+Komodo Ejderi|e|kara|zehirli|En büyük kertenkele, zehirli ısırık.|7,8,7,4,4
+Kral Kobra|e|kara|zehirli|En uzun zehirli yılan.|4,9,3,5,5
+Kara Mamba|e|kara|zehirli|Çok hızlı ve zehri öldürücü.|3,10,3,9,5
+Kasuar|e|kara||Hançer gibi pençeleriyle en tehlikeli kuş.|6,8,5,7,4
+Bal Porsuğu|e|kara||Dünyanın en korkusuz hayvanı ünvanlı.|5,7,9,5,7
+Tuzlu Su Timsahı|e|deniz||Yaşayan en büyük sürüngen.|10,10,10,5,4
 Büyük Beyaz Köpek Balığı|e|deniz||Okyanusun en ünlü avcısı.|9,9,6,8,4
-Katil Balina (Orka)|e|deniz|suru|Okyanusun tepe avcısı, grupla avlanır, köpek balıklarını bile avlar.|10,9,7,8,10
-Jaguar|g|kara||Amazon'un avcısı, ısırığı kaplumbağa kabuğunu kırar.|8,8,6,7,6
-Çita|g|kara||Dünyanın en hızlı kara hayvanı.|5,6,3,10,5
-Kurt|g|kara|suru|Sürü taktiğinin ustası, dayanıklı koşucu.|6,7,5,7,8
-Benekli Sırtlan|g|kara|suru|Kemik kıran çenesi var, sürüyle aslanlara kafa tutar.|7,8,6,7,8
-Afrika Mandası|g|kara|suru|Kara Ölüm lakaplı, aslanları bile kovalar.|9,9,8,6,4
-Komodo Ejderi|g|kara|zehirli|En büyük kertenkele, zehirli ısırığıyla avını yavaşça çökertir.|7,8,7,4,4
-Yeşil Anakonda|g|deniz||En ağır yılan, avını suda sararak boğar.|8,7,6,3,3
-Kral Kobra|g|kara|zehirli|En uzun zehirli yılan, başka yılanları avlar.|4,9,3,5,5
-Kara Mamba|g|kara|zehirli|Çok hızlı ve zehri son derece öldürücü.|3,10,3,9,5
-Altın Kartal|g|hava||Göklerin hükümdarı, dalışta çok hızlı.|5,6,4,9,6
-Bal Porsuğu|g|kara||Dünyanın en korkusuz hayvanı ünvanlı, kalın derisi ısırıklara dayanır.|5,7,9,5,7
-Dev Pasifik Ahtapotu|g|deniz||Denizin dâhisi, kılık değiştirir ve kaçmayı iyi bilir.|5,5,5,5,10
-Zürafa|g|kara||En uzun hayvan, tekmesi aslanları bile uzak tutar.|8,6,6,6,4
-Kızıl Kanguru|g|kara||Tekmeleri boksörü kıskandırır.|6,5,5,8,4
-Akrep|s|kara|zehirli|Zırhlı gövde ve zehirli kuyruk.|2,6,7,4,2
-Karadul Örümceği|s|kara|zehirli|Minicik ama zehri çok güçlü.|1,6,1,3,2
-Asya Dev Eşek Arısı|s|hava|zehirli|Dünyanın en büyük eşek arısı, sokması çok acı verir.|2,7,3,8,3
-Mantis Karidesi|s|deniz||Hayvanlar alemindeki en hızlı yumruklardan birine sahip.|3,4,7,10,4
-Kirpi|s|kara||Top olup dikenlerini çıkarınca dokunulmaz.|2,2,8,3,3
-Koala|s|kara||Günün çoğunu uyuyarak geçirir.|1,1,2,1,1
-Tembel Hayvan|s|kara||Dünyanın en yavaş memelilerinden.|2,1,3,1,2
-Dev Panda|s|kara||Bambu yiyen tatlı görünüşlü ama sonuçta bir ayı.|7,5,6,3,4
-Kangal|s|kara||Anadolu'nun çoban köpeği, sürüleri kurtlara karşı korur.|6,6,6,7,7
-Ev Kedisi|s|kara||Evin gerçek patronu.|2,2,2,7,6
-Kutu Denizanası|s|deniz|zehirli|Dünyanın en zehirli deniz canlılarından.|1,10,2,3,1
-Altın Ok Kurbağası|s|kara|zehirli|Avuç içi kadar ama derisindeki zehir çok öldürücü.|1,10,1,3,1
-Devekuşu|s|kara||En büyük kuş, çok hızlı koşar, tekmesi güçlüdür.|6,6,5,9,3
-Tavşan|s|kara||Tek yeteneği kaçmak ama bunu çok iyi yapar.|1,1,1,8,3
+Katil Balina (Orka)|e|deniz|suru|Okyanusun tepe avcısı.|10,9,7,8,10
+Kaşalot|e|deniz||Dev kalamarlarla savaşan derin dalgıç.|10,7,9,6,7
+Yeşil Anakonda|e|deniz||En ağır yılan, suda boğar.|8,7,6,3,3
+Kutu Denizanası|e|deniz|zehirli|En zehirli deniz canlılarından.|1,10,2,3,1
+Harpi Kartalı|e|hava||Pençeleri ayı pençesi kadar büyük.|5,7,4,8,6
+Altın Kartal|e|hava||Göklerin hükümdarı.|5,6,4,9,6
+Leopar|g|kara||Avını ağaca çıkaracak kadar güçlü.|7,8,5,8,6
+Çita|g|kara||En hızlı kara hayvanı.|5,6,3,10,5
+Puma|g|kara||Dağların sessiz avcısı.|7,7,5,8,6
+Şempanze|g|kara|suru|Alet kullanır, insandan çok güçlüdür.|7,6,4,6,9
+Amerikan Bizonu|g|kara|suru|Kuzey Amerika'nın en ağır kara hayvanı.|8,6,8,6,3
+Kangal|g|kara||Kurtlara meydan okuyan Anadolu çoban köpeği.|6,6,6,7,7
+Ok Kurbağası|g|kara|zehirli|Avuç içi kadar ama zehri öldürücü.|1,10,1,3,1
+Dev Pasifik Ahtapotu|g|deniz||Denizin dâhisi.|5,5,5,5,10
+Kılıç Balığı|g|deniz||Okyanusun en hızlılarından.|6,6,4,10,3
+Şah Kartal|g|hava||Bozkırların güçlü kartalı.|5,6,4,8,6
