@@ -1,6 +1,6 @@
 // Basit çevrimdışı önbellek: oyun bir kez açıldıktan sonra internetsiz de çalışır.
 // Kategori veya kod değiştirince SURUM'u bir artır ki telefonlar yeni dosyaları alsın.
-const SURUM = "mezat-v4";
+const SURUM = "mezat-v5";
 const CEKIRDEK = ["./", "index.html", "css/style.css", "js/engine.js", "js/temalar.js", "js/app.js", "data/kategoriler.json", "icon.svg", "manifest.webmanifest"];
 
 self.addEventListener("install", (e) => {

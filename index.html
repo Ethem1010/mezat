@@ -25,9 +25,16 @@
     el.innerHTML = '<section style="font:15px/1.5 system-ui,sans-serif;padding:16px;border:2px solid #C62828;border-radius:14px;background:#fff;color:#1c1a16">' +
       '<b>Oyun açılamadı.</b><br>' + msg + '<br><br>Çözüm: GitHub\'da <b>Code</b> sekmesinde <code>index.html</code>, <code>css</code>, <code>js</code> ve <code>data</code> klasörlerinin en üst seviyede olduğundan emin ol, sonra sayfayı yenile.</section>';
   }
+  // Sadece oyunun kendi dosyaları (js/css) yüklenemezse uyar; tarayıcı eklentisi,
+  // font vb. küçük hatalar çalışan oyunu kapatmasın.
   window.addEventListener("error", function (e) {
-    if (e.target && (e.target.src || e.target.href)) goster("Yüklenemeyen dosya: <code>" + (e.target.src || e.target.href).split("/").slice(-2).join("/") + "</code>");
-    else if (e.message) goster("Hata: " + e.message);
+    var t = e.target;
+    if (t && (t.tagName === "SCRIPT" || (t.tagName === "LINK" && t.rel === "stylesheet"))) {
+      var url = t.src || t.href || "";
+      if (url.indexOf(location.origin) === 0) goster("Yüklenemeyen dosya: <code>" + url.split("/").slice(-2).join("/") + "</code>");
+    } else if (e.message && !document.querySelector("#app > :not(noscript)")) {
+      goster("Hata: " + e.message);
+    }
   }, true);
   window.addEventListener("load", function () {
     var eksik = [];
