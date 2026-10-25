@@ -54,7 +54,7 @@
    "seviye": "efsane",
    "grup": "teknoloji",
    "etiketler": [],
-   "aciklama": "iPhone ve Mac'in arkasındaki dünyanın en değerli markalarından.",
+   "aciklama": "Dünyanın en değerli markalarından.",
    "puan": {
     "bilinirlik": 10,
     "marka_degeri": 10,
@@ -68,39 +68,11 @@
    "seviye": "efsane",
    "grup": "teknoloji",
    "etiketler": [],
-   "aciklama": "İnternetin kapısı; arama, harita ve YouTube.",
+   "aciklama": "İnternetin kapısı.",
    "puan": {
     "bilinirlik": 10,
     "marka_degeri": 10,
-    "kalite_algisi": 8,
-    "dunyaya_yayilma": 10
-   }
-  },
-  {
-   "id": "coca-cola",
-   "ad": "Coca-Cola",
-   "seviye": "efsane",
-   "grup": "gida",
-   "etiketler": [],
-   "aciklama": "Dünyanın en tanınan içecek markası.",
-   "puan": {
-    "bilinirlik": 10,
-    "marka_degeri": 9,
-    "kalite_algisi": 7,
-    "dunyaya_yayilma": 10
-   }
-  },
-  {
-   "id": "nike",
-   "ad": "Nike",
-   "seviye": "efsane",
-   "grup": "giyim",
-   "etiketler": [],
-   "aciklama": "Just Do It; spor giyimin lideri.",
-   "puan": {
-    "bilinirlik": 10,
-    "marka_degeri": 9,
-    "kalite_algisi": 8,
+    "kalite_algisi": 9,
     "dunyaya_yayilma": 10
    }
   },
@@ -110,9 +82,9 @@
    "seviye": "efsane",
    "grup": "teknoloji",
    "etiketler": [],
-   "aciklama": "Windows ve Office ile her bilgisayarda.",
+   "aciklama": "Windows ve Office'in sahibi.",
    "puan": {
-    "bilinirlik": 9,
+    "bilinirlik": 10,
     "marka_degeri": 10,
     "kalite_algisi": 8,
     "dunyaya_yayilma": 10
@@ -124,11 +96,207 @@
    "seviye": "efsane",
    "grup": "teknoloji",
    "etiketler": [],
-   "aciklama": "Telefondan buzdolabına dev teknoloji.",
+   "aciklama": "Telefondan buzdolabına dev teknoloji markası.",
    "puan": {
     "bilinirlik": 10,
     "marka_degeri": 9,
     "kalite_algisi": 8,
+    "dunyaya_yayilma": 10
+   }
+  },
+  {
+   "id": "sony",
+   "ad": "Sony",
+   "seviye": "efsane",
+   "grup": "teknoloji",
+   "etiketler": [],
+   "aciklama": "PlayStation ve Walkman'in yaratıcısı.",
+   "puan": {
+    "bilinirlik": 9,
+    "marka_degeri": 8,
+    "kalite_algisi": 8,
+    "dunyaya_yayilma": 10
+   }
+  },
+  {
+   "id": "amazon",
+   "ad": "Amazon",
+   "seviye": "efsane",
+   "grup": "teknoloji",
+   "etiketler": [],
+   "aciklama": "Dünyanın en büyük online mağazası.",
+   "puan": {
+    "bilinirlik": 10,
+    "marka_degeri": 10,
+    "kalite_algisi": 8,
+    "dunyaya_yayilma": 10
+   }
+  },
+  {
+   "id": "nike",
+   "ad": "Nike",
+   "seviye": "efsane",
+   "grup": "giyim",
+   "etiketler": [],
+   "aciklama": "\"Just Do It\" sloganlı spor devi.",
+   "puan": {
+    "bilinirlik": 10,
+    "marka_degeri": 10,
+    "kalite_algisi": 9,
+    "dunyaya_yayilma": 10
+   }
+  },
+  {
+   "id": "adidas",
+   "ad": "Adidas",
+   "seviye": "efsane",
+   "grup": "giyim",
+   "etiketler": [],
+   "aciklama": "Üç bantlı efsane spor markası.",
+   "puan": {
+    "bilinirlik": 10,
+    "marka_degeri": 9,
+    "kalite_algisi": 8,
+    "dunyaya_yayilma": 10
+   }
+  },
+  {
+   "id": "louis-vuitton",
+   "ad": "Louis Vuitton",
+   "seviye": "efsane",
+   "grup": "giyim",
+   "etiketler": [],
+   "aciklama": "Lüks modanın en değerli markası.",
+   "puan": {
+    "bilinirlik": 9,
+    "marka_degeri": 10,
+    "kalite_algisi": 10,
+    "dunyaya_yayilma": 9
+   }
+  },
+  {
+   "id": "gucci",
+   "ad": "Gucci",
+   "seviye": "efsane",
+   "grup": "giyim",
+   "etiketler": [],
+   "aciklama": "İtalyan lüks moda ikonu.",
+   "puan": {
+    "bilinirlik": 9,
+    "marka_degeri": 9,
+    "kalite_algisi": 9,
+    "dunyaya_yayilma": 9
+   }
+  },
+  {
+   "id": "chanel",
+   "ad": "Chanel",
+   "seviye": "efsane",
+   "grup": "giyim",
+   "etiketler": [],
+   "aciklama": "Zarafetin ve No.5 parfümün evi.",
+   "puan": {
+    "bilinirlik": 9,
+    "marka_degeri": 9,
+    "kalite_algisi": 10,
+    "dunyaya_yayilma": 9
+   }
+  },
+  {
+   "id": "rolex",
+   "ad": "Rolex",
+   "seviye": "efsane",
+   "grup": "giyim",
+   "etiketler": [],
+   "aciklama": "Lüks saatin simgesi.",
+   "puan": {
+    "bilinirlik": 9,
+    "marka_degeri": 9,
+    "kalite_algisi": 10,
+    "dunyaya_yayilma": 9
+   }
+  },
+  {
+   "id": "herm-s",
+   "ad": "Hermès",
+   "seviye": "efsane",
+   "grup": "giyim",
+   "etiketler": [],
+   "aciklama": "Birkin çantasının en seçkin lüks evi.",
+   "puan": {
+    "bilinirlik": 8,
+    "marka_degeri": 9,
+    "kalite_algisi": 10,
+    "dunyaya_yayilma": 8
+   }
+  },
+  {
+   "id": "coca-cola",
+   "ad": "Coca-Cola",
+   "seviye": "efsane",
+   "grup": "gida",
+   "etiketler": [],
+   "aciklama": "Dünyanın en tanınan içecek markası.",
+   "puan": {
+    "bilinirlik": 10,
+    "marka_degeri": 10,
+    "kalite_algisi": 8,
+    "dunyaya_yayilma": 10
+   }
+  },
+  {
+   "id": "mcdonald-s",
+   "ad": "McDonald's",
+   "seviye": "efsane",
+   "grup": "gida",
+   "etiketler": [],
+   "aciklama": "Altın kemerli fast food devi.",
+   "puan": {
+    "bilinirlik": 10,
+    "marka_degeri": 10,
+    "kalite_algisi": 6,
+    "dunyaya_yayilma": 10
+   }
+  },
+  {
+   "id": "starbucks",
+   "ad": "Starbucks",
+   "seviye": "efsane",
+   "grup": "gida",
+   "etiketler": [],
+   "aciklama": "Yeşil logolu kahve zinciri.",
+   "puan": {
+    "bilinirlik": 10,
+    "marka_degeri": 9,
+    "kalite_algisi": 7,
+    "dunyaya_yayilma": 10
+   }
+  },
+  {
+   "id": "nestl",
+   "ad": "Nestlé",
+   "seviye": "efsane",
+   "grup": "gida",
+   "etiketler": [],
+   "aciklama": "Dünyanın en büyük gıda şirketi.",
+   "puan": {
+    "bilinirlik": 9,
+    "marka_degeri": 9,
+    "kalite_algisi": 7,
+    "dunyaya_yayilma": 10
+   }
+  },
+  {
+   "id": "red-bull",
+   "ad": "Red Bull",
+   "seviye": "efsane",
+   "grup": "gida",
+   "etiketler": [],
+   "aciklama": "\"Kanat verir\" sloganlı enerji içeceği.",
+   "puan": {
+    "bilinirlik": 9,
+    "marka_degeri": 9,
+    "kalite_algisi": 7,
     "dunyaya_yayilma": 10
    }
   },
@@ -138,124 +306,96 @@
    "seviye": "efsane",
    "grup": "otomotiv",
    "etiketler": [],
-   "aciklama": "Yıldızlı logosuyla lüks otomobilin simgesi.",
-   "puan": {
-    "bilinirlik": 9,
-    "marka_degeri": 9,
-    "kalite_algisi": 10,
-    "dunyaya_yayilma": 9
-   }
-  },
-  {
-   "id": "amazon",
-   "ad": "Amazon",
-   "seviye": "guclu",
-   "grup": "perakende",
-   "etiketler": [],
-   "aciklama": "Dünyanın en büyük online mağazası.",
-   "puan": {
-    "bilinirlik": 9,
-    "marka_degeri": 10,
-    "kalite_algisi": 7,
-    "dunyaya_yayilma": 9
-   }
-  },
-  {
-   "id": "mcdonald-s",
-   "ad": "McDonald's",
-   "seviye": "guclu",
-   "grup": "gida",
-   "etiketler": [],
-   "aciklama": "Dünyanın her yerinde aynı burger.",
+   "aciklama": "Lüks ve güvenliğin yıldızı.",
    "puan": {
     "bilinirlik": 10,
-    "marka_degeri": 9,
-    "kalite_algisi": 5,
-    "dunyaya_yayilma": 10
-   }
-  },
-  {
-   "id": "adidas",
-   "ad": "Adidas",
-   "seviye": "guclu",
-   "grup": "giyim",
-   "etiketler": [],
-   "aciklama": "Üç çizgili spor devi.",
-   "puan": {
-    "bilinirlik": 9,
-    "marka_degeri": 8,
-    "kalite_algisi": 8,
-    "dunyaya_yayilma": 9
-   }
-  },
-  {
-   "id": "toyota",
-   "ad": "Toyota",
-   "seviye": "guclu",
-   "grup": "otomotiv",
-   "etiketler": [],
-   "aciklama": "Dayanıklılığıyla en çok satan otomobil markalarından.",
-   "puan": {
-    "bilinirlik": 9,
-    "marka_degeri": 9,
-    "kalite_algisi": 9,
+    "marka_degeri": 10,
+    "kalite_algisi": 10,
     "dunyaya_yayilma": 10
    }
   },
   {
    "id": "bmw",
    "ad": "BMW",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "otomotiv",
    "etiketler": [],
-   "aciklama": "Sürüş keyfi denince akla gelen Alman.",
+   "aciklama": "Sürüş keyfinin Alman markası.",
    "puan": {
-    "bilinirlik": 9,
+    "bilinirlik": 10,
     "marka_degeri": 9,
     "kalite_algisi": 9,
+    "dunyaya_yayilma": 10
+   }
+  },
+  {
+   "id": "ferrari",
+   "ad": "Ferrari",
+   "seviye": "efsane",
+   "grup": "otomotiv",
+   "etiketler": [],
+   "aciklama": "Kırmızı efsane süper otomobil.",
+   "puan": {
+    "bilinirlik": 10,
+    "marka_degeri": 10,
+    "kalite_algisi": 10,
     "dunyaya_yayilma": 9
    }
   },
   {
-   "id": "louis-vuitton",
-   "ad": "Louis Vuitton",
-   "seviye": "guclu",
-   "grup": "giyim",
+   "id": "toyota",
+   "ad": "Toyota",
+   "seviye": "efsane",
+   "grup": "otomotiv",
    "etiketler": [],
-   "aciklama": "Lüks modanın en değerli markası.",
+   "aciklama": "Dünyanın en çok araba satan şirketi.",
    "puan": {
-    "bilinirlik": 8,
+    "bilinirlik": 10,
     "marka_degeri": 9,
-    "kalite_algisi": 10,
-    "dunyaya_yayilma": 8
+    "kalite_algisi": 9,
+    "dunyaya_yayilma": 10
    }
   },
   {
-   "id": "starbucks",
-   "ad": "Starbucks",
-   "seviye": "guclu",
-   "grup": "gida",
+   "id": "tesla",
+   "ad": "Tesla",
+   "seviye": "efsane",
+   "grup": "otomotiv",
    "etiketler": [],
-   "aciklama": "Dünyanın kahve zinciri.",
+   "aciklama": "Elektrikli otomobil devrimi.",
    "puan": {
     "bilinirlik": 9,
-    "marka_degeri": 8,
-    "kalite_algisi": 7,
+    "marka_degeri": 9,
+    "kalite_algisi": 8,
     "dunyaya_yayilma": 9
    }
   },
   {
    "id": "ikea",
    "ad": "IKEA",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "perakende",
    "etiketler": [],
-   "aciklama": "Kendin kur mobilyaların İsveçli devi.",
+   "aciklama": "Kendin kur mobilyaların İsveç devi.",
    "puan": {
-    "bilinirlik": 9,
-    "marka_degeri": 8,
-    "kalite_algisi": 6,
-    "dunyaya_yayilma": 9
+    "bilinirlik": 10,
+    "marka_degeri": 9,
+    "kalite_algisi": 7,
+    "dunyaya_yayilma": 10
+   }
+  },
+  {
+   "id": "disney",
+   "ad": "Disney",
+   "seviye": "efsane",
+   "grup": "perakende",
+   "etiketler": [],
+   "aciklama": "Mickey'den Marvel'a eğlence imparatorluğu.",
+   "puan": {
+    "bilinirlik": 10,
+    "marka_degeri": 10,
+    "kalite_algisi": 9,
+    "dunyaya_yayilma": 10
    }
   },
   {
@@ -264,278 +404,138 @@
    "seviye": "guclu",
    "grup": "teknoloji",
    "etiketler": [],
-   "aciklama": "Dizi film izleme alışkanlığını değiştiren platform.",
+   "aciklama": "Dizi film izlemenin adresi.",
    "puan": {
     "bilinirlik": 9,
     "marka_degeri": 8,
-    "kalite_algisi": 7,
-    "dunyaya_yayilma": 9
-   }
-  },
-  {
-   "id": "sony",
-   "ad": "Sony",
-   "seviye": "guclu",
-   "grup": "teknoloji",
-   "etiketler": [],
-   "aciklama": "PlayStation ve elektroniğin Japon ustası.",
-   "puan": {
-    "bilinirlik": 9,
-    "marka_degeri": 7,
     "kalite_algisi": 8,
     "dunyaya_yayilma": 9
    }
   },
   {
-   "id": "disney",
-   "ad": "Disney",
+   "id": "intel",
+   "ad": "Intel",
    "seviye": "guclu",
-   "grup": "perakende",
+   "grup": "teknoloji",
    "etiketler": [],
-   "aciklama": "Eğlence dünyasının devi.",
-   "puan": {
-    "bilinirlik": 10,
-    "marka_degeri": 9,
-    "kalite_algisi": 8,
-    "dunyaya_yayilma": 10
-   }
-  },
-  {
-   "id": "tesla",
-   "ad": "Tesla",
-   "seviye": "guclu",
-   "grup": "otomotiv",
-   "etiketler": [],
-   "aciklama": "Elektrikli otomobilin öncü markası.",
-   "puan": {
-    "bilinirlik": 9,
-    "marka_degeri": 9,
-    "kalite_algisi": 7,
-    "dunyaya_yayilma": 8
-   }
-  },
-  {
-   "id": "ulker",
-   "ad": "Ülker",
-   "seviye": "guclu",
-   "grup": "gida",
-   "etiketler": [],
-   "aciklama": "Türkiye'nin en tanınan atıştırmalık markası.",
+   "aciklama": "Bilgisayarların içindeki işlemci.",
    "puan": {
     "bilinirlik": 8,
-    "marka_degeri": 7,
-    "kalite_algisi": 7,
-    "dunyaya_yayilma": 6
-   }
-  },
-  {
-   "id": "turk-hava-yollari",
-   "ad": "Türk Hava Yolları",
-   "seviye": "guclu",
-   "grup": "perakende",
-   "etiketler": [],
-   "aciklama": "En çok ülkeye uçan havayollarından.",
-   "puan": {
-    "bilinirlik": 8,
-    "marka_degeri": 7,
+    "marka_degeri": 8,
     "kalite_algisi": 8,
     "dunyaya_yayilma": 9
-   }
-  },
-  {
-   "id": "arcelik",
-   "ad": "Arçelik",
-   "seviye": "siradan",
-   "grup": "teknoloji",
-   "etiketler": [],
-   "aciklama": "Türkiye'nin beyaz eşya devi.",
-   "puan": {
-    "bilinirlik": 8,
-    "marka_degeri": 6,
-    "kalite_algisi": 7,
-    "dunyaya_yayilma": 6
-   }
-  },
-  {
-   "id": "lc-waikiki",
-   "ad": "LC Waikiki",
-   "seviye": "siradan",
-   "grup": "giyim",
-   "etiketler": [],
-   "aciklama": "Uygun fiyatlı giyimin Türk markası.",
-   "puan": {
-    "bilinirlik": 8,
-    "marka_degeri": 5,
-    "kalite_algisi": 5,
-    "dunyaya_yayilma": 7
-   }
-  },
-  {
-   "id": "koton",
-   "ad": "Koton",
-   "seviye": "siradan",
-   "grup": "giyim",
-   "etiketler": [],
-   "aciklama": "Türk moda perakendecisi.",
-   "puan": {
-    "bilinirlik": 7,
-    "marka_degeri": 4,
-    "kalite_algisi": 5,
-    "dunyaya_yayilma": 5
-   }
-  },
-  {
-   "id": "eti",
-   "ad": "Eti",
-   "seviye": "siradan",
-   "grup": "gida",
-   "etiketler": [],
-   "aciklama": "Bisküvi ve atıştırmalıklarıyla tanınan marka.",
-   "puan": {
-    "bilinirlik": 8,
-    "marka_degeri": 5,
-    "kalite_algisi": 7,
-    "dunyaya_yayilma": 4
-   }
-  },
-  {
-   "id": "turkcell",
-   "ad": "Turkcell",
-   "seviye": "siradan",
-   "grup": "teknoloji",
-   "etiketler": [],
-   "aciklama": "Türkiye'nin büyük operatörü.",
-   "puan": {
-    "bilinirlik": 8,
-    "marka_degeri": 6,
-    "kalite_algisi": 6,
-    "dunyaya_yayilma": 4
    }
   },
   {
    "id": "puma",
    "ad": "Puma",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "giyim",
    "etiketler": [],
-   "aciklama": "Sıçrayan pumalı spor markası.",
+   "aciklama": "Hızlı kedi logolu spor markası.",
    "puan": {
     "bilinirlik": 8,
-    "marka_degeri": 6,
+    "marka_degeri": 7,
     "kalite_algisi": 7,
-    "dunyaya_yayilma": 8
+    "dunyaya_yayilma": 9
    }
   },
   {
    "id": "zara",
    "ad": "Zara",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "giyim",
    "etiketler": [],
-   "aciklama": "Hızlı modanın İspanyol lideri.",
+   "aciklama": "Hızlı modanın İspanyol devi.",
    "puan": {
     "bilinirlik": 9,
     "marka_degeri": 8,
-    "kalite_algisi": 6,
+    "kalite_algisi": 7,
     "dunyaya_yayilma": 9
-   }
-  },
-  {
-   "id": "h-m",
-   "ad": "H&M",
-   "seviye": "siradan",
-   "grup": "giyim",
-   "etiketler": [],
-   "aciklama": "İsveçli moda zinciri.",
-   "puan": {
-    "bilinirlik": 8,
-    "marka_degeri": 6,
-    "kalite_algisi": 5,
-    "dunyaya_yayilma": 8
    }
   },
   {
    "id": "pepsi",
    "ad": "Pepsi",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "gida",
    "etiketler": [],
-   "aciklama": "Kola savaşlarının diğer tarafı.",
+   "aciklama": "Coca-Cola'nın ezeli rakibi.",
    "puan": {
     "bilinirlik": 9,
-    "marka_degeri": 7,
-    "kalite_algisi": 6,
-    "dunyaya_yayilma": 9
-   }
-  },
-  {
-   "id": "nestl",
-   "ad": "Nestlé",
-   "seviye": "siradan",
-   "grup": "gida",
-   "etiketler": [],
-   "aciklama": "Dünyanın en büyük gıda şirketi.",
-   "puan": {
-    "bilinirlik": 8,
     "marka_degeri": 8,
     "kalite_algisi": 7,
     "dunyaya_yayilma": 10
    }
   },
   {
-   "id": "ford",
-   "ad": "Ford",
-   "seviye": "siradan",
-   "grup": "otomotiv",
+   "id": "kfc",
+   "ad": "KFC",
+   "seviye": "guclu",
+   "grup": "gida",
    "etiketler": [],
-   "aciklama": "Seri üretimi başlatan otomobil markası.",
+   "aciklama": "Albay'ın kızarmış tavuğu.",
    "puan": {
     "bilinirlik": 9,
-    "marka_degeri": 7,
-    "kalite_algisi": 7,
+    "marka_degeri": 8,
+    "kalite_algisi": 6,
     "dunyaya_yayilma": 9
    }
   },
   {
-   "id": "fiat",
-   "ad": "Fiat",
-   "seviye": "siradan",
+   "id": "porsche",
+   "ad": "Porsche",
+   "seviye": "guclu",
    "grup": "otomotiv",
    "etiketler": [],
-   "aciklama": "Küçük ve pratik İtalyan araçları.",
+   "aciklama": "911'in efsane spor otomobil markası.",
    "puan": {
-    "bilinirlik": 8,
-    "marka_degeri": 5,
-    "kalite_algisi": 5,
-    "dunyaya_yayilma": 7
+    "bilinirlik": 9,
+    "marka_degeri": 9,
+    "kalite_algisi": 10,
+    "dunyaya_yayilma": 8
    }
   },
   {
-   "id": "huawei",
-   "ad": "Huawei",
-   "seviye": "siradan",
-   "grup": "teknoloji",
+   "id": "volkswagen",
+   "ad": "Volkswagen",
+   "seviye": "guclu",
+   "grup": "otomotiv",
    "etiketler": [],
-   "aciklama": "Çinli telekom ve telefon devi.",
+   "aciklama": "Halkın arabası, Golf ve Beetle.",
    "puan": {
-    "bilinirlik": 8,
-    "marka_degeri": 6,
-    "kalite_algisi": 7,
-    "dunyaya_yayilma": 7
+    "bilinirlik": 9,
+    "marka_degeri": 8,
+    "kalite_algisi": 8,
+    "dunyaya_yayilma": 10
    }
   },
   {
-   "id": "trendyol",
-   "ad": "Trendyol",
-   "seviye": "siradan",
+   "id": "lego",
+   "ad": "LEGO",
+   "seviye": "guclu",
    "grup": "perakende",
    "etiketler": [],
-   "aciklama": "Türkiye'nin büyük online alışveriş sitesi.",
+   "aciklama": "Renkli tuğlaların oyuncak devi.",
+   "puan": {
+    "bilinirlik": 9,
+    "marka_degeri": 9,
+    "kalite_algisi": 9,
+    "dunyaya_yayilma": 9
+   }
+  },
+  {
+   "id": "walmart",
+   "ad": "Walmart",
+   "seviye": "guclu",
+   "grup": "perakende",
+   "etiketler": [],
+   "aciklama": "Dünyanın en büyük market zinciri.",
    "puan": {
     "bilinirlik": 8,
-    "marka_degeri": 6,
-    "kalite_algisi": 5,
-    "dunyaya_yayilma": 4
+    "marka_degeri": 8,
+    "kalite_algisi": 6,
+    "dunyaya_yayilma": 7
    }
   }
  ]

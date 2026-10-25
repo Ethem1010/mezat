@@ -57,7 +57,7 @@
    "seviye": "efsane",
    "grup": "kanat",
    "etiketler": [],
-   "aciklama": "Altı şampiyonluk, sıfır final kaybı; basketbolun tanrısı.",
+   "aciklama": "Altı şampiyonluk, sıfır final kaybı.",
    "puan": {
     "pozisyonunda_ustalik": 10,
     "oyun_zekasi": 9,
@@ -94,6 +94,90 @@
    }
   },
   {
+   "id": "larry-bird",
+   "ad": "Larry Bird",
+   "seviye": "efsane",
+   "grup": "kanat",
+   "etiketler": [],
+   "aciklama": "Celtics'in efsane şutörü.",
+   "puan": {
+    "pozisyonunda_ustalik": 9,
+    "oyun_zekasi": 10,
+    "sampiyonluklar": 9,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "kevin-durant",
+   "ad": "Kevin Durant",
+   "seviye": "efsane",
+   "grup": "kanat",
+   "etiketler": [],
+   "aciklama": "Durdurulamayan uzun şutör.",
+   "puan": {
+    "pozisyonunda_ustalik": 10,
+    "oyun_zekasi": 8,
+    "sampiyonluklar": 8,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "giannis-antetokounmpo",
+   "ad": "Giannis Antetokounmpo",
+   "seviye": "efsane",
+   "grup": "kanat",
+   "etiketler": [],
+   "aciklama": "Yunan Ucube; atletizm ve güç.",
+   "puan": {
+    "pozisyonunda_ustalik": 10,
+    "oyun_zekasi": 8,
+    "sampiyonluklar": 8,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "julius-erving",
+   "ad": "Julius Erving",
+   "seviye": "efsane",
+   "grup": "kanat",
+   "etiketler": [],
+   "aciklama": "Dr. J; smacın sanatçısı.",
+   "puan": {
+    "pozisyonunda_ustalik": 9,
+    "oyun_zekasi": 8,
+    "sampiyonluklar": 8,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "scottie-pippen",
+   "ad": "Scottie Pippen",
+   "seviye": "efsane",
+   "grup": "kanat",
+   "etiketler": [],
+   "aciklama": "Jordan'ın sağ kolu, savunma ustası.",
+   "puan": {
+    "pozisyonunda_ustalik": 9,
+    "oyun_zekasi": 9,
+    "sampiyonluklar": 10,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "dwyane-wade",
+   "ad": "Dwyane Wade",
+   "seviye": "efsane",
+   "grup": "kanat",
+   "etiketler": [],
+   "aciklama": "Miami Heat'in Flash'ı.",
+   "puan": {
+    "pozisyonunda_ustalik": 9,
+    "oyun_zekasi": 8,
+    "sampiyonluklar": 9,
+    "efsanelik": 9
+   }
+  },
+  {
    "id": "magic-johnson",
    "ad": "Magic Johnson",
    "seviye": "efsane",
@@ -101,22 +185,8 @@
    "etiketler": [],
    "aciklama": "Pas sihirbazı, Showtime Lakers'ın lideri.",
    "puan": {
-    "pozisyonunda_ustalik": 8,
-    "oyun_zekasi": 10,
-    "sampiyonluklar": 9,
-    "efsanelik": 10
-   }
-  },
-  {
-   "id": "shaquille-o-neal",
-   "ad": "Shaquille O'Neal",
-   "seviye": "efsane",
-   "grup": "pivot",
-   "etiketler": [],
-   "aciklama": "Potanın altındaki durdurulamaz dev.",
-   "puan": {
     "pozisyonunda_ustalik": 9,
-    "oyun_zekasi": 9,
+    "oyun_zekasi": 10,
     "sampiyonluklar": 9,
     "efsanelik": 10
    }
@@ -131,6 +201,90 @@
    "puan": {
     "pozisyonunda_ustalik": 10,
     "oyun_zekasi": 9,
+    "sampiyonluklar": 9,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "isiah-thomas",
+   "ad": "Isiah Thomas",
+   "seviye": "efsane",
+   "grup": "oyun_kurucu",
+   "etiketler": [],
+   "aciklama": "Bad Boys Pistons'ın lideri.",
+   "puan": {
+    "pozisyonunda_ustalik": 9,
+    "oyun_zekasi": 9,
+    "sampiyonluklar": 8,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "oscar-robertson",
+   "ad": "Oscar Robertson",
+   "seviye": "efsane",
+   "grup": "oyun_kurucu",
+   "etiketler": [],
+   "aciklama": "Bir sezon ortalama triple-double yapan ilk isim.",
+   "puan": {
+    "pozisyonunda_ustalik": 9,
+    "oyun_zekasi": 9,
+    "sampiyonluklar": 7,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "jerry-west",
+   "ad": "Jerry West",
+   "seviye": "efsane",
+   "grup": "oyun_kurucu",
+   "etiketler": [],
+   "aciklama": "NBA logosundaki adam.",
+   "puan": {
+    "pozisyonunda_ustalik": 9,
+    "oyun_zekasi": 9,
+    "sampiyonluklar": 7,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "steve-nash",
+   "ad": "Steve Nash",
+   "seviye": "efsane",
+   "grup": "oyun_kurucu",
+   "etiketler": [],
+   "aciklama": "İki kez MVP olan pas ustası.",
+   "puan": {
+    "pozisyonunda_ustalik": 9,
+    "oyun_zekasi": 10,
+    "sampiyonluklar": 4,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "allen-iverson",
+   "ad": "Allen Iverson",
+   "seviye": "efsane",
+   "grup": "oyun_kurucu",
+   "etiketler": [],
+   "aciklama": "Crossover'ıyla devleri deviren küçük dev.",
+   "puan": {
+    "pozisyonunda_ustalik": 10,
+    "oyun_zekasi": 7,
+    "sampiyonluklar": 4,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "shaquille-o-neal",
+   "ad": "Shaquille O'Neal",
+   "seviye": "efsane",
+   "grup": "pivot",
+   "etiketler": [],
+   "aciklama": "Potanın altındaki durdurulamaz dev.",
+   "puan": {
+    "pozisyonunda_ustalik": 10,
+    "oyun_zekasi": 8,
     "sampiyonluklar": 9,
     "efsanelik": 10
    }
@@ -152,7 +306,7 @@
   {
    "id": "tim-duncan",
    "ad": "Tim Duncan",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "pivot",
    "etiketler": [],
    "aciklama": "Sessiz ama ölümcül, beş şampiyonluk.",
@@ -164,23 +318,9 @@
    }
   },
   {
-   "id": "larry-bird",
-   "ad": "Larry Bird",
-   "seviye": "guclu",
-   "grup": "kanat",
-   "etiketler": [],
-   "aciklama": "Celtics'in efsane şutörü.",
-   "puan": {
-    "pozisyonunda_ustalik": 9,
-    "oyun_zekasi": 9,
-    "sampiyonluklar": 9,
-    "efsanelik": 9
-   }
-  },
-  {
    "id": "hakeem-olajuwon",
    "ad": "Hakeem Olajuwon",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "pivot",
    "etiketler": [],
    "aciklama": "Dream Shake hareketiyle ünlü pivot.",
@@ -192,23 +332,37 @@
    }
   },
   {
-   "id": "kevin-durant",
-   "ad": "Kevin Durant",
-   "seviye": "guclu",
-   "grup": "kanat",
+   "id": "wilt-chamberlain",
+   "ad": "Wilt Chamberlain",
+   "seviye": "efsane",
+   "grup": "pivot",
    "etiketler": [],
-   "aciklama": "Durdurulamayan uzun şutör.",
+   "aciklama": "Bir maçta 100 sayı atan dev.",
    "puan": {
     "pozisyonunda_ustalik": 10,
-    "oyun_zekasi": 8,
-    "sampiyonluklar": 8,
-    "efsanelik": 9
+    "oyun_zekasi": 7,
+    "sampiyonluklar": 7,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "bill-russell",
+   "ad": "Bill Russell",
+   "seviye": "efsane",
+   "grup": "pivot",
+   "etiketler": [],
+   "aciklama": "On bir şampiyonluk yüzüğü.",
+   "puan": {
+    "pozisyonunda_ustalik": 10,
+    "oyun_zekasi": 9,
+    "sampiyonluklar": 10,
+    "efsanelik": 10
    }
   },
   {
    "id": "nikola-joki",
    "ad": "Nikola Jokić",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "pivot",
    "etiketler": [],
    "aciklama": "Pas veren pivot, birden çok MVP.",
@@ -220,23 +374,9 @@
    }
   },
   {
-   "id": "giannis-antetokounmpo",
-   "ad": "Giannis Antetokounmpo",
-   "seviye": "guclu",
-   "grup": "kanat",
-   "etiketler": [],
-   "aciklama": "Yunan Ucube; atletizm ve güç.",
-   "puan": {
-    "pozisyonunda_ustalik": 9,
-    "oyun_zekasi": 8,
-    "sampiyonluklar": 7,
-    "efsanelik": 8
-   }
-  },
-  {
    "id": "kevin-garnett",
    "ad": "Kevin Garnett",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "pivot",
    "etiketler": [],
    "aciklama": "Savunmanın ve tutkunun sembolü.",
@@ -250,7 +390,7 @@
   {
    "id": "dirk-nowitzki",
    "ad": "Dirk Nowitzki",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "pivot",
    "etiketler": [],
    "aciklama": "Tek ayak fadeaway şutunun Alman ustası.",
@@ -258,20 +398,62 @@
     "pozisyonunda_ustalik": 9,
     "oyun_zekasi": 8,
     "sampiyonluklar": 7,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "kawhi-leonard",
+   "ad": "Kawhi Leonard",
+   "seviye": "guclu",
+   "grup": "kanat",
+   "etiketler": [],
+   "aciklama": "İki takımla Finaller MVP'si.",
+   "puan": {
+    "pozisyonunda_ustalik": 9,
+    "oyun_zekasi": 8,
+    "sampiyonluklar": 8,
     "efsanelik": 8
    }
   },
   {
-   "id": "allen-iverson",
-   "ad": "Allen Iverson",
+   "id": "dennis-rodman",
+   "ad": "Dennis Rodman",
+   "seviye": "guclu",
+   "grup": "kanat",
+   "etiketler": [],
+   "aciklama": "Ribaunt makinesi, savunmanın çılgın dehası.",
+   "puan": {
+    "pozisyonunda_ustalik": 9,
+    "oyun_zekasi": 6,
+    "sampiyonluklar": 9,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "hidayet-turkoglu",
+   "ad": "Hidayet Türkoğlu",
+   "seviye": "guclu",
+   "grup": "kanat",
+   "etiketler": [],
+   "aciklama": "NBA'de Gelişim Ödülü kazanan Türk forvet.",
+   "puan": {
+    "pozisyonunda_ustalik": 7,
+    "oyun_zekasi": 8,
+    "sampiyonluklar": 5,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "luka-don-i",
+   "ad": "Luka Dončić",
    "seviye": "guclu",
    "grup": "oyun_kurucu",
    "etiketler": [],
-   "aciklama": "Crossover'ıyla devleri deviren küçük dev.",
+   "aciklama": "Genç yaşta rekorlar kıran Sloven yıldız.",
    "puan": {
     "pozisyonunda_ustalik": 10,
-    "oyun_zekasi": 7,
-    "sampiyonluklar": 4,
+    "oyun_zekasi": 9,
+    "sampiyonluklar": 5,
     "efsanelik": 8
    }
   },
@@ -304,177 +486,9 @@
    }
   },
   {
-   "id": "luka-don-i",
-   "ad": "Luka Dončić",
-   "seviye": "guclu",
-   "grup": "oyun_kurucu",
-   "etiketler": [],
-   "aciklama": "Genç yaşta rekorlar kıran Sloven yıldız.",
-   "puan": {
-    "pozisyonunda_ustalik": 10,
-    "oyun_zekasi": 9,
-    "sampiyonluklar": 5,
-    "efsanelik": 8
-   }
-  },
-  {
-   "id": "dwyane-wade",
-   "ad": "Dwyane Wade",
-   "seviye": "guclu",
-   "grup": "kanat",
-   "etiketler": [],
-   "aciklama": "Miami Heat'in Flash'ı.",
-   "puan": {
-    "pozisyonunda_ustalik": 9,
-    "oyun_zekasi": 8,
-    "sampiyonluklar": 8,
-    "efsanelik": 8
-   }
-  },
-  {
-   "id": "hidayet-turkoglu",
-   "ad": "Hidayet Türkoğlu",
-   "seviye": "guclu",
-   "grup": "kanat",
-   "etiketler": [],
-   "aciklama": "NBA'de Gelişim Ödülü kazanan Türk forvet.",
-   "puan": {
-    "pozisyonunda_ustalik": 7,
-    "oyun_zekasi": 8,
-    "sampiyonluklar": 5,
-    "efsanelik": 8
-   }
-  },
-  {
-   "id": "mehmet-okur",
-   "ad": "Mehmet Okur",
-   "seviye": "siradan",
-   "grup": "pivot",
-   "etiketler": [],
-   "aciklama": "NBA şampiyonluğu yaşayan ilk Türk.",
-   "puan": {
-    "pozisyonunda_ustalik": 7,
-    "oyun_zekasi": 7,
-    "sampiyonluklar": 6,
-    "efsanelik": 6
-   }
-  },
-  {
-   "id": "cedi-osman",
-   "ad": "Cedi Osman",
-   "seviye": "siradan",
-   "grup": "kanat",
-   "etiketler": [],
-   "aciklama": "NBA'de uzun yıllar forma giyen milli oyuncu.",
-   "puan": {
-    "pozisyonunda_ustalik": 6,
-    "oyun_zekasi": 7,
-    "sampiyonluklar": 3,
-    "efsanelik": 6
-   }
-  },
-  {
-   "id": "alperen-sengun",
-   "ad": "Alperen Şengün",
-   "seviye": "siradan",
-   "grup": "pivot",
-   "etiketler": [],
-   "aciklama": "NBA'de yükselen Türk pivot.",
-   "puan": {
-    "pozisyonunda_ustalik": 8,
-    "oyun_zekasi": 8,
-    "sampiyonluklar": 3,
-    "efsanelik": 6
-   }
-  },
-  {
-   "id": "omer-asik",
-   "ad": "Ömer Aşık",
-   "seviye": "siradan",
-   "grup": "pivot",
-   "etiketler": [],
-   "aciklama": "Ribauntları ve savunmasıyla bilinen dev.",
-   "puan": {
-    "pozisyonunda_ustalik": 8,
-    "oyun_zekasi": 6,
-    "sampiyonluklar": 4,
-    "efsanelik": 6
-   }
-  },
-  {
-   "id": "kerem-tunceri",
-   "ad": "Kerem Tunçeri",
-   "seviye": "siradan",
-   "grup": "oyun_kurucu",
-   "etiketler": [],
-   "aciklama": "Milli takımın sert savunmacı oyun kurucusu.",
-   "puan": {
-    "pozisyonunda_ustalik": 7,
-    "oyun_zekasi": 8,
-    "sampiyonluklar": 5,
-    "efsanelik": 6
-   }
-  },
-  {
-   "id": "i-brahim-kutluay",
-   "ad": "İbrahim Kutluay",
-   "seviye": "siradan",
-   "grup": "kanat",
-   "etiketler": [],
-   "aciklama": "12 Dev Adam'ın şutörü.",
-   "puan": {
-    "pozisyonunda_ustalik": 7,
-    "oyun_zekasi": 6,
-    "sampiyonluklar": 6,
-    "efsanelik": 6
-   }
-  },
-  {
-   "id": "furkan-korkmaz",
-   "ad": "Furkan Korkmaz",
-   "seviye": "siradan",
-   "grup": "kanat",
-   "etiketler": [],
-   "aciklama": "NBA'de oynayan şutör kanat.",
-   "puan": {
-    "pozisyonunda_ustalik": 6,
-    "oyun_zekasi": 6,
-    "sampiyonluklar": 4,
-    "efsanelik": 6
-   }
-  },
-  {
-   "id": "dennis-rodman",
-   "ad": "Dennis Rodman",
-   "seviye": "siradan",
-   "grup": "kanat",
-   "etiketler": [],
-   "aciklama": "Ribaunt makinesi, savunmanın çılgın dehası.",
-   "puan": {
-    "pozisyonunda_ustalik": 9,
-    "oyun_zekasi": 6,
-    "sampiyonluklar": 9,
-    "efsanelik": 8
-   }
-  },
-  {
-   "id": "scottie-pippen",
-   "ad": "Scottie Pippen",
-   "seviye": "siradan",
-   "grup": "kanat",
-   "etiketler": [],
-   "aciklama": "Jordan'ın sağ kolu, savunma uzmanı.",
-   "puan": {
-    "pozisyonunda_ustalik": 9,
-    "oyun_zekasi": 8,
-    "sampiyonluklar": 9,
-    "efsanelik": 8
-   }
-  },
-  {
    "id": "tony-parker",
    "ad": "Tony Parker",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "oyun_kurucu",
    "etiketler": [],
    "aciklama": "Spurs'ün hızlı Fransız oyun kurucusu.",
@@ -486,59 +500,45 @@
    }
   },
   {
-   "id": "russell-westbrook",
-   "ad": "Russell Westbrook",
-   "seviye": "siradan",
-   "grup": "oyun_kurucu",
+   "id": "charles-barkley",
+   "ad": "Charles Barkley",
+   "seviye": "guclu",
+   "grup": "pivot",
    "etiketler": [],
-   "aciklama": "Triple-double rekortmeni.",
+   "aciklama": "Ribauntların \"Uçan Buzdolabı\".",
    "puan": {
-    "pozisyonunda_ustalik": 8,
-    "oyun_zekasi": 7,
-    "sampiyonluklar": 3,
-    "efsanelik": 6
+    "pozisyonunda_ustalik": 9,
+    "oyun_zekasi": 8,
+    "sampiyonluklar": 4,
+    "efsanelik": 9
    }
   },
   {
-   "id": "james-harden",
-   "ad": "James Harden",
-   "seviye": "siradan",
-   "grup": "oyun_kurucu",
+   "id": "alperen-sengun",
+   "ad": "Alperen Şengün",
+   "seviye": "guclu",
+   "grup": "pivot",
    "etiketler": [],
-   "aciklama": "Step-back üçlüğün sahibi.",
+   "aciklama": "NBA'de yükselen Türk pivot.",
    "puan": {
-    "pozisyonunda_ustalik": 9,
+    "pozisyonunda_ustalik": 8,
     "oyun_zekasi": 8,
     "sampiyonluklar": 3,
     "efsanelik": 6
    }
   },
   {
-   "id": "yao-ming",
-   "ad": "Yao Ming",
-   "seviye": "siradan",
+   "id": "mehmet-okur",
+   "ad": "Mehmet Okur",
+   "seviye": "guclu",
    "grup": "pivot",
    "etiketler": [],
-   "aciklama": "2,29'luk Çinli dev.",
+   "aciklama": "NBA şampiyonluğu yaşayan ilk Türk.",
    "puan": {
-    "pozisyonunda_ustalik": 8,
-    "oyun_zekasi": 7,
-    "sampiyonluklar": 3,
-    "efsanelik": 6
-   }
-  },
-  {
-   "id": "dwight-howard",
-   "ad": "Dwight Howard",
-   "seviye": "siradan",
-   "grup": "pivot",
-   "etiketler": [],
-   "aciklama": "Üç kez yılın savunmacısı.",
-   "puan": {
-    "pozisyonunda_ustalik": 9,
+    "pozisyonunda_ustalik": 7,
     "oyun_zekasi": 7,
     "sampiyonluklar": 6,
-    "efsanelik": 8
+    "efsanelik": 6
    }
   }
  ]

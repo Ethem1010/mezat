@@ -73,7 +73,7 @@
    "seviye": "efsane",
    "grup": "forvet",
    "etiketler": [],
-   "aciklama": "Rekor sayıda Ballon d'Or kazanan, Dünya Kupası şampiyonu.",
+   "aciklama": "Rekor sayıda Ballon d'Or, Dünya Kupası şampiyonu.",
    "puan": {
     "mevkisinde_ustalik": 10,
     "yetenek": 10,
@@ -87,7 +87,7 @@
    "seviye": "efsane",
    "grup": "forvet",
    "etiketler": [],
-   "aciklama": "Gol makinesi; Şampiyonlar Ligi'nin en golcüsü.",
+   "aciklama": "Şampiyonlar Ligi'nin en golcüsü.",
    "puan": {
     "mevkisinde_ustalik": 10,
     "yetenek": 9,
@@ -110,12 +110,82 @@
    }
   },
   {
+   "id": "ronaldo-naz-rio",
+   "ad": "Ronaldo Nazário",
+   "seviye": "efsane",
+   "grup": "forvet",
+   "etiketler": [],
+   "aciklama": "Fenomen; hız ve bitiriciliğin tanımı.",
+   "puan": {
+    "mevkisinde_ustalik": 10,
+    "yetenek": 9,
+    "kupalar": 9,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "johan-cruyff",
+   "ad": "Johan Cruyff",
+   "seviye": "efsane",
+   "grup": "forvet",
+   "etiketler": [],
+   "aciklama": "Total futbolun dâhisi.",
+   "puan": {
+    "mevkisinde_ustalik": 9,
+    "yetenek": 10,
+    "kupalar": 9,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "eus-bio",
+   "ad": "Eusébio",
+   "seviye": "efsane",
+   "grup": "forvet",
+   "etiketler": [],
+   "aciklama": "Benfica'nın Kara Panteri.",
+   "puan": {
+    "mevkisinde_ustalik": 9,
+    "yetenek": 9,
+    "kupalar": 8,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "ferenc-pusk-s",
+   "ad": "Ferenc Puskás",
+   "seviye": "efsane",
+   "grup": "forvet",
+   "etiketler": [],
+   "aciklama": "Adına gol ödülü verilen Macar efsane.",
+   "puan": {
+    "mevkisinde_ustalik": 10,
+    "yetenek": 9,
+    "kupalar": 9,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "thierry-henry",
+   "ad": "Thierry Henry",
+   "seviye": "efsane",
+   "grup": "forvet",
+   "etiketler": [],
+   "aciklama": "Arsenal'in zarif ve hızlı golcüsü.",
+   "puan": {
+    "mevkisinde_ustalik": 9,
+    "yetenek": 9,
+    "kupalar": 9,
+    "efsanelik": 9
+   }
+  },
+  {
    "id": "diego-maradona",
    "ad": "Diego Maradona",
    "seviye": "efsane",
    "grup": "orta",
    "etiketler": [],
-   "aciklama": "1986 Dünya Kupası'nı neredeyse tek başına kazandıran dahi.",
+   "aciklama": "1986 Dünya Kupası'nın dâhisi.",
    "puan": {
     "mevkisinde_ustalik": 10,
     "yetenek": 10,
@@ -133,7 +203,91 @@
    "puan": {
     "mevkisinde_ustalik": 9,
     "yetenek": 10,
+    "kupalar": 10,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "ronaldinho",
+   "ad": "Ronaldinho",
+   "seviye": "efsane",
+   "grup": "orta",
+   "etiketler": [],
+   "aciklama": "Gülümseyerek oynayan sihirbaz.",
+   "puan": {
+    "mevkisinde_ustalik": 10,
+    "yetenek": 10,
     "kupalar": 9,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "andr-s-iniesta",
+   "ad": "Andrés Iniesta",
+   "seviye": "efsane",
+   "grup": "orta",
+   "etiketler": [],
+   "aciklama": "Dünya Kupası finalinin golcüsü.",
+   "puan": {
+    "mevkisinde_ustalik": 9,
+    "yetenek": 10,
+    "kupalar": 10,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "xavi",
+   "ad": "Xavi",
+   "seviye": "efsane",
+   "grup": "orta",
+   "etiketler": [],
+   "aciklama": "Orta sahanın beyni, pas makinesi.",
+   "puan": {
+    "mevkisinde_ustalik": 9,
+    "yetenek": 10,
+    "kupalar": 10,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "luka-modri",
+   "ad": "Luka Modrić",
+   "seviye": "efsane",
+   "grup": "orta",
+   "etiketler": [],
+   "aciklama": "Ballon d'Or kazanan Hırvat orta saha.",
+   "puan": {
+    "mevkisinde_ustalik": 9,
+    "yetenek": 10,
+    "kupalar": 10,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "michel-platini",
+   "ad": "Michel Platini",
+   "seviye": "efsane",
+   "grup": "orta",
+   "etiketler": [],
+   "aciklama": "Üç kez üst üste Ballon d'Or.",
+   "puan": {
+    "mevkisinde_ustalik": 9,
+    "yetenek": 9,
+    "kupalar": 8,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "franz-beckenbauer",
+   "ad": "Franz Beckenbauer",
+   "seviye": "efsane",
+   "grup": "defans",
+   "etiketler": [],
+   "aciklama": "Kaiser; libero mevkisinin efsanesi.",
+   "puan": {
+    "mevkisinde_ustalik": 10,
+    "yetenek": 9,
+    "kupalar": 10,
     "efsanelik": 10
    }
   },
@@ -152,6 +306,62 @@
    }
   },
   {
+   "id": "franco-baresi",
+   "ad": "Franco Baresi",
+   "seviye": "efsane",
+   "grup": "defans",
+   "etiketler": [],
+   "aciklama": "Savunmanın ustası Milan kaptanı.",
+   "puan": {
+    "mevkisinde_ustalik": 10,
+    "yetenek": 8,
+    "kupalar": 10,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "sergio-ramos",
+   "ad": "Sergio Ramos",
+   "seviye": "efsane",
+   "grup": "defans",
+   "etiketler": [],
+   "aciklama": "Son dakika golleriyle bilinen sert stoper.",
+   "puan": {
+    "mevkisinde_ustalik": 9,
+    "yetenek": 8,
+    "kupalar": 10,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "roberto-carlos",
+   "ad": "Roberto Carlos",
+   "seviye": "efsane",
+   "grup": "defans",
+   "etiketler": [],
+   "aciklama": "Muz şutlarıyla efsane sol bek.",
+   "puan": {
+    "mevkisinde_ustalik": 9,
+    "yetenek": 9,
+    "kupalar": 10,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "cafu",
+   "ad": "Cafu",
+   "seviye": "efsane",
+   "grup": "defans",
+   "etiketler": [],
+   "aciklama": "İki Dünya Kupası kazanan sağ bek.",
+   "puan": {
+    "mevkisinde_ustalik": 9,
+    "yetenek": 8,
+    "kupalar": 10,
+    "efsanelik": 9
+   }
+  },
+  {
    "id": "gianluigi-buffon",
    "ad": "Gianluigi Buffon",
    "seviye": "efsane",
@@ -166,121 +376,23 @@
    }
   },
   {
-   "id": "ronaldinho",
-   "ad": "Ronaldinho",
-   "seviye": "guclu",
-   "grup": "orta",
-   "etiketler": [],
-   "aciklama": "Gülümseyerek oynayan sihirbaz.",
-   "puan": {
-    "mevkisinde_ustalik": 10,
-    "yetenek": 8,
-    "kupalar": 8,
-    "efsanelik": 9
-   }
-  },
-  {
-   "id": "ronaldo-naz-rio",
-   "ad": "Ronaldo Nazário",
-   "seviye": "guclu",
-   "grup": "forvet",
-   "etiketler": [],
-   "aciklama": "Fenomen; hız ve bitiriciliğin tanımı.",
-   "puan": {
-    "mevkisinde_ustalik": 10,
-    "yetenek": 8,
-    "kupalar": 9,
-    "efsanelik": 10
-   }
-  },
-  {
-   "id": "thierry-henry",
-   "ad": "Thierry Henry",
-   "seviye": "guclu",
-   "grup": "forvet",
-   "etiketler": [],
-   "aciklama": "Arsenal'in zarif ve hızlı golcüsü.",
-   "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 8,
-    "kupalar": 8,
-    "efsanelik": 8
-   }
-  },
-  {
-   "id": "andr-s-iniesta",
-   "ad": "Andrés Iniesta",
-   "seviye": "guclu",
-   "grup": "orta",
-   "etiketler": [],
-   "aciklama": "Pas oyununun ustası, Dünya Kupası finalinin golcüsü.",
-   "puan": {
-    "mevkisinde_ustalik": 8,
-    "yetenek": 10,
-    "kupalar": 10,
-    "efsanelik": 9
-   }
-  },
-  {
-   "id": "xavi",
-   "ad": "Xavi",
-   "seviye": "guclu",
-   "grup": "orta",
-   "etiketler": [],
-   "aciklama": "Orta sahanın beyni, pas makinesi.",
-   "puan": {
-    "mevkisinde_ustalik": 8,
-    "yetenek": 10,
-    "kupalar": 10,
-    "efsanelik": 9
-   }
-  },
-  {
-   "id": "sergio-ramos",
-   "ad": "Sergio Ramos",
-   "seviye": "guclu",
-   "grup": "defans",
-   "etiketler": [],
-   "aciklama": "Son dakika golleriyle bilinen sert stoper.",
-   "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 8,
-    "kupalar": 10,
-    "efsanelik": 10
-   }
-  },
-  {
-   "id": "franz-beckenbauer",
-   "ad": "Franz Beckenbauer",
-   "seviye": "guclu",
-   "grup": "defans",
-   "etiketler": [],
-   "aciklama": "Kaiser; libero mevkisinin efsanesi.",
-   "puan": {
-    "mevkisinde_ustalik": 10,
-    "yetenek": 9,
-    "kupalar": 10,
-    "efsanelik": 9
-   }
-  },
-  {
-   "id": "manuel-neuer",
-   "ad": "Manuel Neuer",
-   "seviye": "guclu",
+   "id": "lev-yashin",
+   "ad": "Lev Yashin",
+   "seviye": "efsane",
    "grup": "kaleci",
    "etiketler": [],
-   "aciklama": "Libero gibi oynayan modern kaleci.",
+   "aciklama": "Ballon d'Or kazanan tek kaleci, Kara Örümcek.",
    "puan": {
     "mevkisinde_ustalik": 10,
     "yetenek": 8,
-    "kupalar": 9,
+    "kupalar": 8,
     "efsanelik": 10
    }
   },
   {
    "id": "iker-casillas",
    "ad": "Iker Casillas",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "kaleci",
    "etiketler": [],
    "aciklama": "Refleksleriyle Aziz İker.",
@@ -288,7 +400,21 @@
     "mevkisinde_ustalik": 10,
     "yetenek": 8,
     "kupalar": 10,
-    "efsanelik": 10
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "manuel-neuer",
+   "ad": "Manuel Neuer",
+   "seviye": "efsane",
+   "grup": "kaleci",
+   "etiketler": [],
+   "aciklama": "Libero gibi oynayan modern kaleci.",
+   "puan": {
+    "mevkisinde_ustalik": 10,
+    "yetenek": 8,
+    "kupalar": 10,
+    "efsanelik": 9
    }
   },
   {
@@ -300,9 +426,9 @@
    "aciklama": "Yeni neslin en hızlı yıldızı.",
    "puan": {
     "mevkisinde_ustalik": 10,
-    "yetenek": 7,
+    "yetenek": 8,
     "kupalar": 8,
-    "efsanelik": 9
+    "efsanelik": 8
    }
   },
   {
@@ -314,22 +440,92 @@
    "aciklama": "Gol rekorlarını alt üst eden santrfor.",
    "puan": {
     "mevkisinde_ustalik": 10,
-    "yetenek": 6,
-    "kupalar": 7,
+    "yetenek": 7,
+    "kupalar": 8,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "zlatan-i-brahimovi",
+   "ad": "Zlatan İbrahimović",
+   "seviye": "guclu",
+   "grup": "forvet",
+   "etiketler": [],
+   "aciklama": "Akrobatik golleriyle karizmatik santrfor.",
+   "puan": {
+    "mevkisinde_ustalik": 9,
+    "yetenek": 9,
+    "kupalar": 8,
     "efsanelik": 8
    }
   },
   {
-   "id": "luka-modri",
-   "ad": "Luka Modrić",
+   "id": "didier-drogba",
+   "ad": "Didier Drogba",
+   "seviye": "guclu",
+   "grup": "forvet",
+   "etiketler": [],
+   "aciklama": "Chelsea'nin ve Galatasaray'ın güçlü santrforu.",
+   "puan": {
+    "mevkisinde_ustalik": 9,
+    "yetenek": 8,
+    "kupalar": 8,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "hakan-sukur",
+   "ad": "Hakan Şükür",
+   "seviye": "guclu",
+   "grup": "forvet",
+   "etiketler": [],
+   "aciklama": "Boğa; Türkiye'nin en golcüsü.",
+   "puan": {
+    "mevkisinde_ustalik": 9,
+    "yetenek": 7,
+    "kupalar": 8,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "kak",
+   "ad": "Kaká",
    "seviye": "guclu",
    "grup": "orta",
    "etiketler": [],
-   "aciklama": "Ballon d'Or kazanan Hırvat orta saha.",
+   "aciklama": "Ballon d'Or kazanan zarif Brezilyalı.",
    "puan": {
-    "mevkisinde_ustalik": 8,
-    "yetenek": 10,
-    "kupalar": 9,
+    "mevkisinde_ustalik": 9,
+    "yetenek": 9,
+    "kupalar": 8,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "gheorghe-hagi",
+   "ad": "Gheorghe Hagi",
+   "seviye": "guclu",
+   "grup": "orta",
+   "etiketler": [],
+   "aciklama": "Galatasaray'a UEFA Kupası getiren Komandan.",
+   "puan": {
+    "mevkisinde_ustalik": 9,
+    "yetenek": 9,
+    "kupalar": 8,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "alex-de-souza",
+   "ad": "Alex de Souza",
+   "seviye": "guclu",
+   "grup": "orta",
+   "etiketler": [],
+   "aciklama": "Fenerbahçe'nin efsane 10 numarası.",
+   "puan": {
+    "mevkisinde_ustalik": 9,
+    "yetenek": 9,
+    "kupalar": 7,
     "efsanelik": 8
    }
   },
@@ -343,42 +539,14 @@
    "puan": {
     "mevkisinde_ustalik": 10,
     "yetenek": 8,
-    "kupalar": 7,
-    "efsanelik": 8
-   }
-  },
-  {
-   "id": "gheorghe-hagi",
-   "ad": "Gheorghe Hagi",
-   "seviye": "guclu",
-   "grup": "orta",
-   "etiketler": [],
-   "aciklama": "Galatasaray'a UEFA Kupası getiren Komandan.",
-   "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 8,
     "kupalar": 8,
-    "efsanelik": 8
-   }
-  },
-  {
-   "id": "hakan-sukur",
-   "ad": "Hakan Şükür",
-   "seviye": "siradan",
-   "grup": "forvet",
-   "etiketler": [],
-   "aciklama": "Boğa; Türkiye'nin en golcü forvetlerinden.",
-   "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 7,
-    "kupalar": 7,
     "efsanelik": 8
    }
   },
   {
    "id": "rustu-recber",
    "ad": "Rüştü Reçber",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "kaleci",
    "etiketler": [],
    "aciklama": "2002 Dünya Kupası'nın yıldız kalecisi.",
@@ -386,174 +554,6 @@
     "mevkisinde_ustalik": 9,
     "yetenek": 7,
     "kupalar": 6,
-    "efsanelik": 8
-   }
-  },
-  {
-   "id": "alex-de-souza",
-   "ad": "Alex de Souza",
-   "seviye": "siradan",
-   "grup": "orta",
-   "etiketler": [],
-   "aciklama": "Fenerbahçe'nin efsane 10 numarası.",
-   "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 9,
-    "kupalar": 7,
-    "efsanelik": 8
-   }
-  },
-  {
-   "id": "arda-turan",
-   "ad": "Arda Turan",
-   "seviye": "siradan",
-   "grup": "orta",
-   "etiketler": [],
-   "aciklama": "Driplingleriyle Barcelona'ya kadar giden yıldız.",
-   "puan": {
-    "mevkisinde_ustalik": 8,
-    "yetenek": 8,
-    "kupalar": 6,
-    "efsanelik": 7
-   }
-  },
-  {
-   "id": "arda-guler",
-   "ad": "Arda Güler",
-   "seviye": "siradan",
-   "grup": "orta",
-   "etiketler": [],
-   "aciklama": "Real Madrid'e transfer olan genç yetenek.",
-   "puan": {
-    "mevkisinde_ustalik": 8,
-    "yetenek": 8,
-    "kupalar": 4,
-    "efsanelik": 6
-   }
-  },
-  {
-   "id": "hakan-calhanoglu",
-   "ad": "Hakan Çalhanoğlu",
-   "seviye": "siradan",
-   "grup": "orta",
-   "etiketler": [],
-   "aciklama": "Frikikleriyle ünlü milli takım kaptanı.",
-   "puan": {
-    "mevkisinde_ustalik": 8,
-    "yetenek": 9,
-    "kupalar": 7,
-    "efsanelik": 8
-   }
-  },
-  {
-   "id": "volkan-demirel",
-   "ad": "Volkan Demirel",
-   "seviye": "siradan",
-   "grup": "kaleci",
-   "etiketler": [],
-   "aciklama": "Fenerbahçe'nin uzun yıllar kalesini koruyan isim.",
-   "puan": {
-    "mevkisinde_ustalik": 8,
-    "yetenek": 6,
-    "kupalar": 6,
-    "efsanelik": 7
-   }
-  },
-  {
-   "id": "bulent-korkmaz",
-   "ad": "Bülent Korkmaz",
-   "seviye": "siradan",
-   "grup": "defans",
-   "etiketler": [],
-   "aciklama": "Galatasaray'ın efsane kaptanı ve stoperi.",
-   "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 8,
-    "kupalar": 7,
-    "efsanelik": 8
-   }
-  },
-  {
-   "id": "alpay-ozalan",
-   "ad": "Alpay Özalan",
-   "seviye": "siradan",
-   "grup": "defans",
-   "etiketler": [],
-   "aciklama": "2002 kadrosunun sert stoperi.",
-   "puan": {
-    "mevkisinde_ustalik": 8,
-    "yetenek": 7,
-    "kupalar": 5,
-    "efsanelik": 6
-   }
-  },
-  {
-   "id": "umit-davala",
-   "ad": "Ümit Davala",
-   "seviye": "siradan",
-   "grup": "defans",
-   "etiketler": [],
-   "aciklama": "2002 Dünya Kupası'nda üçüncülüğün sağ beki.",
-   "puan": {
-    "mevkisinde_ustalik": 7,
-    "yetenek": 7,
-    "kupalar": 6,
-    "efsanelik": 6
-   }
-  },
-  {
-   "id": "emre-belozoglu",
-   "ad": "Emre Belözoğlu",
-   "seviye": "siradan",
-   "grup": "orta",
-   "etiketler": [],
-   "aciklama": "Pas yeteneği ve hırsıyla bilinen orta saha.",
-   "puan": {
-    "mevkisinde_ustalik": 7,
-    "yetenek": 9,
-    "kupalar": 6,
-    "efsanelik": 6
-   }
-  },
-  {
-   "id": "tuncay-sanli",
-   "ad": "Tuncay Şanlı",
-   "seviye": "siradan",
-   "grup": "forvet",
-   "etiketler": [],
-   "aciklama": "Kritik maçların golcüsü.",
-   "puan": {
-    "mevkisinde_ustalik": 8,
-    "yetenek": 7,
-    "kupalar": 5,
-    "efsanelik": 6
-   }
-  },
-  {
-   "id": "didier-drogba",
-   "ad": "Didier Drogba",
-   "seviye": "siradan",
-   "grup": "forvet",
-   "etiketler": [],
-   "aciklama": "Chelsea'nin ve Galatasaray'ın güçlü santrforu.",
-   "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 8,
-    "kupalar": 8,
-    "efsanelik": 8
-   }
-  },
-  {
-   "id": "wayne-rooney",
-   "ad": "Wayne Rooney",
-   "seviye": "siradan",
-   "grup": "forvet",
-   "etiketler": [],
-   "aciklama": "Manchester United'ın rekortmen golcüsü.",
-   "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 8,
-    "kupalar": 8,
     "efsanelik": 8
    }
   }

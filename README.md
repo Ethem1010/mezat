@@ -2,7 +2,7 @@
 
 İki oyuncu aynı telefonda, 20 bütçeyle sırası gizli 10 kart için açık artırmaya girer ve 5 kartlık takımını kurar. Sonunda hakem, kategorinin ölçütlerine göre kazananı seçer.
 
-- **40 kategori, 1.400 kart** (her kategoride 7 efsane, 14 güçlü, 14 sıradan)
+- **40 kategori, 1.400 kart** (her kategoride sadece en iyiler: 25 efsane + 10 yıldız)
 - Tek telefonda iki kişi, **karşılıklı masa ekranı**: iki oyuncunun alanı aynı anda görünür, üstteki ters döner, sırası olmayanın düğmeleri kilitli
 - **İki katmanlı hakem:** kod puanı hesaplar; oyun Claude içinde açılınca Claude maçı yorumlar ve ±5 uyum bonusu verir (API anahtarı ya da ödeme gerekmez)
 
@@ -89,7 +89,7 @@ mezat/
 Aslan|e|kara|suru|Savanın kralı, sürüyle avlanır.|9,9,6,7,6
  ad  |seviye|grup|etiketler|açıklama|puanlar
 ```
-- **seviye:** `e` efsane, `g` güçlü, `s` sıradan (7 / 14 / 14 olmalı)
+- **seviye:** `e` efsane (en üst), `g` yıldız (bir tık altı) — 25 / 10 olmalı
 - **grup:** O kategorinin gruplarından biri (`tools/kategoriler.py` içinde yazar)
 - **etiketler:** Boş bırakılabilir; sinerji için (ör. `suru`, `zehirli`)
 - **puanlar:** 1-10 arası, dosyanın ilk satırında yazan **ölçüt sırasıyla**
@@ -113,7 +113,7 @@ node tools/simule.js
 ## 5. Oyun kuralları
 
 1. Herkese **20 bütçe** ve **5 slot** verilir.
-2. Kategorinin havuzundan **10 lot** gizli sırayla gelir: 2 efsane, 4 güçlü, 4 sıradan. Bazı kategorilerde çekiliş garantisi vardır (ör. futbolda en az 2 kaleci).
+2. Kategorinin havuzundan **10 lot** gizli sırayla gelir: 7 efsane, 3 yıldız (%70 / %30). Bazı kategorilerde çekiliş garantisi vardır (ör. futbolda en az 2 kaleci).
 3. Lotu sırası gelen oyuncu açar, **en az 1** verir; açılışta pas yoktur. Açılış sırası her lotta değişir.
 4. Sonra sırayla artırılır; **pas** diyen lotu bırakır.
 5. **Bütçe serbest:** İstersen 20'nin hepsini tek karta basabilirsin.

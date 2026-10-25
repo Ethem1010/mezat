@@ -56,21 +56,77 @@
    "seviye": "efsane",
    "grup": "saglik",
    "etiketler": [],
-   "aciklama": "Hastalıkları teşhis eder, hayat kurtarır.",
+   "aciklama": "Hayat kurtarır.",
    "puan": {
     "hayati_onem": 10,
     "topluma_katki": 10,
-    "cok_yonluluk": 7,
+    "cok_yonluluk": 8,
     "yerine_konamazlik": 10
    }
   },
   {
-   "id": "ciftci",
-   "ad": "Çiftçi",
+   "id": "cerrah",
+   "ad": "Cerrah",
    "seviye": "efsane",
-   "grup": "gida",
+   "grup": "saglik",
    "etiketler": [],
-   "aciklama": "Tarlada üretir, şehri doyurur.",
+   "aciklama": "Ameliyat masasında hayat kurtarır.",
+   "puan": {
+    "hayati_onem": 10,
+    "topluma_katki": 10,
+    "cok_yonluluk": 6,
+    "yerine_konamazlik": 10
+   }
+  },
+  {
+   "id": "hemsire",
+   "ad": "Hemşire",
+   "seviye": "efsane",
+   "grup": "saglik",
+   "etiketler": [],
+   "aciklama": "Hastaların her an yanında.",
+   "puan": {
+    "hayati_onem": 10,
+    "topluma_katki": 10,
+    "cok_yonluluk": 8,
+    "yerine_konamazlik": 9
+   }
+  },
+  {
+   "id": "eczaci",
+   "ad": "Eczacı",
+   "seviye": "efsane",
+   "grup": "saglik",
+   "etiketler": [],
+   "aciklama": "Doğru ilaç, doğru doz.",
+   "puan": {
+    "hayati_onem": 9,
+    "topluma_katki": 9,
+    "cok_yonluluk": 6,
+    "yerine_konamazlik": 8
+   }
+  },
+  {
+   "id": "dis-hekimi",
+   "ad": "Diş hekimi",
+   "seviye": "efsane",
+   "grup": "saglik",
+   "etiketler": [],
+   "aciklama": "Ağız ve diş sağlığı.",
+   "puan": {
+    "hayati_onem": 8,
+    "topluma_katki": 8,
+    "cok_yonluluk": 5,
+    "yerine_konamazlik": 9
+   }
+  },
+  {
+   "id": "paramedik",
+   "ad": "Paramedik",
+   "seviye": "efsane",
+   "grup": "saglik",
+   "etiketler": [],
+   "aciklama": "Olay yerinde ilk müdahale.",
    "puan": {
     "hayati_onem": 10,
     "topluma_katki": 10,
@@ -79,17 +135,129 @@
    }
   },
   {
-   "id": "i-nsaat-muhendisi",
-   "ad": "İnşaat Mühendisi",
+   "id": "ciftci",
+   "ad": "Çiftçi",
+   "seviye": "efsane",
+   "grup": "gida",
+   "etiketler": [],
+   "aciklama": "Sofradaki her şeyin kaynağı.",
+   "puan": {
+    "hayati_onem": 10,
+    "topluma_katki": 10,
+    "cok_yonluluk": 7,
+    "yerine_konamazlik": 9
+   }
+  },
+  {
+   "id": "asci-sef",
+   "ad": "Aşçı/Şef",
+   "seviye": "efsane",
+   "grup": "gida",
+   "etiketler": [],
+   "aciklama": "Lezzeti sanata çevirir.",
+   "puan": {
+    "hayati_onem": 8,
+    "topluma_katki": 8,
+    "cok_yonluluk": 7,
+    "yerine_konamazlik": 7
+   }
+  },
+  {
+   "id": "firinci",
+   "ad": "Fırıncı",
+   "seviye": "efsane",
+   "grup": "gida",
+   "etiketler": [],
+   "aciklama": "Her sabah taze ekmek.",
+   "puan": {
+    "hayati_onem": 9,
+    "topluma_katki": 9,
+    "cok_yonluluk": 5,
+    "yerine_konamazlik": 8
+   }
+  },
+  {
+   "id": "balikci",
+   "ad": "Balıkçı",
+   "seviye": "efsane",
+   "grup": "gida",
+   "etiketler": [],
+   "aciklama": "Denizden sofraya.",
+   "puan": {
+    "hayati_onem": 8,
+    "topluma_katki": 8,
+    "cok_yonluluk": 5,
+    "yerine_konamazlik": 7
+   }
+  },
+  {
+   "id": "veteriner",
+   "ad": "Veteriner",
+   "seviye": "efsane",
+   "grup": "saglik",
+   "etiketler": [],
+   "aciklama": "Hayvanların doktoru.",
+   "puan": {
+    "hayati_onem": 8,
+    "topluma_katki": 9,
+    "cok_yonluluk": 7,
+    "yerine_konamazlik": 9
+   }
+  },
+  {
+   "id": "mimar",
+   "ad": "Mimar",
    "seviye": "efsane",
    "grup": "barinma",
    "etiketler": [],
-   "aciklama": "Binaları, köprüleri ve yolları güvenle kurar.",
+   "aciklama": "Yaşayacağımız yerleri tasarlar.",
+   "puan": {
+    "hayati_onem": 8,
+    "topluma_katki": 9,
+    "cok_yonluluk": 8,
+    "yerine_konamazlik": 8
+   }
+  },
+  {
+   "id": "i-nsaat-muhendisi",
+   "ad": "İnşaat mühendisi",
+   "seviye": "efsane",
+   "grup": "barinma",
+   "etiketler": [],
+   "aciklama": "Köprüleri ve binaları ayakta tutar.",
+   "puan": {
+    "hayati_onem": 9,
+    "topluma_katki": 9,
+    "cok_yonluluk": 7,
+    "yerine_konamazlik": 9
+   }
+  },
+  {
+   "id": "usta-insaat",
+   "ad": "Usta (inşaat)",
+   "seviye": "efsane",
+   "grup": "barinma",
+   "etiketler": [],
+   "aciklama": "Binayı kendi elleriyle yükseltir.",
    "puan": {
     "hayati_onem": 9,
     "topluma_katki": 9,
     "cok_yonluluk": 7,
     "yerine_konamazlik": 8
+   }
+  },
+  {
+   "id": "i-tfaiyeci",
+   "ad": "İtfaiyeci",
+   "seviye": "efsane",
+   "grup": "guvenlik",
+   "etiketler": [],
+   "aciklama": "Ateşe koşan kahraman.",
+   "puan": {
+    "hayati_onem": 10,
+    "topluma_katki": 10,
+    "cok_yonluluk": 8,
+    "yerine_konamazlik": 10
    }
   },
   {
@@ -103,7 +271,35 @@
     "hayati_onem": 9,
     "topluma_katki": 9,
     "cok_yonluluk": 7,
-    "yerine_konamazlik": 8
+    "yerine_konamazlik": 9
+   }
+  },
+  {
+   "id": "arama-kurtarma-uzmani",
+   "ad": "Arama kurtarma uzmanı",
+   "seviye": "efsane",
+   "grup": "guvenlik",
+   "etiketler": [],
+   "aciklama": "Enkazdan hayat çıkarır.",
+   "puan": {
+    "hayati_onem": 10,
+    "topluma_katki": 10,
+    "cok_yonluluk": 8,
+    "yerine_konamazlik": 10
+   }
+  },
+  {
+   "id": "asker",
+   "ad": "Asker",
+   "seviye": "efsane",
+   "grup": "guvenlik",
+   "etiketler": [],
+   "aciklama": "Ülkeyi korur.",
+   "puan": {
+    "hayati_onem": 9,
+    "topluma_katki": 9,
+    "cok_yonluluk": 7,
+    "yerine_konamazlik": 9
    }
   },
   {
@@ -112,26 +308,54 @@
    "seviye": "efsane",
    "grup": "egitim",
    "etiketler": [],
-   "aciklama": "Tüm meslekleri yetiştiren meslek.",
+   "aciklama": "Tüm mesleklerin öğretmeni.",
    "puan": {
-    "hayati_onem": 8,
+    "hayati_onem": 9,
     "topluma_katki": 10,
+    "cok_yonluluk": 9,
+    "yerine_konamazlik": 10
+   }
+  },
+  {
+   "id": "akademisyen",
+   "ad": "Akademisyen",
+   "seviye": "efsane",
+   "grup": "egitim",
+   "etiketler": [],
+   "aciklama": "Bilim üretir ve öğretir.",
+   "puan": {
+    "hayati_onem": 7,
+    "topluma_katki": 9,
+    "cok_yonluluk": 8,
+    "yerine_konamazlik": 8
+   }
+  },
+  {
+   "id": "elektrik-muhendisi",
+   "ad": "Elektrik mühendisi",
+   "seviye": "efsane",
+   "grup": "teknik",
+   "etiketler": [],
+   "aciklama": "Enerji ağlarını kurar.",
+   "puan": {
+    "hayati_onem": 9,
+    "topluma_katki": 9,
     "cok_yonluluk": 8,
     "yerine_konamazlik": 9
    }
   },
   {
-   "id": "hemsire",
-   "ad": "Hemşire",
+   "id": "yazilim-muhendisi",
+   "ad": "Yazılım mühendisi",
    "seviye": "efsane",
-   "grup": "saglik",
+   "grup": "teknik",
    "etiketler": [],
-   "aciklama": "Hastanenin bel kemiği.",
+   "aciklama": "Dijital dünyayı inşa eder.",
    "puan": {
-    "hayati_onem": 9,
-    "topluma_katki": 10,
-    "cok_yonluluk": 7,
-    "yerine_konamazlik": 9
+    "hayati_onem": 7,
+    "topluma_katki": 9,
+    "cok_yonluluk": 9,
+    "yerine_konamazlik": 8
    }
   },
   {
@@ -140,7 +364,7 @@
    "seviye": "efsane",
    "grup": "teknik",
    "etiketler": [],
-   "aciklama": "Işıkları yakar, şehri enerjiye bağlar.",
+   "aciklama": "Evlere ışık getirir.",
    "puan": {
     "hayati_onem": 8,
     "topluma_katki": 8,
@@ -149,170 +373,44 @@
    }
   },
   {
-   "id": "i-tfaiyeci",
-   "ad": "İtfaiyeci",
-   "seviye": "guclu",
-   "grup": "guvenlik",
-   "etiketler": [],
-   "aciklama": "Yangından selden insanları kurtarır.",
-   "puan": {
-    "hayati_onem": 9,
-    "topluma_katki": 9,
-    "cok_yonluluk": 7,
-    "yerine_konamazlik": 8
-   }
-  },
-  {
-   "id": "cerrah",
-   "ad": "Cerrah",
-   "seviye": "guclu",
-   "grup": "saglik",
-   "etiketler": [],
-   "aciklama": "Ameliyatla hayat kurtaran uzman.",
-   "puan": {
-    "hayati_onem": 10,
-    "topluma_katki": 9,
-    "cok_yonluluk": 4,
-    "yerine_konamazlik": 10
-   }
-  },
-  {
-   "id": "eczaci",
-   "ad": "Eczacı",
-   "seviye": "guclu",
-   "grup": "saglik",
-   "etiketler": [],
-   "aciklama": "İlacı doğru kişiye doğru dozda ulaştırır.",
-   "puan": {
-    "hayati_onem": 8,
-    "topluma_katki": 8,
-    "cok_yonluluk": 5,
-    "yerine_konamazlik": 7
-   }
-  },
-  {
-   "id": "veteriner",
-   "ad": "Veteriner",
-   "seviye": "guclu",
-   "grup": "saglik",
-   "etiketler": [],
-   "aciklama": "Hayvanların ve gıda güvenliğinin doktoru.",
-   "puan": {
-    "hayati_onem": 7,
-    "topluma_katki": 7,
-    "cok_yonluluk": 6,
-    "yerine_konamazlik": 7
-   }
-  },
-  {
-   "id": "duvar-ustasi",
-   "ad": "Duvar Ustası",
-   "seviye": "guclu",
-   "grup": "barinma",
-   "etiketler": [],
-   "aciklama": "Evlerin duvarlarını tuğla tuğla örer.",
-   "puan": {
-    "hayati_onem": 8,
-    "topluma_katki": 8,
-    "cok_yonluluk": 6,
-    "yerine_konamazlik": 6
-   }
-  },
-  {
-   "id": "marangoz",
-   "ad": "Marangoz",
-   "seviye": "guclu",
-   "grup": "barinma",
-   "etiketler": [],
-   "aciklama": "Ahşaptan ev, kapı ve mobilya yapar.",
-   "puan": {
-    "hayati_onem": 7,
-    "topluma_katki": 7,
-    "cok_yonluluk": 7,
-    "yerine_konamazlik": 6
-   }
-  },
-  {
-   "id": "tesisatci",
-   "ad": "Tesisatçı",
-   "seviye": "guclu",
+   "id": "pilot",
+   "ad": "Pilot",
+   "seviye": "efsane",
    "grup": "teknik",
    "etiketler": [],
-   "aciklama": "Su ve gaz hatlarını kurar, onarır.",
+   "aciklama": "Gökyüzünde yüzlerce yolcuyu taşır.",
    "puan": {
     "hayati_onem": 8,
     "topluma_katki": 8,
     "cok_yonluluk": 6,
-    "yerine_konamazlik": 7
+    "yerine_konamazlik": 9
    }
   },
   {
-   "id": "asci",
-   "ad": "Aşçı",
-   "seviye": "guclu",
-   "grup": "gida",
+   "id": "hakim",
+   "ad": "Hakim",
+   "seviye": "efsane",
+   "grup": "diger",
    "etiketler": [],
-   "aciklama": "Malzemeyi lezzete çevirir.",
-   "puan": {
-    "hayati_onem": 7,
-    "topluma_katki": 8,
-    "cok_yonluluk": 6,
-    "yerine_konamazlik": 6
-   }
-  },
-  {
-   "id": "firinci",
-   "ad": "Fırıncı",
-   "seviye": "guclu",
-   "grup": "gida",
-   "etiketler": [],
-   "aciklama": "Şehrin sabah ekmeğini çıkarır.",
+   "aciklama": "Adaleti dağıtır.",
    "puan": {
     "hayati_onem": 8,
-    "topluma_katki": 8,
-    "cok_yonluluk": 4,
-    "yerine_konamazlik": 6
-   }
-  },
-  {
-   "id": "asker",
-   "ad": "Asker",
-   "seviye": "guclu",
-   "grup": "guvenlik",
-   "etiketler": [],
-   "aciklama": "Ülkeyi ve sınırları korur.",
-   "puan": {
-    "hayati_onem": 9,
-    "topluma_katki": 8,
+    "topluma_katki": 9,
     "cok_yonluluk": 6,
-    "yerine_konamazlik": 7
+    "yerine_konamazlik": 9
    }
   },
   {
-   "id": "mimar",
-   "ad": "Mimar",
+   "id": "diyetisyen",
+   "ad": "Diyetisyen",
    "seviye": "guclu",
-   "grup": "barinma",
+   "grup": "saglik",
    "etiketler": [],
-   "aciklama": "Yaşanacak yerleri tasarlar.",
-   "puan": {
-    "hayati_onem": 7,
-    "topluma_katki": 8,
-    "cok_yonluluk": 6,
-    "yerine_konamazlik": 7
-   }
-  },
-  {
-   "id": "yazilim-muhendisi",
-   "ad": "Yazılım Mühendisi",
-   "seviye": "guclu",
-   "grup": "teknik",
-   "etiketler": [],
-   "aciklama": "Dijital sistemleri kurar ve çalıştırır.",
+   "aciklama": "Sağlıklı beslenme rehberi.",
    "puan": {
     "hayati_onem": 6,
-    "topluma_katki": 8,
-    "cok_yonluluk": 8,
+    "topluma_katki": 7,
+    "cok_yonluluk": 5,
     "yerine_konamazlik": 6
    }
   },
@@ -322,222 +420,124 @@
    "seviye": "guclu",
    "grup": "gida",
    "etiketler": [],
-   "aciklama": "Eti hazırlar ve satar.",
+   "aciklama": "Eti hazırlar.",
    "puan": {
-    "hayati_onem": 6,
-    "topluma_katki": 6,
+    "hayati_onem": 7,
+    "topluma_katki": 7,
     "cok_yonluluk": 4,
-    "yerine_konamazlik": 5
+    "yerine_konamazlik": 6
    }
   },
   {
-   "id": "makine-muhendisi",
-   "ad": "Makine Mühendisi",
+   "id": "tesisatci",
+   "ad": "Tesisatçı",
    "seviye": "guclu",
-   "grup": "teknik",
+   "grup": "barinma",
    "etiketler": [],
-   "aciklama": "Makineleri tasarlar ve tamir eder.",
+   "aciklama": "Su ve doğalgazı akıtır.",
    "puan": {
-    "hayati_onem": 7,
+    "hayati_onem": 8,
     "topluma_katki": 8,
-    "cok_yonluluk": 8,
+    "cok_yonluluk": 6,
     "yerine_konamazlik": 7
    }
   },
   {
-   "id": "avukat",
-   "ad": "Avukat",
-   "seviye": "siradan",
-   "grup": "diger",
+   "id": "bekci",
+   "ad": "Bekçi",
+   "seviye": "guclu",
+   "grup": "guvenlik",
    "etiketler": [],
-   "aciklama": "Hakları savunur, adalete yol gösterir.",
+   "aciklama": "Gece mahalleyi korur.",
    "puan": {
     "hayati_onem": 6,
     "topluma_katki": 7,
-    "cok_yonluluk": 5,
-    "yerine_konamazlik": 6
-   }
-  },
-  {
-   "id": "gazeteci",
-   "ad": "Gazeteci",
-   "seviye": "siradan",
-   "grup": "diger",
-   "etiketler": [],
-   "aciklama": "Haberleri toplar ve halka duyurur.",
-   "puan": {
-    "hayati_onem": 5,
-    "topluma_katki": 7,
-    "cok_yonluluk": 6,
-    "yerine_konamazlik": 4
-   }
-  },
-  {
-   "id": "muhasebeci",
-   "ad": "Muhasebeci",
-   "seviye": "siradan",
-   "grup": "diger",
-   "etiketler": [],
-   "aciklama": "Hesapları tutar, işleri düzenler.",
-   "puan": {
-    "hayati_onem": 5,
-    "topluma_katki": 6,
-    "cok_yonluluk": 5,
-    "yerine_konamazlik": 4
-   }
-  },
-  {
-   "id": "sofor",
-   "ad": "Şoför",
-   "seviye": "siradan",
-   "grup": "diger",
-   "etiketler": [],
-   "aciklama": "İnsanları ve yükleri taşır.",
-   "puan": {
-    "hayati_onem": 6,
-    "topluma_katki": 7,
-    "cok_yonluluk": 5,
-    "yerine_konamazlik": 4
-   }
-  },
-  {
-   "id": "kuafor",
-   "ad": "Kuaför",
-   "seviye": "siradan",
-   "grup": "diger",
-   "etiketler": [],
-   "aciklama": "Saç ve bakımla insanları mutlu eder.",
-   "puan": {
-    "hayati_onem": 3,
-    "topluma_katki": 5,
-    "cok_yonluluk": 3,
-    "yerine_konamazlik": 3
-   }
-  },
-  {
-   "id": "aktor",
-   "ad": "Aktör",
-   "seviye": "siradan",
-   "grup": "diger",
-   "etiketler": [],
-   "aciklama": "Sahne ve ekranda hikâyeler canlandırır.",
-   "puan": {
-    "hayati_onem": 2,
-    "topluma_katki": 5,
     "cok_yonluluk": 4,
-    "yerine_konamazlik": 3
-   }
-  },
-  {
-   "id": "futbolcu",
-   "ad": "Futbolcu",
-   "seviye": "siradan",
-   "grup": "diger",
-   "etiketler": [],
-   "aciklama": "Hafta sonları şehrin moralini yükseltir.",
-   "puan": {
-    "hayati_onem": 2,
-    "topluma_katki": 5,
-    "cok_yonluluk": 3,
-    "yerine_konamazlik": 2
-   }
-  },
-  {
-   "id": "youtuber",
-   "ad": "YouTuber",
-   "seviye": "siradan",
-   "grup": "diger",
-   "etiketler": [],
-   "aciklama": "Video çekip internette paylaşır.",
-   "puan": {
-    "hayati_onem": 1,
-    "topluma_katki": 4,
-    "cok_yonluluk": 4,
-    "yerine_konamazlik": 2
-   }
-  },
-  {
-   "id": "psikolog",
-   "ad": "Psikolog",
-   "seviye": "siradan",
-   "grup": "saglik",
-   "etiketler": [],
-   "aciklama": "Ruh sağlığına destek verir.",
-   "puan": {
-    "hayati_onem": 6,
-    "topluma_katki": 8,
-    "cok_yonluluk": 5,
-    "yerine_konamazlik": 6
-   }
-  },
-  {
-   "id": "dis-hekimi",
-   "ad": "Diş Hekimi",
-   "seviye": "siradan",
-   "grup": "saglik",
-   "etiketler": [],
-   "aciklama": "Diş ağrısından kurtarır.",
-   "puan": {
-    "hayati_onem": 7,
-    "topluma_katki": 7,
-    "cok_yonluluk": 4,
-    "yerine_konamazlik": 8
-   }
-  },
-  {
-   "id": "balikci",
-   "ad": "Balıkçı",
-   "seviye": "siradan",
-   "grup": "gida",
-   "etiketler": [],
-   "aciklama": "Denizden sofraya taze balık getirir.",
-   "puan": {
-    "hayati_onem": 7,
-    "topluma_katki": 7,
-    "cok_yonluluk": 5,
     "yerine_konamazlik": 5
    }
   },
   {
    "id": "kutuphaneci",
    "ad": "Kütüphaneci",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "egitim",
    "etiketler": [],
-   "aciklama": "Bilgiyi düzenler ve paylaşır.",
-   "puan": {
-    "hayati_onem": 3,
-    "topluma_katki": 6,
-    "cok_yonluluk": 4,
-    "yerine_konamazlik": 3
-   }
-  },
-  {
-   "id": "bankaci",
-   "ad": "Bankacı",
-   "seviye": "siradan",
-   "grup": "diger",
-   "etiketler": [],
-   "aciklama": "Paranın akışını yönetir.",
-   "puan": {
-    "hayati_onem": 4,
-    "topluma_katki": 6,
-    "cok_yonluluk": 5,
-    "yerine_konamazlik": 4
-   }
-  },
-  {
-   "id": "pilot",
-   "ad": "Pilot",
-   "seviye": "siradan",
-   "grup": "teknik",
-   "etiketler": [],
-   "aciklama": "Uçakları güvenle uçurur.",
+   "aciklama": "Bilginin bekçisi.",
    "puan": {
     "hayati_onem": 5,
     "topluma_katki": 7,
-    "cok_yonluluk": 4,
+    "cok_yonluluk": 6,
+    "yerine_konamazlik": 5
+   }
+  },
+  {
+   "id": "makine-muhendisi",
+   "ad": "Makine mühendisi",
+   "seviye": "guclu",
+   "grup": "teknik",
+   "etiketler": [],
+   "aciklama": "Makineleri tasarlar.",
+   "puan": {
+    "hayati_onem": 8,
+    "topluma_katki": 8,
+    "cok_yonluluk": 8,
     "yerine_konamazlik": 8
+   }
+  },
+  {
+   "id": "avukat",
+   "ad": "Avukat",
+   "seviye": "guclu",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Hakkını savunur.",
+   "puan": {
+    "hayati_onem": 7,
+    "topluma_katki": 8,
+    "cok_yonluluk": 7,
+    "yerine_konamazlik": 7
+   }
+  },
+  {
+   "id": "gazeteci",
+   "ad": "Gazeteci",
+   "seviye": "guclu",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Gerçeği halka ulaştırır.",
+   "puan": {
+    "hayati_onem": 6,
+    "topluma_katki": 8,
+    "cok_yonluluk": 8,
+    "yerine_konamazlik": 6
+   }
+  },
+  {
+   "id": "psikolog",
+   "ad": "Psikolog",
+   "seviye": "guclu",
+   "grup": "saglik",
+   "etiketler": [],
+   "aciklama": "Ruh sağlığını destekler.",
+   "puan": {
+    "hayati_onem": 8,
+    "topluma_katki": 9,
+    "cok_yonluluk": 7,
+    "yerine_konamazlik": 8
+   }
+  },
+  {
+   "id": "cop-toplayici",
+   "ad": "Çöp toplayıcı",
+   "seviye": "guclu",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Şehri temiz tutar.",
+   "puan": {
+    "hayati_onem": 9,
+    "topluma_katki": 9,
+    "cok_yonluluk": 3,
+    "yerine_konamazlik": 7
    }
   }
  ]

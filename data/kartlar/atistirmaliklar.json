@@ -41,16 +41,142 @@
  "kart_sayisi": 35,
  "kartlar": [
   {
-   "id": "patlamis-misir",
-   "ad": "Patlamış Mısır",
+   "id": "pringles",
+   "ad": "Pringles",
    "seviye": "efsane",
    "grup": "tuzlu",
    "etiketler": [],
-   "aciklama": "Film gecesinin tartışmasız kralı.",
+   "aciklama": "Tüpteki istiflenmiş cips.",
+   "puan": {
+    "lezzet": 9,
+    "nostalji": 8,
+    "populerlik": 10,
+    "bagimlilik": 10
+   }
+  },
+  {
+   "id": "lay-s",
+   "ad": "Lay's",
+   "seviye": "efsane",
+   "grup": "tuzlu",
+   "etiketler": [],
+   "aciklama": "Dünyanın en çok satan cipsi.",
+   "puan": {
+    "lezzet": 9,
+    "nostalji": 8,
+    "populerlik": 10,
+    "bagimlilik": 10
+   }
+  },
+  {
+   "id": "doritos",
+   "ad": "Doritos",
+   "seviye": "efsane",
+   "grup": "tuzlu",
+   "etiketler": [],
+   "aciklama": "Üçgen çıtır mısır cipsi.",
+   "puan": {
+    "lezzet": 9,
+    "nostalji": 8,
+    "populerlik": 9,
+    "bagimlilik": 10
+   }
+  },
+  {
+   "id": "cheetos",
+   "ad": "Cheetos",
+   "seviye": "efsane",
+   "grup": "tuzlu",
+   "etiketler": [],
+   "aciklama": "Peynirli turuncu çıtırlar.",
+   "puan": {
+    "lezzet": 8,
+    "nostalji": 9,
+    "populerlik": 9,
+    "bagimlilik": 9
+   }
+  },
+  {
+   "id": "ruffles",
+   "ad": "Ruffles",
+   "seviye": "efsane",
+   "grup": "tuzlu",
+   "etiketler": [],
+   "aciklama": "Tırtıklı kalın cips.",
+   "puan": {
+    "lezzet": 9,
+    "nostalji": 7,
+    "populerlik": 9,
+    "bagimlilik": 9
+   }
+  },
+  {
+   "id": "patlamis-misir",
+   "ad": "Patlamış mısır",
+   "seviye": "efsane",
+   "grup": "tuzlu",
+   "etiketler": [],
+   "aciklama": "Sinemanın değişmez eşi.",
    "puan": {
     "lezzet": 8,
     "nostalji": 9,
     "populerlik": 10,
+    "bagimlilik": 9
+   }
+  },
+  {
+   "id": "fistik",
+   "ad": "Fıstık",
+   "seviye": "efsane",
+   "grup": "tuzlu",
+   "etiketler": [],
+   "aciklama": "Kavrulmuş klasik çerez.",
+   "puan": {
+    "lezzet": 8,
+    "nostalji": 8,
+    "populerlik": 9,
+    "bagimlilik": 9
+   }
+  },
+  {
+   "id": "antep-fistigi",
+   "ad": "Antep fıstığı",
+   "seviye": "efsane",
+   "grup": "tuzlu",
+   "etiketler": [],
+   "aciklama": "Çerezlerin şahı.",
+   "puan": {
+    "lezzet": 10,
+    "nostalji": 8,
+    "populerlik": 9,
+    "bagimlilik": 10
+   }
+  },
+  {
+   "id": "simit",
+   "ad": "Simit",
+   "seviye": "efsane",
+   "grup": "tuzlu",
+   "etiketler": [],
+   "aciklama": "Susamlı sokak lezzeti.",
+   "puan": {
+    "lezzet": 9,
+    "nostalji": 10,
+    "populerlik": 10,
+    "bagimlilik": 8
+   }
+  },
+  {
+   "id": "kraker",
+   "ad": "Kraker",
+   "seviye": "efsane",
+   "grup": "tuzlu",
+   "etiketler": [],
+   "aciklama": "Balık krakeriyle bir kuşak büyüdü.",
+   "puan": {
+    "lezzet": 8,
+    "nostalji": 10,
+    "populerlik": 9,
     "bagimlilik": 9
    }
   },
@@ -60,7 +186,7 @@
    "seviye": "efsane",
    "grup": "tuzlu",
    "etiketler": [],
-   "aciklama": "Maç izlerken bitmeyen keyif.",
+   "aciklama": "Maç ve sohbet klasiği.",
    "puan": {
     "lezzet": 8,
     "nostalji": 10,
@@ -69,57 +195,197 @@
    }
   },
   {
-   "id": "cips",
-   "ad": "Cips",
+   "id": "nutella",
+   "ad": "Nutella",
    "seviye": "efsane",
-   "grup": "tuzlu",
+   "grup": "tatli",
    "etiketler": [],
-   "aciklama": "Paketi açınca bitene kadar durulmaz.",
+   "aciklama": "Fındıklı kakaolu krema.",
+   "puan": {
+    "lezzet": 10,
+    "nostalji": 9,
+    "populerlik": 10,
+    "bagimlilik": 10
+   }
+  },
+  {
+   "id": "kinder-bueno",
+   "ad": "Kinder Bueno",
+   "seviye": "efsane",
+   "grup": "tatli",
+   "etiketler": [],
+   "aciklama": "Fındık kremalı gofret.",
+   "puan": {
+    "lezzet": 10,
+    "nostalji": 8,
+    "populerlik": 9,
+    "bagimlilik": 9
+   }
+  },
+  {
+   "id": "snickers",
+   "ad": "Snickers",
+   "seviye": "efsane",
+   "grup": "tatli",
+   "etiketler": [],
+   "aciklama": "Karamelli fıstıklı bar.",
    "puan": {
     "lezzet": 9,
     "nostalji": 8,
     "populerlik": 10,
-    "bagimlilik": 10
+    "bagimlilik": 9
    }
   },
   {
-   "id": "cikolata",
-   "ad": "Çikolata",
+   "id": "kitkat",
+   "ad": "KitKat",
    "seviye": "efsane",
    "grup": "tatli",
    "etiketler": [],
-   "aciklama": "Herkesin mutluluk kaynağı.",
+   "aciklama": "\"Bir mola ver\" gofreti.",
+   "puan": {
+    "lezzet": 9,
+    "nostalji": 9,
+    "populerlik": 10,
+    "bagimlilik": 9
+   }
+  },
+  {
+   "id": "twix",
+   "ad": "Twix",
+   "seviye": "efsane",
+   "grup": "tatli",
+   "etiketler": [],
+   "aciklama": "Bisküvili karamelli çift bar.",
+   "puan": {
+    "lezzet": 9,
+    "nostalji": 8,
+    "populerlik": 9,
+    "bagimlilik": 9
+   }
+  },
+  {
+   "id": "oreo",
+   "ad": "Oreo",
+   "seviye": "efsane",
+   "grup": "tatli",
+   "etiketler": [],
+   "aciklama": "Kremalı siyah bisküvi.",
+   "puan": {
+    "lezzet": 9,
+    "nostalji": 9,
+    "populerlik": 10,
+    "bagimlilik": 9
+   }
+  },
+  {
+   "id": "ulker-cikolatali-gofret",
+   "ad": "Ülker Çikolatalı Gofret",
+   "seviye": "efsane",
+   "grup": "tatli",
+   "etiketler": [],
+   "aciklama": "Bir kuşağın okul arası.",
+   "puan": {
+    "lezzet": 9,
+    "nostalji": 10,
+    "populerlik": 10,
+    "bagimlilik": 9
+   }
+  },
+  {
+   "id": "haribo",
+   "ad": "Haribo",
+   "seviye": "efsane",
+   "grup": "tatli",
+   "etiketler": [],
+   "aciklama": "Meyveli jelibon ayıcıklar.",
+   "puan": {
+    "lezzet": 8,
+    "nostalji": 9,
+    "populerlik": 10,
+    "bagimlilik": 9
+   }
+  },
+  {
+   "id": "m-m-s",
+   "ad": "M&M's",
+   "seviye": "efsane",
+   "grup": "tatli",
+   "etiketler": [],
+   "aciklama": "Renkli çikolata draje.",
+   "puan": {
+    "lezzet": 9,
+    "nostalji": 8,
+    "populerlik": 10,
+    "bagimlilik": 9
+   }
+  },
+  {
+   "id": "toblerone",
+   "ad": "Toblerone",
+   "seviye": "efsane",
+   "grup": "tatli",
+   "etiketler": [],
+   "aciklama": "Üçgen İsviçre çikolatası.",
+   "puan": {
+    "lezzet": 9,
+    "nostalji": 8,
+    "populerlik": 8,
+    "bagimlilik": 7
+   }
+  },
+  {
+   "id": "milka",
+   "ad": "Milka",
+   "seviye": "efsane",
+   "grup": "tatli",
+   "etiketler": [],
+   "aciklama": "Mor ineğin sütlü çikolatası.",
+   "puan": {
+    "lezzet": 9,
+    "nostalji": 9,
+    "populerlik": 10,
+    "bagimlilik": 9
+   }
+  },
+  {
+   "id": "ferrero-rocher",
+   "ad": "Ferrero Rocher",
+   "seviye": "efsane",
+   "grup": "tatli",
+   "etiketler": [],
+   "aciklama": "Altın kâğıtlı fındıklı lüks.",
    "puan": {
     "lezzet": 10,
     "nostalji": 8,
-    "populerlik": 10,
-    "bagimlilik": 10
-   }
-  },
-  {
-   "id": "halley",
-   "ad": "Halley",
-   "seviye": "efsane",
-   "grup": "tatli",
-   "etiketler": [],
-   "aciklama": "Çikolata kaplı marshmallowlu efsane.",
-   "puan": {
-    "lezzet": 8,
-    "nostalji": 10,
     "populerlik": 9,
     "bagimlilik": 8
    }
   },
   {
-   "id": "gofret",
-   "ad": "Gofret",
+   "id": "biskrem",
+   "ad": "Biskrem",
    "seviye": "efsane",
    "grup": "tatli",
    "etiketler": [],
-   "aciklama": "Kat kat çıtır ve kremalı.",
+   "aciklama": "Kakaolu kremalı efsane bisküvi.",
+   "puan": {
+    "lezzet": 9,
+    "nostalji": 10,
+    "populerlik": 9,
+    "bagimlilik": 9
+   }
+  },
+  {
+   "id": "kinder-surpriz",
+   "ad": "Kinder Sürpriz",
+   "seviye": "efsane",
+   "grup": "tatli",
+   "etiketler": [],
+   "aciklama": "İçinden oyuncak çıkan yumurta.",
    "puan": {
     "lezzet": 8,
-    "nostalji": 9,
+    "nostalji": 10,
     "populerlik": 9,
     "bagimlilik": 8
    }
@@ -127,13 +393,83 @@
   {
    "id": "leblebi",
    "ad": "Leblebi",
-   "seviye": "efsane",
+   "seviye": "guclu",
    "grup": "tuzlu",
    "etiketler": [],
-   "aciklama": "Sarı, beyaz, şekerli; boza yanında.",
+   "aciklama": "Tuzlu-sarı çerez.",
+   "puan": {
+    "lezzet": 7,
+    "nostalji": 8,
+    "populerlik": 7,
+    "bagimlilik": 7
+   }
+  },
+  {
+   "id": "misir-cipsi-tostitos",
+   "ad": "Mısır cipsi (Tostitos)",
+   "seviye": "guclu",
+   "grup": "tuzlu",
+   "etiketler": [],
+   "aciklama": "Soslu mısır üçgenleri.",
+   "puan": {
+    "lezzet": 8,
+    "nostalji": 6,
+    "populerlik": 7,
+    "bagimlilik": 8
+   }
+  },
+  {
+   "id": "cubuk-kraker",
+   "ad": "Çubuk kraker",
+   "seviye": "guclu",
+   "grup": "tuzlu",
+   "etiketler": [],
+   "aciklama": "Tuzlu ince çubuklar.",
    "puan": {
     "lezzet": 7,
     "nostalji": 9,
+    "populerlik": 8,
+    "bagimlilik": 8
+   }
+  },
+  {
+   "id": "pretzel",
+   "ad": "Pretzel",
+   "seviye": "guclu",
+   "grup": "tuzlu",
+   "etiketler": [],
+   "aciklama": "Düğüm şekilli tuzlu.",
+   "puan": {
+    "lezzet": 7,
+    "nostalji": 6,
+    "populerlik": 7,
+    "bagimlilik": 7
+   }
+  },
+  {
+   "id": "bebe-biskuvi",
+   "ad": "Bebe bisküvi",
+   "seviye": "guclu",
+   "grup": "tatli",
+   "etiketler": [],
+   "aciklama": "Çayın yanına nostalji.",
+   "puan": {
+    "lezzet": 7,
+    "nostalji": 10,
+    "populerlik": 8,
+    "bagimlilik": 7
+   }
+  },
+  {
+   "id": "eti-burcak",
+   "ad": "Eti Burçak",
+   "seviye": "guclu",
+   "grup": "tatli",
+   "etiketler": [],
+   "aciklama": "Kepekli sevilen bisküvi.",
+   "puan": {
+    "lezzet": 7,
+    "nostalji": 8,
     "populerlik": 8,
     "bagimlilik": 7
    }
@@ -144,138 +480,40 @@
    "seviye": "guclu",
    "grup": "tatli",
    "etiketler": [],
-   "aciklama": "Karamelli ve çikolatalı bar.",
-   "puan": {
-    "lezzet": 9,
-    "nostalji": 9,
-    "populerlik": 9,
-    "bagimlilik": 8
-   }
-  },
-  {
-   "id": "eti-puf",
-   "ad": "Eti Puf",
-   "seviye": "guclu",
-   "grup": "tatli",
-   "etiketler": [],
-   "aciklama": "Marshmallowlu yumuşak nostalji.",
-   "puan": {
-    "lezzet": 8,
-    "nostalji": 10,
-    "populerlik": 8,
-    "bagimlilik": 7
-   }
-  },
-  {
-   "id": "kraker",
-   "ad": "Kraker",
-   "seviye": "guclu",
-   "grup": "tuzlu",
-   "etiketler": [],
-   "aciklama": "Tuzlu ve çıtır bisküvi.",
-   "puan": {
-    "lezzet": 7,
-    "nostalji": 8,
-    "populerlik": 8,
-    "bagimlilik": 8
-   }
-  },
-  {
-   "id": "cubuk-kraker",
-   "ad": "Çubuk Kraker",
-   "seviye": "guclu",
-   "grup": "tuzlu",
-   "etiketler": [],
-   "aciklama": "İnce, uzun ve durmadan yenen.",
-   "puan": {
-    "lezzet": 7,
-    "nostalji": 8,
-    "populerlik": 8,
-    "bagimlilik": 9
-   }
-  },
-  {
-   "id": "fistik",
-   "ad": "Fıstık",
-   "seviye": "guclu",
-   "grup": "tuzlu",
-   "etiketler": [],
-   "aciklama": "Antep fıstığı ya da yer fıstığı.",
-   "puan": {
-    "lezzet": 8,
-    "nostalji": 8,
-    "populerlik": 9,
-    "bagimlilik": 9
-   }
-  },
-  {
-   "id": "karisik-kuruyemis",
-   "ad": "Karışık Kuruyemiş",
-   "seviye": "guclu",
-   "grup": "tuzlu",
-   "etiketler": [],
-   "aciklama": "Misafir sofrasının klasiği.",
-   "puan": {
-    "lezzet": 8,
-    "nostalji": 7,
-    "populerlik": 8,
-    "bagimlilik": 8
-   }
-  },
-  {
-   "id": "potibor",
-   "ad": "Pötibör",
-   "seviye": "guclu",
-   "grup": "tatli",
-   "etiketler": [],
-   "aciklama": "Süte batırılan çocukluk bisküvisi.",
-   "puan": {
-    "lezzet": 7,
-    "nostalji": 10,
-    "populerlik": 8,
-    "bagimlilik": 7
-   }
-  },
-  {
-   "id": "topkek",
-   "ad": "Topkek",
-   "seviye": "guclu",
-   "grup": "tatli",
-   "etiketler": [],
-   "aciklama": "Okul çantalarının kakaolu keki.",
+   "aciklama": "Karamelli çikolatalı bar.",
    "puan": {
     "lezzet": 8,
     "nostalji": 9,
     "populerlik": 8,
-    "bagimlilik": 7
+    "bagimlilik": 8
    }
   },
   {
-   "id": "doritos",
-   "ad": "Doritos",
-   "seviye": "guclu",
-   "grup": "tuzlu",
-   "etiketler": [],
-   "aciklama": "Üçgen mısır cipsi.",
-   "puan": {
-    "lezzet": 8,
-    "nostalji": 7,
-    "populerlik": 8,
-    "bagimlilik": 9
-   }
-  },
-  {
-   "id": "jelibon",
-   "ad": "Jelibon",
+   "id": "cokoprens",
+   "ad": "Çokoprens",
    "seviye": "guclu",
    "grup": "tatli",
    "etiketler": [],
-   "aciklama": "Rengârenk ve sakızımsı şekerleme.",
+   "aciklama": "Okul çantalarının vazgeçilmezi.",
    "puan": {
     "lezzet": 8,
-    "nostalji": 8,
+    "nostalji": 10,
     "populerlik": 8,
     "bagimlilik": 8
+   }
+  },
+  {
+   "id": "pamuk-seker",
+   "ad": "Pamuk şeker",
+   "seviye": "guclu",
+   "grup": "tatli",
+   "etiketler": [],
+   "aciklama": "Lunaparkların pembe bulutu.",
+   "puan": {
+    "lezzet": 7,
+    "nostalji": 10,
+    "populerlik": 7,
+    "bagimlilik": 6
    }
   },
   {
@@ -284,250 +522,12 @@
    "seviye": "guclu",
    "grup": "tatli",
    "etiketler": [],
-   "aciklama": "Kahvenin yanındaki geleneksel tatlı.",
+   "aciklama": "Türk lokumu klasik.",
    "puan": {
     "lezzet": 8,
-    "nostalji": 9,
-    "populerlik": 7,
-    "bagimlilik": 6
-   }
-  },
-  {
-   "id": "pismaniye",
-   "ad": "Pişmaniye",
-   "seviye": "guclu",
-   "grup": "tatli",
-   "etiketler": [],
-   "aciklama": "Ağızda eriyen ince tel tatlı.",
-   "puan": {
-    "lezzet": 8,
-    "nostalji": 8,
-    "populerlik": 6,
-    "bagimlilik": 6
-   }
-  },
-  {
-   "id": "biskrem",
-   "ad": "Biskrem",
-   "seviye": "guclu",
-   "grup": "tatli",
-   "etiketler": [],
-   "aciklama": "Kakaolu kremalı efsane bisküvi.",
-   "puan": {
-    "lezzet": 9,
-    "nostalji": 9,
-    "populerlik": 9,
-    "bagimlilik": 9
-   }
-  },
-  {
-   "id": "bonibon",
-   "ad": "Bonibon",
-   "seviye": "guclu",
-   "grup": "tatli",
-   "etiketler": [],
-   "aciklama": "Renkli şeker kaplı çikolata taneleri.",
-   "puan": {
-    "lezzet": 8,
-    "nostalji": 9,
-    "populerlik": 8,
-    "bagimlilik": 8
-   }
-  },
-  {
-   "id": "pringles",
-   "ad": "Pringles",
-   "seviye": "siradan",
-   "grup": "tuzlu",
-   "etiketler": [],
-   "aciklama": "Tüpte gelen dizi dizi cips.",
-   "puan": {
-    "lezzet": 8,
-    "nostalji": 6,
-    "populerlik": 8,
-    "bagimlilik": 9
-   }
-  },
-  {
-   "id": "patos",
-   "ad": "Patos",
-   "seviye": "siradan",
-   "grup": "tuzlu",
-   "etiketler": [],
-   "aciklama": "Mısır cipsinin nostaljik markası.",
-   "puan": {
-    "lezzet": 7,
-    "nostalji": 9,
-    "populerlik": 7,
-    "bagimlilik": 8
-   }
-  },
-  {
-   "id": "pestil",
-   "ad": "Pestil",
-   "seviye": "siradan",
-   "grup": "tatli",
-   "etiketler": [],
-   "aciklama": "Kurutulmuş meyve tabakası.",
-   "puan": {
-    "lezzet": 6,
-    "nostalji": 7,
-    "populerlik": 4,
-    "bagimlilik": 4
-   }
-  },
-  {
-   "id": "kuru-meyve",
-   "ad": "Kuru Meyve",
-   "seviye": "siradan",
-   "grup": "tatli",
-   "etiketler": [],
-   "aciklama": "Kayısı, üzüm, incir; sağlıklı atıştırma.",
-   "puan": {
-    "lezzet": 6,
-    "nostalji": 5,
-    "populerlik": 6,
-    "bagimlilik": 5
-   }
-  },
-  {
-   "id": "cig-badem",
-   "ad": "Çiğ Badem",
-   "seviye": "siradan",
-   "grup": "tuzlu",
-   "etiketler": [],
-   "aciklama": "Sağlıklı ve doyurucu.",
-   "puan": {
-    "lezzet": 6,
-    "nostalji": 5,
-    "populerlik": 6,
-    "bagimlilik": 6
-   }
-  },
-  {
-   "id": "pamuk-seker",
-   "ad": "Pamuk Şeker",
-   "seviye": "siradan",
-   "grup": "tatli",
-   "etiketler": [],
-   "aciklama": "Lunaparkın pembe bulutu.",
-   "puan": {
-    "lezzet": 6,
-    "nostalji": 9,
-    "populerlik": 5,
-    "bagimlilik": 4
-   }
-  },
-  {
-   "id": "lolipop",
-   "ad": "Lolipop",
-   "seviye": "siradan",
-   "grup": "tatli",
-   "etiketler": [],
-   "aciklama": "Çubuklu renkli şeker.",
-   "puan": {
-    "lezzet": 5,
-    "nostalji": 8,
-    "populerlik": 6,
-    "bagimlilik": 5
-   }
-  },
-  {
-   "id": "sakiz",
-   "ad": "Sakız",
-   "seviye": "siradan",
-   "grup": "tatli",
-   "etiketler": [],
-   "aciklama": "Balon yapma yarışmaları.",
-   "puan": {
-    "lezzet": 4,
     "nostalji": 8,
     "populerlik": 8,
     "bagimlilik": 7
-   }
-  },
-  {
-   "id": "tadelle",
-   "ad": "Tadelle",
-   "seviye": "siradan",
-   "grup": "tatli",
-   "etiketler": [],
-   "aciklama": "Fındıklı çikolata bar.",
-   "puan": {
-    "lezzet": 8,
-    "nostalji": 8,
-    "populerlik": 7,
-    "bagimlilik": 8
-   }
-  },
-  {
-   "id": "kestane-sekeri",
-   "ad": "Kestane Şekeri",
-   "seviye": "siradan",
-   "grup": "tatli",
-   "etiketler": [],
-   "aciklama": "Bursa'nın şekerli kestanesi.",
-   "puan": {
-    "lezzet": 8,
-    "nostalji": 6,
-    "populerlik": 5,
-    "bagimlilik": 5
-   }
-  },
-  {
-   "id": "nachos",
-   "ad": "Nachos",
-   "seviye": "siradan",
-   "grup": "tuzlu",
-   "etiketler": [],
-   "aciklama": "Peynir soslu mısır cipsi.",
-   "puan": {
-    "lezzet": 7,
-    "nostalji": 5,
-    "populerlik": 6,
-    "bagimlilik": 7
-   }
-  },
-  {
-   "id": "pirinc-patlagi",
-   "ad": "Pirinç Patlağı",
-   "seviye": "siradan",
-   "grup": "tuzlu",
-   "etiketler": [],
-   "aciklama": "Hafif ve çıtır diyet atıştırmalığı.",
-   "puan": {
-    "lezzet": 4,
-    "nostalji": 4,
-    "populerlik": 5,
-    "bagimlilik": 4
-   }
-  },
-  {
-   "id": "misir-gevregi",
-   "ad": "Mısır Gevreği",
-   "seviye": "siradan",
-   "grup": "tatli",
-   "etiketler": [],
-   "aciklama": "Sütle de kuru da yenen gevrek.",
-   "puan": {
-    "lezzet": 7,
-    "nostalji": 8,
-    "populerlik": 8,
-    "bagimlilik": 7
-   }
-  },
-  {
-   "id": "kabak-cekirdegi",
-   "ad": "Kabak Çekirdeği",
-   "seviye": "siradan",
-   "grup": "tuzlu",
-   "etiketler": [],
-   "aciklama": "Çitlemesi ayrı keyif.",
-   "puan": {
-    "lezzet": 7,
-    "nostalji": 7,
-    "populerlik": 6,
-    "bagimlilik": 8
    }
   }
  ]

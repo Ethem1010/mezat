@@ -54,6 +54,132 @@
    }
   },
   {
+   "id": "nokia-3210",
+   "ad": "Nokia 3210",
+   "seviye": "efsane",
+   "grup": "tuslu",
+   "etiketler": [],
+   "aciklama": "Dahili anteniyle 3310'un abisi.",
+   "puan": {
+    "yenilik": 6,
+    "populerlik": 9,
+    "dayaniklilik": 9,
+    "nostalji": 9
+   }
+  },
+  {
+   "id": "nokia-1100",
+   "ad": "Nokia 1100",
+   "seviye": "efsane",
+   "grup": "tuslu",
+   "etiketler": [],
+   "aciklama": "Tarihin en çok satan telefonlarından.",
+   "puan": {
+    "yenilik": 4,
+    "populerlik": 10,
+    "dayaniklilik": 10,
+    "nostalji": 8
+   }
+  },
+  {
+   "id": "nokia-8210",
+   "ad": "Nokia 8210",
+   "seviye": "efsane",
+   "grup": "tuslu",
+   "etiketler": [],
+   "aciklama": "Minicik şık gövdesiyle 2000'lerin gözdesi.",
+   "puan": {
+    "yenilik": 6,
+    "populerlik": 8,
+    "dayaniklilik": 8,
+    "nostalji": 9
+   }
+  },
+  {
+   "id": "nokia-6600",
+   "ad": "Nokia 6600",
+   "seviye": "efsane",
+   "grup": "tuslu",
+   "etiketler": [],
+   "aciklama": "Kameralı ve uygulamalı Symbian efsanesi.",
+   "puan": {
+    "yenilik": 8,
+    "populerlik": 8,
+    "dayaniklilik": 7,
+    "nostalji": 9
+   }
+  },
+  {
+   "id": "nokia-n-gage",
+   "ad": "Nokia N-Gage",
+   "seviye": "efsane",
+   "grup": "tuslu",
+   "etiketler": [],
+   "aciklama": "Telefon ile oyun konsolunu birleştiren deneme.",
+   "puan": {
+    "yenilik": 9,
+    "populerlik": 6,
+    "dayaniklilik": 6,
+    "nostalji": 9
+   }
+  },
+  {
+   "id": "motorola-razr-v3",
+   "ad": "Motorola Razr V3",
+   "seviye": "efsane",
+   "grup": "tuslu",
+   "etiketler": [],
+   "aciklama": "İncecik kapaklı tasarımıyla moda ikonu.",
+   "puan": {
+    "yenilik": 8,
+    "populerlik": 9,
+    "dayaniklilik": 6,
+    "nostalji": 10
+   }
+  },
+  {
+   "id": "motorola-startac",
+   "ad": "Motorola StarTAC",
+   "seviye": "efsane",
+   "grup": "tuslu",
+   "etiketler": [],
+   "aciklama": "İlk kapaklı cep telefonlarından.",
+   "puan": {
+    "yenilik": 9,
+    "populerlik": 7,
+    "dayaniklilik": 6,
+    "nostalji": 9
+   }
+  },
+  {
+   "id": "motorola-dynatac-8000x",
+   "ad": "Motorola DynaTAC 8000X",
+   "seviye": "efsane",
+   "grup": "tuslu",
+   "etiketler": [],
+   "aciklama": "Dünyanın ilk ticari cep telefonu.",
+   "puan": {
+    "yenilik": 10,
+    "populerlik": 5,
+    "dayaniklilik": 7,
+    "nostalji": 10
+   }
+  },
+  {
+   "id": "sony-ericsson-w810i",
+   "ad": "Sony Ericsson W810i",
+   "seviye": "efsane",
+   "grup": "tuslu",
+   "etiketler": [],
+   "aciklama": "Walkman müzik telefonu.",
+   "puan": {
+    "yenilik": 7,
+    "populerlik": 8,
+    "dayaniklilik": 7,
+    "nostalji": 9
+   }
+  },
+  {
    "id": "iphone-2007",
    "ad": "iPhone (2007)",
    "seviye": "efsane",
@@ -68,17 +194,31 @@
    }
   },
   {
-   "id": "motorola-razr-v3",
-   "ad": "Motorola Razr V3",
+   "id": "iphone-4",
+   "ad": "iPhone 4",
    "seviye": "efsane",
-   "grup": "tuslu",
+   "grup": "erken_akilli",
    "etiketler": [],
-   "aciklama": "İncecik kapaklı tasarımıyla moda ikonu.",
+   "aciklama": "Cam tasarımı ve Retina ekranıyla dönüm noktası.",
    "puan": {
-    "yenilik": 8,
-    "populerlik": 9,
-    "dayaniklilik": 6,
+    "yenilik": 9,
+    "populerlik": 10,
+    "dayaniklilik": 5,
     "nostalji": 9
+   }
+  },
+  {
+   "id": "iphone-6",
+   "ad": "iPhone 6",
+   "seviye": "efsane",
+   "grup": "erken_akilli",
+   "etiketler": [],
+   "aciklama": "Tüm zamanların en çok satan iPhone'u.",
+   "puan": {
+    "yenilik": 7,
+    "populerlik": 10,
+    "dayaniklilik": 5,
+    "nostalji": 8
    }
   },
   {
@@ -92,6 +232,20 @@
     "yenilik": 7,
     "populerlik": 8,
     "dayaniklilik": 7,
+    "nostalji": 9
+   }
+  },
+  {
+   "id": "blackberry-curve",
+   "ad": "BlackBerry Curve",
+   "seviye": "efsane",
+   "grup": "erken_akilli",
+   "etiketler": [],
+   "aciklama": "Gençlerin BBM için kullandığı telefon.",
+   "puan": {
+    "yenilik": 6,
+    "populerlik": 8,
+    "dayaniklilik": 6,
     "nostalji": 9
    }
   },
@@ -110,71 +264,15 @@
    }
   },
   {
-   "id": "iphone-4",
-   "ad": "iPhone 4",
+   "id": "samsung-galaxy-s-ii",
+   "ad": "Samsung Galaxy S II",
    "seviye": "efsane",
    "grup": "erken_akilli",
    "etiketler": [],
-   "aciklama": "Cam tasarımı ve Retina ekranıyla dönüm noktası.",
-   "puan": {
-    "yenilik": 9,
-    "populerlik": 10,
-    "dayaniklilik": 5,
-    "nostalji": 9
-   }
-  },
-  {
-   "id": "sony-ericsson-w810i",
-   "ad": "Sony Ericsson W810i",
-   "seviye": "efsane",
-   "grup": "tuslu",
-   "etiketler": [],
-   "aciklama": "Walkman müzik telefonu.",
-   "puan": {
-    "yenilik": 7,
-    "populerlik": 8,
-    "dayaniklilik": 7,
-    "nostalji": 9
-   }
-  },
-  {
-   "id": "nokia-1100",
-   "ad": "Nokia 1100",
-   "seviye": "guclu",
-   "grup": "tuslu",
-   "etiketler": [],
-   "aciklama": "Dünyanın en çok satan telefonlarından.",
-   "puan": {
-    "yenilik": 4,
-    "populerlik": 9,
-    "dayaniklilik": 10,
-    "nostalji": 8
-   }
-  },
-  {
-   "id": "nokia-6600",
-   "ad": "Nokia 6600",
-   "seviye": "guclu",
-   "grup": "tuslu",
-   "etiketler": [],
-   "aciklama": "Kameralı ve uygulamalı Symbian efsanesi.",
+   "aciklama": "Android'i ana akıma taşıyan model.",
    "puan": {
     "yenilik": 8,
     "populerlik": 8,
-    "dayaniklilik": 7,
-    "nostalji": 9
-   }
-  },
-  {
-   "id": "nokia-n-gage",
-   "ad": "Nokia N-Gage",
-   "seviye": "guclu",
-   "grup": "tuslu",
-   "etiketler": [],
-   "aciklama": "Telefon ile oyun konsolunu birleştirme denemesi.",
-   "puan": {
-    "yenilik": 8,
-    "populerlik": 6,
     "dayaniklilik": 6,
     "nostalji": 8
    }
@@ -182,7 +280,7 @@
   {
    "id": "samsung-galaxy-s3",
    "ad": "Samsung Galaxy S3",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "erken_akilli",
    "etiketler": [],
    "aciklama": "Android'i zirveye taşıyan model.",
@@ -196,7 +294,7 @@
   {
    "id": "samsung-galaxy-note",
    "ad": "Samsung Galaxy Note",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "erken_akilli",
    "etiketler": [],
    "aciklama": "Büyük ekran ve kalem akımını başlattı.",
@@ -210,13 +308,27 @@
   {
    "id": "htc-one",
    "ad": "HTC One",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "erken_akilli",
    "etiketler": [],
    "aciklama": "Metal gövdesi ve hoparlörleriyle beğenilen telefon.",
    "puan": {
     "yenilik": 8,
     "populerlik": 6,
+    "dayaniklilik": 7,
+    "nostalji": 6
+   }
+  },
+  {
+   "id": "iphone-x",
+   "ad": "iPhone X",
+   "seviye": "efsane",
+   "grup": "yeni_akilli",
+   "etiketler": [],
+   "aciklama": "Çentikli tam ekran ve Face ID'nin gelişi.",
+   "puan": {
+    "yenilik": 9,
+    "populerlik": 9,
     "dayaniklilik": 6,
     "nostalji": 6
    }
@@ -224,7 +336,7 @@
   {
    "id": "iphone-15-pro",
    "ad": "iPhone 15 Pro",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "yeni_akilli",
    "etiketler": [],
    "aciklama": "Titanyum kasalı yeni nesil iPhone.",
@@ -238,7 +350,7 @@
   {
    "id": "samsung-galaxy-s24-ultra",
    "ad": "Samsung Galaxy S24 Ultra",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "yeni_akilli",
    "etiketler": [],
    "aciklama": "Kalemli ve güçlü kameralı amiral gemisi.",
@@ -250,45 +362,45 @@
    }
   },
   {
-   "id": "google-pixel",
-   "ad": "Google Pixel",
-   "seviye": "guclu",
-   "grup": "yeni_akilli",
-   "etiketler": [],
-   "aciklama": "Yazılım ve kamera odaklı Google telefonu.",
-   "puan": {
-    "yenilik": 9,
-    "populerlik": 6,
-    "dayaniklilik": 7,
-    "nostalji": 3
-   }
-  },
-  {
    "id": "samsung-galaxy-z-fold",
    "ad": "Samsung Galaxy Z Fold",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "yeni_akilli",
    "etiketler": [],
    "aciklama": "Kitap gibi açılan katlanabilir telefon.",
    "puan": {
     "yenilik": 10,
-    "populerlik": 6,
-    "dayaniklilik": 4,
-    "nostalji": 2
+    "populerlik": 7,
+    "dayaniklilik": 5,
+    "nostalji": 3
    }
   },
   {
-   "id": "nokia-3210",
-   "ad": "Nokia 3210",
+   "id": "google-pixel",
+   "ad": "Google Pixel",
+   "seviye": "efsane",
+   "grup": "yeni_akilli",
+   "etiketler": [],
+   "aciklama": "Yazılım ve kamera odaklı Google telefonu.",
+   "puan": {
+    "yenilik": 9,
+    "populerlik": 7,
+    "dayaniklilik": 7,
+    "nostalji": 3
+   }
+  },
+  {
+   "id": "nokia-5110",
+   "ad": "Nokia 5110",
    "seviye": "guclu",
    "grup": "tuslu",
    "etiketler": [],
-   "aciklama": "Dahili anteniyle 3310'un abisi.",
+   "aciklama": "Değiştirilebilir kapaklarıyla sevilen klasik.",
    "puan": {
     "yenilik": 5,
-    "populerlik": 9,
+    "populerlik": 8,
     "dayaniklilik": 9,
-    "nostalji": 9
+    "nostalji": 8
    }
   },
   {
@@ -306,98 +418,28 @@
    }
   },
   {
-   "id": "motorola-startac",
-   "ad": "Motorola StarTAC",
+   "id": "samsung-sgh-d500",
+   "ad": "Samsung SGH-D500",
    "seviye": "guclu",
    "grup": "tuslu",
    "etiketler": [],
-   "aciklama": "İlk kapaklı cep telefonlarından.",
-   "puan": {
-    "yenilik": 7,
-    "populerlik": 7,
-    "dayaniklilik": 6,
-    "nostalji": 8
-   }
-  },
-  {
-   "id": "iphone-x",
-   "ad": "iPhone X",
-   "seviye": "guclu",
-   "grup": "yeni_akilli",
-   "etiketler": [],
-   "aciklama": "Çentikli tam ekran ve Face ID'nin gelişi.",
-   "puan": {
-    "yenilik": 9,
-    "populerlik": 9,
-    "dayaniklilik": 6,
-    "nostalji": 5
-   }
-  },
-  {
-   "id": "xiaomi-redmi-note",
-   "ad": "Xiaomi Redmi Note",
-   "seviye": "siradan",
-   "grup": "yeni_akilli",
-   "etiketler": [],
-   "aciklama": "Uygun fiyatıyla çok satan model.",
+   "aciklama": "Kızaklı tasarımıyla popüler Samsung.",
    "puan": {
     "yenilik": 6,
-    "populerlik": 9,
+    "populerlik": 6,
     "dayaniklilik": 6,
-    "nostalji": 3
+    "nostalji": 6
    }
   },
   {
-   "id": "huawei-p30",
-   "ad": "Huawei P30",
-   "seviye": "siradan",
-   "grup": "yeni_akilli",
-   "etiketler": [],
-   "aciklama": "Gece çekimleriyle ses getiren kamera telefonu.",
-   "puan": {
-    "yenilik": 8,
-    "populerlik": 7,
-    "dayaniklilik": 6,
-    "nostalji": 4
-   }
-  },
-  {
-   "id": "general-mobile-gm-8",
-   "ad": "General Mobile GM 8",
-   "seviye": "siradan",
-   "grup": "yeni_akilli",
-   "etiketler": [],
-   "aciklama": "Türkiye'de üretilen Android telefon.",
-   "puan": {
-    "yenilik": 4,
-    "populerlik": 5,
-    "dayaniklilik": 5,
-    "nostalji": 4
-   }
-  },
-  {
-   "id": "vestel-venus",
-   "ad": "Vestel Venus",
-   "seviye": "siradan",
-   "grup": "yeni_akilli",
-   "etiketler": [],
-   "aciklama": "Yerli üretim akıllı telefon.",
-   "puan": {
-    "yenilik": 4,
-    "populerlik": 5,
-    "dayaniklilik": 5,
-    "nostalji": 4
-   }
-  },
-  {
-   "id": "nokia-lumia",
-   "ad": "Nokia Lumia",
-   "seviye": "siradan",
+   "id": "nokia-lumia-920",
+   "ad": "Nokia Lumia 920",
+   "seviye": "guclu",
    "grup": "erken_akilli",
    "etiketler": [],
    "aciklama": "Renkli gövdeli Windows telefon.",
    "puan": {
-    "yenilik": 6,
+    "yenilik": 7,
     "populerlik": 5,
     "dayaniklilik": 7,
     "nostalji": 6
@@ -406,7 +448,7 @@
   {
    "id": "sony-xperia-z",
    "ad": "Sony Xperia Z",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "erken_akilli",
    "etiketler": [],
    "aciklama": "Suya dayanıklı şık Android.",
@@ -420,7 +462,7 @@
   {
    "id": "lg-g2",
    "ad": "LG G2",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "erken_akilli",
    "etiketler": [],
    "aciklama": "Tuşları arkaya taşıyan cesur tasarım.",
@@ -432,93 +474,51 @@
    }
   },
   {
-   "id": "samsung-galaxy-y",
-   "ad": "Samsung Galaxy Y",
-   "seviye": "siradan",
-   "grup": "erken_akilli",
-   "etiketler": [],
-   "aciklama": "Birçok kişinin ilk akıllı telefonu.",
-   "puan": {
-    "yenilik": 3,
-    "populerlik": 7,
-    "dayaniklilik": 5,
-    "nostalji": 7
-   }
-  },
-  {
-   "id": "nokia-5110",
-   "ad": "Nokia 5110",
-   "seviye": "siradan",
-   "grup": "tuslu",
-   "etiketler": [],
-   "aciklama": "Değiştirilebilir renkli kapaklarıyla sevilen klasik.",
-   "puan": {
-    "yenilik": 4,
-    "populerlik": 8,
-    "dayaniklilik": 9,
-    "nostalji": 8
-   }
-  },
-  {
-   "id": "samsung-sgh-d500",
-   "ad": "Samsung SGH-D500",
-   "seviye": "siradan",
-   "grup": "tuslu",
-   "etiketler": [],
-   "aciklama": "Kızaklı tasarımıyla popüler Samsung.",
-   "puan": {
-    "yenilik": 6,
-    "populerlik": 6,
-    "dayaniklilik": 6,
-    "nostalji": 6
-   }
-  },
-  {
-   "id": "blackberry-curve",
-   "ad": "BlackBerry Curve",
-   "seviye": "siradan",
-   "grup": "erken_akilli",
-   "etiketler": [],
-   "aciklama": "Gençlerin BBM için kullandığı telefon.",
-   "puan": {
-    "yenilik": 6,
-    "populerlik": 7,
-    "dayaniklilik": 6,
-    "nostalji": 7
-   }
-  },
-  {
-   "id": "oneplus",
-   "ad": "OnePlus",
-   "seviye": "siradan",
+   "id": "huawei-p30-pro",
+   "ad": "Huawei P30 Pro",
+   "seviye": "guclu",
    "grup": "yeni_akilli",
    "etiketler": [],
-   "aciklama": "Hızlı şarjı ve sade yazılımıyla bilinir.",
+   "aciklama": "Gece çekimleriyle ses getiren kamera telefonu.",
    "puan": {
-    "yenilik": 7,
-    "populerlik": 6,
+    "yenilik": 8,
+    "populerlik": 7,
+    "dayaniklilik": 6,
+    "nostalji": 4
+   }
+  },
+  {
+   "id": "xiaomi-redmi-note",
+   "ad": "Xiaomi Redmi Note",
+   "seviye": "guclu",
+   "grup": "yeni_akilli",
+   "etiketler": [],
+   "aciklama": "Uygun fiyatıyla çok satan model.",
+   "puan": {
+    "yenilik": 6,
+    "populerlik": 9,
     "dayaniklilik": 6,
     "nostalji": 3
    }
   },
   {
-   "id": "nothing-phone",
-   "ad": "Nothing Phone",
-   "seviye": "siradan",
+   "id": "oneplus-one",
+   "ad": "OnePlus One",
+   "seviye": "guclu",
    "grup": "yeni_akilli",
    "etiketler": [],
-   "aciklama": "Arkası ışıklı şeffaf tasarım.",
+   "aciklama": "\"Amiral gemisi katili\" sloganıyla gelen telefon.",
    "puan": {
     "yenilik": 7,
-    "populerlik": 4,
+    "populerlik": 6,
     "dayaniklilik": 6,
-    "nostalji": 1
+    "nostalji": 4
    }
   },
   {
    "id": "iphone-se",
    "ad": "iPhone SE",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "yeni_akilli",
    "etiketler": [],
    "aciklama": "Küçük gövdeli uygun fiyatlı iPhone.",

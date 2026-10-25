@@ -47,7 +47,7 @@
    "seviye": "efsane",
    "grup": "sayisal",
    "etiketler": [],
-   "aciklama": "Mühendislikten ekonomiye her şeyin temeli.",
+   "aciklama": "Her bilimin temeli.",
    "puan": {
     "hayatta_ise_yarama": 10,
     "meslek_kapisi": 10,
@@ -56,44 +56,30 @@
    }
   },
   {
-   "id": "turkce",
-   "ad": "Türkçe",
+   "id": "fizik",
+   "ad": "Fizik",
    "seviye": "efsane",
-   "grup": "sozel",
+   "grup": "sayisal",
    "etiketler": [],
-   "aciklama": "Okumak, yazmak, anlamak ve anlatmak.",
+   "aciklama": "Evrenin kurallarını öğretir.",
    "puan": {
-    "hayatta_ise_yarama": 10,
-    "meslek_kapisi": 8,
-    "genel_kultur": 9,
-    "eglence": 6
-   }
-  },
-  {
-   "id": "i-ngilizce",
-   "ad": "İngilizce",
-   "seviye": "efsane",
-   "grup": "dil",
-   "etiketler": [],
-   "aciklama": "Dünyaya açılan kapı.",
-   "puan": {
-    "hayatta_ise_yarama": 10,
+    "hayatta_ise_yarama": 8,
     "meslek_kapisi": 10,
     "genel_kultur": 8,
     "eglence": 6
    }
   },
   {
-   "id": "fizik",
-   "ad": "Fizik",
+   "id": "kimya",
+   "ad": "Kimya",
    "seviye": "efsane",
    "grup": "sayisal",
    "etiketler": [],
-   "aciklama": "Evrenin nasıl çalıştığını anlatır.",
+   "aciklama": "Maddenin sırları.",
    "puan": {
     "hayatta_ise_yarama": 7,
     "meslek_kapisi": 9,
-    "genel_kultur": 8,
+    "genel_kultur": 7,
     "eglence": 6
    }
   },
@@ -103,66 +89,80 @@
    "seviye": "efsane",
    "grup": "sayisal",
    "etiketler": [],
-   "aciklama": "Canlıları ve kendi vücudumuzu tanıtır.",
+   "aciklama": "Canlıları ve vücudumuzu tanıtır.",
    "puan": {
-    "hayatta_ise_yarama": 8,
-    "meslek_kapisi": 9,
+    "hayatta_ise_yarama": 9,
+    "meslek_kapisi": 10,
     "genel_kultur": 8,
+    "eglence": 7
+   }
+  },
+  {
+   "id": "bilisim-kodlama",
+   "ad": "Bilişim/Kodlama",
+   "seviye": "efsane",
+   "grup": "sayisal",
+   "etiketler": [],
+   "aciklama": "Geleceğin dili.",
+   "puan": {
+    "hayatta_ise_yarama": 10,
+    "meslek_kapisi": 10,
+    "genel_kultur": 7,
+    "eglence": 9
+   }
+  },
+  {
+   "id": "geometri",
+   "ad": "Geometri",
+   "seviye": "efsane",
+   "grup": "sayisal",
+   "etiketler": [],
+   "aciklama": "Şekillerin ve mekânın bilimi.",
+   "puan": {
+    "hayatta_ise_yarama": 7,
+    "meslek_kapisi": 9,
+    "genel_kultur": 6,
     "eglence": 6
    }
   },
   {
-   "id": "bilisim-teknolojileri",
-   "ad": "Bilişim Teknolojileri",
+   "id": "astronomi",
+   "ad": "Astronomi",
    "seviye": "efsane",
    "grup": "sayisal",
    "etiketler": [],
-   "aciklama": "Bilgisayar ve kodlamanın ilk adımı.",
+   "aciklama": "Yıldızlara uzanan merak.",
    "puan": {
-    "hayatta_ise_yarama": 9,
-    "meslek_kapisi": 10,
-    "genel_kultur": 6,
-    "eglence": 8
+    "hayatta_ise_yarama": 5,
+    "meslek_kapisi": 7,
+    "genel_kultur": 9,
+    "eglence": 9
    }
   },
   {
-   "id": "beden-egitimi",
-   "ad": "Beden Eğitimi",
+   "id": "turkce-edebiyat",
+   "ad": "Türkçe/Edebiyat",
    "seviye": "efsane",
-   "grup": "sanat_spor",
+   "grup": "sozel",
    "etiketler": [],
-   "aciklama": "Haftanın en çok beklenen dersi.",
+   "aciklama": "Okuma, yazma, ifade gücü.",
    "puan": {
-    "hayatta_ise_yarama": 8,
-    "meslek_kapisi": 5,
-    "genel_kultur": 4,
-    "eglence": 10
-   }
-  },
-  {
-   "id": "kimya",
-   "ad": "Kimya",
-   "seviye": "guclu",
-   "grup": "sayisal",
-   "etiketler": [],
-   "aciklama": "Mutfaktan ilaca maddelerin dili.",
-   "puan": {
-    "hayatta_ise_yarama": 7,
-    "meslek_kapisi": 9,
-    "genel_kultur": 7,
-    "eglence": 5
+    "hayatta_ise_yarama": 10,
+    "meslek_kapisi": 8,
+    "genel_kultur": 9,
+    "eglence": 7
    }
   },
   {
    "id": "tarih",
    "ad": "Tarih",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "sozel",
    "etiketler": [],
-   "aciklama": "Geçmişten ders almak için.",
+   "aciklama": "Geçmişi bilmeyen geleceği kuramaz.",
    "puan": {
-    "hayatta_ise_yarama": 6,
-    "meslek_kapisi": 6,
+    "hayatta_ise_yarama": 7,
+    "meslek_kapisi": 7,
     "genel_kultur": 10,
     "eglence": 7
    }
@@ -170,154 +170,266 @@
   {
    "id": "cografya",
    "ad": "Coğrafya",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "sozel",
    "etiketler": [],
-   "aciklama": "Dünyayı ve haritaları tanımak.",
+   "aciklama": "Dünyayı tanıtır.",
    "puan": {
-    "hayatta_ise_yarama": 6,
-    "meslek_kapisi": 6,
-    "genel_kultur": 9,
+    "hayatta_ise_yarama": 8,
+    "meslek_kapisi": 7,
+    "genel_kultur": 10,
     "eglence": 7
-   }
-  },
-  {
-   "id": "edebiyat",
-   "ad": "Edebiyat",
-   "seviye": "guclu",
-   "grup": "sozel",
-   "etiketler": [],
-   "aciklama": "Şiirler, romanlar ve yazarlar.",
-   "puan": {
-    "hayatta_ise_yarama": 7,
-    "meslek_kapisi": 6,
-    "genel_kultur": 9,
-    "eglence": 6
    }
   },
   {
    "id": "felsefe",
    "ad": "Felsefe",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "sozel",
    "etiketler": [],
-   "aciklama": "Düşünmeyi ve sorgulamayı öğretir.",
-   "puan": {
-    "hayatta_ise_yarama": 7,
-    "meslek_kapisi": 5,
-    "genel_kultur": 9,
-    "eglence": 5
-   }
-  },
-  {
-   "id": "muzik",
-   "ad": "Müzik",
-   "seviye": "guclu",
-   "grup": "sanat_spor",
-   "etiketler": [],
-   "aciklama": "Nota, ritim ve flüt sesleri.",
-   "puan": {
-    "hayatta_ise_yarama": 5,
-    "meslek_kapisi": 4,
-    "genel_kultur": 7,
-    "eglence": 9
-   }
-  },
-  {
-   "id": "resim",
-   "ad": "Resim",
-   "seviye": "guclu",
-   "grup": "sanat_spor",
-   "etiketler": [],
-   "aciklama": "Hayal gücünü kâğıda dökmek.",
-   "puan": {
-    "hayatta_ise_yarama": 5,
-    "meslek_kapisi": 4,
-    "genel_kultur": 6,
-    "eglence": 9
-   }
-  },
-  {
-   "id": "almanca",
-   "ad": "Almanca",
-   "seviye": "guclu",
-   "grup": "dil",
-   "etiketler": [],
-   "aciklama": "Avrupa'nın güçlü dili.",
-   "puan": {
-    "hayatta_ise_yarama": 7,
-    "meslek_kapisi": 7,
-    "genel_kultur": 6,
-    "eglence": 5
-   }
-  },
-  {
-   "id": "saglik-bilgisi",
-   "ad": "Sağlık Bilgisi",
-   "seviye": "guclu",
-   "grup": "sayisal",
-   "etiketler": [],
-   "aciklama": "Vücudunu korumayı öğretir.",
-   "puan": {
-    "hayatta_ise_yarama": 9,
-    "meslek_kapisi": 4,
-    "genel_kultur": 7,
-    "eglence": 5
-   }
-  },
-  {
-   "id": "trafik-ve-i-lk-yardim",
-   "ad": "Trafik ve İlk Yardım",
-   "seviye": "guclu",
-   "grup": "sozel",
-   "etiketler": [],
-   "aciklama": "Hayat kurtaran pratik bilgiler.",
-   "puan": {
-    "hayatta_ise_yarama": 9,
-    "meslek_kapisi": 3,
-    "genel_kultur": 6,
-    "eglence": 5
-   }
-  },
-  {
-   "id": "ekonomi",
-   "ad": "Ekonomi",
-   "seviye": "guclu",
-   "grup": "sozel",
-   "etiketler": [],
-   "aciklama": "Para, piyasa ve bütçe yönetimi.",
+   "aciklama": "Düşünmeyi öğretir.",
    "puan": {
     "hayatta_ise_yarama": 8,
-    "meslek_kapisi": 7,
-    "genel_kultur": 8,
-    "eglence": 5
+    "meslek_kapisi": 6,
+    "genel_kultur": 10,
+    "eglence": 6
    }
   },
   {
    "id": "psikoloji",
    "ad": "Psikoloji",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "sozel",
    "etiketler": [],
-   "aciklama": "İnsan davranışını anlamak.",
+   "aciklama": "İnsanı anlamanın anahtarı.",
    "puan": {
-    "hayatta_ise_yarama": 8,
-    "meslek_kapisi": 6,
+    "hayatta_ise_yarama": 9,
+    "meslek_kapisi": 8,
+    "genel_kultur": 8,
+    "eglence": 8
+   }
+  },
+  {
+   "id": "ekonomi",
+   "ad": "Ekonomi",
+   "seviye": "efsane",
+   "grup": "sozel",
+   "etiketler": [],
+   "aciklama": "Paranın ve piyasanın dili.",
+   "puan": {
+    "hayatta_ise_yarama": 10,
+    "meslek_kapisi": 9,
+    "genel_kultur": 8,
+    "eglence": 6
+   }
+  },
+  {
+   "id": "hukuk",
+   "ad": "Hukuk",
+   "seviye": "efsane",
+   "grup": "sozel",
+   "etiketler": [],
+   "aciklama": "Haklarını bilmeyi öğretir.",
+   "puan": {
+    "hayatta_ise_yarama": 9,
+    "meslek_kapisi": 9,
+    "genel_kultur": 8,
+    "eglence": 5
+   }
+  },
+  {
+   "id": "i-ngilizce",
+   "ad": "İngilizce",
+   "seviye": "efsane",
+   "grup": "dil",
+   "etiketler": [],
+   "aciklama": "Dünyanın ortak dili.",
+   "puan": {
+    "hayatta_ise_yarama": 10,
+    "meslek_kapisi": 10,
     "genel_kultur": 8,
     "eglence": 7
    }
   },
   {
-   "id": "geometri",
-   "ad": "Geometri",
-   "seviye": "guclu",
-   "grup": "sayisal",
+   "id": "almanca",
+   "ad": "Almanca",
+   "seviye": "efsane",
+   "grup": "dil",
    "etiketler": [],
-   "aciklama": "Şekillerin ve açıların dünyası.",
+   "aciklama": "Avrupa'nın iş dili.",
    "puan": {
     "hayatta_ise_yarama": 7,
     "meslek_kapisi": 8,
     "genel_kultur": 6,
+    "eglence": 5
+   }
+  },
+  {
+   "id": "i-spanyolca",
+   "ad": "İspanyolca",
+   "seviye": "efsane",
+   "grup": "dil",
+   "etiketler": [],
+   "aciklama": "Yüz milyonların dili.",
+   "puan": {
+    "hayatta_ise_yarama": 7,
+    "meslek_kapisi": 7,
+    "genel_kultur": 6,
+    "eglence": 7
+   }
+  },
+  {
+   "id": "cince",
+   "ad": "Çince",
+   "seviye": "efsane",
+   "grup": "dil",
+   "etiketler": [],
+   "aciklama": "Dünyanın en çok konuşulan dili.",
+   "puan": {
+    "hayatta_ise_yarama": 7,
+    "meslek_kapisi": 8,
+    "genel_kultur": 7,
+    "eglence": 5
+   }
+  },
+  {
+   "id": "japonca",
+   "ad": "Japonca",
+   "seviye": "efsane",
+   "grup": "dil",
+   "etiketler": [],
+   "aciklama": "Teknoloji ve kültür kapısı.",
+   "puan": {
+    "hayatta_ise_yarama": 5,
+    "meslek_kapisi": 6,
+    "genel_kultur": 7,
+    "eglence": 7
+   }
+  },
+  {
+   "id": "beden-egitimi",
+   "ad": "Beden eğitimi",
+   "seviye": "efsane",
+   "grup": "sanat_spor",
+   "etiketler": [],
+   "aciklama": "Sağlıklı vücut, takım ruhu.",
+   "puan": {
+    "hayatta_ise_yarama": 9,
+    "meslek_kapisi": 6,
+    "genel_kultur": 4,
+    "eglence": 10
+   }
+  },
+  {
+   "id": "muzik",
+   "ad": "Müzik",
+   "seviye": "efsane",
+   "grup": "sanat_spor",
+   "etiketler": [],
+   "aciklama": "Ruhun gıdası.",
+   "puan": {
+    "hayatta_ise_yarama": 6,
+    "meslek_kapisi": 6,
+    "genel_kultur": 7,
+    "eglence": 10
+   }
+  },
+  {
+   "id": "resim-gorsel-sanatlar",
+   "ad": "Resim/Görsel sanatlar",
+   "seviye": "efsane",
+   "grup": "sanat_spor",
+   "etiketler": [],
+   "aciklama": "Yaratıcılığı açar.",
+   "puan": {
+    "hayatta_ise_yarama": 6,
+    "meslek_kapisi": 6,
+    "genel_kultur": 7,
+    "eglence": 9
+   }
+  },
+  {
+   "id": "drama-tiyatro",
+   "ad": "Drama/Tiyatro",
+   "seviye": "efsane",
+   "grup": "sanat_spor",
+   "etiketler": [],
+   "aciklama": "Kendini ifade etmeyi öğretir.",
+   "puan": {
+    "hayatta_ise_yarama": 7,
+    "meslek_kapisi": 6,
+    "genel_kultur": 6,
+    "eglence": 10
+   }
+  },
+  {
+   "id": "satranc",
+   "ad": "Satranç",
+   "seviye": "efsane",
+   "grup": "sanat_spor",
+   "etiketler": [],
+   "aciklama": "Strateji ve sabır.",
+   "puan": {
+    "hayatta_ise_yarama": 6,
+    "meslek_kapisi": 4,
+    "genel_kultur": 6,
+    "eglence": 9
+   }
+  },
+  {
+   "id": "yuzme",
+   "ad": "Yüzme",
+   "seviye": "efsane",
+   "grup": "sanat_spor",
+   "etiketler": [],
+   "aciklama": "Hayat kurtaran beceri.",
+   "puan": {
+    "hayatta_ise_yarama": 10,
+    "meslek_kapisi": 4,
+    "genel_kultur": 3,
+    "eglence": 9
+   }
+  },
+  {
+   "id": "sosyoloji",
+   "ad": "Sosyoloji",
+   "seviye": "guclu",
+   "grup": "sozel",
+   "etiketler": [],
+   "aciklama": "Toplumu anlamak.",
+   "puan": {
+    "hayatta_ise_yarama": 7,
+    "meslek_kapisi": 6,
+    "genel_kultur": 8,
+    "eglence": 6
+   }
+  },
+  {
+   "id": "din-kulturu",
+   "ad": "Din kültürü",
+   "seviye": "guclu",
+   "grup": "sozel",
+   "etiketler": [],
+   "aciklama": "İnanç ve ahlak kültürü.",
+   "puan": {
+    "hayatta_ise_yarama": 6,
+    "meslek_kapisi": 4,
+    "genel_kultur": 8,
+    "eglence": 5
+   }
+  },
+  {
+   "id": "mantik",
+   "ad": "Mantık",
+   "seviye": "guclu",
+   "grup": "sozel",
+   "etiketler": [],
+   "aciklama": "Doğru düşünme kuralları.",
+   "puan": {
+    "hayatta_ise_yarama": 8,
+    "meslek_kapisi": 6,
+    "genel_kultur": 7,
     "eglence": 5
    }
   },
@@ -327,108 +439,10 @@
    "seviye": "guclu",
    "grup": "dil",
    "etiketler": [],
-   "aciklama": "Diplomasi ve sanatın dili.",
-   "puan": {
-    "hayatta_ise_yarama": 6,
-    "meslek_kapisi": 5,
-    "genel_kultur": 7,
-    "eglence": 5
-   }
-  },
-  {
-   "id": "sosyoloji",
-   "ad": "Sosyoloji",
-   "seviye": "siradan",
-   "grup": "sozel",
-   "etiketler": [],
-   "aciklama": "Toplumu ve ilişkileri inceler.",
-   "puan": {
-    "hayatta_ise_yarama": 6,
-    "meslek_kapisi": 5,
-    "genel_kultur": 8,
-    "eglence": 6
-   }
-  },
-  {
-   "id": "mantik",
-   "ad": "Mantık",
-   "seviye": "siradan",
-   "grup": "sozel",
-   "etiketler": [],
-   "aciklama": "Doğru düşünmenin kuralları.",
-   "puan": {
-    "hayatta_ise_yarama": 7,
-    "meslek_kapisi": 5,
-    "genel_kultur": 6,
-    "eglence": 5
-   }
-  },
-  {
-   "id": "astronomi",
-   "ad": "Astronomi",
-   "seviye": "siradan",
-   "grup": "sayisal",
-   "etiketler": [],
-   "aciklama": "Yıldızlar, gezegenler ve galaksiler.",
-   "puan": {
-    "hayatta_ise_yarama": 4,
-    "meslek_kapisi": 5,
-    "genel_kultur": 9,
-    "eglence": 8
-   }
-  },
-  {
-   "id": "tiyatro",
-   "ad": "Tiyatro",
-   "seviye": "siradan",
-   "grup": "sanat_spor",
-   "etiketler": [],
-   "aciklama": "Sahnede özgüven kazanmak.",
-   "puan": {
-    "hayatta_ise_yarama": 5,
-    "meslek_kapisi": 4,
-    "genel_kultur": 6,
-    "eglence": 9
-   }
-  },
-  {
-   "id": "satranc",
-   "ad": "Satranç",
-   "seviye": "siradan",
-   "grup": "sanat_spor",
-   "etiketler": [],
-   "aciklama": "Strateji ve sabır dersi.",
-   "puan": {
-    "hayatta_ise_yarama": 5,
-    "meslek_kapisi": 3,
-    "genel_kultur": 5,
-    "eglence": 8
-   }
-  },
-  {
-   "id": "teknoloji-ve-tasarim",
-   "ad": "Teknoloji ve Tasarım",
-   "seviye": "siradan",
-   "grup": "sanat_spor",
-   "etiketler": [],
-   "aciklama": "Fikirleri ürüne dönüştürmek.",
+   "aciklama": "Diplomasinin klasik dili.",
    "puan": {
     "hayatta_ise_yarama": 6,
     "meslek_kapisi": 6,
-    "genel_kultur": 5,
-    "eglence": 7
-   }
-  },
-  {
-   "id": "i-spanyolca",
-   "ad": "İspanyolca",
-   "seviye": "siradan",
-   "grup": "dil",
-   "etiketler": [],
-   "aciklama": "Yarım milyardan fazla insanın dili.",
-   "puan": {
-    "hayatta_ise_yarama": 6,
-    "meslek_kapisi": 5,
     "genel_kultur": 7,
     "eglence": 6
    }
@@ -436,99 +450,85 @@
   {
    "id": "arapca",
    "ad": "Arapça",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "dil",
    "etiketler": [],
    "aciklama": "Geniş bir coğrafyanın dili.",
    "puan": {
-    "hayatta_ise_yarama": 5,
-    "meslek_kapisi": 5,
-    "genel_kultur": 6,
-    "eglence": 4
-   }
-  },
-  {
-   "id": "japonca",
-   "ad": "Japonca",
-   "seviye": "siradan",
-   "grup": "dil",
-   "etiketler": [],
-   "aciklama": "Anime ve teknolojinin dili.",
-   "puan": {
-    "hayatta_ise_yarama": 4,
-    "meslek_kapisi": 4,
-    "genel_kultur": 6,
-    "eglence": 6
+    "hayatta_ise_yarama": 6,
+    "meslek_kapisi": 6,
+    "genel_kultur": 7,
+    "eglence": 5
    }
   },
   {
    "id": "rusca",
    "ad": "Rusça",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "dil",
    "etiketler": [],
-   "aciklama": "Geniş bir coğrafyada konuşulan dil.",
+   "aciklama": "Avrasya'nın dili.",
    "puan": {
     "hayatta_ise_yarama": 5,
-    "meslek_kapisi": 5,
+    "meslek_kapisi": 6,
+    "genel_kultur": 6,
+    "eglence": 5
+   }
+  },
+  {
+   "id": "i-statistik",
+   "ad": "İstatistik",
+   "seviye": "guclu",
+   "grup": "sayisal",
+   "etiketler": [],
+   "aciklama": "Verinin dili.",
+   "puan": {
+    "hayatta_ise_yarama": 8,
+    "meslek_kapisi": 9,
     "genel_kultur": 5,
     "eglence": 4
    }
   },
   {
-   "id": "ev-ekonomisi",
-   "ad": "Ev Ekonomisi",
-   "seviye": "siradan",
+   "id": "teknoloji-tasarim",
+   "ad": "Teknoloji tasarım",
+   "seviye": "guclu",
    "grup": "sanat_spor",
    "etiketler": [],
-   "aciklama": "Yemek, bütçe ve ev işleri.",
+   "aciklama": "Üret ve tasarla.",
    "puan": {
-    "hayatta_ise_yarama": 8,
-    "meslek_kapisi": 3,
+    "hayatta_ise_yarama": 7,
+    "meslek_kapisi": 7,
     "genel_kultur": 5,
-    "eglence": 7
+    "eglence": 8
    }
   },
   {
-   "id": "yuzme-dersi",
-   "ad": "Yüzme Dersi",
-   "seviye": "siradan",
-   "grup": "sanat_spor",
+   "id": "robotik",
+   "ad": "Robotik",
+   "seviye": "guclu",
+   "grup": "sayisal",
    "etiketler": [],
-   "aciklama": "Hayat kurtaran bir beceri.",
+   "aciklama": "Kodla, robot yap.",
    "puan": {
-    "hayatta_ise_yarama": 8,
-    "meslek_kapisi": 3,
-    "genel_kultur": 3,
+    "hayatta_ise_yarama": 7,
+    "meslek_kapisi": 9,
+    "genel_kultur": 6,
     "eglence": 9
    }
   },
   {
-   "id": "girisimcilik",
-   "ad": "Girişimcilik",
-   "seviye": "siradan",
+   "id": "trafik-ve-ilk-yardim",
+   "ad": "Trafik ve ilk yardım",
+   "seviye": "guclu",
    "grup": "sozel",
    "etiketler": [],
-   "aciklama": "Kendi işini kurmanın temelleri.",
+   "aciklama": "Hayat kurtaran bilgiler.",
    "puan": {
-    "hayatta_ise_yarama": 7,
-    "meslek_kapisi": 7,
-    "genel_kultur": 6,
-    "eglence": 6
-   }
-  },
-  {
-   "id": "cevre-bilimi",
-   "ad": "Çevre Bilimi",
-   "seviye": "siradan",
-   "grup": "sayisal",
-   "etiketler": [],
-   "aciklama": "Doğayı korumayı öğretir.",
-   "puan": {
-    "hayatta_ise_yarama": 6,
+    "hayatta_ise_yarama": 10,
     "meslek_kapisi": 5,
-    "genel_kultur": 7,
-    "eglence": 6
+    "genel_kultur": 5,
+    "eglence": 5
    }
   }
  ]

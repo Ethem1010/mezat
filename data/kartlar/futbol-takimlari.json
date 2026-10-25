@@ -72,6 +72,20 @@
    }
   },
   {
+   "id": "atl-tico-madrid",
+   "ad": "Atlético Madrid",
+   "seviye": "efsane",
+   "grup": "ispanya",
+   "etiketler": [],
+   "aciklama": "Mücadeleci oyunuyla Madrid'in diğer devi.",
+   "puan": {
+    "kupa_sayisi": 8,
+    "kadro_gucu": 8,
+    "tarihi_basari": 8,
+    "taraftar": 9
+   }
+  },
+  {
    "id": "bayern-munih",
    "ad": "Bayern Münih",
    "seviye": "efsane",
@@ -86,6 +100,20 @@
    }
   },
   {
+   "id": "borussia-dortmund",
+   "ad": "Borussia Dortmund",
+   "seviye": "efsane",
+   "grup": "almanya",
+   "etiketler": [],
+   "aciklama": "Sarı Duvar taraftarıyla meşhur.",
+   "puan": {
+    "kupa_sayisi": 7,
+    "kadro_gucu": 8,
+    "tarihi_basari": 8,
+    "taraftar": 10
+   }
+  },
+  {
    "id": "manchester-united",
    "ad": "Manchester United",
    "seviye": "efsane",
@@ -93,7 +121,7 @@
    "etiketler": [],
    "aciklama": "İngiltere'nin en çok sevilen kulüplerinden.",
    "puan": {
-    "kupa_sayisi": 9,
+    "kupa_sayisi": 10,
     "kadro_gucu": 8,
     "tarihi_basari": 10,
     "taraftar": 10
@@ -107,10 +135,52 @@
    "etiketler": [],
    "aciklama": "You'll Never Walk Alone'un kulübü.",
    "puan": {
-    "kupa_sayisi": 9,
+    "kupa_sayisi": 10,
     "kadro_gucu": 9,
     "tarihi_basari": 10,
     "taraftar": 10
+   }
+  },
+  {
+   "id": "manchester-city",
+   "ad": "Manchester City",
+   "seviye": "efsane",
+   "grup": "ingiltere",
+   "etiketler": [],
+   "aciklama": "Son yılların İngiltere hâkimi.",
+   "puan": {
+    "kupa_sayisi": 9,
+    "kadro_gucu": 10,
+    "tarihi_basari": 8,
+    "taraftar": 8
+   }
+  },
+  {
+   "id": "chelsea",
+   "ad": "Chelsea",
+   "seviye": "efsane",
+   "grup": "ingiltere",
+   "etiketler": [],
+   "aciklama": "İki kez Avrupa şampiyonu Londra kulübü.",
+   "puan": {
+    "kupa_sayisi": 9,
+    "kadro_gucu": 8,
+    "tarihi_basari": 8,
+    "taraftar": 8
+   }
+  },
+  {
+   "id": "arsenal",
+   "ad": "Arsenal",
+   "seviye": "efsane",
+   "grup": "ingiltere",
+   "etiketler": [],
+   "aciklama": "Yenilmezler sezonuyla tarihe geçen kulüp.",
+   "puan": {
+    "kupa_sayisi": 8,
+    "kadro_gucu": 9,
+    "tarihi_basari": 9,
+    "taraftar": 9
    }
   },
   {
@@ -121,8 +191,8 @@
    "etiketler": [],
    "aciklama": "Yedi Avrupa kupasıyla İtalya'nın en büyüğü.",
    "puan": {
-    "kupa_sayisi": 9,
-    "kadro_gucu": 7,
+    "kupa_sayisi": 10,
+    "kadro_gucu": 8,
     "tarihi_basari": 10,
     "taraftar": 9
    }
@@ -135,19 +205,75 @@
    "etiketler": [],
    "aciklama": "İtalya'da en çok lig şampiyonluğu olan kulüp.",
    "puan": {
-    "kupa_sayisi": 9,
+    "kupa_sayisi": 10,
     "kadro_gucu": 8,
     "tarihi_basari": 9,
     "taraftar": 9
    }
   },
   {
+   "id": "inter",
+   "ad": "Inter",
+   "seviye": "efsane",
+   "grup": "italya",
+   "etiketler": [],
+   "aciklama": "Üçlü kupa sahibi Milano kulübü.",
+   "puan": {
+    "kupa_sayisi": 9,
+    "kadro_gucu": 9,
+    "tarihi_basari": 9,
+    "taraftar": 9
+   }
+  },
+  {
+   "id": "napoli",
+   "ad": "Napoli",
+   "seviye": "efsane",
+   "grup": "italya",
+   "etiketler": [],
+   "aciklama": "Maradona'nın şehri, tutkulu taraftar.",
+   "puan": {
+    "kupa_sayisi": 7,
+    "kadro_gucu": 8,
+    "tarihi_basari": 7,
+    "taraftar": 10
+   }
+  },
+  {
    "id": "galatasaray",
    "ad": "Galatasaray",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "turkiye",
    "etiketler": [],
    "aciklama": "UEFA Kupası ve Süper Kupa kazanan Türk kulübü.",
+   "puan": {
+    "kupa_sayisi": 9,
+    "kadro_gucu": 8,
+    "tarihi_basari": 9,
+    "taraftar": 10
+   }
+  },
+  {
+   "id": "fenerbahce",
+   "ad": "Fenerbahçe",
+   "seviye": "efsane",
+   "grup": "turkiye",
+   "etiketler": [],
+   "aciklama": "Dev taraftar kitlesiyle Kadıköy'ün kulübü.",
+   "puan": {
+    "kupa_sayisi": 8,
+    "kadro_gucu": 8,
+    "tarihi_basari": 8,
+    "taraftar": 10
+   }
+  },
+  {
+   "id": "besiktas",
+   "ad": "Beşiktaş",
+   "seviye": "efsane",
+   "grup": "turkiye",
+   "etiketler": [],
+   "aciklama": "Türkiye'nin en köklü kulüplerinden, Kara Kartal.",
    "puan": {
     "kupa_sayisi": 8,
     "kadro_gucu": 7,
@@ -156,31 +282,115 @@
    }
   },
   {
-   "id": "fenerbahce",
-   "ad": "Fenerbahçe",
-   "seviye": "guclu",
-   "grup": "turkiye",
+   "id": "ajax",
+   "ad": "Ajax",
+   "seviye": "efsane",
+   "grup": "diger",
    "etiketler": [],
-   "aciklama": "Dev taraftar kitlesiyle Kadıköy'ün kulübü.",
+   "aciklama": "Gençlik akademisiyle ünlü dört kez Avrupa şampiyonu.",
    "puan": {
-    "kupa_sayisi": 7,
+    "kupa_sayisi": 9,
     "kadro_gucu": 7,
+    "tarihi_basari": 9,
+    "taraftar": 8
+   }
+  },
+  {
+   "id": "paris-saint-germain",
+   "ad": "Paris Saint-Germain",
+   "seviye": "efsane",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Yıldızlarla dolu Fransız devi.",
+   "puan": {
+    "kupa_sayisi": 8,
+    "kadro_gucu": 10,
+    "tarihi_basari": 7,
+    "taraftar": 8
+   }
+  },
+  {
+   "id": "benfica",
+   "ad": "Benfica",
+   "seviye": "efsane",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Portekiz'in en çok taraftarı olan kulübü.",
+   "puan": {
+    "kupa_sayisi": 8,
+    "kadro_gucu": 7,
+    "tarihi_basari": 9,
+    "taraftar": 9
+   }
+  },
+  {
+   "id": "porto",
+   "ad": "Porto",
+   "seviye": "efsane",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "İki kez Avrupa şampiyonu Portekiz kulübü.",
+   "puan": {
+    "kupa_sayisi": 8,
+    "kadro_gucu": 7,
+    "tarihi_basari": 8,
+    "taraftar": 8
+   }
+  },
+  {
+   "id": "boca-juniors",
+   "ad": "Boca Juniors",
+   "seviye": "efsane",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Bombonera'nın ateşli kulübü.",
+   "puan": {
+    "kupa_sayisi": 9,
+    "kadro_gucu": 7,
+    "tarihi_basari": 9,
+    "taraftar": 10
+   }
+  },
+  {
+   "id": "river-plate",
+   "ad": "River Plate",
+   "seviye": "efsane",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Arjantin'in en başarılı kulüplerinden.",
+   "puan": {
+    "kupa_sayisi": 9,
+    "kadro_gucu": 7,
+    "tarihi_basari": 9,
+    "taraftar": 9
+   }
+  },
+  {
+   "id": "flamengo",
+   "ad": "Flamengo",
+   "seviye": "efsane",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Brezilya'nın en çok taraftarı olan kulübü.",
+   "puan": {
+    "kupa_sayisi": 8,
+    "kadro_gucu": 8,
     "tarihi_basari": 8,
     "taraftar": 10
    }
   },
   {
-   "id": "besiktas",
-   "ad": "Beşiktaş",
-   "seviye": "guclu",
-   "grup": "turkiye",
+   "id": "celtic",
+   "ad": "Celtic",
+   "seviye": "efsane",
+   "grup": "diger",
    "etiketler": [],
-   "aciklama": "Türkiye'nin en köklü kulüplerinden, Kara Kartal.",
+   "aciklama": "İskoçya'nın ilk Avrupa şampiyonu.",
    "puan": {
-    "kupa_sayisi": 7,
+    "kupa_sayisi": 8,
     "kadro_gucu": 6,
     "tarihi_basari": 8,
-    "taraftar": 10
+    "taraftar": 9
    }
   },
   {
@@ -191,346 +401,136 @@
    "etiketler": [],
    "aciklama": "Anadolu'nun şampiyonluk kazanan kulübü.",
    "puan": {
-    "kupa_sayisi": 6,
-    "kadro_gucu": 6,
-    "tarihi_basari": 7,
-    "taraftar": 9
-   }
-  },
-  {
-   "id": "manchester-city",
-   "ad": "Manchester City",
-   "seviye": "guclu",
-   "grup": "ingiltere",
-   "etiketler": [],
-   "aciklama": "Son yılların İngiltere hâkimi.",
-   "puan": {
-    "kupa_sayisi": 8,
-    "kadro_gucu": 10,
-    "tarihi_basari": 7,
-    "taraftar": 8
-   }
-  },
-  {
-   "id": "chelsea",
-   "ad": "Chelsea",
-   "seviye": "guclu",
-   "grup": "ingiltere",
-   "etiketler": [],
-   "aciklama": "İki kez Avrupa şampiyonu Londra kulübü.",
-   "puan": {
-    "kupa_sayisi": 8,
-    "kadro_gucu": 8,
-    "tarihi_basari": 8,
-    "taraftar": 8
-   }
-  },
-  {
-   "id": "arsenal",
-   "ad": "Arsenal",
-   "seviye": "guclu",
-   "grup": "ingiltere",
-   "etiketler": [],
-   "aciklama": "Yenilmezler sezonuyla tarihe geçen kulüp.",
-   "puan": {
     "kupa_sayisi": 7,
-    "kadro_gucu": 9,
-    "tarihi_basari": 8,
-    "taraftar": 9
-   }
-  },
-  {
-   "id": "inter",
-   "ad": "Inter",
-   "seviye": "guclu",
-   "grup": "italya",
-   "etiketler": [],
-   "aciklama": "Üçlü kupa sahibi Milano kulübü.",
-   "puan": {
-    "kupa_sayisi": 8,
-    "kadro_gucu": 8,
-    "tarihi_basari": 9,
-    "taraftar": 9
-   }
-  },
-  {
-   "id": "paris-saint-germain",
-   "ad": "Paris Saint-Germain",
-   "seviye": "guclu",
-   "grup": "diger",
-   "etiketler": [],
-   "aciklama": "Yıldızlarla dolu Fransız devi.",
-   "puan": {
-    "kupa_sayisi": 7,
-    "kadro_gucu": 10,
-    "tarihi_basari": 6,
-    "taraftar": 8
-   }
-  },
-  {
-   "id": "ajax",
-   "ad": "Ajax",
-   "seviye": "guclu",
-   "grup": "diger",
-   "etiketler": [],
-   "aciklama": "Gençlik akademisiyle ünlü dört kez Avrupa şampiyonu.",
-   "puan": {
-    "kupa_sayisi": 8,
-    "kadro_gucu": 6,
-    "tarihi_basari": 9,
-    "taraftar": 8
-   }
-  },
-  {
-   "id": "borussia-dortmund",
-   "ad": "Borussia Dortmund",
-   "seviye": "guclu",
-   "grup": "almanya",
-   "etiketler": [],
-   "aciklama": "Sarı Duvar taraftarıyla meşhur.",
-   "puan": {
-    "kupa_sayisi": 6,
-    "kadro_gucu": 8,
-    "tarihi_basari": 7,
-    "taraftar": 10
-   }
-  },
-  {
-   "id": "atl-tico-madrid",
-   "ad": "Atlético Madrid",
-   "seviye": "guclu",
-   "grup": "ispanya",
-   "etiketler": [],
-   "aciklama": "Mücadeleci oyunuyla Madrid'in diğer devi.",
-   "puan": {
-    "kupa_sayisi": 7,
-    "kadro_gucu": 8,
-    "tarihi_basari": 7,
-    "taraftar": 9
-   }
-  },
-  {
-   "id": "benfica",
-   "ad": "Benfica",
-   "seviye": "guclu",
-   "grup": "diger",
-   "etiketler": [],
-   "aciklama": "Portekiz'in en çok taraftarı olan kulübü.",
-   "puan": {
-    "kupa_sayisi": 7,
-    "kadro_gucu": 6,
-    "tarihi_basari": 8,
-    "taraftar": 9
-   }
-  },
-  {
-   "id": "porto",
-   "ad": "Porto",
-   "seviye": "guclu",
-   "grup": "diger",
-   "etiketler": [],
-   "aciklama": "İki kez Avrupa şampiyonu Portekiz kulübü.",
-   "puan": {
-    "kupa_sayisi": 7,
-    "kadro_gucu": 6,
-    "tarihi_basari": 8,
-    "taraftar": 8
-   }
-  },
-  {
-   "id": "napoli",
-   "ad": "Napoli",
-   "seviye": "siradan",
-   "grup": "italya",
-   "etiketler": [],
-   "aciklama": "Maradona'nın şehri, tutkulu taraftar.",
-   "puan": {
-    "kupa_sayisi": 6,
     "kadro_gucu": 7,
-    "tarihi_basari": 6,
-    "taraftar": 10
-   }
-  },
-  {
-   "id": "roma",
-   "ad": "Roma",
-   "seviye": "siradan",
-   "grup": "italya",
-   "etiketler": [],
-   "aciklama": "Başkentin kulübü, Konferans Ligi şampiyonu.",
-   "puan": {
-    "kupa_sayisi": 5,
-    "kadro_gucu": 6,
-    "tarihi_basari": 6,
+    "tarihi_basari": 7,
     "taraftar": 9
    }
   },
   {
    "id": "tottenham",
    "ad": "Tottenham",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "ingiltere",
    "etiketler": [],
    "aciklama": "Kuzey Londra'nın Spurs'ü.",
    "puan": {
-    "kupa_sayisi": 5,
+    "kupa_sayisi": 6,
     "kadro_gucu": 8,
     "tarihi_basari": 6,
+    "taraftar": 8
+   }
+  },
+  {
+   "id": "aston-villa",
+   "ad": "Aston Villa",
+   "seviye": "guclu",
+   "grup": "ingiltere",
+   "etiketler": [],
+   "aciklama": "1982 Avrupa şampiyonu köklü kulüp.",
+   "puan": {
+    "kupa_sayisi": 7,
+    "kadro_gucu": 7,
+    "tarihi_basari": 8,
     "taraftar": 8
    }
   },
   {
    "id": "sevilla",
    "ad": "Sevilla",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "ispanya",
    "etiketler": [],
    "aciklama": "Avrupa Ligi'nin rekortmeni.",
    "puan": {
-    "kupa_sayisi": 7,
-    "kadro_gucu": 6,
-    "tarihi_basari": 6,
+    "kupa_sayisi": 8,
+    "kadro_gucu": 7,
+    "tarihi_basari": 7,
     "taraftar": 8
    }
   },
   {
    "id": "valencia",
    "ad": "Valencia",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "ispanya",
    "etiketler": [],
    "aciklama": "İki Şampiyonlar Ligi finali oynamış kulüp.",
    "puan": {
-    "kupa_sayisi": 5,
-    "kadro_gucu": 5,
-    "tarihi_basari": 6,
+    "kupa_sayisi": 7,
+    "kadro_gucu": 6,
+    "tarihi_basari": 7,
     "taraftar": 8
    }
   },
   {
-   "id": "celtic",
-   "ad": "Celtic",
-   "seviye": "siradan",
-   "grup": "diger",
+   "id": "roma",
+   "ad": "Roma",
+   "seviye": "guclu",
+   "grup": "italya",
    "etiketler": [],
-   "aciklama": "İskoçya'nın ilk Avrupa şampiyonu.",
+   "aciklama": "Başkentin kulübü, Konferans Ligi şampiyonu.",
    "puan": {
     "kupa_sayisi": 6,
-    "kadro_gucu": 5,
-    "tarihi_basari": 7,
-    "taraftar": 9
-   }
-  },
-  {
-   "id": "boca-juniors",
-   "ad": "Boca Juniors",
-   "seviye": "siradan",
-   "grup": "diger",
-   "etiketler": [],
-   "aciklama": "Bombonera'nın ateşli kulübü.",
-   "puan": {
-    "kupa_sayisi": 8,
-    "kadro_gucu": 6,
-    "tarihi_basari": 8,
-    "taraftar": 10
-   }
-  },
-  {
-   "id": "flamengo",
-   "ad": "Flamengo",
-   "seviye": "siradan",
-   "grup": "diger",
-   "etiketler": [],
-   "aciklama": "Brezilya'nın en çok taraftarı olan kulübü.",
-   "puan": {
-    "kupa_sayisi": 7,
     "kadro_gucu": 7,
-    "tarihi_basari": 7,
-    "taraftar": 10
+    "tarihi_basari": 6,
+    "taraftar": 9
    }
   },
   {
    "id": "bayer-leverkusen",
    "ad": "Bayer Leverkusen",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "almanya",
    "etiketler": [],
    "aciklama": "Yenilgisiz şampiyonluğuyla tarih yazan kulüp.",
    "puan": {
-    "kupa_sayisi": 5,
+    "kupa_sayisi": 6,
     "kadro_gucu": 8,
-    "tarihi_basari": 5,
-    "taraftar": 7
-   }
-  },
-  {
-   "id": "schalke-04",
-   "ad": "Schalke 04",
-   "seviye": "siradan",
-   "grup": "almanya",
-   "etiketler": [],
-   "aciklama": "Ruhr bölgesinin köklü kulübü.",
-   "puan": {
-    "kupa_sayisi": 4,
-    "kadro_gucu": 4,
     "tarihi_basari": 6,
-    "taraftar": 9
-   }
-  },
-  {
-   "id": "basaksehir",
-   "ad": "Başakşehir",
-   "seviye": "siradan",
-   "grup": "turkiye",
-   "etiketler": [],
-   "aciklama": "İstanbul'un şampiyonluk yaşamış genç kulübü.",
-   "puan": {
-    "kupa_sayisi": 4,
-    "kadro_gucu": 5,
-    "tarihi_basari": 3,
-    "taraftar": 3
-   }
-  },
-  {
-   "id": "goztepe",
-   "ad": "Göztepe",
-   "seviye": "siradan",
-   "grup": "turkiye",
-   "etiketler": [],
-   "aciklama": "Avrupa'da yarı final görmüş İzmir kulübü.",
-   "puan": {
-    "kupa_sayisi": 3,
-    "kadro_gucu": 4,
-    "tarihi_basari": 4,
     "taraftar": 7
-   }
-  },
-  {
-   "id": "bursaspor",
-   "ad": "Bursaspor",
-   "seviye": "siradan",
-   "grup": "turkiye",
-   "etiketler": [],
-   "aciklama": "Anadolu'ya ilk şampiyonluklardan birini getiren Timsahlar.",
-   "puan": {
-    "kupa_sayisi": 4,
-    "kadro_gucu": 3,
-    "tarihi_basari": 5,
-    "taraftar": 8
    }
   },
   {
    "id": "marsilya",
    "ad": "Marsilya",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "diger",
    "etiketler": [],
-   "aciklama": "Fransa'nın tek Şampiyonlar Ligi şampiyonu.",
+   "aciklama": "Fransa'nın ilk Şampiyonlar Ligi şampiyonu.",
    "puan": {
-    "kupa_sayisi": 6,
-    "kadro_gucu": 6,
+    "kupa_sayisi": 7,
+    "kadro_gucu": 7,
     "tarihi_basari": 7,
     "taraftar": 9
+   }
+  },
+  {
+   "id": "feyenoord",
+   "ad": "Feyenoord",
+   "seviye": "guclu",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Avrupa şampiyonluğu yaşamış Rotterdam kulübü.",
+   "puan": {
+    "kupa_sayisi": 7,
+    "kadro_gucu": 6,
+    "tarihi_basari": 7,
+    "taraftar": 8
+   }
+  },
+  {
+   "id": "santos",
+   "ad": "Santos",
+   "seviye": "guclu",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Pelé'nin efsane kulübü.",
+   "puan": {
+    "kupa_sayisi": 8,
+    "kadro_gucu": 5,
+    "tarihi_basari": 8,
+    "taraftar": 8
    }
   }
  ]

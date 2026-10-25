@@ -84,17 +84,87 @@
    }
   },
   {
-   "id": "formula-1",
-   "ad": "Formula 1",
+   "id": "amerikan-futbolu",
+   "ad": "Amerikan Futbolu",
    "seviye": "efsane",
-   "grup": "motor",
+   "grup": "takim",
    "etiketler": [],
-   "aciklama": "Saniyenin binde biriyle kazanılan yarışlar.",
+   "aciklama": "Super Bowl'un sporu.",
    "puan": {
     "i_zlenme": 9,
     "heyecan": 8,
-    "dunyada_yayginlik": 8,
+    "dunyada_yayginlik": 5,
+    "turkiye_de_sevilme": 3
+   }
+  },
+  {
+   "id": "buz-hokeyi",
+   "ad": "Buz Hokeyi",
+   "seviye": "efsane",
+   "grup": "takim",
+   "etiketler": [],
+   "aciklama": "Buz üstünde hızlı ve sert mücadele.",
+   "puan": {
+    "i_zlenme": 7,
+    "heyecan": 9,
+    "dunyada_yayginlik": 6,
+    "turkiye_de_sevilme": 2
+   }
+  },
+  {
+   "id": "kriket",
+   "ad": "Kriket",
+   "seviye": "efsane",
+   "grup": "takim",
+   "etiketler": [],
+   "aciklama": "Hindistan ve İngiltere'de milyarların tutkusu.",
+   "puan": {
+    "i_zlenme": 9,
+    "heyecan": 6,
+    "dunyada_yayginlik": 7,
+    "turkiye_de_sevilme": 1
+   }
+  },
+  {
+   "id": "beyzbol",
+   "ad": "Beyzbol",
+   "seviye": "efsane",
+   "grup": "takim",
+   "etiketler": [],
+   "aciklama": "Amerika'nın milli eğlencesi.",
+   "puan": {
+    "i_zlenme": 8,
+    "heyecan": 6,
+    "dunyada_yayginlik": 6,
+    "turkiye_de_sevilme": 1
+   }
+  },
+  {
+   "id": "hentbol",
+   "ad": "Hentbol",
+   "seviye": "efsane",
+   "grup": "takim",
+   "etiketler": [],
+   "aciklama": "Hızlı ve sert bir salon sporu.",
+   "puan": {
+    "i_zlenme": 6,
+    "heyecan": 8,
+    "dunyada_yayginlik": 6,
     "turkiye_de_sevilme": 6
+   }
+  },
+  {
+   "id": "ragbi",
+   "ad": "Ragbi",
+   "seviye": "efsane",
+   "grup": "takim",
+   "etiketler": [],
+   "aciklama": "Sert temaslı oval top sporu.",
+   "puan": {
+    "i_zlenme": 7,
+    "heyecan": 8,
+    "dunyada_yayginlik": 5,
+    "turkiye_de_sevilme": 2
    }
   },
   {
@@ -103,12 +173,124 @@
    "seviye": "efsane",
    "grup": "bireysel",
    "etiketler": [],
-   "aciklama": "Grand Slam'leriyle dünyanın en prestijli bireysel sporu.",
+   "aciklama": "Grand Slam'leriyle en prestijli bireysel spor.",
+   "puan": {
+    "i_zlenme": 9,
+    "heyecan": 8,
+    "dunyada_yayginlik": 9,
+    "turkiye_de_sevilme": 6
+   }
+  },
+  {
+   "id": "atletizm",
+   "ad": "Atletizm",
+   "seviye": "efsane",
+   "grup": "bireysel",
+   "etiketler": [],
+   "aciklama": "Olimpiyatların kalbi: koşu, atlama, atma.",
    "puan": {
     "i_zlenme": 8,
+    "heyecan": 8,
+    "dunyada_yayginlik": 10,
+    "turkiye_de_sevilme": 6
+   }
+  },
+  {
+   "id": "yuzme",
+   "ad": "Yüzme",
+   "seviye": "efsane",
+   "grup": "bireysel",
+   "etiketler": [],
+   "aciklama": "Havuzda saniyelerle yarış.",
+   "puan": {
+    "i_zlenme": 7,
+    "heyecan": 7,
+    "dunyada_yayginlik": 9,
+    "turkiye_de_sevilme": 6
+   }
+  },
+  {
+   "id": "cimnastik",
+   "ad": "Cimnastik",
+   "seviye": "efsane",
+   "grup": "bireysel",
+   "etiketler": [],
+   "aciklama": "Güç ve esnekliğin büyüleyici gösterisi.",
+   "puan": {
+    "i_zlenme": 7,
+    "heyecan": 8,
+    "dunyada_yayginlik": 8,
+    "turkiye_de_sevilme": 5
+   }
+  },
+  {
+   "id": "bisiklet",
+   "ad": "Bisiklet",
+   "seviye": "efsane",
+   "grup": "bireysel",
+   "etiketler": [],
+   "aciklama": "Tour de France ve Cumhurbaşkanlığı Turu.",
+   "puan": {
+    "i_zlenme": 7,
     "heyecan": 7,
     "dunyada_yayginlik": 8,
     "turkiye_de_sevilme": 5
+   }
+  },
+  {
+   "id": "golf",
+   "ad": "Golf",
+   "seviye": "efsane",
+   "grup": "bireysel",
+   "etiketler": [],
+   "aciklama": "Ustalık ve sabır isteyen dünya sporu.",
+   "puan": {
+    "i_zlenme": 7,
+    "heyecan": 4,
+    "dunyada_yayginlik": 8,
+    "turkiye_de_sevilme": 1
+   }
+  },
+  {
+   "id": "satranc",
+   "ad": "Satranç",
+   "seviye": "efsane",
+   "grup": "bireysel",
+   "etiketler": [],
+   "aciklama": "Zihnin sporu, dünyanın her yerinde.",
+   "puan": {
+    "i_zlenme": 6,
+    "heyecan": 6,
+    "dunyada_yayginlik": 10,
+    "turkiye_de_sevilme": 7
+   }
+  },
+  {
+   "id": "okculuk",
+   "ad": "Okçuluk",
+   "seviye": "efsane",
+   "grup": "bireysel",
+   "etiketler": [],
+   "aciklama": "Mete Gazoz'un altın madalyasıyla sevildi.",
+   "puan": {
+    "i_zlenme": 5,
+    "heyecan": 6,
+    "dunyada_yayginlik": 6,
+    "turkiye_de_sevilme": 8
+   }
+  },
+  {
+   "id": "halter",
+   "ad": "Halter",
+   "seviye": "efsane",
+   "grup": "bireysel",
+   "etiketler": [],
+   "aciklama": "Naim Süleymanoğlu'nun sporu.",
+   "puan": {
+    "i_zlenme": 5,
+    "heyecan": 7,
+    "dunyada_yayginlik": 7,
+    "turkiye_de_sevilme": 8
    }
   },
   {
@@ -119,10 +301,24 @@
    "etiketler": [],
    "aciklama": "Ringde güç ve stratejinin yüz yıllık sporu.",
    "puan": {
-    "i_zlenme": 8,
+    "i_zlenme": 9,
     "heyecan": 9,
-    "dunyada_yayginlik": 8,
+    "dunyada_yayginlik": 9,
     "turkiye_de_sevilme": 6
+   }
+  },
+  {
+   "id": "mma",
+   "ad": "MMA",
+   "seviye": "efsane",
+   "grup": "dovus",
+   "etiketler": [],
+   "aciklama": "Tüm dövüş sanatlarının buluştuğu kafes.",
+   "puan": {
+    "i_zlenme": 9,
+    "heyecan": 10,
+    "dunyada_yayginlik": 8,
+    "turkiye_de_sevilme": 5
    }
   },
   {
@@ -135,157 +331,17 @@
    "puan": {
     "i_zlenme": 6,
     "heyecan": 7,
-    "dunyada_yayginlik": 6,
-    "turkiye_de_sevilme": 9
-   }
-  },
-  {
-   "id": "atletizm",
-   "ad": "Atletizm",
-   "seviye": "guclu",
-   "grup": "bireysel",
-   "etiketler": [],
-   "aciklama": "Olimpiyatların kalbi: koşu, atlama, atma.",
-   "puan": {
-    "i_zlenme": 7,
-    "heyecan": 7,
-    "dunyada_yayginlik": 10,
-    "turkiye_de_sevilme": 5
-   }
-  },
-  {
-   "id": "yuzme",
-   "ad": "Yüzme",
-   "seviye": "guclu",
-   "grup": "bireysel",
-   "etiketler": [],
-   "aciklama": "Havuzda saniyelerle yarış.",
-   "puan": {
-    "i_zlenme": 6,
-    "heyecan": 6,
-    "dunyada_yayginlik": 9,
-    "turkiye_de_sevilme": 5
-   }
-  },
-  {
-   "id": "hentbol",
-   "ad": "Hentbol",
-   "seviye": "guclu",
-   "grup": "takim",
-   "etiketler": [],
-   "aciklama": "Hızlı ve sert bir salon sporu.",
-   "puan": {
-    "i_zlenme": 5,
-    "heyecan": 7,
-    "dunyada_yayginlik": 6,
-    "turkiye_de_sevilme": 5
-   }
-  },
-  {
-   "id": "buz-hokeyi",
-   "ad": "Buz Hokeyi",
-   "seviye": "guclu",
-   "grup": "takim",
-   "etiketler": [],
-   "aciklama": "Buz üstünde hızlı ve sert mücadele.",
-   "puan": {
-    "i_zlenme": 7,
-    "heyecan": 9,
-    "dunyada_yayginlik": 6,
-    "turkiye_de_sevilme": 2
-   }
-  },
-  {
-   "id": "beyzbol",
-   "ad": "Beyzbol",
-   "seviye": "guclu",
-   "grup": "takim",
-   "etiketler": [],
-   "aciklama": "Amerika'nın milli eğlencesi.",
-   "puan": {
-    "i_zlenme": 7,
-    "heyecan": 5,
-    "dunyada_yayginlik": 6,
-    "turkiye_de_sevilme": 1
-   }
-  },
-  {
-   "id": "amerikan-futbolu",
-   "ad": "Amerikan Futbolu",
-   "seviye": "guclu",
-   "grup": "takim",
-   "etiketler": [],
-   "aciklama": "Super Bowl'un sporu.",
-   "puan": {
-    "i_zlenme": 8,
-    "heyecan": 8,
-    "dunyada_yayginlik": 5,
-    "turkiye_de_sevilme": 2
-   }
-  },
-  {
-   "id": "kriket",
-   "ad": "Kriket",
-   "seviye": "guclu",
-   "grup": "takim",
-   "etiketler": [],
-   "aciklama": "Hindistan ve İngiltere'de milyarların tutkusu.",
-   "puan": {
-    "i_zlenme": 8,
-    "heyecan": 5,
     "dunyada_yayginlik": 7,
-    "turkiye_de_sevilme": 1
-   }
-  },
-  {
-   "id": "cimnastik",
-   "ad": "Cimnastik",
-   "seviye": "guclu",
-   "grup": "bireysel",
-   "etiketler": [],
-   "aciklama": "Güç ve esnekliğin büyüleyici gösterisi.",
-   "puan": {
-    "i_zlenme": 6,
-    "heyecan": 7,
-    "dunyada_yayginlik": 8,
-    "turkiye_de_sevilme": 5
-   }
-  },
-  {
-   "id": "bisiklet",
-   "ad": "Bisiklet",
-   "seviye": "guclu",
-   "grup": "bireysel",
-   "etiketler": [],
-   "aciklama": "Tour de France ve Cumhurbaşkanlığı Turu.",
-   "puan": {
-    "i_zlenme": 6,
-    "heyecan": 6,
-    "dunyada_yayginlik": 8,
-    "turkiye_de_sevilme": 4
-   }
-  },
-  {
-   "id": "mma",
-   "ad": "MMA",
-   "seviye": "guclu",
-   "grup": "dovus",
-   "etiketler": [],
-   "aciklama": "Tüm dövüş sanatlarının buluştuğu kafes.",
-   "puan": {
-    "i_zlenme": 8,
-    "heyecan": 9,
-    "dunyada_yayginlik": 7,
-    "turkiye_de_sevilme": 5
+    "turkiye_de_sevilme": 10
    }
   },
   {
    "id": "tekvando",
    "ad": "Tekvando",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "dovus",
    "etiketler": [],
-   "aciklama": "Tekmeleriyle Türkiye'ye madalyalar getiren spor.",
+   "aciklama": "Türkiye'ye madalyalar getiren tekme sporu.",
    "puan": {
     "i_zlenme": 5,
     "heyecan": 7,
@@ -294,56 +350,70 @@
    }
   },
   {
-   "id": "halter",
-   "ad": "Halter",
-   "seviye": "guclu",
-   "grup": "bireysel",
+   "id": "judo",
+   "ad": "Judo",
+   "seviye": "efsane",
+   "grup": "dovus",
    "etiketler": [],
-   "aciklama": "Naim Süleymanoğlu'nun sporu.",
+   "aciklama": "Rakibin gücünü kullanma sanatı.",
    "puan": {
-    "i_zlenme": 4,
-    "heyecan": 6,
-    "dunyada_yayginlik": 7,
+    "i_zlenme": 5,
+    "heyecan": 7,
+    "dunyada_yayginlik": 8,
+    "turkiye_de_sevilme": 5
+   }
+  },
+  {
+   "id": "formula-1",
+   "ad": "Formula 1",
+   "seviye": "efsane",
+   "grup": "motor",
+   "etiketler": [],
+   "aciklama": "Saniyenin binde biriyle kazanılan yarışlar.",
+   "puan": {
+    "i_zlenme": 10,
+    "heyecan": 9,
+    "dunyada_yayginlik": 8,
     "turkiye_de_sevilme": 7
    }
   },
   {
    "id": "motogp",
    "ad": "MotoGP",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "motor",
    "etiketler": [],
    "aciklama": "İki tekerlekte ölümüne viraj.",
    "puan": {
-    "i_zlenme": 7,
-    "heyecan": 9,
+    "i_zlenme": 8,
+    "heyecan": 10,
     "dunyada_yayginlik": 6,
-    "turkiye_de_sevilme": 4
+    "turkiye_de_sevilme": 5
    }
   },
   {
-   "id": "okculuk",
-   "ad": "Okçuluk",
+   "id": "ralli",
+   "ad": "Ralli",
    "seviye": "guclu",
-   "grup": "bireysel",
+   "grup": "motor",
    "etiketler": [],
-   "aciklama": "Mete Gazoz'un altın madalyasıyla sevildi.",
+   "aciklama": "Toprak ve çakılda yarış.",
    "puan": {
-    "i_zlenme": 4,
-    "heyecan": 5,
-    "dunyada_yayginlik": 6,
-    "turkiye_de_sevilme": 7
+    "i_zlenme": 6,
+    "heyecan": 9,
+    "dunyada_yayginlik": 5,
+    "turkiye_de_sevilme": 5
    }
   },
   {
    "id": "masa-tenisi",
    "ad": "Masa Tenisi",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "bireysel",
    "etiketler": [],
    "aciklama": "Refleks ve hızın sporu.",
    "puan": {
-    "i_zlenme": 5,
+    "i_zlenme": 6,
     "heyecan": 7,
     "dunyada_yayginlik": 8,
     "turkiye_de_sevilme": 5
@@ -352,181 +422,111 @@
   {
    "id": "badminton",
    "ad": "Badminton",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "bireysel",
    "etiketler": [],
    "aciklama": "Asya'da dev bir spor.",
    "puan": {
-    "i_zlenme": 5,
-    "heyecan": 6,
+    "i_zlenme": 6,
+    "heyecan": 7,
     "dunyada_yayginlik": 8,
     "turkiye_de_sevilme": 3
-   }
-  },
-  {
-   "id": "golf",
-   "ad": "Golf",
-   "seviye": "siradan",
-   "grup": "bireysel",
-   "etiketler": [],
-   "aciklama": "Sakin ama ustalık isteyen spor.",
-   "puan": {
-    "i_zlenme": 6,
-    "heyecan": 3,
-    "dunyada_yayginlik": 7,
-    "turkiye_de_sevilme": 1
    }
   },
   {
    "id": "kayak",
    "ad": "Kayak",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "bireysel",
    "etiketler": [],
    "aciklama": "Karlı dağlarda hız.",
    "puan": {
-    "i_zlenme": 5,
-    "heyecan": 7,
+    "i_zlenme": 6,
+    "heyecan": 8,
     "dunyada_yayginlik": 6,
-    "turkiye_de_sevilme": 3
+    "turkiye_de_sevilme": 4
    }
   },
   {
    "id": "sorf",
    "ad": "Sörf",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "bireysel",
    "etiketler": [],
    "aciklama": "Dalgalarla dans.",
    "puan": {
-    "i_zlenme": 4,
-    "heyecan": 7,
+    "i_zlenme": 5,
+    "heyecan": 8,
     "dunyada_yayginlik": 5,
     "turkiye_de_sevilme": 2
-   }
-  },
-  {
-   "id": "satranc",
-   "ad": "Satranç",
-   "seviye": "siradan",
-   "grup": "bireysel",
-   "etiketler": [],
-   "aciklama": "Zihnin sporu.",
-   "puan": {
-    "i_zlenme": 5,
-    "heyecan": 4,
-    "dunyada_yayginlik": 9,
-    "turkiye_de_sevilme": 6
    }
   },
   {
    "id": "eskrim",
    "ad": "Eskrim",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "dovus",
    "etiketler": [],
    "aciklama": "Kılıçla yapılan zarif düello.",
    "puan": {
-    "i_zlenme": 3,
-    "heyecan": 6,
+    "i_zlenme": 4,
+    "heyecan": 7,
     "dunyada_yayginlik": 5,
     "turkiye_de_sevilme": 3
    }
   },
   {
-   "id": "judo",
-   "ad": "Judo",
-   "seviye": "siradan",
-   "grup": "dovus",
-   "etiketler": [],
-   "aciklama": "Rakibin gücünü kullanma sanatı.",
-   "puan": {
-    "i_zlenme": 4,
-    "heyecan": 6,
-    "dunyada_yayginlik": 7,
-    "turkiye_de_sevilme": 5
-   }
-  },
-  {
    "id": "karate",
    "ad": "Karate",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "dovus",
    "etiketler": [],
    "aciklama": "Disiplin ve hızın dövüş sanatı.",
    "puan": {
-    "i_zlenme": 4,
-    "heyecan": 6,
+    "i_zlenme": 5,
+    "heyecan": 7,
     "dunyada_yayginlik": 8,
     "turkiye_de_sevilme": 6
    }
   },
   {
-   "id": "ralli",
-   "ad": "Ralli",
-   "seviye": "siradan",
-   "grup": "motor",
-   "etiketler": [],
-   "aciklama": "Toprak ve çakılda yarış.",
-   "puan": {
-    "i_zlenme": 5,
-    "heyecan": 8,
-    "dunyada_yayginlik": 5,
-    "turkiye_de_sevilme": 5
-   }
-  },
-  {
    "id": "sutopu",
    "ad": "Sutopu",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "takim",
    "etiketler": [],
    "aciklama": "Havuzda oynanan sert takım sporu.",
    "puan": {
-    "i_zlenme": 3,
-    "heyecan": 6,
+    "i_zlenme": 4,
+    "heyecan": 7,
     "dunyada_yayginlik": 4,
     "turkiye_de_sevilme": 2
    }
   },
   {
-   "id": "ragbi",
-   "ad": "Ragbi",
-   "seviye": "siradan",
-   "grup": "takim",
-   "etiketler": [],
-   "aciklama": "Sert temaslı oval top sporu.",
-   "puan": {
-    "i_zlenme": 6,
-    "heyecan": 8,
-    "dunyada_yayginlik": 5,
-    "turkiye_de_sevilme": 1
-   }
-  },
-  {
    "id": "bilardo",
    "ad": "Bilardo",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "bireysel",
    "etiketler": [],
    "aciklama": "Masa başında hassasiyet.",
    "puan": {
-    "i_zlenme": 4,
-    "heyecan": 4,
-    "dunyada_yayginlik": 6,
-    "turkiye_de_sevilme": 5
+    "i_zlenme": 5,
+    "heyecan": 5,
+    "dunyada_yayginlik": 7,
+    "turkiye_de_sevilme": 6
    }
   },
   {
    "id": "kurek",
    "ad": "Kürek",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "bireysel",
    "etiketler": [],
    "aciklama": "Takım halinde suda güç ve uyum.",
    "puan": {
-    "i_zlenme": 3,
-    "heyecan": 4,
+    "i_zlenme": 4,
+    "heyecan": 5,
     "dunyada_yayginlik": 5,
     "turkiye_de_sevilme": 2
    }

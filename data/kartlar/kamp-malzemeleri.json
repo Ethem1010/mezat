@@ -58,115 +58,381 @@
  "kart_sayisi": 35,
  "kartlar": [
   {
-   "id": "cadir",
-   "ad": "Çadır",
+   "id": "4-mevsim-cadir",
+   "ad": "4 mevsim çadır",
    "seviye": "efsane",
    "grup": "barinak",
    "etiketler": [],
-   "aciklama": "Yağmurdan, rüzgârdan ve soğuktan koruyan evin.",
+   "aciklama": "Fırtınaya ve kara dayanır.",
    "puan": {
     "hayatta_kalma_faydasi": 10,
-    "cok_amaclilik": 5,
+    "cok_amaclilik": 6,
     "hafiflik": 5,
-    "dayaniklilik": 8
+    "dayaniklilik": 10
    }
   },
   {
-   "id": "uyku-tulumu",
-   "ad": "Uyku Tulumu",
+   "id": "ultra-hafif-cadir",
+   "ad": "Ultra hafif çadır",
    "seviye": "efsane",
-   "grup": "sicaklik",
+   "grup": "barinak",
    "etiketler": [],
-   "aciklama": "Gecenin soğuğunda hayat kurtarır.",
+   "aciklama": "Sırtta taşınacak kadar hafif.",
    "puan": {
     "hayatta_kalma_faydasi": 9,
-    "cok_amaclilik": 4,
-    "hafiflik": 6,
-    "dayaniklilik": 8
-   }
-  },
-  {
-   "id": "su-filtresi",
-   "ad": "Su Filtresi",
-   "seviye": "efsane",
-   "grup": "su",
-   "etiketler": [],
-   "aciklama": "Dere suyunu güvenle içilebilir yapar.",
-   "puan": {
-    "hayatta_kalma_faydasi": 10,
-    "cok_amaclilik": 4,
-    "hafiflik": 9,
-    "dayaniklilik": 8
-   }
-  },
-  {
-   "id": "kafa-lambasi",
-   "ad": "Kafa Lambası",
-   "seviye": "efsane",
-   "grup": "isik",
-   "etiketler": [],
-   "aciklama": "Ellerin serbestken karanlıkta yol gösterir.",
-   "puan": {
-    "hayatta_kalma_faydasi": 8,
-    "cok_amaclilik": 6,
+    "cok_amaclilik": 5,
     "hafiflik": 10,
     "dayaniklilik": 7
    }
   },
   {
-   "id": "caki",
-   "ad": "Çakı",
+   "id": "bivak-cuvali",
+   "ad": "Bivak çuvalı",
+   "seviye": "efsane",
+   "grup": "barinak",
+   "etiketler": [],
+   "aciklama": "Tek kişilik acil barınak.",
+   "puan": {
+    "hayatta_kalma_faydasi": 8,
+    "cok_amaclilik": 5,
+    "hafiflik": 9,
+    "dayaniklilik": 7
+   }
+  },
+  {
+   "id": "tarp-branda",
+   "ad": "Tarp (branda)",
+   "seviye": "efsane",
+   "grup": "barinak",
+   "etiketler": [],
+   "aciklama": "Çatı, zemin, rüzgârlık.",
+   "puan": {
+    "hayatta_kalma_faydasi": 8,
+    "cok_amaclilik": 9,
+    "hafiflik": 8,
+    "dayaniklilik": 8
+   }
+  },
+  {
+   "id": "kaz-tuyu-uyku-tulumu",
+   "ad": "Kaz tüyü uyku tulumu",
+   "seviye": "efsane",
+   "grup": "sicaklik",
+   "etiketler": [],
+   "aciklama": "Eksi derecede sıcak tutar.",
+   "puan": {
+    "hayatta_kalma_faydasi": 10,
+    "cok_amaclilik": 4,
+    "hafiflik": 8,
+    "dayaniklilik": 8
+   }
+  },
+  {
+   "id": "sisme-mat",
+   "ad": "Şişme mat",
+   "seviye": "efsane",
+   "grup": "sicaklik",
+   "etiketler": [],
+   "aciklama": "Yerin soğuğunu keser.",
+   "puan": {
+    "hayatta_kalma_faydasi": 8,
+    "cok_amaclilik": 4,
+    "hafiflik": 9,
+    "dayaniklilik": 6
+   }
+  },
+  {
+   "id": "polar-mont",
+   "ad": "Polar mont",
+   "seviye": "efsane",
+   "grup": "sicaklik",
+   "etiketler": [],
+   "aciklama": "Hafif ama sıcak.",
+   "puan": {
+    "hayatta_kalma_faydasi": 8,
+    "cok_amaclilik": 6,
+    "hafiflik": 8,
+    "dayaniklilik": 8
+   }
+  },
+  {
+   "id": "kamp-ocagi",
+   "ad": "Kamp ocağı",
+   "seviye": "efsane",
+   "grup": "sicaklik",
+   "etiketler": [],
+   "aciklama": "Dakikalar içinde sıcak yemek.",
+   "puan": {
+    "hayatta_kalma_faydasi": 9,
+    "cok_amaclilik": 7,
+    "hafiflik": 7,
+    "dayaniklilik": 8
+   }
+  },
+  {
+   "id": "su-filtresi",
+   "ad": "Su filtresi",
+   "seviye": "efsane",
+   "grup": "su",
+   "etiketler": [],
+   "aciklama": "Dereden içilebilir su.",
+   "puan": {
+    "hayatta_kalma_faydasi": 10,
+    "cok_amaclilik": 5,
+    "hafiflik": 9,
+    "dayaniklilik": 7
+   }
+  },
+  {
+   "id": "matara",
+   "ad": "Matara",
+   "seviye": "efsane",
+   "grup": "su",
+   "etiketler": [],
+   "aciklama": "Suyunu güvenle taşır.",
+   "puan": {
+    "hayatta_kalma_faydasi": 9,
+    "cok_amaclilik": 5,
+    "hafiflik": 8,
+    "dayaniklilik": 10
+   }
+  },
+  {
+   "id": "su-torbasi",
+   "ad": "Su torbası",
+   "seviye": "efsane",
+   "grup": "su",
+   "etiketler": [],
+   "aciklama": "Sırt çantasına litrelerce su.",
+   "puan": {
+    "hayatta_kalma_faydasi": 8,
+    "cok_amaclilik": 5,
+    "hafiflik": 9,
+    "dayaniklilik": 6
+   }
+  },
+  {
+   "id": "kafa-lambasi",
+   "ad": "Kafa lambası",
+   "seviye": "efsane",
+   "grup": "isik",
+   "etiketler": [],
+   "aciklama": "Eller serbest gece ışığı.",
+   "puan": {
+    "hayatta_kalma_faydasi": 9,
+    "cok_amaclilik": 7,
+    "hafiflik": 10,
+    "dayaniklilik": 8
+   }
+  },
+  {
+   "id": "kamp-feneri",
+   "ad": "Kamp feneri",
+   "seviye": "efsane",
+   "grup": "isik",
+   "etiketler": [],
+   "aciklama": "Tüm kampı aydınlatır.",
+   "puan": {
+    "hayatta_kalma_faydasi": 8,
+    "cok_amaclilik": 6,
+    "hafiflik": 7,
+    "dayaniklilik": 8
+   }
+  },
+  {
+   "id": "gunes-enerjili-powerbank",
+   "ad": "Güneş enerjili powerbank",
+   "seviye": "efsane",
+   "grup": "isik",
+   "etiketler": [],
+   "aciklama": "Telefon ve ışığa bitmeyen enerji.",
+   "puan": {
+    "hayatta_kalma_faydasi": 7,
+    "cok_amaclilik": 8,
+    "hafiflik": 7,
+    "dayaniklilik": 7
+   }
+  },
+  {
+   "id": "cok-amacli-caki",
+   "ad": "Çok amaçlı çakı",
    "seviye": "efsane",
    "grup": "alet",
    "etiketler": [],
-   "aciklama": "Kes, aç, onar; kampın her işine yarar.",
+   "aciklama": "Kes, aç, vidala.",
    "puan": {
-    "hayatta_kalma_faydasi": 8,
+    "hayatta_kalma_faydasi": 10,
+    "cok_amaclilik": 10,
+    "hafiflik": 9,
+    "dayaniklilik": 9
+   }
+  },
+  {
+   "id": "kamp-baltasi",
+   "ad": "Kamp baltası",
+   "seviye": "efsane",
+   "grup": "alet",
+   "etiketler": [],
+   "aciklama": "Odun ve kazık için.",
+   "puan": {
+    "hayatta_kalma_faydasi": 9,
+    "cok_amaclilik": 7,
+    "hafiflik": 5,
+    "dayaniklilik": 10
+   }
+  },
+  {
+   "id": "paracord-ip",
+   "ad": "Paracord ip",
+   "seviye": "efsane",
+   "grup": "alet",
+   "etiketler": [],
+   "aciklama": "Bağla, as, onar.",
+   "puan": {
+    "hayatta_kalma_faydasi": 9,
     "cok_amaclilik": 10,
     "hafiflik": 10,
     "dayaniklilik": 9
    }
   },
   {
-   "id": "kamp-ocagi",
-   "ad": "Kamp Ocağı",
+   "id": "i-lk-yardim-cantasi",
+   "ad": "İlk yardım çantası",
    "seviye": "efsane",
-   "grup": "yiyecek",
+   "grup": "alet",
    "etiketler": [],
-   "aciklama": "Sıcak yemek ve kaynamış su.",
+   "aciklama": "Doğada en önemli güvence.",
    "puan": {
-    "hayatta_kalma_faydasi": 8,
+    "hayatta_kalma_faydasi": 10,
     "cok_amaclilik": 6,
-    "hafiflik": 6,
-    "dayaniklilik": 8
+    "hafiflik": 8,
+    "dayaniklilik": 7
    }
   },
   {
-   "id": "kar-montu",
-   "ad": "Kar Montu",
+   "id": "pusula-ve-harita",
+   "ad": "Pusula ve harita",
    "seviye": "efsane",
-   "grup": "sicaklik",
+   "grup": "alet",
    "etiketler": [],
-   "aciklama": "Dağın soğuğuna karşı ilk savunma.",
+   "aciklama": "Kaybolmayı önler.",
+   "puan": {
+    "hayatta_kalma_faydasi": 9,
+    "cok_amaclilik": 4,
+    "hafiflik": 10,
+    "dayaniklilik": 9
+   }
+  },
+  {
+   "id": "cakmak-tasi",
+   "ad": "Çakmak taşı",
+   "seviye": "efsane",
+   "grup": "alet",
+   "etiketler": [],
+   "aciklama": "Her koşulda ateş.",
    "puan": {
     "hayatta_kalma_faydasi": 9,
     "cok_amaclilik": 5,
-    "hafiflik": 5,
+    "hafiflik": 10,
+    "dayaniklilik": 10
+   }
+  },
+  {
+   "id": "gps-cihazi",
+   "ad": "GPS cihazı",
+   "seviye": "efsane",
+   "grup": "alet",
+   "etiketler": [],
+   "aciklama": "Konumunu hep bilirsin.",
+   "puan": {
+    "hayatta_kalma_faydasi": 8,
+    "cok_amaclilik": 6,
+    "hafiflik": 8,
+    "dayaniklilik": 7
+   }
+  },
+  {
+   "id": "titanyum-tencere-seti",
+   "ad": "Titanyum tencere seti",
+   "seviye": "efsane",
+   "grup": "yiyecek",
+   "etiketler": [],
+   "aciklama": "Hafif ve sağlam mutfak.",
+   "puan": {
+    "hayatta_kalma_faydasi": 8,
+    "cok_amaclilik": 7,
+    "hafiflik": 9,
+    "dayaniklilik": 10
+   }
+  },
+  {
+   "id": "liyofilize-yemek",
+   "ad": "Liyofilize yemek",
+   "seviye": "efsane",
+   "grup": "yiyecek",
+   "etiketler": [],
+   "aciklama": "Su ekle, sıcak yemek hazır.",
+   "puan": {
+    "hayatta_kalma_faydasi": 9,
+    "cok_amaclilik": 3,
+    "hafiflik": 10,
     "dayaniklilik": 8
    }
   },
   {
-   "id": "uyku-mati",
-   "ad": "Uyku Matı",
+   "id": "enerji-bari",
+   "ad": "Enerji barı",
+   "seviye": "efsane",
+   "grup": "yiyecek",
+   "etiketler": [],
+   "aciklama": "Cepte hızlı enerji.",
+   "puan": {
+    "hayatta_kalma_faydasi": 8,
+    "cok_amaclilik": 3,
+    "hafiflik": 10,
+    "dayaniklilik": 7
+   }
+  },
+  {
+   "id": "trekking-batonu",
+   "ad": "Trekking batonu",
+   "seviye": "efsane",
+   "grup": "konfor",
+   "etiketler": [],
+   "aciklama": "Dizleri korur, yolu kolaylaştırır.",
+   "puan": {
+    "hayatta_kalma_faydasi": 6,
+    "cok_amaclilik": 7,
+    "hafiflik": 8,
+    "dayaniklilik": 8
+   }
+  },
+  {
+   "id": "kamp-sandalyesi",
+   "ad": "Kamp sandalyesi",
+   "seviye": "guclu",
+   "grup": "konfor",
+   "etiketler": [],
+   "aciklama": "Ateş başında rahat oturuş.",
+   "puan": {
+    "hayatta_kalma_faydasi": 3,
+    "cok_amaclilik": 4,
+    "hafiflik": 6,
+    "dayaniklilik": 7
+   }
+  },
+  {
+   "id": "hamak",
+   "ad": "Hamak",
    "seviye": "guclu",
    "grup": "barinak",
    "etiketler": [],
-   "aciklama": "Yerin soğuğunu keser.",
+   "aciklama": "Ağaçlar arası uyku.",
    "puan": {
-    "hayatta_kalma_faydasi": 7,
+    "hayatta_kalma_faydasi": 6,
     "cok_amaclilik": 5,
-    "hafiflik": 8,
-    "dayaniklilik": 7
+    "hafiflik": 9,
+    "dayaniklilik": 6
    }
   },
   {
@@ -175,376 +441,110 @@
    "seviye": "guclu",
    "grup": "su",
    "etiketler": [],
-   "aciklama": "Sıcak çayı saatlerce sıcak tutar.",
+   "aciklama": "Sıcağı sıcak tutar.",
    "puan": {
-    "hayatta_kalma_faydasi": 7,
+    "hayatta_kalma_faydasi": 6,
     "cok_amaclilik": 5,
     "hafiflik": 6,
     "dayaniklilik": 9
    }
   },
   {
-   "id": "matara",
-   "ad": "Matara",
+   "id": "su-aritma-tableti",
+   "ad": "Su arıtma tableti",
    "seviye": "guclu",
    "grup": "su",
    "etiketler": [],
-   "aciklama": "Suyu her yere taşırsın.",
+   "aciklama": "Mikropları yok eder.",
    "puan": {
     "hayatta_kalma_faydasi": 8,
-    "cok_amaclilik": 4,
-    "hafiflik": 7,
-    "dayaniklilik": 9
-   }
-  },
-  {
-   "id": "el-feneri",
-   "ad": "El Feneri",
-   "seviye": "guclu",
-   "grup": "isik",
-   "etiketler": [],
-   "aciklama": "Gece kampın etrafını aydınlatır.",
-   "puan": {
-    "hayatta_kalma_faydasi": 7,
-    "cok_amaclilik": 5,
-    "hafiflik": 6,
-    "dayaniklilik": 8
-   }
-  },
-  {
-   "id": "cakmak",
-   "ad": "Çakmak",
-   "seviye": "guclu",
-   "grup": "sicaklik",
-   "etiketler": [],
-   "aciklama": "Saniyede ateş.",
-   "puan": {
-    "hayatta_kalma_faydasi": 8,
-    "cok_amaclilik": 6,
+    "cok_amaclilik": 3,
     "hafiflik": 10,
     "dayaniklilik": 6
    }
   },
   {
-   "id": "kibrit",
-   "ad": "Kibrit",
+   "id": "mum-fener",
+   "ad": "Mum fener",
    "seviye": "guclu",
-   "grup": "sicaklik",
+   "grup": "isik",
    "etiketler": [],
-   "aciklama": "Hafif ama neme hassas ateş kaynağı.",
+   "aciklama": "Elektriksiz yumuşak ışık.",
    "puan": {
-    "hayatta_kalma_faydasi": 7,
+    "hayatta_kalma_faydasi": 5,
     "cok_amaclilik": 4,
-    "hafiflik": 10,
-    "dayaniklilik": 3
-   }
-  },
-  {
-   "id": "i-lk-yardim-cantasi",
-   "ad": "İlk Yardım Çantası",
-   "seviye": "guclu",
-   "grup": "alet",
-   "etiketler": [],
-   "aciklama": "Küçük yaraları büyümeden durdurur.",
-   "puan": {
-    "hayatta_kalma_faydasi": 9,
-    "cok_amaclilik": 6,
-    "hafiflik": 8,
-    "dayaniklilik": 7
-   }
-  },
-  {
-   "id": "harita-ve-pusula",
-   "ad": "Harita ve Pusula",
-   "seviye": "guclu",
-   "grup": "alet",
-   "etiketler": [],
-   "aciklama": "Pil bitse de yolunu bulursun.",
-   "puan": {
-    "hayatta_kalma_faydasi": 8,
-    "cok_amaclilik": 5,
-    "hafiflik": 10,
-    "dayaniklilik": 9
-   }
-  },
-  {
-   "id": "halat",
-   "ad": "Halat",
-   "seviye": "guclu",
-   "grup": "alet",
-   "etiketler": [],
-   "aciklama": "Çadırı gerer, eşyaları asar.",
-   "puan": {
-    "hayatta_kalma_faydasi": 6,
-    "cok_amaclilik": 9,
     "hafiflik": 7,
-    "dayaniklilik": 9
-   }
-  },
-  {
-   "id": "branda",
-   "ad": "Branda",
-   "seviye": "guclu",
-   "grup": "barinak",
-   "etiketler": [],
-   "aciklama": "Ekstra çatı ya da yer örtüsü.",
-   "puan": {
-    "hayatta_kalma_faydasi": 7,
-    "cok_amaclilik": 8,
-    "hafiflik": 7,
-    "dayaniklilik": 8
-   }
-  },
-  {
-   "id": "konserve",
-   "ad": "Konserve",
-   "seviye": "guclu",
-   "grup": "yiyecek",
-   "etiketler": [],
-   "aciklama": "Bozulmayan hazır yemek.",
-   "puan": {
-    "hayatta_kalma_faydasi": 7,
-    "cok_amaclilik": 3,
-    "hafiflik": 4,
-    "dayaniklilik": 9
-   }
-  },
-  {
-   "id": "enerji-bari",
-   "ad": "Enerji Barı",
-   "seviye": "guclu",
-   "grup": "yiyecek",
-   "etiketler": [],
-   "aciklama": "Cepte duran hızlı enerji.",
-   "puan": {
-    "hayatta_kalma_faydasi": 7,
-    "cok_amaclilik": 3,
-    "hafiflik": 10,
-    "dayaniklilik": 8
+    "dayaniklilik": 6
    }
   },
   {
    "id": "yagmurluk",
    "ad": "Yağmurluk",
    "seviye": "guclu",
-   "grup": "barinak",
+   "grup": "sicaklik",
    "etiketler": [],
-   "aciklama": "Islanmadan yürümeni sağlar.",
+   "aciklama": "Islanmayı önler.",
    "puan": {
     "hayatta_kalma_faydasi": 7,
     "cok_amaclilik": 6,
-    "hafiflik": 8,
-    "dayaniklilik": 7
-   }
-  },
-  {
-   "id": "termal-i-clik",
-   "ad": "Termal İçlik",
-   "seviye": "guclu",
-   "grup": "sicaklik",
-   "etiketler": [],
-   "aciklama": "Vücut ısını içeride tutar.",
-   "puan": {
-    "hayatta_kalma_faydasi": 8,
-    "cok_amaclilik": 5,
     "hafiflik": 9,
-    "dayaniklilik": 7
-   }
-  },
-  {
-   "id": "powerbank",
-   "ad": "Powerbank",
-   "seviye": "siradan",
-   "grup": "isik",
-   "etiketler": [],
-   "aciklama": "Telefonu ve feneri şarj eder.",
-   "puan": {
-    "hayatta_kalma_faydasi": 4,
-    "cok_amaclilik": 5,
-    "hafiflik": 6,
     "dayaniklilik": 6
    }
   },
   {
-   "id": "telefon",
-   "ad": "Telefon",
-   "seviye": "siradan",
-   "grup": "isik",
+   "id": "isitici-ped",
+   "ad": "Isıtıcı ped",
+   "seviye": "guclu",
+   "grup": "sicaklik",
    "etiketler": [],
-   "aciklama": "Fener, harita ve acil arama; çekerse.",
+   "aciklama": "Cepte anında sıcaklık.",
    "puan": {
-    "hayatta_kalma_faydasi": 5,
-    "cok_amaclilik": 7,
-    "hafiflik": 8,
+    "hayatta_kalma_faydasi": 6,
+    "cok_amaclilik": 3,
+    "hafiflik": 10,
     "dayaniklilik": 4
    }
   },
   {
-   "id": "kamp-sandalyesi",
-   "ad": "Kamp Sandalyesi",
-   "seviye": "siradan",
-   "grup": "konfor",
+   "id": "kamp-kuregi",
+   "ad": "Kamp küreği",
+   "seviye": "guclu",
+   "grup": "alet",
    "etiketler": [],
-   "aciklama": "Ateş başında rahat oturuş.",
+   "aciklama": "Kazmak ve temizlemek için.",
    "puan": {
-    "hayatta_kalma_faydasi": 2,
-    "cok_amaclilik": 3,
-    "hafiflik": 4,
-    "dayaniklilik": 7
-   }
-  },
-  {
-   "id": "hamak",
-   "ad": "Hamak",
-   "seviye": "siradan",
-   "grup": "konfor",
-   "etiketler": [],
-   "aciklama": "Ağaçların arasında keyif.",
-   "puan": {
-    "hayatta_kalma_faydasi": 4,
-    "cok_amaclilik": 4,
+    "hayatta_kalma_faydasi": 6,
+    "cok_amaclilik": 6,
     "hafiflik": 7,
-    "dayaniklilik": 6
-   }
-  },
-  {
-   "id": "gitar",
-   "ad": "Gitar",
-   "seviye": "siradan",
-   "grup": "konfor",
-   "etiketler": [],
-   "aciklama": "Ateş başı şarkıları için.",
-   "puan": {
-    "hayatta_kalma_faydasi": 1,
-    "cok_amaclilik": 2,
-    "hafiflik": 3,
-    "dayaniklilik": 6
-   }
-  },
-  {
-   "id": "bluetooth-hoparlor",
-   "ad": "Bluetooth Hoparlör",
-   "seviye": "siradan",
-   "grup": "konfor",
-   "etiketler": [],
-   "aciklama": "Doğada müzik.",
-   "puan": {
-    "hayatta_kalma_faydasi": 1,
-    "cok_amaclilik": 2,
-    "hafiflik": 6,
-    "dayaniklilik": 5
-   }
-  },
-  {
-   "id": "kitap",
-   "ad": "Kitap",
-   "seviye": "siradan",
-   "grup": "konfor",
-   "etiketler": [],
-   "aciklama": "Sakin bir öğleden sonra için.",
-   "puan": {
-    "hayatta_kalma_faydasi": 1,
-    "cok_amaclilik": 2,
-    "hafiflik": 6,
-    "dayaniklilik": 5
-   }
-  },
-  {
-   "id": "gunes-kremi",
-   "ad": "Güneş Kremi",
-   "seviye": "siradan",
-   "grup": "alet",
-   "etiketler": [],
-   "aciklama": "Yaylada güneş yanığına karşı.",
-   "puan": {
-    "hayatta_kalma_faydasi": 4,
-    "cok_amaclilik": 3,
-    "hafiflik": 9,
-    "dayaniklilik": 6
-   }
-  },
-  {
-   "id": "bocek-spreyi",
-   "ad": "Böcek Spreyi",
-   "seviye": "siradan",
-   "grup": "alet",
-   "etiketler": [],
-   "aciklama": "Sivrisinekleri uzak tutar.",
-   "puan": {
-    "hayatta_kalma_faydasi": 5,
-    "cok_amaclilik": 3,
-    "hafiflik": 9,
-    "dayaniklilik": 6
-   }
-  },
-  {
-   "id": "mangal",
-   "ad": "Mangal",
-   "seviye": "siradan",
-   "grup": "yiyecek",
-   "etiketler": [],
-   "aciklama": "Kamp akşamlarının klasiği ama ağır.",
-   "puan": {
-    "hayatta_kalma_faydasi": 4,
-    "cok_amaclilik": 4,
-    "hafiflik": 2,
     "dayaniklilik": 8
    }
   },
   {
-   "id": "tencere-seti",
-   "ad": "Tencere Seti",
-   "seviye": "siradan",
+   "id": "kahve-demleyici",
+   "ad": "Kahve demleyici",
+   "seviye": "guclu",
    "grup": "yiyecek",
    "etiketler": [],
-   "aciklama": "Yemek pişir, su kaynat.",
+   "aciklama": "Doğada taze kahve.",
    "puan": {
-    "hayatta_kalma_faydasi": 6,
-    "cok_amaclilik": 6,
-    "hafiflik": 4,
-    "dayaniklilik": 9
-   }
-  },
-  {
-   "id": "balta",
-   "ad": "Balta",
-   "seviye": "siradan",
-   "grup": "alet",
-   "etiketler": [],
-   "aciklama": "Odun kırmak için güçlü ama ağır.",
-   "puan": {
-    "hayatta_kalma_faydasi": 7,
-    "cok_amaclilik": 7,
-    "hafiflik": 3,
-    "dayaniklilik": 10
-   }
-  },
-  {
-   "id": "mum",
-   "ad": "Mum",
-   "seviye": "siradan",
-   "grup": "isik",
-   "etiketler": [],
-   "aciklama": "Hafif ama rüzgârda söner.",
-   "puan": {
-    "hayatta_kalma_faydasi": 4,
-    "cok_amaclilik": 4,
-    "hafiflik": 9,
-    "dayaniklilik": 2
-   }
-  },
-  {
-   "id": "i-p-testere",
-   "ad": "İp Testere",
-   "seviye": "siradan",
-   "grup": "alet",
-   "etiketler": [],
-   "aciklama": "Cepte taşınan dal kesici.",
-   "puan": {
-    "hayatta_kalma_faydasi": 5,
-    "cok_amaclilik": 6,
-    "hafiflik": 9,
+    "hayatta_kalma_faydasi": 3,
+    "cok_amaclilik": 3,
+    "hafiflik": 8,
     "dayaniklilik": 7
+   }
+  },
+  {
+   "id": "bluetooth-hoparlor",
+   "ad": "Bluetooth hoparlör",
+   "seviye": "guclu",
+   "grup": "konfor",
+   "etiketler": [],
+   "aciklama": "Kamp ateşine müzik.",
+   "puan": {
+    "hayatta_kalma_faydasi": 2,
+    "cok_amaclilik": 3,
+    "hafiflik": 7,
+    "dayaniklilik": 6
    }
   }
  ]

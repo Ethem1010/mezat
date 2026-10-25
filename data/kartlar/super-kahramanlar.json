@@ -54,48 +54,6 @@
    }
   },
   {
-   "id": "batman",
-   "ad": "Batman",
-   "seviye": "efsane",
-   "grup": "zeka",
-   "etiketler": [],
-   "aciklama": "Süper gücü yok ama dâhi bir dedektif ve stratejist.",
-   "puan": {
-    "guc": 6,
-    "super_yetenek": 4,
-    "zeka": 10,
-    "takim_uyumu": 7
-   }
-  },
-  {
-   "id": "orumcek-adam",
-   "ad": "Örümcek Adam",
-   "seviye": "efsane",
-   "grup": "guc",
-   "etiketler": [],
-   "aciklama": "Ağ atan, duvarlara tırmanan mahalle kahramanı.",
-   "puan": {
-    "guc": 7,
-    "super_yetenek": 8,
-    "zeka": 8,
-    "takim_uyumu": 8
-   }
-  },
-  {
-   "id": "iron-man",
-   "ad": "Iron Man",
-   "seviye": "efsane",
-   "grup": "zeka",
-   "etiketler": [],
-   "aciklama": "Zırhını kendi yapan dâhi mucit.",
-   "puan": {
-    "guc": 8,
-    "super_yetenek": 8,
-    "zeka": 10,
-    "takim_uyumu": 6
-   }
-  },
-  {
    "id": "wonder-woman",
    "ad": "Wonder Woman",
    "seviye": "efsane",
@@ -138,65 +96,65 @@
    }
   },
   {
-   "id": "kaptan-amerika",
-   "ad": "Kaptan Amerika",
-   "seviye": "guclu",
+   "id": "captain-marvel",
+   "ad": "Captain Marvel",
+   "seviye": "efsane",
    "grup": "guc",
    "etiketler": [],
-   "aciklama": "Kalkanıyla takımın doğal lideri.",
+   "aciklama": "Kozmik enerjiyle uçan en güçlülerden.",
    "puan": {
-    "guc": 7,
-    "super_yetenek": 6,
-    "zeka": 8,
-    "takim_uyumu": 10
-   }
-  },
-  {
-   "id": "doktor-strange",
-   "ad": "Doktor Strange",
-   "seviye": "guclu",
-   "grup": "ozel",
-   "etiketler": [],
-   "aciklama": "Büyünün ve zamanın ustası.",
-   "puan": {
-    "guc": 7,
-    "super_yetenek": 10,
-    "zeka": 9,
+    "guc": 10,
+    "super_yetenek": 9,
+    "zeka": 6,
     "takim_uyumu": 7
    }
   },
   {
-   "id": "black-panther",
-   "ad": "Black Panther",
-   "seviye": "guclu",
-   "grup": "zeka",
+   "id": "supergirl",
+   "ad": "Supergirl",
+   "seviye": "efsane",
+   "grup": "guc",
    "etiketler": [],
-   "aciklama": "Wakanda'nın kralı ve teknolojisi.",
+   "aciklama": "Superman'in kuzeni, aynı güçlere sahip.",
    "puan": {
-    "guc": 7,
-    "super_yetenek": 7,
-    "zeka": 9,
+    "guc": 9,
+    "super_yetenek": 9,
+    "zeka": 6,
     "takim_uyumu": 8
    }
   },
   {
-   "id": "flash",
-   "ad": "Flash",
-   "seviye": "guclu",
-   "grup": "ozel",
+   "id": "shazam",
+   "ad": "Shazam",
+   "seviye": "efsane",
+   "grup": "guc",
    "etiketler": [],
-   "aciklama": "Işıktan hızlı koşabilen kahraman.",
+   "aciklama": "Tek kelimeyle yetişkin kahramana dönüşen çocuk.",
    "puan": {
-    "guc": 6,
-    "super_yetenek": 10,
-    "zeka": 7,
-    "takim_uyumu": 8
+    "guc": 9,
+    "super_yetenek": 8,
+    "zeka": 4,
+    "takim_uyumu": 7
+   }
+  },
+  {
+   "id": "martian-manhunter",
+   "ad": "Martian Manhunter",
+   "seviye": "efsane",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Şekil değiştiren güçlü Marslı.",
+   "puan": {
+    "guc": 9,
+    "super_yetenek": 9,
+    "zeka": 8,
+    "takim_uyumu": 9
    }
   },
   {
    "id": "aquaman",
    "ad": "Aquaman",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "guc",
    "etiketler": [],
    "aciklama": "Denizlerin kralı.",
@@ -210,7 +168,7 @@
   {
    "id": "wolverine",
    "ad": "Wolverine",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "guc",
    "etiketler": [],
    "aciklama": "Pençeleri ve iyileşme gücüyle dayanıklı savaşçı.",
@@ -222,65 +180,79 @@
    }
   },
   {
-   "id": "scarlet-witch",
-   "ad": "Scarlet Witch",
-   "seviye": "guclu",
-   "grup": "ozel",
-   "etiketler": [],
-   "aciklama": "Gerçekliği büken güçlü büyücü.",
-   "puan": {
-    "guc": 8,
-    "super_yetenek": 10,
-    "zeka": 6,
-    "takim_uyumu": 6
-   }
-  },
-  {
-   "id": "captain-marvel",
-   "ad": "Captain Marvel",
-   "seviye": "guclu",
+   "id": "orumcek-adam",
+   "ad": "Örümcek Adam",
+   "seviye": "efsane",
    "grup": "guc",
    "etiketler": [],
-   "aciklama": "Kozmik enerjiyle uçan en güçlülerden.",
+   "aciklama": "Ağ atan, duvarlara tırmanan mahalle kahramanı.",
    "puan": {
-    "guc": 10,
-    "super_yetenek": 9,
-    "zeka": 6,
-    "takim_uyumu": 7
-   }
-  },
-  {
-   "id": "green-lantern",
-   "ad": "Green Lantern",
-   "seviye": "guclu",
-   "grup": "ozel",
-   "etiketler": [],
-   "aciklama": "Yüzüğüyle hayal ettiğini yaratan kahraman.",
-   "puan": {
-    "guc": 8,
-    "super_yetenek": 9,
-    "zeka": 6,
+    "guc": 7,
+    "super_yetenek": 8,
+    "zeka": 8,
     "takim_uyumu": 8
    }
   },
   {
-   "id": "black-widow",
-   "ad": "Black Widow",
-   "seviye": "guclu",
+   "id": "kaptan-amerika",
+   "ad": "Kaptan Amerika",
+   "seviye": "efsane",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Kalkanıyla takımın doğal lideri.",
+   "puan": {
+    "guc": 7,
+    "super_yetenek": 6,
+    "zeka": 8,
+    "takim_uyumu": 10
+   }
+  },
+  {
+   "id": "batman",
+   "ad": "Batman",
+   "seviye": "efsane",
    "grup": "zeka",
    "etiketler": [],
-   "aciklama": "Casusluk ve dövüş ustası.",
+   "aciklama": "Süper gücü yok ama dâhi dedektif ve stratejist.",
    "puan": {
-    "guc": 5,
+    "guc": 6,
     "super_yetenek": 4,
+    "zeka": 10,
+    "takim_uyumu": 7
+   }
+  },
+  {
+   "id": "iron-man",
+   "ad": "Iron Man",
+   "seviye": "efsane",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Zırhını kendi yapan dâhi mucit.",
+   "puan": {
+    "guc": 8,
+    "super_yetenek": 8,
+    "zeka": 10,
+    "takim_uyumu": 6
+   }
+  },
+  {
+   "id": "black-panther",
+   "ad": "Black Panther",
+   "seviye": "efsane",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Wakanda'nın kralı ve teknolojisi.",
+   "puan": {
+    "guc": 7,
+    "super_yetenek": 7,
     "zeka": 9,
-    "takim_uyumu": 9
+    "takim_uyumu": 8
    }
   },
   {
    "id": "profesor-x",
    "ad": "Profesör X",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "zeka",
    "etiketler": [],
    "aciklama": "Zihinleri okuyan X-Men lideri.",
@@ -292,9 +264,107 @@
    }
   },
   {
+   "id": "black-widow",
+   "ad": "Black Widow",
+   "seviye": "efsane",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Casusluk ve dövüş ustası.",
+   "puan": {
+    "guc": 5,
+    "super_yetenek": 4,
+    "zeka": 9,
+    "takim_uyumu": 9
+   }
+  },
+  {
+   "id": "doktor-strange",
+   "ad": "Doktor Strange",
+   "seviye": "efsane",
+   "grup": "ozel",
+   "etiketler": [],
+   "aciklama": "Büyünün ve zamanın ustası.",
+   "puan": {
+    "guc": 7,
+    "super_yetenek": 10,
+    "zeka": 9,
+    "takim_uyumu": 7
+   }
+  },
+  {
+   "id": "scarlet-witch",
+   "ad": "Scarlet Witch",
+   "seviye": "efsane",
+   "grup": "ozel",
+   "etiketler": [],
+   "aciklama": "Gerçekliği büken güçlü büyücü.",
+   "puan": {
+    "guc": 8,
+    "super_yetenek": 10,
+    "zeka": 6,
+    "takim_uyumu": 6
+   }
+  },
+  {
+   "id": "flash",
+   "ad": "Flash",
+   "seviye": "efsane",
+   "grup": "ozel",
+   "etiketler": [],
+   "aciklama": "Işıktan hızlı koşabilen kahraman.",
+   "puan": {
+    "guc": 6,
+    "super_yetenek": 10,
+    "zeka": 7,
+    "takim_uyumu": 8
+   }
+  },
+  {
+   "id": "green-lantern",
+   "ad": "Green Lantern",
+   "seviye": "efsane",
+   "grup": "ozel",
+   "etiketler": [],
+   "aciklama": "Yüzüğüyle hayal ettiğini yaratan kahraman.",
+   "puan": {
+    "guc": 8,
+    "super_yetenek": 9,
+    "zeka": 6,
+    "takim_uyumu": 8
+   }
+  },
+  {
+   "id": "jean-grey",
+   "ad": "Jean Grey",
+   "seviye": "efsane",
+   "grup": "ozel",
+   "etiketler": [],
+   "aciklama": "Telekinezi ve telepatinin en güçlüsü.",
+   "puan": {
+    "guc": 8,
+    "super_yetenek": 10,
+    "zeka": 7,
+    "takim_uyumu": 7
+   }
+  },
+  {
+   "id": "silver-surfer",
+   "ad": "Silver Surfer",
+   "seviye": "efsane",
+   "grup": "ozel",
+   "etiketler": [],
+   "aciklama": "Kozmik güçlerle evreni dolaşan sörfçü.",
+   "puan": {
+    "guc": 9,
+    "super_yetenek": 10,
+    "zeka": 7,
+    "takim_uyumu": 6
+   }
+  },
+  {
    "id": "storm",
    "ad": "Storm",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "ozel",
    "etiketler": [],
    "aciklama": "Havayı kontrol eden mutant.",
@@ -308,7 +378,7 @@
   {
    "id": "vision",
    "ad": "Vision",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "ozel",
    "etiketler": [],
    "aciklama": "Yapay zekâdan doğan güçlü android.",
@@ -320,65 +390,9 @@
    }
   },
   {
-   "id": "supergirl",
-   "ad": "Supergirl",
-   "seviye": "guclu",
-   "grup": "guc",
-   "etiketler": [],
-   "aciklama": "Superman'in kuzeni, aynı güçlere sahip.",
-   "puan": {
-    "guc": 9,
-    "super_yetenek": 9,
-    "zeka": 6,
-    "takim_uyumu": 8
-   }
-  },
-  {
-   "id": "ant-man",
-   "ad": "Ant-Man",
-   "seviye": "siradan",
-   "grup": "ozel",
-   "etiketler": [],
-   "aciklama": "Küçülüp büyüyebilen kahraman.",
-   "puan": {
-    "guc": 5,
-    "super_yetenek": 7,
-    "zeka": 6,
-    "takim_uyumu": 7
-   }
-  },
-  {
-   "id": "hawkeye",
-   "ad": "Hawkeye",
-   "seviye": "siradan",
-   "grup": "zeka",
-   "etiketler": [],
-   "aciklama": "Hiç ıskalamayan okçu.",
-   "puan": {
-    "guc": 4,
-    "super_yetenek": 4,
-    "zeka": 7,
-    "takim_uyumu": 8
-   }
-  },
-  {
-   "id": "robin",
-   "ad": "Robin",
-   "seviye": "siradan",
-   "grup": "zeka",
-   "etiketler": [],
-   "aciklama": "Batman'in genç ortağı.",
-   "puan": {
-    "guc": 4,
-    "super_yetenek": 3,
-    "zeka": 7,
-    "takim_uyumu": 8
-   }
-  },
-  {
    "id": "deadpool",
    "ad": "Deadpool",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "guc",
    "etiketler": [],
    "aciklama": "Ölümsüz ve geveze antikahraman.",
@@ -390,23 +404,9 @@
    }
   },
   {
-   "id": "cyclops",
-   "ad": "Cyclops",
-   "seviye": "siradan",
-   "grup": "ozel",
-   "etiketler": [],
-   "aciklama": "Gözlerinden ışın atan X-Men lideri.",
-   "puan": {
-    "guc": 6,
-    "super_yetenek": 7,
-    "zeka": 7,
-    "takim_uyumu": 8
-   }
-  },
-  {
    "id": "groot",
    "ad": "Groot",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "guc",
    "etiketler": [],
    "aciklama": "Sadece \"Ben Groot'um\" diyen ağaç.",
@@ -418,9 +418,37 @@
    }
   },
   {
+   "id": "daredevil",
+   "ad": "Daredevil",
+   "seviye": "guclu",
+   "grup": "guc",
+   "etiketler": [],
+   "aciklama": "Görmeyen ama her şeyi hisseden avukat.",
+   "puan": {
+    "guc": 5,
+    "super_yetenek": 7,
+    "zeka": 7,
+    "takim_uyumu": 6
+   }
+  },
+  {
+   "id": "cyborg",
+   "ad": "Cyborg",
+   "seviye": "guclu",
+   "grup": "zeka",
+   "etiketler": [],
+   "aciklama": "Yarı insan yarı makine kahraman.",
+   "puan": {
+    "guc": 7,
+    "super_yetenek": 7,
+    "zeka": 8,
+    "takim_uyumu": 8
+   }
+  },
+  {
    "id": "rocket-raccoon",
    "ad": "Rocket Raccoon",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "zeka",
    "etiketler": [],
    "aciklama": "Silah ustası rakun.",
@@ -434,7 +462,7 @@
   {
    "id": "star-lord",
    "ad": "Star-Lord",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "zeka",
    "etiketler": [],
    "aciklama": "Galaksinin Koruyucuları'nın lideri.",
@@ -442,89 +470,61 @@
     "guc": 5,
     "super_yetenek": 4,
     "zeka": 6,
-    "takim_uyumu": 7
-   }
-  },
-  {
-   "id": "cyborg",
-   "ad": "Cyborg",
-   "seviye": "siradan",
-   "grup": "zeka",
-   "etiketler": [],
-   "aciklama": "Yarı insan yarı makine kahraman.",
-   "puan": {
-    "guc": 7,
-    "super_yetenek": 7,
-    "zeka": 8,
     "takim_uyumu": 8
    }
   },
   {
-   "id": "green-arrow",
-   "ad": "Green Arrow",
-   "seviye": "siradan",
+   "id": "hawkeye",
+   "ad": "Hawkeye",
+   "seviye": "guclu",
    "grup": "zeka",
    "etiketler": [],
-   "aciklama": "Teknolojik oklarıyla şehri koruyan okçu.",
+   "aciklama": "Hiç ıskalamayan okçu.",
    "puan": {
     "guc": 4,
-    "super_yetenek": 3,
+    "super_yetenek": 4,
     "zeka": 7,
-    "takim_uyumu": 7
-   }
-  },
-  {
-   "id": "gambit",
-   "ad": "Gambit",
-   "seviye": "siradan",
-   "grup": "ozel",
-   "etiketler": [],
-   "aciklama": "Kartlara enerji yükleyen mutant.",
-   "puan": {
-    "guc": 5,
-    "super_yetenek": 7,
-    "zeka": 6,
-    "takim_uyumu": 6
-   }
-  },
-  {
-   "id": "daredevil",
-   "ad": "Daredevil",
-   "seviye": "siradan",
-   "grup": "guc",
-   "etiketler": [],
-   "aciklama": "Görmeyen ama her şeyi hisseden avukat.",
-   "puan": {
-    "guc": 5,
-    "super_yetenek": 7,
-    "zeka": 7,
-    "takim_uyumu": 6
-   }
-  },
-  {
-   "id": "shazam",
-   "ad": "Shazam",
-   "seviye": "siradan",
-   "grup": "guc",
-   "etiketler": [],
-   "aciklama": "Bir kelimeyle yetişkin kahramana dönüşen çocuk.",
-   "puan": {
-    "guc": 9,
-    "super_yetenek": 8,
-    "zeka": 4,
-    "takim_uyumu": 7
+    "takim_uyumu": 8
    }
   },
   {
    "id": "falcon",
    "ad": "Falcon",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "zeka",
    "etiketler": [],
    "aciklama": "Kanatlarıyla uçan asker.",
    "puan": {
     "guc": 5,
     "super_yetenek": 5,
+    "zeka": 7,
+    "takim_uyumu": 8
+   }
+  },
+  {
+   "id": "ant-man",
+   "ad": "Ant-Man",
+   "seviye": "guclu",
+   "grup": "ozel",
+   "etiketler": [],
+   "aciklama": "Küçülüp büyüyebilen kahraman.",
+   "puan": {
+    "guc": 5,
+    "super_yetenek": 7,
+    "zeka": 6,
+    "takim_uyumu": 7
+   }
+  },
+  {
+   "id": "cyclops",
+   "ad": "Cyclops",
+   "seviye": "guclu",
+   "grup": "ozel",
+   "etiketler": [],
+   "aciklama": "Gözlerinden ışın atan X-Men lideri.",
+   "puan": {
+    "guc": 6,
+    "super_yetenek": 7,
     "zeka": 7,
     "takim_uyumu": 8
    }

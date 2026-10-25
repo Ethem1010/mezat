@@ -58,17 +58,17 @@ HAKEM NOTU: Çorba, ana yemek, yan yemek ve tatlı dengesi olan sofraya yüksek 
 
 TAKIM 1 — kod_puani: 87.6 (kodun zaten saydığı bonuslar: Tam sofra +8)
 - İskender [Ana yemek, efsane]: Tereyağı, yoğurt ve dönerin Bursa'daki buluşması. (Lezzet 10, Doyuruculuk 9, Sofra uyumu 7, Sevilme 10)
-- Hünkâr Beğendi [Ana yemek, güçlü]: Patlıcan beğendi üstünde tas kebabı. (Lezzet 9, Doyuruculuk 8, Sofra uyumu 8, Sevilme 8)
-- Künefe [Tatlı, güçlü]: Peynirli tel kadayıf, sıcak sıcak servis edilir. (Lezzet 10, Doyuruculuk 6, Sofra uyumu 6, Sevilme 9)
-- İmam Bayıldı [Pilav, salata, meze, sıradan]: Zeytinyağlı patlıcanın en zarif hali. (Lezzet 8, Doyuruculuk 5, Sofra uyumu 8, Sevilme 7)
-- Tarhana Çorbası [Çorba, sıradan]: Kış günlerinin ev yapımı çorbası. (Lezzet 7, Doyuruculuk 6, Sofra uyumu 8, Sevilme 6)
+- Hünkâr Beğendi [Ana yemek, yıldız]: Patlıcan beğendi üstünde tas kebabı. (Lezzet 9, Doyuruculuk 8, Sofra uyumu 8, Sevilme 8)
+- Künefe [Tatlı, yıldız]: Peynirli tel kadayıf, sıcak sıcak servis edilir. (Lezzet 10, Doyuruculuk 6, Sofra uyumu 6, Sevilme 9)
+- İmam Bayıldı [Pilav, salata, meze, yıldız]: Zeytinyağlı patlıcanın en zarif hali. (Lezzet 8, Doyuruculuk 5, Sofra uyumu 8, Sevilme 7)
+- Tarhana Çorbası [Çorba, yıldız]: Kış günlerinin ev yapımı çorbası. (Lezzet 7, Doyuruculuk 6, Sofra uyumu 8, Sevilme 6)
 
 TAKIM 2 — kod_puani: 77.2 (kodun zaten saydığı bonuslar: yok)
 - Kuru Fasulye [Ana yemek, efsane]: Pilavla birlikte milli yemek. (Lezzet 8, Doyuruculuk 9, Sofra uyumu 9, Sevilme 9)
-- Pirinç Pilavı [Pilav, salata, meze, güçlü]: Tane tane pilav her ana yemeğin dostu. (Lezzet 8, Doyuruculuk 7, Sofra uyumu 10, Sevilme 9)
-- Sarma [Pilav, salata, meze, güçlü]: Zeytinyağlı yaprak sarması. (Lezzet 9, Doyuruculuk 6, Sofra uyumu 8, Sevilme 8)
-- Türlü [Ana yemek, sıradan]: Mevsim sebzelerinin bir arada pişen hali. (Lezzet 7, Doyuruculuk 7, Sofra uyumu 8, Sevilme 6)
-- Haydari [Pilav, salata, meze, sıradan]: Süzme yoğurt ve naneyle meze klasiği. (Lezzet 7, Doyuruculuk 3, Sofra uyumu 9, Sevilme 7)
+- Pirinç Pilavı [Pilav, salata, meze, yıldız]: Tane tane pilav her ana yemeğin dostu. (Lezzet 8, Doyuruculuk 7, Sofra uyumu 10, Sevilme 9)
+- Sarma [Pilav, salata, meze, yıldız]: Zeytinyağlı yaprak sarması. (Lezzet 9, Doyuruculuk 6, Sofra uyumu 8, Sevilme 8)
+- Türlü [Ana yemek, yıldız]: Mevsim sebzelerinin bir arada pişen hali. (Lezzet 7, Doyuruculuk 7, Sofra uyumu 8, Sevilme 6)
+- Haydari [Pilav, salata, meze, yıldız]: Süzme yoğurt ve naneyle meze klasiği. (Lezzet 7, Doyuruculuk 3, Sofra uyumu 9, Sevilme 7)
 
 EŞLEŞMELER
 1. İskender (Takım 1) vs Kuru Fasulye (Takım 2) → Takım 1 kazandı

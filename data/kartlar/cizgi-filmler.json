@@ -71,30 +71,100 @@
    }
   },
   {
-   "id": "ninja-kaplumbagalar",
-   "ad": "Ninja Kaplumbağalar",
+   "id": "pembe-panter",
+   "ad": "Pembe Panter",
    "seviye": "efsane",
-   "grup": "doksanlar",
+   "grup": "klasik",
    "etiketler": [],
-   "aciklama": "Kanalizasyonda yaşayan pizza sever dört kahraman.",
+   "aciklama": "Sessiz ve şık pembe kahraman.",
    "puan": {
-    "eglence": 9,
-    "nostalji": 10,
+    "eglence": 8,
+    "nostalji": 9,
+    "karakter_sevgisi": 8,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "temel-reis",
+   "ad": "Temel Reis",
+   "seviye": "efsane",
+   "grup": "klasik",
+   "etiketler": [],
+   "aciklama": "Ispanakla güçlenen denizci.",
+   "puan": {
+    "eglence": 7,
+    "nostalji": 9,
+    "karakter_sevgisi": 8,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "red-kit",
+   "ad": "Red Kit",
+   "seviye": "efsane",
+   "grup": "klasik",
+   "etiketler": [],
+   "aciklama": "Gölgesinden hızlı silah çeken kovboy.",
+   "puan": {
+    "eglence": 8,
+    "nostalji": 9,
+    "karakter_sevgisi": 8,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "scooby-doo",
+   "ad": "Scooby-Doo",
+   "seviye": "efsane",
+   "grup": "klasik",
+   "etiketler": [],
+   "aciklama": "Gizem çözen korkak köpek ve arkadaşları.",
+   "puan": {
+    "eglence": 8,
+    "nostalji": 9,
     "karakter_sevgisi": 9,
     "efsanelik": 9
    }
   },
   {
-   "id": "pok-mon",
-   "ad": "Pokémon",
+   "id": "looney-tunes",
+   "ad": "Looney Tunes",
    "seviye": "efsane",
-   "grup": "anime",
+   "grup": "klasik",
    "etiketler": [],
-   "aciklama": "Ash ve Pikachu'nun macerası.",
+   "aciklama": "Bugs Bunny ve arkadaşlarının çılgın dünyası.",
+   "puan": {
+    "eglence": 9,
+    "nostalji": 9,
+    "karakter_sevgisi": 9,
+    "efsanelik": 10
+   }
+  },
+  {
+   "id": "garfield",
+   "ad": "Garfield",
+   "seviye": "efsane",
+   "grup": "klasik",
+   "etiketler": [],
+   "aciklama": "Lazanya seven tembel turuncu kedi.",
+   "puan": {
+    "eglence": 8,
+    "nostalji": 8,
+    "karakter_sevgisi": 9,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "ninja-kaplumbagalar",
+   "ad": "Ninja Kaplumbağalar",
+   "seviye": "efsane",
+   "grup": "doksanlar",
+   "etiketler": [],
+   "aciklama": "Kanalizasyondaki pizza sever dört kahraman.",
    "puan": {
     "eglence": 9,
     "nostalji": 10,
-    "karakter_sevgisi": 10,
+    "karakter_sevgisi": 9,
     "efsanelik": 9
    }
   },
@@ -113,16 +183,44 @@
    }
   },
   {
-   "id": "scooby-doo",
-   "ad": "Scooby-Doo",
+   "id": "dexter-in-laboratuvari",
+   "ad": "Dexter'ın Laboratuvarı",
    "seviye": "efsane",
-   "grup": "klasik",
+   "grup": "doksanlar",
    "etiketler": [],
-   "aciklama": "Gizem çözen korkak köpek ve arkadaşları.",
+   "aciklama": "Gizli laboratuvarı olan dâhi çocuk.",
    "puan": {
     "eglence": 8,
     "nostalji": 9,
-    "karakter_sevgisi": 9,
+    "karakter_sevgisi": 8,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "orumcek-adam-cizgi-dizi",
+   "ad": "Örümcek Adam (çizgi dizi)",
+   "seviye": "efsane",
+   "grup": "doksanlar",
+   "etiketler": [],
+   "aciklama": "90'ların sabahlarının ağ atan kahramanı.",
+   "puan": {
+    "eglence": 8,
+    "nostalji": 9,
+    "karakter_sevgisi": 8,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "pok-mon",
+   "ad": "Pokémon",
+   "seviye": "efsane",
+   "grup": "anime",
+   "etiketler": [],
+   "aciklama": "Ash ve Pikachu'nun macerası.",
+   "puan": {
+    "eglence": 9,
+    "nostalji": 10,
+    "karakter_sevgisi": 10,
     "efsanelik": 9
    }
   },
@@ -141,51 +239,9 @@
    }
   },
   {
-   "id": "pembe-panter",
-   "ad": "Pembe Panter",
-   "seviye": "guclu",
-   "grup": "klasik",
-   "etiketler": [],
-   "aciklama": "Sessiz ve şık pembe kahraman.",
-   "puan": {
-    "eglence": 8,
-    "nostalji": 9,
-    "karakter_sevgisi": 8,
-    "efsanelik": 9
-   }
-  },
-  {
-   "id": "temel-reis",
-   "ad": "Temel Reis",
-   "seviye": "guclu",
-   "grup": "klasik",
-   "etiketler": [],
-   "aciklama": "Ispanakla güçlenen denizci.",
-   "puan": {
-    "eglence": 7,
-    "nostalji": 9,
-    "karakter_sevgisi": 8,
-    "efsanelik": 8
-   }
-  },
-  {
-   "id": "red-kit",
-   "ad": "Red Kit",
-   "seviye": "guclu",
-   "grup": "klasik",
-   "etiketler": [],
-   "aciklama": "Gölgesinden hızlı silah çeken kovboy.",
-   "puan": {
-    "eglence": 8,
-    "nostalji": 9,
-    "karakter_sevgisi": 8,
-    "efsanelik": 8
-   }
-  },
-  {
    "id": "seker-kiz-candy",
    "ad": "Şeker Kız Candy",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "anime",
    "etiketler": [],
    "aciklama": "Nesillerin ağladığı yetim kızın hikâyesi.",
@@ -193,13 +249,13 @@
     "eglence": 7,
     "nostalji": 10,
     "karakter_sevgisi": 8,
-    "efsanelik": 7
+    "efsanelik": 8
    }
   },
   {
    "id": "kaptan-tsubasa",
    "ad": "Kaptan Tsubasa",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "anime",
    "etiketler": [],
    "aciklama": "Bitmeyen sahalarıyla futbol animesi.",
@@ -211,51 +267,9 @@
    }
   },
   {
-   "id": "heidi",
-   "ad": "Heidi",
-   "seviye": "guclu",
-   "grup": "anime",
-   "etiketler": [],
-   "aciklama": "Alplerde dedesiyle yaşayan küçük kız.",
-   "puan": {
-    "eglence": 6,
-    "nostalji": 9,
-    "karakter_sevgisi": 7,
-    "efsanelik": 7
-   }
-  },
-  {
-   "id": "sunger-bob",
-   "ad": "Sünger Bob",
-   "seviye": "guclu",
-   "grup": "yeni",
-   "etiketler": [],
-   "aciklama": "Ananas evde yaşayan neşeli sünger.",
-   "puan": {
-    "eglence": 10,
-    "nostalji": 8,
-    "karakter_sevgisi": 10,
-    "efsanelik": 9
-   }
-  },
-  {
-   "id": "ben-10",
-   "ad": "Ben 10",
-   "seviye": "guclu",
-   "grup": "yeni",
-   "etiketler": [],
-   "aciklama": "Saatiyle uzaylıya dönüşen çocuk.",
-   "puan": {
-    "eglence": 8,
-    "nostalji": 8,
-    "karakter_sevgisi": 8,
-    "efsanelik": 6
-   }
-  },
-  {
    "id": "naruto",
    "ad": "Naruto",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "anime",
    "etiketler": [],
    "aciklama": "Hokage olmak isteyen ninja.",
@@ -267,26 +281,208 @@
    }
   },
   {
+   "id": "one-piece",
+   "ad": "One Piece",
+   "seviye": "efsane",
+   "grup": "anime",
+   "etiketler": [],
+   "aciklama": "Korsanlar Kralı olmak isteyen Luffy.",
+   "puan": {
+    "eglence": 9,
+    "nostalji": 7,
+    "karakter_sevgisi": 9,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "sailor-moon",
+   "ad": "Sailor Moon",
+   "seviye": "efsane",
+   "grup": "anime",
+   "etiketler": [],
+   "aciklama": "Ay'ın gücüyle savaşan kızlar.",
+   "puan": {
+    "eglence": 8,
+    "nostalji": 9,
+    "karakter_sevgisi": 8,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "heidi",
+   "ad": "Heidi",
+   "seviye": "efsane",
+   "grup": "anime",
+   "etiketler": [],
+   "aciklama": "Alplerde dedesiyle yaşayan küçük kız.",
+   "puan": {
+    "eglence": 7,
+    "nostalji": 9,
+    "karakter_sevgisi": 8,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "sunger-bob",
+   "ad": "Sünger Bob",
+   "seviye": "efsane",
+   "grup": "yeni",
+   "etiketler": [],
+   "aciklama": "Ananas evde yaşayan neşeli sünger.",
+   "puan": {
+    "eglence": 10,
+    "nostalji": 8,
+    "karakter_sevgisi": 10,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "avatar-son-hava-bukucu",
+   "ad": "Avatar: Son Hava Bükücü",
+   "seviye": "efsane",
+   "grup": "yeni",
+   "etiketler": [],
+   "aciklama": "Dört elementi birleştiren Aang'in yolculuğu.",
+   "puan": {
+    "eglence": 9,
+    "nostalji": 8,
+    "karakter_sevgisi": 9,
+    "efsanelik": 9
+   }
+  },
+  {
+   "id": "ben-10",
+   "ad": "Ben 10",
+   "seviye": "efsane",
+   "grup": "yeni",
+   "etiketler": [],
+   "aciklama": "Saatiyle uzaylıya dönüşen çocuk.",
+   "puan": {
+    "eglence": 8,
+    "nostalji": 8,
+    "karakter_sevgisi": 8,
+    "efsanelik": 7
+   }
+  },
+  {
    "id": "rafadan-tayfa",
    "ad": "Rafadan Tayfa",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "yerli",
    "etiketler": [],
    "aciklama": "Mahallenin maceracı çocukları.",
    "puan": {
     "eglence": 8,
+    "nostalji": 7,
+    "karakter_sevgisi": 9,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "kral-sakir",
+   "ad": "Kral Şakir",
+   "seviye": "efsane",
+   "grup": "yerli",
+   "etiketler": [],
+   "aciklama": "Şakir ailesinin komik maceraları.",
+   "puan": {
+    "eglence": 9,
+    "nostalji": 7,
+    "karakter_sevgisi": 9,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "keloglan",
+   "ad": "Keloğlan",
+   "seviye": "guclu",
+   "grup": "yerli",
+   "etiketler": [],
+   "aciklama": "Türk masallarının sevimli kahramanı.",
+   "puan": {
+    "eglence": 7,
+    "nostalji": 9,
+    "karakter_sevgisi": 8,
+    "efsanelik": 8
+   }
+  },
+  {
+   "id": "pepee",
+   "ad": "Pepee",
+   "seviye": "guclu",
+   "grup": "yerli",
+   "etiketler": [],
+   "aciklama": "Okul öncesinin sevilen kahramanı.",
+   "puan": {
+    "eglence": 6,
+    "nostalji": 7,
+    "karakter_sevgisi": 8,
+    "efsanelik": 6
+   }
+  },
+  {
+   "id": "niloya",
+   "ad": "Niloya",
+   "seviye": "guclu",
+   "grup": "yerli",
+   "etiketler": [],
+   "aciklama": "Minik Niloya'nın sevimli dünyası.",
+   "puan": {
+    "eglence": 6,
     "nostalji": 6,
     "karakter_sevgisi": 8,
     "efsanelik": 5
    }
   },
   {
-   "id": "kral-sakir",
-   "ad": "Kral Şakir",
+   "id": "johnny-bravo",
+   "ad": "Johnny Bravo",
    "seviye": "guclu",
-   "grup": "yerli",
+   "grup": "doksanlar",
    "etiketler": [],
-   "aciklama": "Şakir ailesinin komik maceraları.",
+   "aciklama": "Kendini çok yakışıklı sanan kaslı adam.",
+   "puan": {
+    "eglence": 8,
+    "nostalji": 9,
+    "karakter_sevgisi": 7,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "powerpuff-girls",
+   "ad": "Powerpuff Girls",
+   "seviye": "guclu",
+   "grup": "doksanlar",
+   "etiketler": [],
+   "aciklama": "Şehri koruyan üç süper kız.",
+   "puan": {
+    "eglence": 8,
+    "nostalji": 8,
+    "karakter_sevgisi": 8,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "cesur-korkak-kopek",
+   "ad": "Cesur Korkak Köpek",
+   "seviye": "guclu",
+   "grup": "doksanlar",
+   "etiketler": [],
+   "aciklama": "Courage'ın korku dolu maceraları.",
+   "puan": {
+    "eglence": 7,
+    "nostalji": 9,
+    "karakter_sevgisi": 8,
+    "efsanelik": 7
+   }
+  },
+  {
+   "id": "masa-ile-koca-ayi",
+   "ad": "Maşa ile Koca Ayı",
+   "seviye": "guclu",
+   "grup": "yeni",
+   "etiketler": [],
+   "aciklama": "Yaramaz Maşa ile sabırlı ayı.",
    "puan": {
     "eglence": 8,
     "nostalji": 6,
@@ -295,29 +491,15 @@
    }
   },
   {
-   "id": "looney-tunes",
-   "ad": "Looney Tunes",
+   "id": "phineas-ve-ferb",
+   "ad": "Phineas ve Ferb",
    "seviye": "guclu",
-   "grup": "klasik",
+   "grup": "yeni",
    "etiketler": [],
-   "aciklama": "Bugs Bunny ve arkadaşlarının çılgın dünyası.",
-   "puan": {
-    "eglence": 9,
-    "nostalji": 9,
-    "karakter_sevgisi": 9,
-    "efsanelik": 10
-   }
-  },
-  {
-   "id": "orumcek-adam-cizgi-dizi",
-   "ad": "Örümcek Adam (çizgi dizi)",
-   "seviye": "guclu",
-   "grup": "doksanlar",
-   "etiketler": [],
-   "aciklama": "90'ların sabahlarının ağ atan kahramanı.",
+   "aciklama": "Yaz tatilini icatlarla dolduran kardeşler.",
    "puan": {
     "eglence": 8,
-    "nostalji": 9,
+    "nostalji": 7,
     "karakter_sevgisi": 8,
     "efsanelik": 7
    }
@@ -333,201 +515,19 @@
     "eglence": 8,
     "nostalji": 6,
     "karakter_sevgisi": 7,
-    "efsanelik": 5
-   }
-  },
-  {
-   "id": "niloya",
-   "ad": "Niloya",
-   "seviye": "siradan",
-   "grup": "yerli",
-   "etiketler": [],
-   "aciklama": "Minik Niloya'nın sevimli dünyası.",
-   "puan": {
-    "eglence": 6,
-    "nostalji": 5,
-    "karakter_sevgisi": 7,
-    "efsanelik": 4
-   }
-  },
-  {
-   "id": "pepee",
-   "ad": "Pepee",
-   "seviye": "siradan",
-   "grup": "yerli",
-   "etiketler": [],
-   "aciklama": "Okul öncesinin sevilen kahramanı.",
-   "puan": {
-    "eglence": 6,
-    "nostalji": 6,
-    "karakter_sevgisi": 7,
-    "efsanelik": 4
-   }
-  },
-  {
-   "id": "masa-ile-koca-ayi",
-   "ad": "Maşa ile Koca Ayı",
-   "seviye": "siradan",
-   "grup": "yeni",
-   "etiketler": [],
-   "aciklama": "Yaramaz Maşa ile sabırlı ayı.",
-   "puan": {
-    "eglence": 8,
-    "nostalji": 6,
-    "karakter_sevgisi": 8,
-    "efsanelik": 5
-   }
-  },
-  {
-   "id": "phineas-ve-ferb",
-   "ad": "Phineas ve Ferb",
-   "seviye": "siradan",
-   "grup": "yeni",
-   "etiketler": [],
-   "aciklama": "Yaz tatilini icatlarla dolduran kardeşler.",
-   "puan": {
-    "eglence": 8,
-    "nostalji": 7,
-    "karakter_sevgisi": 7,
     "efsanelik": 6
    }
   },
   {
    "id": "adventure-time",
    "ad": "Adventure Time",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "yeni",
    "etiketler": [],
    "aciklama": "Finn ve Jake'in tuhaf maceraları.",
    "puan": {
     "eglence": 8,
     "nostalji": 6,
-    "karakter_sevgisi": 7,
-    "efsanelik": 7
-   }
-  },
-  {
-   "id": "dexter-in-laboratuvari",
-   "ad": "Dexter'ın Laboratuvarı",
-   "seviye": "siradan",
-   "grup": "doksanlar",
-   "etiketler": [],
-   "aciklama": "Gizli laboratuvarı olan dâhi çocuk.",
-   "puan": {
-    "eglence": 8,
-    "nostalji": 9,
-    "karakter_sevgisi": 7,
-    "efsanelik": 7
-   }
-  },
-  {
-   "id": "johnny-bravo",
-   "ad": "Johnny Bravo",
-   "seviye": "siradan",
-   "grup": "doksanlar",
-   "etiketler": [],
-   "aciklama": "Kendini çok yakışıklı sanan kaslı adam.",
-   "puan": {
-    "eglence": 7,
-    "nostalji": 9,
-    "karakter_sevgisi": 7,
-    "efsanelik": 6
-   }
-  },
-  {
-   "id": "powerpuff-girls",
-   "ad": "Powerpuff Girls",
-   "seviye": "siradan",
-   "grup": "doksanlar",
-   "etiketler": [],
-   "aciklama": "Şehri koruyan üç süper kız.",
-   "puan": {
-    "eglence": 7,
-    "nostalji": 8,
-    "karakter_sevgisi": 7,
-    "efsanelik": 7
-   }
-  },
-  {
-   "id": "cesur-korkak-kopek",
-   "ad": "Cesur Korkak Köpek",
-   "seviye": "siradan",
-   "grup": "doksanlar",
-   "etiketler": [],
-   "aciklama": "Courage'ın korku dolu maceraları.",
-   "puan": {
-    "eglence": 7,
-    "nostalji": 9,
-    "karakter_sevgisi": 7,
-    "efsanelik": 6
-   }
-  },
-  {
-   "id": "avatar-son-hava-bukucu",
-   "ad": "Avatar: Son Hava Bükücü",
-   "seviye": "siradan",
-   "grup": "yeni",
-   "etiketler": [],
-   "aciklama": "Dört elementi birleştiren Aang'in yolculuğu.",
-   "puan": {
-    "eglence": 9,
-    "nostalji": 7,
-    "karakter_sevgisi": 9,
-    "efsanelik": 8
-   }
-  },
-  {
-   "id": "one-piece",
-   "ad": "One Piece",
-   "seviye": "siradan",
-   "grup": "anime",
-   "etiketler": [],
-   "aciklama": "Korsanlar Kralı olmak isteyen Luffy.",
-   "puan": {
-    "eglence": 8,
-    "nostalji": 6,
-    "karakter_sevgisi": 8,
-    "efsanelik": 9
-   }
-  },
-  {
-   "id": "sailor-moon",
-   "ad": "Sailor Moon",
-   "seviye": "siradan",
-   "grup": "anime",
-   "etiketler": [],
-   "aciklama": "Ay'ın gücüyle savaşan kızlar.",
-   "puan": {
-    "eglence": 7,
-    "nostalji": 9,
-    "karakter_sevgisi": 7,
-    "efsanelik": 8
-   }
-  },
-  {
-   "id": "caillou",
-   "ad": "Caillou",
-   "seviye": "siradan",
-   "grup": "yeni",
-   "etiketler": [],
-   "aciklama": "Dört yaşındaki Caillou'nun günlük hayatı.",
-   "puan": {
-    "eglence": 4,
-    "nostalji": 7,
-    "karakter_sevgisi": 3,
-    "efsanelik": 4
-   }
-  },
-  {
-   "id": "garfield",
-   "ad": "Garfield",
-   "seviye": "siradan",
-   "grup": "klasik",
-   "etiketler": [],
-   "aciklama": "Lazanya seven tembel turuncu kedi.",
-   "puan": {
-    "eglence": 7,
-    "nostalji": 8,
     "karakter_sevgisi": 8,
     "efsanelik": 7
    }

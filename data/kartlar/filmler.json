@@ -57,17 +57,143 @@
    }
   },
   {
-   "id": "avatar",
-   "ad": "Avatar",
+   "id": "baba",
+   "ad": "Baba",
    "seviye": "efsane",
-   "grup": "fantastik",
+   "grup": "dram",
    "etiketler": [],
-   "aciklama": "Pandora'da geçen, gişe rekorları kıran bilimkurgu.",
+   "aciklama": "Corleone ailesi; sinemanın zirvesi.",
+   "puan": {
+    "gise": 8,
+    "efsanelik": 10,
+    "oduller": 10,
+    "tekrar_izlenme": 8
+   }
+  },
+  {
+   "id": "esaretin-bedeli",
+   "ad": "Esaretin Bedeli",
+   "seviye": "efsane",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Umut ve dostluk üzerine en sevilen filmlerden.",
+   "puan": {
+    "gise": 6,
+    "efsanelik": 10,
+    "oduller": 7,
+    "tekrar_izlenme": 10
+   }
+  },
+  {
+   "id": "forrest-gump",
+   "ad": "Forrest Gump",
+   "seviye": "efsane",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Hayat bir kutu çikolata gibidir.",
+   "puan": {
+    "gise": 9,
+    "efsanelik": 9,
+    "oduller": 10,
+    "tekrar_izlenme": 9
+   }
+  },
+  {
+   "id": "schindler-in-listesi",
+   "ad": "Schindler'in Listesi",
+   "seviye": "efsane",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Holokost'ta bin kişiyi kurtaran adamın hikâyesi.",
+   "puan": {
+    "gise": 7,
+    "efsanelik": 10,
+    "oduller": 10,
+    "tekrar_izlenme": 6
+   }
+  },
+  {
+   "id": "babam-ve-oglum",
+   "ad": "Babam ve Oğlum",
+   "seviye": "efsane",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Ağlatan baba oğul hikâyesi.",
+   "puan": {
+    "gise": 8,
+    "efsanelik": 9,
+    "oduller": 6,
+    "tekrar_izlenme": 7
+   }
+  },
+  {
+   "id": "eskiya",
+   "ad": "Eşkıya",
+   "seviye": "efsane",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Yıllar sonra hapisten çıkan eşkıyanın İstanbul'u.",
+   "puan": {
+    "gise": 7,
+    "efsanelik": 9,
+    "oduller": 6,
+    "tekrar_izlenme": 7
+   }
+  },
+  {
+   "id": "kara-sovalye",
+   "ad": "Kara Şövalye",
+   "seviye": "efsane",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Batman ve Joker'in efsane karşılaşması.",
+   "puan": {
+    "gise": 10,
+    "efsanelik": 10,
+    "oduller": 8,
+    "tekrar_izlenme": 9
+   }
+  },
+  {
+   "id": "gladyator",
+   "ad": "Gladyatör",
+   "seviye": "efsane",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Generalden gladyatöre bir intikam hikâyesi.",
+   "puan": {
+    "gise": 9,
+    "efsanelik": 9,
+    "oduller": 9,
+    "tekrar_izlenme": 8
+   }
+  },
+  {
+   "id": "avengers-endgame",
+   "ad": "Avengers: Endgame",
+   "seviye": "efsane",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Süper kahraman destanının büyük finali.",
    "puan": {
     "gise": 10,
     "efsanelik": 8,
-    "oduller": 7,
-    "tekrar_izlenme": 6
+    "oduller": 5,
+    "tekrar_izlenme": 7
+   }
+  },
+  {
+   "id": "pulp-fiction",
+   "ad": "Pulp Fiction",
+   "seviye": "efsane",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "İç içe geçmiş suç hikâyeleri.",
+   "puan": {
+    "gise": 7,
+    "efsanelik": 10,
+    "oduller": 8,
+    "tekrar_izlenme": 8
    }
   },
   {
@@ -85,20 +211,6 @@
    }
   },
   {
-   "id": "baba",
-   "ad": "Baba",
-   "seviye": "efsane",
-   "grup": "dram",
-   "etiketler": [],
-   "aciklama": "Corleone ailesinin hikâyesi; sinemanın zirvesi.",
-   "puan": {
-    "gise": 8,
-    "efsanelik": 10,
-    "oduller": 10,
-    "tekrar_izlenme": 8
-   }
-  },
-  {
    "id": "matrix",
    "ad": "Matrix",
    "seviye": "efsane",
@@ -109,6 +221,104 @@
     "gise": 9,
     "efsanelik": 10,
     "oduller": 7,
+    "tekrar_izlenme": 9
+   }
+  },
+  {
+   "id": "star-wars",
+   "ad": "Star Wars",
+   "seviye": "efsane",
+   "grup": "fantastik",
+   "etiketler": [],
+   "aciklama": "Uzak bir galakside başlayan efsane seri.",
+   "puan": {
+    "gise": 10,
+    "efsanelik": 10,
+    "oduller": 8,
+    "tekrar_izlenme": 8
+   }
+  },
+  {
+   "id": "avatar",
+   "ad": "Avatar",
+   "seviye": "efsane",
+   "grup": "fantastik",
+   "etiketler": [],
+   "aciklama": "Pandora'da geçen gişe rekortmeni.",
+   "puan": {
+    "gise": 10,
+    "efsanelik": 8,
+    "oduller": 7,
+    "tekrar_izlenme": 6
+   }
+  },
+  {
+   "id": "inception",
+   "ad": "Inception",
+   "seviye": "efsane",
+   "grup": "fantastik",
+   "etiketler": [],
+   "aciklama": "Rüya içinde rüya.",
+   "puan": {
+    "gise": 9,
+    "efsanelik": 9,
+    "oduller": 8,
+    "tekrar_izlenme": 8
+   }
+  },
+  {
+   "id": "yildizlararasi",
+   "ad": "Yıldızlararası",
+   "seviye": "efsane",
+   "grup": "fantastik",
+   "etiketler": [],
+   "aciklama": "Zaman ve uzayın ötesine yolculuk.",
+   "puan": {
+    "gise": 9,
+    "efsanelik": 9,
+    "oduller": 7,
+    "tekrar_izlenme": 8
+   }
+  },
+  {
+   "id": "jurassic-park",
+   "ad": "Jurassic Park",
+   "seviye": "efsane",
+   "grup": "fantastik",
+   "etiketler": [],
+   "aciklama": "Dinozorlar yeniden canlanıyor.",
+   "puan": {
+    "gise": 10,
+    "efsanelik": 9,
+    "oduller": 7,
+    "tekrar_izlenme": 8
+   }
+  },
+  {
+   "id": "gelecege-donus",
+   "ad": "Geleceğe Dönüş",
+   "seviye": "efsane",
+   "grup": "fantastik",
+   "etiketler": [],
+   "aciklama": "DeLorean ile zaman yolculuğu.",
+   "puan": {
+    "gise": 9,
+    "efsanelik": 10,
+    "oduller": 6,
+    "tekrar_izlenme": 9
+   }
+  },
+  {
+   "id": "harry-potter-ve-felsefe-tasi",
+   "ad": "Harry Potter ve Felsefe Taşı",
+   "seviye": "efsane",
+   "grup": "fantastik",
+   "etiketler": [],
+   "aciklama": "Hogwarts'a ilk adım.",
+   "puan": {
+    "gise": 10,
+    "efsanelik": 9,
+    "oduller": 6,
     "tekrar_izlenme": 9
    }
   },
@@ -127,6 +337,34 @@
    }
   },
   {
+   "id": "g-o-r-a",
+   "ad": "G.O.R.A.",
+   "seviye": "efsane",
+   "grup": "komedi",
+   "etiketler": [],
+   "aciklama": "Uzaylılarla dolu kült Türk komedisi.",
+   "puan": {
+    "gise": 8,
+    "efsanelik": 9,
+    "oduller": 4,
+    "tekrar_izlenme": 10
+   }
+  },
+  {
+   "id": "vizontele",
+   "ad": "Vizontele",
+   "seviye": "efsane",
+   "grup": "komedi",
+   "etiketler": [],
+   "aciklama": "Köye televizyonun gelişi.",
+   "puan": {
+    "gise": 8,
+    "efsanelik": 9,
+    "oduller": 5,
+    "tekrar_izlenme": 9
+   }
+  },
+  {
    "id": "aslan-kral",
    "ad": "Aslan Kral",
    "seviye": "efsane",
@@ -141,40 +379,12 @@
    }
   },
   {
-   "id": "esaretin-bedeli",
-   "ad": "Esaretin Bedeli",
-   "seviye": "guclu",
-   "grup": "dram",
+   "id": "oyuncak-hikayesi",
+   "ad": "Oyuncak Hikayesi",
+   "seviye": "efsane",
+   "grup": "animasyon",
    "etiketler": [],
-   "aciklama": "Umut ve dostluk üzerine en sevilen filmlerden.",
-   "puan": {
-    "gise": 6,
-    "efsanelik": 10,
-    "oduller": 7,
-    "tekrar_izlenme": 10
-   }
-  },
-  {
-   "id": "kara-sovalye",
-   "ad": "Kara Şövalye",
-   "seviye": "guclu",
-   "grup": "aksiyon",
-   "etiketler": [],
-   "aciklama": "Batman ve Joker'in efsane karşılaşması.",
-   "puan": {
-    "gise": 10,
-    "efsanelik": 10,
-    "oduller": 8,
-    "tekrar_izlenme": 9
-   }
-  },
-  {
-   "id": "inception",
-   "ad": "Inception",
-   "seviye": "guclu",
-   "grup": "fantastik",
-   "etiketler": [],
-   "aciklama": "Rüya içinde rüya.",
+   "aciklama": "Oyuncakların gizli dünyası.",
    "puan": {
     "gise": 9,
     "efsanelik": 9,
@@ -183,129 +393,73 @@
    }
   },
   {
-   "id": "avengers-endgame",
-   "ad": "Avengers: Endgame",
+   "id": "joker",
+   "ad": "Joker",
    "seviye": "guclu",
-   "grup": "aksiyon",
+   "grup": "dram",
    "etiketler": [],
-   "aciklama": "Süper kahraman destanının büyük finali.",
+   "aciklama": "Bir kötü karakterin doğuşu.",
    "puan": {
-    "gise": 10,
+    "gise": 9,
     "efsanelik": 8,
-    "oduller": 5,
+    "oduller": 8,
+    "tekrar_izlenme": 6
+   }
+  },
+  {
+   "id": "rocky",
+   "ad": "Rocky",
+   "seviye": "guclu",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Bir boksörün hayallerine tutunması.",
+   "puan": {
+    "gise": 7,
+    "efsanelik": 9,
+    "oduller": 9,
     "tekrar_izlenme": 7
    }
   },
   {
-   "id": "star-wars",
-   "ad": "Star Wars",
-   "seviye": "guclu",
-   "grup": "fantastik",
-   "etiketler": [],
-   "aciklama": "Uzak bir galakside başlayan efsane seri.",
-   "puan": {
-    "gise": 10,
-    "efsanelik": 10,
-    "oduller": 8,
-    "tekrar_izlenme": 8
-   }
-  },
-  {
-   "id": "jurassic-park",
-   "ad": "Jurassic Park",
-   "seviye": "guclu",
-   "grup": "fantastik",
-   "etiketler": [],
-   "aciklama": "Dinozorlar yeniden canlanıyor.",
-   "puan": {
-    "gise": 10,
-    "efsanelik": 9,
-    "oduller": 7,
-    "tekrar_izlenme": 8
-   }
-  },
-  {
-   "id": "forrest-gump",
-   "ad": "Forrest Gump",
-   "seviye": "guclu",
-   "grup": "dram",
-   "etiketler": [],
-   "aciklama": "Hayat bir kutu çikolata gibidir.",
-   "puan": {
-    "gise": 9,
-    "efsanelik": 9,
-    "oduller": 10,
-    "tekrar_izlenme": 9
-   }
-  },
-  {
-   "id": "gladyator",
-   "ad": "Gladyatör",
+   "id": "deadpool",
+   "ad": "Deadpool",
    "seviye": "guclu",
    "grup": "aksiyon",
    "etiketler": [],
-   "aciklama": "Generalden gladyatöre bir intikam hikâyesi.",
+   "aciklama": "Dördüncü duvarı yıkan antikahraman.",
    "puan": {
     "gise": 9,
-    "efsanelik": 9,
-    "oduller": 9,
-    "tekrar_izlenme": 8
+    "efsanelik": 7,
+    "oduller": 3,
+    "tekrar_izlenme": 7
    }
   },
   {
-   "id": "yildizlararasi",
-   "ad": "Yıldızlararası",
+   "id": "hizli-ve-ofkeli",
+   "ad": "Hızlı ve Öfkeli",
+   "seviye": "guclu",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Arabalar, aile ve fizik kurallarını zorlayan sahneler.",
+   "puan": {
+    "gise": 9,
+    "efsanelik": 7,
+    "oduller": 2,
+    "tekrar_izlenme": 7
+   }
+  },
+  {
+   "id": "karayip-korsanlari",
+   "ad": "Karayip Korsanları",
    "seviye": "guclu",
    "grup": "fantastik",
    "etiketler": [],
-   "aciklama": "Zaman ve uzayın ötesine yolculuk.",
+   "aciklama": "Kaptan Jack Sparrow'un maceraları.",
    "puan": {
     "gise": 9,
-    "efsanelik": 9,
-    "oduller": 7,
-    "tekrar_izlenme": 8
-   }
-  },
-  {
-   "id": "harry-potter-ve-felsefe-tasi",
-   "ad": "Harry Potter ve Felsefe Taşı",
-   "seviye": "guclu",
-   "grup": "fantastik",
-   "etiketler": [],
-   "aciklama": "Hogwarts'a ilk adım.",
-   "puan": {
-    "gise": 10,
-    "efsanelik": 9,
-    "oduller": 6,
-    "tekrar_izlenme": 9
-   }
-  },
-  {
-   "id": "vizontele",
-   "ad": "Vizontele",
-   "seviye": "guclu",
-   "grup": "komedi",
-   "etiketler": [],
-   "aciklama": "Köye televizyonun gelişi.",
-   "puan": {
-    "gise": 7,
     "efsanelik": 8,
-    "oduller": 5,
-    "tekrar_izlenme": 8
-   }
-  },
-  {
-   "id": "g-o-r-a",
-   "ad": "G.O.R.A.",
-   "seviye": "guclu",
-   "grup": "komedi",
-   "etiketler": [],
-   "aciklama": "Uzaylılarla dolu kült Türk komedisi.",
-   "puan": {
-    "gise": 8,
-    "efsanelik": 9,
     "oduller": 4,
-    "tekrar_izlenme": 10
+    "tekrar_izlenme": 8
    }
   },
   {
@@ -323,163 +477,9 @@
    }
   },
   {
-   "id": "babam-ve-oglum",
-   "ad": "Babam ve Oğlum",
-   "seviye": "guclu",
-   "grup": "dram",
-   "etiketler": [],
-   "aciklama": "Ağlatan baba oğul hikâyesi.",
-   "puan": {
-    "gise": 8,
-    "efsanelik": 9,
-    "oduller": 6,
-    "tekrar_izlenme": 7
-   }
-  },
-  {
-   "id": "eskiya",
-   "ad": "Eşkıya",
-   "seviye": "siradan",
-   "grup": "dram",
-   "etiketler": [],
-   "aciklama": "Yıllar sonra hapisten çıkan eşkıyanın İstanbul'u.",
-   "puan": {
-    "gise": 6,
-    "efsanelik": 9,
-    "oduller": 6,
-    "tekrar_izlenme": 7
-   }
-  },
-  {
-   "id": "kis-uykusu",
-   "ad": "Kış Uykusu",
-   "seviye": "siradan",
-   "grup": "dram",
-   "etiketler": [],
-   "aciklama": "Cannes'da Altın Palmiye kazanan film.",
-   "puan": {
-    "gise": 3,
-    "efsanelik": 6,
-    "oduller": 10,
-    "tekrar_izlenme": 3
-   }
-  },
-  {
-   "id": "ayla",
-   "ad": "Ayla",
-   "seviye": "siradan",
-   "grup": "dram",
-   "etiketler": [],
-   "aciklama": "Kore Savaşı'nda bir askerle küçük kızın hikâyesi.",
-   "puan": {
-    "gise": 7,
-    "efsanelik": 6,
-    "oduller": 5,
-    "tekrar_izlenme": 5
-   }
-  },
-  {
-   "id": "pulp-fiction",
-   "ad": "Pulp Fiction",
-   "seviye": "siradan",
-   "grup": "aksiyon",
-   "etiketler": [],
-   "aciklama": "İç içe geçmiş suç hikâyeleri.",
-   "puan": {
-    "gise": 7,
-    "efsanelik": 9,
-    "oduller": 8,
-    "tekrar_izlenme": 8
-   }
-  },
-  {
-   "id": "joker",
-   "ad": "Joker",
-   "seviye": "siradan",
-   "grup": "dram",
-   "etiketler": [],
-   "aciklama": "Bir kötü karakterin doğuşu.",
-   "puan": {
-    "gise": 9,
-    "efsanelik": 7,
-    "oduller": 8,
-    "tekrar_izlenme": 6
-   }
-  },
-  {
-   "id": "deadpool",
-   "ad": "Deadpool",
-   "seviye": "siradan",
-   "grup": "aksiyon",
-   "etiketler": [],
-   "aciklama": "Dördüncü duvarı yıkan antikahraman.",
-   "puan": {
-    "gise": 9,
-    "efsanelik": 7,
-    "oduller": 3,
-    "tekrar_izlenme": 7
-   }
-  },
-  {
-   "id": "hizli-ve-ofkeli",
-   "ad": "Hızlı ve Öfkeli",
-   "seviye": "siradan",
-   "grup": "aksiyon",
-   "etiketler": [],
-   "aciklama": "Arabalar, aile ve fizik kurallarını zorlayan sahneler.",
-   "puan": {
-    "gise": 9,
-    "efsanelik": 7,
-    "oduller": 2,
-    "tekrar_izlenme": 7
-   }
-  },
-  {
-   "id": "shrek",
-   "ad": "Shrek",
-   "seviye": "siradan",
-   "grup": "animasyon",
-   "etiketler": [],
-   "aciklama": "Bataklıktaki yeşil devin masalları ters yüz edişi.",
-   "puan": {
-    "gise": 9,
-    "efsanelik": 8,
-    "oduller": 6,
-    "tekrar_izlenme": 9
-   }
-  },
-  {
-   "id": "buz-devri",
-   "ad": "Buz Devri",
-   "seviye": "siradan",
-   "grup": "animasyon",
-   "etiketler": [],
-   "aciklama": "Mamut, tembel hayvan ve kaplan buzul çağında.",
-   "puan": {
-    "gise": 9,
-    "efsanelik": 7,
-    "oduller": 3,
-    "tekrar_izlenme": 8
-   }
-  },
-  {
-   "id": "oyuncak-hikayesi",
-   "ad": "Oyuncak Hikayesi",
-   "seviye": "siradan",
-   "grup": "animasyon",
-   "etiketler": [],
-   "aciklama": "Oyuncakların gizli dünyası.",
-   "puan": {
-    "gise": 9,
-    "efsanelik": 9,
-    "oduller": 8,
-    "tekrar_izlenme": 8
-   }
-  },
-  {
    "id": "evde-tek-basina",
    "ad": "Evde Tek Başına",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "komedi",
    "etiketler": [],
    "aciklama": "Yılbaşı klasiği; evi hırsızlardan korumak.",
@@ -493,7 +493,7 @@
   {
    "id": "maske",
    "ad": "Maske",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "komedi",
    "etiketler": [],
    "aciklama": "Maskeyi takınca çılgına dönen adam.",
@@ -505,31 +505,31 @@
    }
   },
   {
-   "id": "karayip-korsanlari",
-   "ad": "Karayip Korsanları",
-   "seviye": "siradan",
-   "grup": "fantastik",
+   "id": "shrek",
+   "ad": "Shrek",
+   "seviye": "guclu",
+   "grup": "animasyon",
    "etiketler": [],
-   "aciklama": "Kaptan Jack Sparrow'un maceraları.",
+   "aciklama": "Bataklıktaki yeşil devin masalları ters yüz edişi.",
    "puan": {
     "gise": 9,
     "efsanelik": 8,
-    "oduller": 4,
-    "tekrar_izlenme": 8
+    "oduller": 6,
+    "tekrar_izlenme": 9
    }
   },
   {
-   "id": "rocky",
-   "ad": "Rocky",
-   "seviye": "siradan",
-   "grup": "dram",
+   "id": "buz-devri",
+   "ad": "Buz Devri",
+   "seviye": "guclu",
+   "grup": "animasyon",
    "etiketler": [],
-   "aciklama": "Bir boksörün hayallerine tutunması.",
+   "aciklama": "Mamut, tembel hayvan ve kaplan buzul çağında.",
    "puan": {
-    "gise": 7,
-    "efsanelik": 9,
-    "oduller": 9,
-    "tekrar_izlenme": 7
+    "gise": 9,
+    "efsanelik": 7,
+    "oduller": 3,
+    "tekrar_izlenme": 8
    }
   }
  ]

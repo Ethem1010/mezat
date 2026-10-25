@@ -50,9 +50,121 @@
    "aciklama": "Kimya öğretmeninin suç dünyasına dönüşümü.",
    "puan": {
     "hikaye": 10,
+    "reyting": 9,
+    "efsanelik": 10,
+    "tekrar_izlenme": 8
+   }
+  },
+  {
+   "id": "the-sopranos",
+   "ad": "The Sopranos",
+   "seviye": "efsane",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Mafya babasının terapi seansları.",
+   "puan": {
+    "hikaye": 10,
     "reyting": 8,
     "efsanelik": 10,
     "tekrar_izlenme": 8
+   }
+  },
+  {
+   "id": "kurtlar-vadisi",
+   "ad": "Kurtlar Vadisi",
+   "seviye": "efsane",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Polat Alemdar; Türk dizilerinin en efsanelerinden.",
+   "puan": {
+    "hikaye": 8,
+    "reyting": 10,
+    "efsanelik": 9,
+    "tekrar_izlenme": 7
+   }
+  },
+  {
+   "id": "prison-break",
+   "ad": "Prison Break",
+   "seviye": "efsane",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Dövmedeki planla hapisten kaçış.",
+   "puan": {
+    "hikaye": 8,
+    "reyting": 9,
+    "efsanelik": 9,
+    "tekrar_izlenme": 7
+   }
+  },
+  {
+   "id": "la-casa-de-papel",
+   "ad": "La Casa de Papel",
+   "seviye": "efsane",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Profesör ve darphane soygunu.",
+   "puan": {
+    "hikaye": 8,
+    "reyting": 9,
+    "efsanelik": 8,
+    "tekrar_izlenme": 6
+   }
+  },
+  {
+   "id": "sherlock",
+   "ad": "Sherlock",
+   "seviye": "efsane",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Modern Londra'da dâhi dedektif.",
+   "puan": {
+    "hikaye": 9,
+    "reyting": 8,
+    "efsanelik": 9,
+    "tekrar_izlenme": 8
+   }
+  },
+  {
+   "id": "behzat-c",
+   "ad": "Behzat Ç.",
+   "seviye": "efsane",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Ankara'nın sert ve kendine özgü komiseri.",
+   "puan": {
+    "hikaye": 9,
+    "reyting": 7,
+    "efsanelik": 9,
+    "tekrar_izlenme": 8
+   }
+  },
+  {
+   "id": "peaky-blinders",
+   "ad": "Peaky Blinders",
+   "seviye": "efsane",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Birmingham'ın şapkalı çetesi.",
+   "puan": {
+    "hikaye": 9,
+    "reyting": 8,
+    "efsanelik": 9,
+    "tekrar_izlenme": 8
+   }
+  },
+  {
+   "id": "dexter",
+   "ad": "Dexter",
+   "seviye": "efsane",
+   "grup": "aksiyon",
+   "etiketler": [],
+   "aciklama": "Gizli bir hayat süren adli tıp uzmanı.",
+   "puan": {
+    "hikaye": 8,
+    "reyting": 8,
+    "efsanelik": 8,
+    "tekrar_izlenme": 7
    }
   },
   {
@@ -70,12 +182,12 @@
    }
   },
   {
-   "id": "kurtlar-vadisi",
-   "ad": "Kurtlar Vadisi",
+   "id": "stranger-things",
+   "ad": "Stranger Things",
    "seviye": "efsane",
-   "grup": "aksiyon",
+   "grup": "fantastik",
    "etiketler": [],
-   "aciklama": "Polat Alemdar ve Türk dizilerinin en efsanelerinden.",
+   "aciklama": "80'ler havasında doğaüstü macera.",
    "puan": {
     "hikaye": 8,
     "reyting": 10,
@@ -84,31 +196,31 @@
    }
   },
   {
-   "id": "avrupa-yakasi",
-   "ad": "Avrupa Yakası",
+   "id": "dark",
+   "ad": "Dark",
    "seviye": "efsane",
-   "grup": "komedi",
+   "grup": "fantastik",
    "etiketler": [],
-   "aciklama": "Bitmeyen esprileriyle defalarca izlenen komedi.",
+   "aciklama": "Zaman yolculuğuyla iç içe aile sırları.",
    "puan": {
-    "hikaye": 8,
-    "reyting": 9,
-    "efsanelik": 9,
-    "tekrar_izlenme": 10
+    "hikaye": 10,
+    "reyting": 7,
+    "efsanelik": 8,
+    "tekrar_izlenme": 7
    }
   },
   {
-   "id": "friends",
-   "ad": "Friends",
+   "id": "black-mirror",
+   "ad": "Black Mirror",
    "seviye": "efsane",
-   "grup": "komedi",
+   "grup": "fantastik",
    "etiketler": [],
-   "aciklama": "Altı arkadaşın New York hikâyesi.",
+   "aciklama": "Teknolojinin karanlık yüzü.",
    "puan": {
-    "hikaye": 8,
-    "reyting": 10,
-    "efsanelik": 10,
-    "tekrar_izlenme": 10
+    "hikaye": 10,
+    "reyting": 7,
+    "efsanelik": 9,
+    "tekrar_izlenme": 7
    }
   },
   {
@@ -126,6 +238,104 @@
    }
   },
   {
+   "id": "muhtesem-yuzyil",
+   "ad": "Muhteşem Yüzyıl",
+   "seviye": "efsane",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Kanuni dönemi saray hikâyesi.",
+   "puan": {
+    "hikaye": 8,
+    "reyting": 10,
+    "efsanelik": 9,
+    "tekrar_izlenme": 6
+   }
+  },
+  {
+   "id": "yaprak-dokumu",
+   "ad": "Yaprak Dökümü",
+   "seviye": "efsane",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Bir ailenin dağılışını anlatan klasik.",
+   "puan": {
+    "hikaye": 8,
+    "reyting": 9,
+    "efsanelik": 8,
+    "tekrar_izlenme": 6
+   }
+  },
+  {
+   "id": "ask-i-memnu",
+   "ad": "Aşk-ı Memnu",
+   "seviye": "efsane",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Reyting rekoru kıran yasak aşk hikâyesi.",
+   "puan": {
+    "hikaye": 8,
+    "reyting": 10,
+    "efsanelik": 8,
+    "tekrar_izlenme": 6
+   }
+  },
+  {
+   "id": "chernobyl",
+   "ad": "Chernobyl",
+   "seviye": "efsane",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Nükleer felaketi anlatan çarpıcı mini dizi.",
+   "puan": {
+    "hikaye": 10,
+    "reyting": 8,
+    "efsanelik": 9,
+    "tekrar_izlenme": 7
+   }
+  },
+  {
+   "id": "friends",
+   "ad": "Friends",
+   "seviye": "efsane",
+   "grup": "komedi",
+   "etiketler": [],
+   "aciklama": "Altı arkadaşın New York hikâyesi.",
+   "puan": {
+    "hikaye": 8,
+    "reyting": 10,
+    "efsanelik": 10,
+    "tekrar_izlenme": 10
+   }
+  },
+  {
+   "id": "the-office",
+   "ad": "The Office",
+   "seviye": "efsane",
+   "grup": "komedi",
+   "etiketler": [],
+   "aciklama": "Ofis hayatının en komik hali.",
+   "puan": {
+    "hikaye": 8,
+    "reyting": 8,
+    "efsanelik": 9,
+    "tekrar_izlenme": 10
+   }
+  },
+  {
+   "id": "avrupa-yakasi",
+   "ad": "Avrupa Yakası",
+   "seviye": "efsane",
+   "grup": "komedi",
+   "etiketler": [],
+   "aciklama": "Bitmeyen esprileriyle defalarca izlenen komedi.",
+   "puan": {
+    "hikaye": 8,
+    "reyting": 9,
+    "efsanelik": 9,
+    "tekrar_izlenme": 10
+   }
+  },
+  {
    "id": "leyla-ile-mecnun",
    "ad": "Leyla ile Mecnun",
    "seviye": "efsane",
@@ -140,127 +350,43 @@
    }
   },
   {
-   "id": "prison-break",
-   "ad": "Prison Break",
-   "seviye": "guclu",
-   "grup": "aksiyon",
-   "etiketler": [],
-   "aciklama": "Dövmedeki planla hapisten kaçış.",
-   "puan": {
-    "hikaye": 8,
-    "reyting": 9,
-    "efsanelik": 8,
-    "tekrar_izlenme": 7
-   }
-  },
-  {
-   "id": "la-casa-de-papel",
-   "ad": "La Casa de Papel",
-   "seviye": "guclu",
-   "grup": "aksiyon",
-   "etiketler": [],
-   "aciklama": "Profesör ve darphane soygunu.",
-   "puan": {
-    "hikaye": 8,
-    "reyting": 9,
-    "efsanelik": 8,
-    "tekrar_izlenme": 6
-   }
-  },
-  {
-   "id": "stranger-things",
-   "ad": "Stranger Things",
-   "seviye": "guclu",
-   "grup": "fantastik",
-   "etiketler": [],
-   "aciklama": "80'ler havasında doğaüstü macera.",
-   "puan": {
-    "hikaye": 8,
-    "reyting": 9,
-    "efsanelik": 8,
-    "tekrar_izlenme": 7
-   }
-  },
-  {
-   "id": "sherlock",
-   "ad": "Sherlock",
-   "seviye": "guclu",
-   "grup": "aksiyon",
-   "etiketler": [],
-   "aciklama": "Modern Londra'da dâhi dedektif.",
-   "puan": {
-    "hikaye": 9,
-    "reyting": 8,
-    "efsanelik": 8,
-    "tekrar_izlenme": 8
-   }
-  },
-  {
-   "id": "the-office",
-   "ad": "The Office",
-   "seviye": "guclu",
+   "id": "gibi",
+   "ad": "Gibi",
+   "seviye": "efsane",
    "grup": "komedi",
    "etiketler": [],
-   "aciklama": "Ofis hayatının en komik hali.",
-   "puan": {
-    "hikaye": 8,
-    "reyting": 8,
-    "efsanelik": 9,
-    "tekrar_izlenme": 10
-   }
-  },
-  {
-   "id": "muhtesem-yuzyil",
-   "ad": "Muhteşem Yüzyıl",
-   "seviye": "guclu",
-   "grup": "dram",
-   "etiketler": [],
-   "aciklama": "Kanuni dönemi saray hikâyesi; dünyaya satıldı.",
-   "puan": {
-    "hikaye": 7,
-    "reyting": 10,
-    "efsanelik": 8,
-    "tekrar_izlenme": 6
-   }
-  },
-  {
-   "id": "yaprak-dokumu",
-   "ad": "Yaprak Dökümü",
-   "seviye": "guclu",
-   "grup": "dram",
-   "etiketler": [],
-   "aciklama": "Bir ailenin dağılışını anlatan klasik.",
-   "puan": {
-    "hikaye": 8,
-    "reyting": 9,
-    "efsanelik": 7,
-    "tekrar_izlenme": 6
-   }
-  },
-  {
-   "id": "behzat-c",
-   "ad": "Behzat Ç.",
-   "seviye": "guclu",
-   "grup": "aksiyon",
-   "etiketler": [],
-   "aciklama": "Ankara'nın sert ve kendine özgü komiseri.",
+   "aciklama": "Absürt diyaloglarıyla yeni nesil kült.",
    "puan": {
     "hikaye": 9,
     "reyting": 7,
-    "efsanelik": 9,
-    "tekrar_izlenme": 8
+    "efsanelik": 8,
+    "tekrar_izlenme": 9
    }
   },
   {
-   "id": "gibi",
-   "ad": "Gibi",
-   "seviye": "guclu",
+   "id": "yesil-deniz",
+   "ad": "Yeşil Deniz",
+   "seviye": "efsane",
    "grup": "komedi",
    "etiketler": [],
-   "aciklama": "Absürt diyaloglarıyla yeni nesil kült komedi.",
+   "aciklama": "Karadeniz'de bir otel ve unutulmaz karakterler.",
    "puan": {
-    "hikaye": 9,
-    "reyting": 6,
+    "hikaye": 7,
+    "reyting": 8,
+    "efsanelik": 8,
+    "tekrar_izlenme": 9
+   }
+  },
+  {
+   "id": "the-big-bang-theory",
+   "ad": "The Big Bang Theory",
+   "seviye": "efsane",
+   "grup": "komedi",
+   "etiketler": [],
+   "aciklama": "Dâhi ama sosyal açıdan zorlanan bilim insanları.",
+   "puan": {
+    "hikaye": 7,
+    "reyting": 9,
     "efsanelik": 8,
     "tekrar_izlenme": 9
    }
@@ -280,163 +406,37 @@
    }
   },
   {
-   "id": "dexter",
-   "ad": "Dexter",
+   "id": "squid-game",
+   "ad": "Squid Game",
    "seviye": "guclu",
    "grup": "aksiyon",
    "etiketler": [],
-   "aciklama": "Gizli bir hayat süren adli tıp uzmanı.",
-   "puan": {
-    "hikaye": 8,
-    "reyting": 8,
-    "efsanelik": 8,
-    "tekrar_izlenme": 7
-   }
-  },
-  {
-   "id": "the-big-bang-theory",
-   "ad": "The Big Bang Theory",
-   "seviye": "guclu",
-   "grup": "komedi",
-   "etiketler": [],
-   "aciklama": "Dâhi ama sosyal açıdan zorlanan bilim insanları.",
+   "aciklama": "Çocuk oyunlarıyla ölümcül yarışma.",
    "puan": {
     "hikaye": 7,
-    "reyting": 9,
-    "efsanelik": 8,
-    "tekrar_izlenme": 9
-   }
-  },
-  {
-   "id": "bir-zamanlar-cukurova",
-   "ad": "Bir Zamanlar Çukurova",
-   "seviye": "guclu",
-   "grup": "dram",
-   "etiketler": [],
-   "aciklama": "Çukurova'da aşk ve hırs hikâyesi.",
-   "puan": {
-    "hikaye": 7,
-    "reyting": 9,
-    "efsanelik": 6,
+    "reyting": 10,
+    "efsanelik": 7,
     "tekrar_izlenme": 5
-   }
-  },
-  {
-   "id": "yesil-deniz",
-   "ad": "Yeşil Deniz",
-   "seviye": "guclu",
-   "grup": "komedi",
-   "etiketler": [],
-   "aciklama": "Karadeniz'de bir otel ve unutulmaz karakterler.",
-   "puan": {
-    "hikaye": 7,
-    "reyting": 8,
-    "efsanelik": 8,
-    "tekrar_izlenme": 9
    }
   },
   {
    "id": "arka-sokaklar",
    "ad": "Arka Sokaklar",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "aksiyon",
    "etiketler": [],
    "aciklama": "Yıllarca ekranda kalan polis dizisi.",
    "puan": {
-    "hikaye": 5,
+    "hikaye": 6,
     "reyting": 8,
-    "efsanelik": 6,
-    "tekrar_izlenme": 5
-   }
-  },
-  {
-   "id": "kavak-yelleri",
-   "ad": "Kavak Yelleri",
-   "seviye": "siradan",
-   "grup": "dram",
-   "etiketler": [],
-   "aciklama": "Gençlik ve aile hikâyesi.",
-   "puan": {
-    "hikaye": 7,
-    "reyting": 7,
-    "efsanelik": 6,
-    "tekrar_izlenme": 6
-   }
-  },
-  {
-   "id": "ask-i-memnu",
-   "ad": "Aşk-ı Memnu",
-   "seviye": "siradan",
-   "grup": "dram",
-   "etiketler": [],
-   "aciklama": "Yasak aşk hikâyesiyle reyting rekoru kıran dizi.",
-   "puan": {
-    "hikaye": 8,
-    "reyting": 9,
     "efsanelik": 7,
-    "tekrar_izlenme": 6
-   }
-  },
-  {
-   "id": "sihirli-annem",
-   "ad": "Sihirli Annem",
-   "seviye": "siradan",
-   "grup": "fantastik",
-   "etiketler": [],
-   "aciklama": "Büyülü bir anne ve komik bir aile.",
-   "puan": {
-    "hikaye": 7,
-    "reyting": 8,
-    "efsanelik": 8,
-    "tekrar_izlenme": 8
-   }
-  },
-  {
-   "id": "cocuklar-duymasin",
-   "ad": "Çocuklar Duymasın",
-   "seviye": "siradan",
-   "grup": "komedi",
-   "etiketler": [],
-   "aciklama": "Bir ailenin yıllara yayılan komik hikâyesi.",
-   "puan": {
-    "hikaye": 7,
-    "reyting": 9,
-    "efsanelik": 8,
-    "tekrar_izlenme": 8
-   }
-  },
-  {
-   "id": "dark",
-   "ad": "Dark",
-   "seviye": "siradan",
-   "grup": "fantastik",
-   "etiketler": [],
-   "aciklama": "Zaman yolculuğuyla iç içe geçmiş aile sırları.",
-   "puan": {
-    "hikaye": 9,
-    "reyting": 6,
-    "efsanelik": 7,
-    "tekrar_izlenme": 6
-   }
-  },
-  {
-   "id": "black-mirror",
-   "ad": "Black Mirror",
-   "seviye": "siradan",
-   "grup": "fantastik",
-   "etiketler": [],
-   "aciklama": "Teknolojinin karanlık yüzünü anlatan bölümler.",
-   "puan": {
-    "hikaye": 9,
-    "reyting": 6,
-    "efsanelik": 8,
     "tekrar_izlenme": 6
    }
   },
   {
    "id": "the-walking-dead",
    "ad": "The Walking Dead",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "aksiyon",
    "etiketler": [],
    "aciklama": "Zombi kıyametinde hayatta kalma.",
@@ -450,7 +450,7 @@
   {
    "id": "lost",
    "ad": "Lost",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "fantastik",
    "etiketler": [],
    "aciklama": "Gizemli bir adaya düşen yolcular.",
@@ -462,9 +462,65 @@
    }
   },
   {
+   "id": "sihirli-annem",
+   "ad": "Sihirli Annem",
+   "seviye": "guclu",
+   "grup": "fantastik",
+   "etiketler": [],
+   "aciklama": "Büyülü bir anne ve komik bir aile.",
+   "puan": {
+    "hikaye": 7,
+    "reyting": 8,
+    "efsanelik": 8,
+    "tekrar_izlenme": 8
+   }
+  },
+  {
+   "id": "bir-zamanlar-cukurova",
+   "ad": "Bir Zamanlar Çukurova",
+   "seviye": "guclu",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Çukurova'da aşk ve hırs.",
+   "puan": {
+    "hikaye": 7,
+    "reyting": 9,
+    "efsanelik": 6,
+    "tekrar_izlenme": 5
+   }
+  },
+  {
+   "id": "kavak-yelleri",
+   "ad": "Kavak Yelleri",
+   "seviye": "guclu",
+   "grup": "dram",
+   "etiketler": [],
+   "aciklama": "Gençlik ve aile hikâyesi.",
+   "puan": {
+    "hikaye": 7,
+    "reyting": 7,
+    "efsanelik": 7,
+    "tekrar_izlenme": 6
+   }
+  },
+  {
+   "id": "cocuklar-duymasin",
+   "ad": "Çocuklar Duymasın",
+   "seviye": "guclu",
+   "grup": "komedi",
+   "etiketler": [],
+   "aciklama": "Bir ailenin yıllara yayılan komik hikâyesi.",
+   "puan": {
+    "hikaye": 7,
+    "reyting": 9,
+    "efsanelik": 8,
+    "tekrar_izlenme": 8
+   }
+  },
+  {
    "id": "how-i-met-your-mother",
    "ad": "How I Met Your Mother",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "komedi",
    "etiketler": [],
    "aciklama": "Bir babanın çocuklarına anlattığı uzun hikâye.",
@@ -473,62 +529,6 @@
     "reyting": 8,
     "efsanelik": 7,
     "tekrar_izlenme": 8
-   }
-  },
-  {
-   "id": "wednesday",
-   "ad": "Wednesday",
-   "seviye": "siradan",
-   "grup": "fantastik",
-   "etiketler": [],
-   "aciklama": "Addams ailesinin gotik kızı okulda.",
-   "puan": {
-    "hikaye": 6,
-    "reyting": 9,
-    "efsanelik": 5,
-    "tekrar_izlenme": 6
-   }
-  },
-  {
-   "id": "squid-game",
-   "ad": "Squid Game",
-   "seviye": "siradan",
-   "grup": "aksiyon",
-   "etiketler": [],
-   "aciklama": "Çocuk oyunlarıyla ölümcül bir yarışma.",
-   "puan": {
-    "hikaye": 7,
-    "reyting": 10,
-    "efsanelik": 7,
-    "tekrar_izlenme": 5
-   }
-  },
-  {
-   "id": "peaky-blinders",
-   "ad": "Peaky Blinders",
-   "seviye": "siradan",
-   "grup": "aksiyon",
-   "etiketler": [],
-   "aciklama": "Birmingham'ın şapkalı çetesi.",
-   "puan": {
-    "hikaye": 8,
-    "reyting": 7,
-    "efsanelik": 8,
-    "tekrar_izlenme": 7
-   }
-  },
-  {
-   "id": "dirilis-ertugrul",
-   "ad": "Diriliş Ertuğrul",
-   "seviye": "siradan",
-   "grup": "aksiyon",
-   "etiketler": [],
-   "aciklama": "Kayı boyunun hikâyesi, birçok ülkede izlendi.",
-   "puan": {
-    "hikaye": 6,
-    "reyting": 9,
-    "efsanelik": 6,
-    "tekrar_izlenme": 5
    }
   }
  ]

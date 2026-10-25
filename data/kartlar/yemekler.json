@@ -55,43 +55,85 @@
  "kart_sayisi": 35,
  "kartlar": [
   {
-   "id": "i-skender",
-   "ad": "İskender",
+   "id": "mercimek-corbasi",
+   "ad": "Mercimek çorbası",
    "seviye": "efsane",
-   "grup": "ana",
+   "grup": "corba",
    "etiketler": [],
-   "aciklama": "Tereyağı, yoğurt ve dönerin Bursa'daki buluşması.",
+   "aciklama": "Lokantaların ilk tercihi.",
    "puan": {
-    "lezzet": 10,
-    "doyuruculuk": 9,
-    "sofra_uyumu": 7,
+    "lezzet": 9,
+    "doyuruculuk": 7,
+    "sofra_uyumu": 10,
     "sevilme": 10
    }
   },
   {
-   "id": "manti",
-   "ad": "Mantı",
+   "id": "ezogelin-corbasi",
+   "ad": "Ezogelin çorbası",
    "seviye": "efsane",
-   "grup": "hamur",
+   "grup": "corba",
    "etiketler": [],
-   "aciklama": "Yoğurt ve tereyağlı sosuyla minik hamur bohçaları.",
+   "aciklama": "Baharatlı Anadolu çorbası.",
    "puan": {
     "lezzet": 9,
-    "doyuruculuk": 9,
-    "sofra_uyumu": 7,
+    "doyuruculuk": 7,
+    "sofra_uyumu": 9,
     "sevilme": 9
    }
   },
   {
-   "id": "lahmacun",
-   "ad": "Lahmacun",
+   "id": "yayla-corbasi",
+   "ad": "Yayla çorbası",
    "seviye": "efsane",
-   "grup": "hamur",
+   "grup": "corba",
    "etiketler": [],
-   "aciklama": "İnce hamur, kıymalı harç, bol yeşillik.",
+   "aciklama": "Yoğurtlu, naneli şifa.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 8,
+    "lezzet": 8,
+    "doyuruculuk": 6,
+    "sofra_uyumu": 9,
+    "sevilme": 8
+   }
+  },
+  {
+   "id": "i-skembe-corbasi",
+   "ad": "İşkembe çorbası",
+   "seviye": "efsane",
+   "grup": "corba",
+   "etiketler": [],
+   "aciklama": "Gece yarısının efsanesi.",
+   "puan": {
+    "lezzet": 8,
+    "doyuruculuk": 7,
+    "sofra_uyumu": 7,
+    "sevilme": 6
+   }
+  },
+  {
+   "id": "i-skender-kebap",
+   "ad": "İskender kebap",
+   "seviye": "efsane",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Tereyağlı, yoğurtlu Bursa efsanesi.",
+   "puan": {
+    "lezzet": 10,
+    "doyuruculuk": 9,
+    "sofra_uyumu": 8,
+    "sevilme": 10
+   }
+  },
+  {
+   "id": "adana-kebap",
+   "ad": "Adana kebap",
+   "seviye": "efsane",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Acılı, közde zırh kıyması.",
+   "puan": {
+    "lezzet": 10,
+    "doyuruculuk": 9,
     "sofra_uyumu": 8,
     "sevilme": 10
    }
@@ -102,7 +144,7 @@
    "seviye": "efsane",
    "grup": "ana",
    "etiketler": [],
-   "aciklama": "Kıymalı patlıcanın en sevilen hali.",
+   "aciklama": "Patlıcanın en güzel hali.",
    "puan": {
     "lezzet": 9,
     "doyuruculuk": 8,
@@ -111,30 +153,198 @@
    }
   },
   {
-   "id": "mercimek-corbasi",
-   "ad": "Mercimek Çorbası",
+   "id": "hunkar-begendi",
+   "ad": "Hünkar beğendi",
    "seviye": "efsane",
-   "grup": "corba",
+   "grup": "ana",
    "etiketler": [],
-   "aciklama": "Her sofranın ve her lokantanın açılış çorbası.",
+   "aciklama": "Saray mutfağından beğendili et.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 6,
-    "sofra_uyumu": 10,
+    "lezzet": 10,
+    "doyuruculuk": 9,
+    "sofra_uyumu": 8,
+    "sevilme": 8
+   }
+  },
+  {
+   "id": "kuzu-tandir",
+   "ad": "Kuzu tandır",
+   "seviye": "efsane",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Ağır ateşte lokum gibi kuzu.",
+   "puan": {
+    "lezzet": 10,
+    "doyuruculuk": 9,
+    "sofra_uyumu": 8,
+    "sevilme": 8
+   }
+  },
+  {
+   "id": "manti",
+   "ad": "Mantı",
+   "seviye": "efsane",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Yoğurtlu minik bohçalar.",
+   "puan": {
+    "lezzet": 10,
+    "doyuruculuk": 8,
+    "sofra_uyumu": 8,
     "sevilme": 10
    }
   },
   {
-   "id": "kuru-fasulye",
-   "ad": "Kuru Fasulye",
+   "id": "i-cli-kofte",
+   "ad": "İçli köfte",
    "seviye": "efsane",
    "grup": "ana",
    "etiketler": [],
-   "aciklama": "Pilavla birlikte milli yemek.",
+   "aciklama": "Bulgur kabuklu doyurucu köfte.",
+   "puan": {
+    "lezzet": 9,
+    "doyuruculuk": 8,
+    "sofra_uyumu": 8,
+    "sevilme": 9
+   }
+  },
+  {
+   "id": "yaprak-sarma",
+   "ad": "Yaprak sarma",
+   "seviye": "efsane",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Zeytinyağlı ince sarma.",
+   "puan": {
+    "lezzet": 9,
+    "doyuruculuk": 6,
+    "sofra_uyumu": 9,
+    "sevilme": 9
+   }
+  },
+  {
+   "id": "beyti",
+   "ad": "Beyti",
+   "seviye": "efsane",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Lavaşa sarılı kebap.",
+   "puan": {
+    "lezzet": 9,
+    "doyuruculuk": 9,
+    "sofra_uyumu": 8,
+    "sevilme": 8
+   }
+  },
+  {
+   "id": "hamsi-tava",
+   "ad": "Hamsi tava",
+   "seviye": "efsane",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Karadeniz'in gümüş balığı.",
+   "puan": {
+    "lezzet": 9,
+    "doyuruculuk": 7,
+    "sofra_uyumu": 8,
+    "sevilme": 8
+   }
+  },
+  {
+   "id": "pilav",
+   "ad": "Pilav",
+   "seviye": "efsane",
+   "grup": "yan",
+   "etiketler": [],
+   "aciklama": "Her yemeğin yanına.",
    "puan": {
     "lezzet": 8,
+    "doyuruculuk": 8,
+    "sofra_uyumu": 10,
+    "sevilme": 9
+   }
+  },
+  {
+   "id": "cacik",
+   "ad": "Cacık",
+   "seviye": "efsane",
+   "grup": "yan",
+   "etiketler": [],
+   "aciklama": "Serinleten yoğurtlu eşlikçi.",
+   "puan": {
+    "lezzet": 8,
+    "doyuruculuk": 4,
+    "sofra_uyumu": 10,
+    "sevilme": 9
+   }
+  },
+  {
+   "id": "coban-salata",
+   "ad": "Çoban salata",
+   "seviye": "efsane",
+   "grup": "yan",
+   "etiketler": [],
+   "aciklama": "Taze sofra klasiği.",
+   "puan": {
+    "lezzet": 8,
+    "doyuruculuk": 4,
+    "sofra_uyumu": 10,
+    "sevilme": 9
+   }
+  },
+  {
+   "id": "lahmacun",
+   "ad": "Lahmacun",
+   "seviye": "efsane",
+   "grup": "hamur",
+   "etiketler": [],
+   "aciklama": "İnce hamurda kıymalı lezzet.",
+   "puan": {
+    "lezzet": 10,
+    "doyuruculuk": 8,
+    "sofra_uyumu": 8,
+    "sevilme": 10
+   }
+  },
+  {
+   "id": "pide",
+   "ad": "Pide",
+   "seviye": "efsane",
+   "grup": "hamur",
+   "etiketler": [],
+   "aciklama": "Karadeniz'in kayık hamuru.",
+   "puan": {
+    "lezzet": 9,
     "doyuruculuk": 9,
-    "sofra_uyumu": 9,
+    "sofra_uyumu": 8,
+    "sevilme": 9
+   }
+  },
+  {
+   "id": "su-boregi",
+   "ad": "Su böreği",
+   "seviye": "efsane",
+   "grup": "hamur",
+   "etiketler": [],
+   "aciklama": "Kat kat peynirli börek.",
+   "puan": {
+    "lezzet": 10,
+    "doyuruculuk": 8,
+    "sofra_uyumu": 8,
+    "sevilme": 9
+   }
+  },
+  {
+   "id": "gozleme",
+   "ad": "Gözleme",
+   "seviye": "efsane",
+   "grup": "hamur",
+   "etiketler": [],
+   "aciklama": "Sacda pişen köy lezzeti.",
+   "puan": {
+    "lezzet": 9,
+    "doyuruculuk": 8,
+    "sofra_uyumu": 8,
     "sevilme": 9
    }
   },
@@ -144,403 +354,193 @@
    "seviye": "efsane",
    "grup": "tatli",
    "etiketler": [],
-   "aciklama": "Kat kat yufka, bol fıstık; bayram sofralarının yıldızı.",
+   "aciklama": "Antep fıstıklı şerbetli efsane.",
    "puan": {
     "lezzet": 10,
     "doyuruculuk": 6,
-    "sofra_uyumu": 8,
+    "sofra_uyumu": 10,
     "sevilme": 10
-   }
-  },
-  {
-   "id": "adana-kebap",
-   "ad": "Adana Kebap",
-   "seviye": "guclu",
-   "grup": "ana",
-   "etiketler": [],
-   "aciklama": "Zırhla çekilmiş acılı kıyma, közde pişer.",
-   "puan": {
-    "lezzet": 10,
-    "doyuruculuk": 9,
-    "sofra_uyumu": 7,
-    "sevilme": 9
-   }
-  },
-  {
-   "id": "hunkar-begendi",
-   "ad": "Hünkâr Beğendi",
-   "seviye": "guclu",
-   "grup": "ana",
-   "etiketler": [],
-   "aciklama": "Patlıcan beğendi üstünde tas kebabı.",
-   "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 8,
-    "sofra_uyumu": 8,
-    "sevilme": 8
-   }
-  },
-  {
-   "id": "ezogelin-corbasi",
-   "ad": "Ezogelin Çorbası",
-   "seviye": "guclu",
-   "grup": "corba",
-   "etiketler": [],
-   "aciklama": "Bulgurlu, naneli ve doyurucu lokanta klasiği.",
-   "puan": {
-    "lezzet": 8,
-    "doyuruculuk": 6,
-    "sofra_uyumu": 9,
-    "sevilme": 8
-   }
-  },
-  {
-   "id": "tavuk-doner",
-   "ad": "Tavuk Döner",
-   "seviye": "guclu",
-   "grup": "ana",
-   "etiketler": [],
-   "aciklama": "Dürümde, porsiyonda; her köşede sevilen lezzet.",
-   "puan": {
-    "lezzet": 8,
-    "doyuruculuk": 8,
-    "sofra_uyumu": 7,
-    "sevilme": 9
-   }
-  },
-  {
-   "id": "pide",
-   "ad": "Pide",
-   "seviye": "guclu",
-   "grup": "hamur",
-   "etiketler": [],
-   "aciklama": "Kıymalı, kaşarlı, kuşbaşılı; fırından taze.",
-   "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 9,
-    "sofra_uyumu": 7,
-    "sevilme": 9
-   }
-  },
-  {
-   "id": "borek",
-   "ad": "Börek",
-   "seviye": "guclu",
-   "grup": "hamur",
-   "etiketler": [],
-   "aciklama": "Su böreği, kol böreği, sigara böreği; her türlüsü sevilir.",
-   "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 7,
-    "sofra_uyumu": 8,
-    "sevilme": 9
-   }
-  },
-  {
-   "id": "pirinc-pilavi",
-   "ad": "Pirinç Pilavı",
-   "seviye": "guclu",
-   "grup": "yan",
-   "etiketler": [],
-   "aciklama": "Tane tane pilav her ana yemeğin dostu.",
-   "puan": {
-    "lezzet": 8,
-    "doyuruculuk": 7,
-    "sofra_uyumu": 10,
-    "sevilme": 9
-   }
-  },
-  {
-   "id": "coban-salata",
-   "ad": "Çoban Salata",
-   "seviye": "guclu",
-   "grup": "yan",
-   "etiketler": [],
-   "aciklama": "Domates, salatalık, biber, soğan; sofraya ferahlık.",
-   "puan": {
-    "lezzet": 8,
-    "doyuruculuk": 4,
-    "sofra_uyumu": 10,
-    "sevilme": 8
-   }
-  },
-  {
-   "id": "i-cli-kofte",
-   "ad": "İçli Köfte",
-   "seviye": "guclu",
-   "grup": "yan",
-   "etiketler": [],
-   "aciklama": "Bulgur kabuğun içinde cevizli kıyma.",
-   "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 6,
-    "sofra_uyumu": 8,
-    "sevilme": 8
-   }
-  },
-  {
-   "id": "sarma",
-   "ad": "Sarma",
-   "seviye": "guclu",
-   "grup": "yan",
-   "etiketler": [],
-   "aciklama": "Zeytinyağlı yaprak sarması.",
-   "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 6,
-    "sofra_uyumu": 8,
-    "sevilme": 8
-   }
-  },
-  {
-   "id": "etli-ekmek",
-   "ad": "Etli Ekmek",
-   "seviye": "guclu",
-   "grup": "hamur",
-   "etiketler": [],
-   "aciklama": "Konya'nın upuzun, çıtır kıymalı ekmeği.",
-   "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 9,
-    "sofra_uyumu": 6,
-    "sevilme": 8
    }
   },
   {
    "id": "kunefe",
    "ad": "Künefe",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "tatli",
    "etiketler": [],
-   "aciklama": "Peynirli tel kadayıf, sıcak sıcak servis edilir.",
+   "aciklama": "Peynirli, sıcak Hatay tatlısı.",
    "puan": {
     "lezzet": 10,
     "doyuruculuk": 6,
-    "sofra_uyumu": 6,
-    "sevilme": 9
-   }
-  },
-  {
-   "id": "yayla-corbasi",
-   "ad": "Yayla Çorbası",
-   "seviye": "guclu",
-   "grup": "corba",
-   "etiketler": [],
-   "aciklama": "Yoğurtlu ve naneli şifa çorbası.",
-   "puan": {
-    "lezzet": 8,
-    "doyuruculuk": 5,
     "sofra_uyumu": 9,
-    "sevilme": 7
+    "sevilme": 10
    }
   },
   {
-   "id": "kisir",
-   "ad": "Kısır",
-   "seviye": "guclu",
-   "grup": "yan",
+   "id": "ekmek-kadayifi",
+   "ad": "Ekmek kadayıfı",
+   "seviye": "efsane",
+   "grup": "tatli",
    "etiketler": [],
-   "aciklama": "Bulgurlu, nar ekşili ev klasiği.",
-   "puan": {
-    "lezzet": 8,
-    "doyuruculuk": 5,
-    "sofra_uyumu": 8,
-    "sevilme": 8
-   }
-  },
-  {
-   "id": "menemen",
-   "ad": "Menemen",
-   "seviye": "siradan",
-   "grup": "ana",
-   "etiketler": [],
-   "aciklama": "Domates, biber ve yumurtanın kahvaltıdaki zaferi.",
-   "puan": {
-    "lezzet": 8,
-    "doyuruculuk": 6,
-    "sofra_uyumu": 6,
-    "sevilme": 9
-   }
-  },
-  {
-   "id": "i-mam-bayildi",
-   "ad": "İmam Bayıldı",
-   "seviye": "siradan",
-   "grup": "yan",
-   "etiketler": [],
-   "aciklama": "Zeytinyağlı patlıcanın en zarif hali.",
-   "puan": {
-    "lezzet": 8,
-    "doyuruculuk": 5,
-    "sofra_uyumu": 8,
-    "sevilme": 7
-   }
-  },
-  {
-   "id": "haydari",
-   "ad": "Haydari",
-   "seviye": "siradan",
-   "grup": "yan",
-   "etiketler": [],
-   "aciklama": "Süzme yoğurt ve naneyle meze klasiği.",
-   "puan": {
-    "lezzet": 7,
-    "doyuruculuk": 3,
-    "sofra_uyumu": 9,
-    "sevilme": 7
-   }
-  },
-  {
-   "id": "cacik",
-   "ad": "Cacık",
-   "seviye": "siradan",
-   "grup": "yan",
-   "etiketler": [],
-   "aciklama": "Yoğurt, salatalık ve sarımsakla serinletici eşlikçi.",
-   "puan": {
-    "lezzet": 7,
-    "doyuruculuk": 3,
-    "sofra_uyumu": 9,
-    "sevilme": 8
-   }
-  },
-  {
-   "id": "tarhana-corbasi",
-   "ad": "Tarhana Çorbası",
-   "seviye": "siradan",
-   "grup": "corba",
-   "etiketler": [],
-   "aciklama": "Kış günlerinin ev yapımı çorbası.",
-   "puan": {
-    "lezzet": 7,
-    "doyuruculuk": 6,
-    "sofra_uyumu": 8,
-    "sevilme": 6
-   }
-  },
-  {
-   "id": "i-skembe-corbasi",
-   "ad": "İşkembe Çorbası",
-   "seviye": "siradan",
-   "grup": "corba",
-   "etiketler": [],
-   "aciklama": "Gece yarısı sevenlerinin şifası.",
-   "puan": {
-    "lezzet": 7,
-    "doyuruculuk": 6,
-    "sofra_uyumu": 7,
-    "sevilme": 5
-   }
-  },
-  {
-   "id": "bulgur-pilavi",
-   "ad": "Bulgur Pilavı",
-   "seviye": "siradan",
-   "grup": "yan",
-   "etiketler": [],
-   "aciklama": "Domatesli ve biberli Anadolu pilavı.",
-   "puan": {
-    "lezzet": 7,
-    "doyuruculuk": 7,
-    "sofra_uyumu": 9,
-    "sevilme": 7
-   }
-  },
-  {
-   "id": "izgara-kofte",
-   "ad": "Izgara Köfte",
-   "seviye": "siradan",
-   "grup": "ana",
-   "etiketler": [],
-   "aciklama": "Piyaz ve közlenmiş biberle esnaf lokantası klasiği.",
+   "aciklama": "Kaymaklı Afyon tatlısı.",
    "puan": {
     "lezzet": 9,
-    "doyuruculuk": 8,
-    "sofra_uyumu": 8,
-    "sevilme": 9
-   }
-  },
-  {
-   "id": "gozleme",
-   "ad": "Gözleme",
-   "seviye": "siradan",
-   "grup": "hamur",
-   "etiketler": [],
-   "aciklama": "Sacda pişen, peynirli ıspanaklı köy lezzeti.",
-   "puan": {
-    "lezzet": 8,
-    "doyuruculuk": 7,
-    "sofra_uyumu": 6,
-    "sevilme": 8
-   }
-  },
-  {
-   "id": "su-boregi",
-   "ad": "Su Böreği",
-   "seviye": "siradan",
-   "grup": "hamur",
-   "etiketler": [],
-   "aciklama": "Haşlanmış yufkalarla yapılan zahmetli lezzet.",
-   "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 7,
-    "sofra_uyumu": 7,
+    "doyuruculuk": 6,
+    "sofra_uyumu": 9,
     "sevilme": 8
    }
   },
   {
    "id": "sutlac",
    "ad": "Sütlaç",
-   "seviye": "siradan",
+   "seviye": "efsane",
    "grup": "tatli",
    "etiketler": [],
-   "aciklama": "Fırında üstü kızarmış sütlü tatlı.",
+   "aciklama": "Fırında kızarmış süt tatlısı.",
+   "puan": {
+    "lezzet": 9,
+    "doyuruculuk": 5,
+    "sofra_uyumu": 9,
+    "sevilme": 9
+   }
+  },
+  {
+   "id": "tarhana-corbasi",
+   "ad": "Tarhana çorbası",
+   "seviye": "guclu",
+   "grup": "corba",
+   "etiketler": [],
+   "aciklama": "Kışın içi ısıtan çorba.",
    "puan": {
     "lezzet": 8,
-    "doyuruculuk": 5,
+    "doyuruculuk": 7,
     "sofra_uyumu": 8,
+    "sevilme": 7
+   }
+  },
+  {
+   "id": "kelle-paca",
+   "ad": "Kelle paça",
+   "seviye": "guclu",
+   "grup": "corba",
+   "etiketler": [],
+   "aciklama": "Kış sabahlarının çorbası.",
+   "puan": {
+    "lezzet": 7,
+    "doyuruculuk": 8,
+    "sofra_uyumu": 6,
+    "sevilme": 5
+   }
+  },
+  {
+   "id": "etli-kuru-fasulye",
+   "ad": "Etli kuru fasulye",
+   "seviye": "guclu",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Pilavla Türk klasiği.",
+   "puan": {
+    "lezzet": 9,
+    "doyuruculuk": 9,
+    "sofra_uyumu": 9,
+    "sevilme": 9
+   }
+  },
+  {
+   "id": "tavuk-sote",
+   "ad": "Tavuk sote",
+   "seviye": "guclu",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Hızlı ve doyurucu ev yemeği.",
+   "puan": {
+    "lezzet": 8,
+    "doyuruculuk": 8,
+    "sofra_uyumu": 8,
+    "sevilme": 8
+   }
+  },
+  {
+   "id": "kofte",
+   "ad": "Köfte",
+   "seviye": "guclu",
+   "grup": "ana",
+   "etiketler": [],
+   "aciklama": "Izgara köfte klasiği.",
+   "puan": {
+    "lezzet": 9,
+    "doyuruculuk": 8,
+    "sofra_uyumu": 9,
+    "sevilme": 9
+   }
+  },
+  {
+   "id": "bulgur-pilavi",
+   "ad": "Bulgur pilavı",
+   "seviye": "guclu",
+   "grup": "yan",
+   "etiketler": [],
+   "aciklama": "Domatesli Anadolu pilavı.",
+   "puan": {
+    "lezzet": 8,
+    "doyuruculuk": 8,
+    "sofra_uyumu": 9,
+    "sevilme": 8
+   }
+  },
+  {
+   "id": "patates-kizartmasi",
+   "ad": "Patates kızartması",
+   "seviye": "guclu",
+   "grup": "yan",
+   "etiketler": [],
+   "aciklama": "Herkesin sevdiği eşlikçi.",
+   "puan": {
+    "lezzet": 9,
+    "doyuruculuk": 6,
+    "sofra_uyumu": 9,
+    "sevilme": 10
+   }
+  },
+  {
+   "id": "cig-kofte",
+   "ad": "Çiğ köfte",
+   "seviye": "guclu",
+   "grup": "hamur",
+   "etiketler": [],
+   "aciklama": "Acılı, dürümlük lezzet.",
+   "puan": {
+    "lezzet": 9,
+    "doyuruculuk": 7,
+    "sofra_uyumu": 7,
+    "sevilme": 9
+   }
+  },
+  {
+   "id": "kazandibi",
+   "ad": "Kazandibi",
+   "seviye": "guclu",
+   "grup": "tatli",
+   "etiketler": [],
+   "aciklama": "Yanık tabanlı muhallebi.",
+   "puan": {
+    "lezzet": 9,
+    "doyuruculuk": 5,
+    "sofra_uyumu": 9,
     "sevilme": 8
    }
   },
   {
    "id": "revani",
    "ad": "Revani",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "tatli",
    "etiketler": [],
-   "aciklama": "İrmikli ve şerbetli hafif tatlı.",
+   "aciklama": "İrmikli şerbetli tatlı.",
    "puan": {
-    "lezzet": 7,
-    "doyuruculuk": 5,
+    "lezzet": 8,
+    "doyuruculuk": 6,
     "sofra_uyumu": 8,
-    "sevilme": 7
-   }
-  },
-  {
-   "id": "turlu",
-   "ad": "Türlü",
-   "seviye": "siradan",
-   "grup": "ana",
-   "etiketler": [],
-   "aciklama": "Mevsim sebzelerinin bir arada pişen hali.",
-   "puan": {
-    "lezzet": 7,
-    "doyuruculuk": 7,
-    "sofra_uyumu": 8,
-    "sevilme": 6
-   }
-  },
-  {
-   "id": "ali-nazik",
-   "ad": "Ali Nazik",
-   "seviye": "siradan",
-   "grup": "ana",
-   "etiketler": [],
-   "aciklama": "Közlenmiş patlıcanlı yoğurt üstünde kuşbaşı.",
-   "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 8,
-    "sofra_uyumu": 7,
     "sevilme": 7
    }
   }

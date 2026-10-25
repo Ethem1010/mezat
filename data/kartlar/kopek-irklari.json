@@ -45,7 +45,7 @@
    "seviye": "efsane",
    "grup": "bekci",
    "etiketler": [],
-   "aciklama": "Anadolu'nun çoban köpeği, sürüyü kurda karşı korur.",
+   "aciklama": "Sürüyü kurda karşı koruyan Anadolu çoban köpeği.",
    "puan": {
     "koruma": 10,
     "zeka": 7,
@@ -68,6 +68,118 @@
    }
   },
   {
+   "id": "belcika-malinois",
+   "ad": "Belçika Malinois",
+   "seviye": "efsane",
+   "grup": "bekci",
+   "etiketler": [],
+   "aciklama": "Özel kuvvetlerin tercih ettiği çalışkan ırk.",
+   "puan": {
+    "koruma": 9,
+    "zeka": 10,
+    "sadakat": 9,
+    "dayaniklilik": 9
+   }
+  },
+  {
+   "id": "rottweiler",
+   "ad": "Rottweiler",
+   "seviye": "efsane",
+   "grup": "bekci",
+   "etiketler": [],
+   "aciklama": "Güçlü yapılı, korkusuz bekçi.",
+   "puan": {
+    "koruma": 9,
+    "zeka": 8,
+    "sadakat": 9,
+    "dayaniklilik": 8
+   }
+  },
+  {
+   "id": "doberman",
+   "ad": "Doberman",
+   "seviye": "efsane",
+   "grup": "bekci",
+   "etiketler": [],
+   "aciklama": "Zarif, hızlı ve son derece dikkatli.",
+   "puan": {
+    "koruma": 9,
+    "zeka": 9,
+    "sadakat": 9,
+    "dayaniklilik": 7
+   }
+  },
+  {
+   "id": "akbas",
+   "ad": "Akbaş",
+   "seviye": "efsane",
+   "grup": "bekci",
+   "etiketler": [],
+   "aciklama": "Beyaz tüylü Anadolu çoban köpeği.",
+   "puan": {
+    "koruma": 9,
+    "zeka": 7,
+    "sadakat": 9,
+    "dayaniklilik": 9
+   }
+  },
+  {
+   "id": "kafkas-coban-kopegi",
+   "ad": "Kafkas Çoban Köpeği",
+   "seviye": "efsane",
+   "grup": "bekci",
+   "etiketler": [],
+   "aciklama": "Dev cüsseli dağ bekçisi.",
+   "puan": {
+    "koruma": 10,
+    "zeka": 6,
+    "sadakat": 9,
+    "dayaniklilik": 9
+   }
+  },
+  {
+   "id": "tibet-mastifi",
+   "ad": "Tibet Mastifi",
+   "seviye": "efsane",
+   "grup": "bekci",
+   "etiketler": [],
+   "aciklama": "Himalayaların dev bekçisi.",
+   "puan": {
+    "koruma": 9,
+    "zeka": 6,
+    "sadakat": 8,
+    "dayaniklilik": 9
+   }
+  },
+  {
+   "id": "cane-corso",
+   "ad": "Cane Corso",
+   "seviye": "efsane",
+   "grup": "bekci",
+   "etiketler": [],
+   "aciklama": "İtalyan bekçi köpeği, kaslı ve cesur.",
+   "puan": {
+    "koruma": 9,
+    "zeka": 7,
+    "sadakat": 9,
+    "dayaniklilik": 8
+   }
+  },
+  {
+   "id": "akita-inu",
+   "ad": "Akita Inu",
+   "seviye": "efsane",
+   "grup": "bekci",
+   "etiketler": [],
+   "aciklama": "Hachiko'nun ırkı, sadakatin simgesi.",
+   "puan": {
+    "koruma": 8,
+    "zeka": 7,
+    "sadakat": 10,
+    "dayaniklilik": 8
+   }
+  },
+  {
    "id": "golden-retriever",
    "ad": "Golden Retriever",
    "seviye": "efsane",
@@ -78,6 +190,90 @@
     "koruma": 4,
     "zeka": 9,
     "sadakat": 10,
+    "dayaniklilik": 7
+   }
+  },
+  {
+   "id": "labrador-retriever",
+   "ad": "Labrador Retriever",
+   "seviye": "efsane",
+   "grup": "aile",
+   "etiketler": [],
+   "aciklama": "Rehber köpeklerin en sevilen ırkı.",
+   "puan": {
+    "koruma": 4,
+    "zeka": 9,
+    "sadakat": 10,
+    "dayaniklilik": 8
+   }
+  },
+  {
+   "id": "bernese-dag-kopegi",
+   "ad": "Bernese Dağ Köpeği",
+   "seviye": "efsane",
+   "grup": "aile",
+   "etiketler": [],
+   "aciklama": "Üç renkli tüyleriyle uysal dev.",
+   "puan": {
+    "koruma": 5,
+    "zeka": 7,
+    "sadakat": 9,
+    "dayaniklilik": 7
+   }
+  },
+  {
+   "id": "buyuk-i-svicre-dag-kopegi",
+   "ad": "Büyük İsviçre Dağ Köpeği",
+   "seviye": "efsane",
+   "grup": "aile",
+   "etiketler": [],
+   "aciklama": "Güçlü ve sakin aile koruyucusu.",
+   "puan": {
+    "koruma": 7,
+    "zeka": 7,
+    "sadakat": 9,
+    "dayaniklilik": 8
+   }
+  },
+  {
+   "id": "newfoundland",
+   "ad": "Newfoundland",
+   "seviye": "efsane",
+   "grup": "aile",
+   "etiketler": [],
+   "aciklama": "Suda can kurtaran dev.",
+   "puan": {
+    "koruma": 5,
+    "zeka": 7,
+    "sadakat": 9,
+    "dayaniklilik": 8
+   }
+  },
+  {
+   "id": "kanis-standart",
+   "ad": "Kaniş (Standart)",
+   "seviye": "efsane",
+   "grup": "aile",
+   "etiketler": [],
+   "aciklama": "Göründüğünden çok daha zeki.",
+   "puan": {
+    "koruma": 3,
+    "zeka": 10,
+    "sadakat": 8,
+    "dayaniklilik": 7
+   }
+  },
+  {
+   "id": "boxer",
+   "ad": "Boxer",
+   "seviye": "efsane",
+   "grup": "aile",
+   "etiketler": [],
+   "aciklama": "Enerjik, oyuncu ve korumacı.",
+   "puan": {
+    "koruma": 6,
+    "zeka": 7,
+    "sadakat": 9,
     "dayaniklilik": 7
    }
   },
@@ -96,17 +292,17 @@
    }
   },
   {
-   "id": "labrador",
-   "ad": "Labrador",
+   "id": "avustralya-coban-kopegi",
+   "ad": "Avustralya Çoban Köpeği",
    "seviye": "efsane",
-   "grup": "aile",
+   "grup": "calisma",
    "etiketler": [],
-   "aciklama": "Rehber köpeklerin en sevilen ırkı.",
+   "aciklama": "Sürü güden zeki ve enerjik köpek.",
    "puan": {
-    "koruma": 4,
+    "koruma": 5,
     "zeka": 9,
-    "sadakat": 10,
-    "dayaniklilik": 8
+    "sadakat": 9,
+    "dayaniklilik": 9
    }
   },
   {
@@ -115,7 +311,7 @@
    "seviye": "efsane",
    "grup": "calisma",
    "etiketler": [],
-   "aciklama": "Buz gibi soğukta kızak çeken mavi gözlü koşucu.",
+   "aciklama": "Buz gibi soğukta kızak çeken koşucu.",
    "puan": {
     "koruma": 4,
     "zeka": 7,
@@ -124,93 +320,9 @@
    }
   },
   {
-   "id": "rottweiler",
-   "ad": "Rottweiler",
-   "seviye": "efsane",
-   "grup": "bekci",
-   "etiketler": [],
-   "aciklama": "Güçlü yapısıyla korkusuz bir bekçi.",
-   "puan": {
-    "koruma": 9,
-    "zeka": 8,
-    "sadakat": 9,
-    "dayaniklilik": 8
-   }
-  },
-  {
-   "id": "doberman",
-   "ad": "Doberman",
-   "seviye": "guclu",
-   "grup": "bekci",
-   "etiketler": [],
-   "aciklama": "Zarif, hızlı ve son derece dikkatli.",
-   "puan": {
-    "koruma": 9,
-    "zeka": 9,
-    "sadakat": 9,
-    "dayaniklilik": 7
-   }
-  },
-  {
-   "id": "belcika-malinois",
-   "ad": "Belçika Malinois",
-   "seviye": "guclu",
-   "grup": "bekci",
-   "etiketler": [],
-   "aciklama": "Özel kuvvetlerin tercih ettiği çalışkan ırk.",
-   "puan": {
-    "koruma": 9,
-    "zeka": 9,
-    "sadakat": 9,
-    "dayaniklilik": 9
-   }
-  },
-  {
-   "id": "akita",
-   "ad": "Akita",
-   "seviye": "guclu",
-   "grup": "bekci",
-   "etiketler": [],
-   "aciklama": "Hachiko'nun ırkı; sadakatin sembolü.",
-   "puan": {
-    "koruma": 8,
-    "zeka": 7,
-    "sadakat": 9,
-    "dayaniklilik": 8
-   }
-  },
-  {
-   "id": "boxer",
-   "ad": "Boxer",
-   "seviye": "guclu",
-   "grup": "aile",
-   "etiketler": [],
-   "aciklama": "Enerjik, oyuncu ve korumacı.",
-   "puan": {
-    "koruma": 6,
-    "zeka": 7,
-    "sadakat": 9,
-    "dayaniklilik": 7
-   }
-  },
-  {
-   "id": "beagle",
-   "ad": "Beagle",
-   "seviye": "guclu",
-   "grup": "calisma",
-   "etiketler": [],
-   "aciklama": "Burnu çok iyi koku alan iz sürücü.",
-   "puan": {
-    "koruma": 3,
-    "zeka": 7,
-    "sadakat": 8,
-    "dayaniklilik": 8
-   }
-  },
-  {
    "id": "alaska-malamutu",
    "ad": "Alaska Malamutu",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "calisma",
    "etiketler": [],
    "aciklama": "Ağır kızakları çeken dev kar köpeği.",
@@ -222,73 +334,115 @@
    }
   },
   {
-   "id": "bernese-dag-kopegi",
-   "ad": "Bernese Dağ Köpeği",
-   "seviye": "guclu",
-   "grup": "aile",
+   "id": "saint-bernard",
+   "ad": "Saint Bernard",
+   "seviye": "efsane",
+   "grup": "calisma",
    "etiketler": [],
-   "aciklama": "Üç renkli tüyleriyle uysal dev.",
+   "aciklama": "Karda kaybolanları kurtaran dev.",
    "puan": {
     "koruma": 5,
-    "zeka": 7,
+    "zeka": 6,
     "sadakat": 9,
-    "dayaniklilik": 7
+    "dayaniklilik": 8
    }
   },
   {
-   "id": "kanis",
-   "ad": "Kaniş",
-   "seviye": "guclu",
-   "grup": "aile",
+   "id": "bloodhound",
+   "ad": "Bloodhound",
+   "seviye": "efsane",
+   "grup": "calisma",
    "etiketler": [],
-   "aciklama": "Göründüğünden çok daha zeki.",
+   "aciklama": "Koku alma şampiyonu iz sürücü.",
    "puan": {
     "koruma": 3,
-    "zeka": 10,
+    "zeka": 7,
+    "sadakat": 8,
+    "dayaniklilik": 8
+   }
+  },
+  {
+   "id": "samoyed",
+   "ad": "Samoyed",
+   "seviye": "efsane",
+   "grup": "calisma",
+   "etiketler": [],
+   "aciklama": "Gülümseyen beyaz kızak köpeği.",
+   "puan": {
+    "koruma": 3,
+    "zeka": 7,
+    "sadakat": 8,
+    "dayaniklilik": 9
+   }
+  },
+  {
+   "id": "turk-tazisi",
+   "ad": "Türk Tazısı",
+   "seviye": "efsane",
+   "grup": "calisma",
+   "etiketler": [],
+   "aciklama": "Rüzgâr gibi koşan av köpeği.",
+   "puan": {
+    "koruma": 3,
+    "zeka": 7,
+    "sadakat": 8,
+    "dayaniklilik": 9
+   }
+  },
+  {
+   "id": "dev-schnauzer",
+   "ad": "Dev Schnauzer",
+   "seviye": "guclu",
+   "grup": "bekci",
+   "etiketler": [],
+   "aciklama": "Sakallı ve güçlü bekçi.",
+   "puan": {
+    "koruma": 8,
+    "zeka": 8,
+    "sadakat": 8,
+    "dayaniklilik": 8
+   }
+  },
+  {
+   "id": "american-staffordshire-terrier",
+   "ad": "American Staffordshire Terrier",
+   "seviye": "guclu",
+   "grup": "bekci",
+   "etiketler": [],
+   "aciklama": "Güçlü ve kararlı.",
+   "puan": {
+    "koruma": 7,
+    "zeka": 6,
+    "sadakat": 8,
+    "dayaniklilik": 8
+   }
+  },
+  {
+   "id": "buyuk-danua",
+   "ad": "Büyük Danua",
+   "seviye": "guclu",
+   "grup": "bekci",
+   "etiketler": [],
+   "aciklama": "Dünyanın en uzun köpek ırklarından.",
+   "puan": {
+    "koruma": 7,
+    "zeka": 6,
     "sadakat": 8,
     "dayaniklilik": 6
    }
   },
   {
-   "id": "avustralya-coban-kopegi",
-   "ad": "Avustralya Çoban Köpeği",
-   "seviye": "guclu",
-   "grup": "calisma",
-   "etiketler": [],
-   "aciklama": "Sürü güden enerjik ve zeki köpek.",
-   "puan": {
-    "koruma": 5,
-    "zeka": 9,
-    "sadakat": 9,
-    "dayaniklilik": 8
-   }
-  },
-  {
-   "id": "cane-corso",
-   "ad": "Cane Corso",
+   "id": "chow-chow",
+   "ad": "Chow Chow",
    "seviye": "guclu",
    "grup": "bekci",
    "etiketler": [],
-   "aciklama": "İtalyan bekçi köpeği, kaslı ve cesur.",
+   "aciklama": "Mor dilli, aslan yeleli mesafeli köpek.",
    "puan": {
-    "koruma": 9,
-    "zeka": 7,
-    "sadakat": 9,
-    "dayaniklilik": 8
-   }
-  },
-  {
-   "id": "akbas",
-   "ad": "Akbaş",
-   "seviye": "guclu",
-   "grup": "bekci",
-   "etiketler": [],
-   "aciklama": "Beyaz tüylü Anadolu çoban köpeği.",
-   "puan": {
-    "koruma": 9,
-    "zeka": 7,
-    "sadakat": 9,
-    "dayaniklilik": 9
+    "koruma": 6,
+    "zeka": 5,
+    "sadakat": 7,
+    "dayaniklilik": 6
    }
   },
   {
@@ -306,149 +460,9 @@
    }
   },
   {
-   "id": "samoyed",
-   "ad": "Samoyed",
-   "seviye": "guclu",
-   "grup": "calisma",
-   "etiketler": [],
-   "aciklama": "Gülümseyen beyaz kızak köpeği.",
-   "puan": {
-    "koruma": 3,
-    "zeka": 7,
-    "sadakat": 8,
-    "dayaniklilik": 9
-   }
-  },
-  {
-   "id": "i-ngiliz-bulldog",
-   "ad": "İngiliz Bulldog",
-   "seviye": "guclu",
-   "grup": "aile",
-   "etiketler": [],
-   "aciklama": "Buruşuk yüzlü, sakin ve inatçı.",
-   "puan": {
-    "koruma": 3,
-    "zeka": 5,
-    "sadakat": 8,
-    "dayaniklilik": 4
-   }
-  },
-  {
-   "id": "chihuahua",
-   "ad": "Chihuahua",
-   "seviye": "siradan",
-   "grup": "aile",
-   "etiketler": [],
-   "aciklama": "Dünyanın en küçük köpeği ama kendini dev sanır.",
-   "puan": {
-    "koruma": 2,
-    "zeka": 6,
-    "sadakat": 8,
-    "dayaniklilik": 4
-   }
-  },
-  {
-   "id": "pug",
-   "ad": "Pug",
-   "seviye": "siradan",
-   "grup": "aile",
-   "etiketler": [],
-   "aciklama": "Basık burunlu, tatlı ve uykucu.",
-   "puan": {
-    "koruma": 1,
-    "zeka": 5,
-    "sadakat": 8,
-    "dayaniklilik": 3
-   }
-  },
-  {
-   "id": "pomeranian",
-   "ad": "Pomeranian",
-   "seviye": "siradan",
-   "grup": "aile",
-   "etiketler": [],
-   "aciklama": "Pamuk gibi tüylü minik köpek.",
-   "puan": {
-    "koruma": 2,
-    "zeka": 6,
-    "sadakat": 7,
-    "dayaniklilik": 4
-   }
-  },
-  {
-   "id": "yorkshire-terrier",
-   "ad": "Yorkshire Terrier",
-   "seviye": "siradan",
-   "grup": "aile",
-   "etiketler": [],
-   "aciklama": "Kucak köpeği ama cesareti büyük.",
-   "puan": {
-    "koruma": 2,
-    "zeka": 7,
-    "sadakat": 7,
-    "dayaniklilik": 4
-   }
-  },
-  {
-   "id": "shih-tzu",
-   "ad": "Shih Tzu",
-   "seviye": "siradan",
-   "grup": "aile",
-   "etiketler": [],
-   "aciklama": "Uzun tüylü, sakin ev köpeği.",
-   "puan": {
-    "koruma": 1,
-    "zeka": 5,
-    "sadakat": 8,
-    "dayaniklilik": 4
-   }
-  },
-  {
-   "id": "jack-russell-terrier",
-   "ad": "Jack Russell Terrier",
-   "seviye": "siradan",
-   "grup": "calisma",
-   "etiketler": [],
-   "aciklama": "Bitmeyen enerjisiyle küçük avcı.",
-   "puan": {
-    "koruma": 3,
-    "zeka": 8,
-    "sadakat": 7,
-    "dayaniklilik": 8
-   }
-  },
-  {
-   "id": "dachshund",
-   "ad": "Dachshund",
-   "seviye": "siradan",
-   "grup": "calisma",
-   "etiketler": [],
-   "aciklama": "Uzun gövdeli sosis köpek, aslında porsuk avcısı.",
-   "puan": {
-    "koruma": 3,
-    "zeka": 6,
-    "sadakat": 8,
-    "dayaniklilik": 5
-   }
-  },
-  {
-   "id": "corgi",
-   "ad": "Corgi",
-   "seviye": "siradan",
-   "grup": "calisma",
-   "etiketler": [],
-   "aciklama": "Kısa bacaklı ama çevik çoban köpeği.",
-   "puan": {
-    "koruma": 3,
-    "zeka": 8,
-    "sadakat": 8,
-    "dayaniklilik": 6
-   }
-  },
-  {
    "id": "shiba-inu",
    "ad": "Shiba Inu",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "aile",
    "etiketler": [],
    "aciklama": "Tilkiye benzeyen bağımsız Japon ırkı.",
@@ -460,73 +474,59 @@
    }
   },
   {
-   "id": "chow-chow",
-   "ad": "Chow Chow",
-   "seviye": "siradan",
-   "grup": "bekci",
-   "etiketler": [],
-   "aciklama": "Mor dilli, aslan yeleli mesafeli köpek.",
-   "puan": {
-    "koruma": 6,
-    "zeka": 5,
-    "sadakat": 7,
-    "dayaniklilik": 6
-   }
-  },
-  {
-   "id": "saint-bernard",
-   "ad": "Saint Bernard",
-   "seviye": "siradan",
+   "id": "weimaraner",
+   "ad": "Weimaraner",
+   "seviye": "guclu",
    "grup": "calisma",
    "etiketler": [],
-   "aciklama": "Karda kaybolanları kurtaran dev.",
+   "aciklama": "Gri \"hayalet\" av köpeği.",
    "puan": {
     "koruma": 5,
-    "zeka": 6,
-    "sadakat": 9,
+    "zeka": 8,
+    "sadakat": 8,
     "dayaniklilik": 8
    }
   },
   {
-   "id": "buyuk-danua",
-   "ad": "Büyük Danua",
-   "seviye": "siradan",
-   "grup": "bekci",
-   "etiketler": [],
-   "aciklama": "Dünyanın en uzun köpek ırklarından.",
-   "puan": {
-    "koruma": 7,
-    "zeka": 6,
-    "sadakat": 8,
-    "dayaniklilik": 6
-   }
-  },
-  {
-   "id": "turk-tazisi",
-   "ad": "Türk Tazısı",
-   "seviye": "siradan",
+   "id": "beagle",
+   "ad": "Beagle",
+   "seviye": "guclu",
    "grup": "calisma",
    "etiketler": [],
-   "aciklama": "Rüzgâr gibi koşan av köpeği.",
+   "aciklama": "Burnu çok iyi koku alan iz sürücü.",
    "puan": {
     "koruma": 3,
     "zeka": 7,
+    "sadakat": 8,
+    "dayaniklilik": 8
+   }
+  },
+  {
+   "id": "jack-russell-terrier",
+   "ad": "Jack Russell Terrier",
+   "seviye": "guclu",
+   "grup": "calisma",
+   "etiketler": [],
+   "aciklama": "Bitmeyen enerjili küçük avcı.",
+   "puan": {
+    "koruma": 3,
+    "zeka": 8,
     "sadakat": 7,
     "dayaniklilik": 8
    }
   },
   {
-   "id": "pitbull",
-   "ad": "Pitbull",
-   "seviye": "siradan",
-   "grup": "bekci",
+   "id": "corgi",
+   "ad": "Corgi",
+   "seviye": "guclu",
+   "grup": "calisma",
    "etiketler": [],
-   "aciklama": "Güçlü ve kararlı, iyi eğitim ister.",
+   "aciklama": "Kısa bacaklı ama çevik çoban köpeği.",
    "puan": {
-    "koruma": 7,
-    "zeka": 6,
+    "koruma": 3,
+    "zeka": 8,
     "sadakat": 8,
-    "dayaniklilik": 8
+    "dayaniklilik": 7
    }
   }
  ]

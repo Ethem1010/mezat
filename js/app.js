@@ -10,7 +10,7 @@
   "use strict";
   const E = window.MezatEngine;
   const T = window.MezatTema;
-  const LABEL = { efsane: "Efsane", guclu: "Güçlü", siradan: "Sıradan" };
+  const LABEL = { efsane: "Efsane", guclu: "Yıldız", siradan: "Sıradan" };
   const ETIKET = { suru: "Sürü", zehirli: "Zehirli", temel: "Mutfağın temeli", yirtici: "Yırtıcı" };
   const COIN = `<span class="coin" aria-hidden="true"></span>`;
   const LOGO = `<svg viewBox="0 0 48 48" aria-hidden="true"><g transform="rotate(-35 24 24)"><rect x="12" y="9" width="24" height="12" rx="4" fill="var(--accent)"/><rect x="22" y="20" width="4.5" height="22" rx="2" fill="var(--fg)"/></g><rect x="6" y="40" width="22" height="5" rx="2.5" fill="var(--p1)"/></svg>`;
@@ -134,7 +134,7 @@
         <button class="cta go" data-act="start" ${!kat || A.yukleniyor ? "disabled" : ""}>Mezatı başlat</button>
       </section>
       <details class="panel"><summary>Kurallar</summary><ul class="list">
-        <li>Herkese <b>${A.ayarlar?.butce ?? 20} bütçe</b> ve <b>${A.ayarlar?.slot ?? 5} slot</b>. Havuzdan <b>10 lot</b> gizli sırayla gelir: 2 efsane, 4 güçlü, 4 sıradan.</li>
+        <li>Herkese <b>${A.ayarlar?.butce ?? 20} bütçe</b> ve <b>${A.ayarlar?.slot ?? 5} slot</b>. Havuzda sadece en iyiler var. <b>10 lot</b> gizli sırayla gelir: 7 efsane, 3 yıldız.</li>
         <li>Sırası gelen oyuncu lotu <b>en az 1</b> ile açar. Sonra sırayla artırılır; pas diyen lotu bırakır.</li>
         <li>Bütçe serbest: istersen hepsini tek karta basabilirsin.</li>
         <li>Parası biten teklif veremez. Açılış sırası ondaysa karar rakibe geçer: rakip <b>1 verip alır</b> ya da lotu ona <b>bedava bırakır</b>.</li>

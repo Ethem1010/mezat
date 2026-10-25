@@ -83,7 +83,7 @@
    "seviye": "efsane",
    "grup": "kara",
    "etiketler": [],
-   "aciklama": "En büyük kedigil, tek başına avlanır ve iyi yüzer.",
+   "aciklama": "En büyük kedigil, iyi yüzer.",
    "puan": {
     "guc": 10,
     "tehlike": 9,
@@ -93,18 +93,33 @@
    }
   },
   {
-   "id": "goril",
-   "ad": "Goril",
+   "id": "boz-ayi",
+   "ad": "Boz Ayı",
    "seviye": "efsane",
    "grup": "kara",
    "etiketler": [],
-   "aciklama": "En büyük primat, insan gücünün kat kat üstünde.",
+   "aciklama": "Dev pençeleriyle ormanın tankı.",
    "puan": {
-    "guc": 9,
-    "tehlike": 6,
-    "savunma": 6,
+    "guc": 10,
+    "tehlike": 9,
+    "savunma": 8,
     "hiz": 5,
-    "zeka": 8
+    "zeka": 6
+   }
+  },
+  {
+   "id": "kutup-ayisi",
+   "ad": "Kutup Ayısı",
+   "seviye": "efsane",
+   "grup": "kara",
+   "etiketler": [],
+   "aciklama": "En büyük kara yırtıcısı.",
+   "puan": {
+    "guc": 10,
+    "tehlike": 9,
+    "savunma": 8,
+    "hiz": 5,
+    "zeka": 6
    }
   },
   {
@@ -115,7 +130,7 @@
    "etiketler": [
     "suru"
    ],
-   "aciklama": "Dünyanın en büyük kara hayvanı, zekası ve hafızasıyla ünlü.",
+   "aciklama": "Dünyanın en büyük kara hayvanı.",
    "puan": {
     "guc": 10,
     "tehlike": 8,
@@ -125,12 +140,204 @@
    }
   },
   {
+   "id": "gergedan",
+   "ad": "Gergedan",
+   "seviye": "efsane",
+   "grup": "kara",
+   "etiketler": [],
+   "aciklama": "Zırh gibi derisi ve boynuzuyla canlı tank.",
+   "puan": {
+    "guc": 9,
+    "tehlike": 8,
+    "savunma": 10,
+    "hiz": 6,
+    "zeka": 4
+   }
+  },
+  {
+   "id": "su-aygiri",
+   "ad": "Su Aygırı",
+   "seviye": "efsane",
+   "grup": "kara",
+   "etiketler": [],
+   "aciklama": "Afrika'nın en saldırgan hayvanlarından.",
+   "puan": {
+    "guc": 9,
+    "tehlike": 10,
+    "savunma": 9,
+    "hiz": 4,
+    "zeka": 4
+   }
+  },
+  {
+   "id": "goril",
+   "ad": "Goril",
+   "seviye": "efsane",
+   "grup": "kara",
+   "etiketler": [],
+   "aciklama": "En büyük primat.",
+   "puan": {
+    "guc": 9,
+    "tehlike": 6,
+    "savunma": 6,
+    "hiz": 5,
+    "zeka": 8
+   }
+  },
+  {
+   "id": "afrika-mandasi",
+   "ad": "Afrika Mandası",
+   "seviye": "efsane",
+   "grup": "kara",
+   "etiketler": [
+    "suru"
+   ],
+   "aciklama": "Kara Ölüm lakaplı, aslanları bile kovalar.",
+   "puan": {
+    "guc": 9,
+    "tehlike": 9,
+    "savunma": 8,
+    "hiz": 6,
+    "zeka": 4
+   }
+  },
+  {
+   "id": "jaguar",
+   "ad": "Jaguar",
+   "seviye": "efsane",
+   "grup": "kara",
+   "etiketler": [],
+   "aciklama": "Isırığı kaplumbağa kabuğunu kırar.",
+   "puan": {
+    "guc": 8,
+    "tehlike": 8,
+    "savunma": 6,
+    "hiz": 7,
+    "zeka": 6
+   }
+  },
+  {
+   "id": "benekli-sirtlan",
+   "ad": "Benekli Sırtlan",
+   "seviye": "efsane",
+   "grup": "kara",
+   "etiketler": [
+    "suru"
+   ],
+   "aciklama": "Kemik kıran çene ve sürü taktiği.",
+   "puan": {
+    "guc": 7,
+    "tehlike": 8,
+    "savunma": 6,
+    "hiz": 7,
+    "zeka": 8
+   }
+  },
+  {
+   "id": "kurt",
+   "ad": "Kurt",
+   "seviye": "efsane",
+   "grup": "kara",
+   "etiketler": [
+    "suru"
+   ],
+   "aciklama": "Sürü taktiğinin ustası.",
+   "puan": {
+    "guc": 6,
+    "tehlike": 7,
+    "savunma": 5,
+    "hiz": 7,
+    "zeka": 8
+   }
+  },
+  {
+   "id": "komodo-ejderi",
+   "ad": "Komodo Ejderi",
+   "seviye": "efsane",
+   "grup": "kara",
+   "etiketler": [
+    "zehirli"
+   ],
+   "aciklama": "En büyük kertenkele, zehirli ısırık.",
+   "puan": {
+    "guc": 7,
+    "tehlike": 8,
+    "savunma": 7,
+    "hiz": 4,
+    "zeka": 4
+   }
+  },
+  {
+   "id": "kral-kobra",
+   "ad": "Kral Kobra",
+   "seviye": "efsane",
+   "grup": "kara",
+   "etiketler": [
+    "zehirli"
+   ],
+   "aciklama": "En uzun zehirli yılan.",
+   "puan": {
+    "guc": 4,
+    "tehlike": 9,
+    "savunma": 3,
+    "hiz": 5,
+    "zeka": 5
+   }
+  },
+  {
+   "id": "kara-mamba",
+   "ad": "Kara Mamba",
+   "seviye": "efsane",
+   "grup": "kara",
+   "etiketler": [
+    "zehirli"
+   ],
+   "aciklama": "Çok hızlı ve zehri öldürücü.",
+   "puan": {
+    "guc": 3,
+    "tehlike": 10,
+    "savunma": 3,
+    "hiz": 9,
+    "zeka": 5
+   }
+  },
+  {
+   "id": "kasuar",
+   "ad": "Kasuar",
+   "seviye": "efsane",
+   "grup": "kara",
+   "etiketler": [],
+   "aciklama": "Hançer gibi pençeleriyle en tehlikeli kuş.",
+   "puan": {
+    "guc": 6,
+    "tehlike": 8,
+    "savunma": 5,
+    "hiz": 7,
+    "zeka": 4
+   }
+  },
+  {
+   "id": "bal-porsugu",
+   "ad": "Bal Porsuğu",
+   "seviye": "efsane",
+   "grup": "kara",
+   "etiketler": [],
+   "aciklama": "Dünyanın en korkusuz hayvanı ünvanlı.",
+   "puan": {
+    "guc": 5,
+    "tehlike": 7,
+    "savunma": 9,
+    "hiz": 5,
+    "zeka": 7
+   }
+  },
+  {
    "id": "tuzlu-su-timsahi",
    "ad": "Tuzlu Su Timsahı",
    "seviye": "efsane",
    "grup": "deniz",
    "etiketler": [],
-   "aciklama": "Yaşayan en büyük sürüngen, ısırığı korkunç güçlü.",
+   "aciklama": "Yaşayan en büyük sürüngen.",
    "puan": {
     "guc": 10,
     "tehlike": 10,
@@ -162,7 +369,7 @@
    "etiketler": [
     "suru"
    ],
-   "aciklama": "Okyanusun tepe avcısı, grupla avlanır, köpek balıklarını bile avlar.",
+   "aciklama": "Okyanusun tepe avcısı.",
    "puan": {
     "guc": 10,
     "tehlike": 9,
@@ -172,110 +379,27 @@
    }
   },
   {
-   "id": "jaguar",
-   "ad": "Jaguar",
-   "seviye": "guclu",
-   "grup": "kara",
+   "id": "kasalot",
+   "ad": "Kaşalot",
+   "seviye": "efsane",
+   "grup": "deniz",
    "etiketler": [],
-   "aciklama": "Amazon'un avcısı, ısırığı kaplumbağa kabuğunu kırar.",
+   "aciklama": "Dev kalamarlarla savaşan derin dalgıç.",
    "puan": {
-    "guc": 8,
-    "tehlike": 8,
-    "savunma": 6,
-    "hiz": 7,
-    "zeka": 6
-   }
-  },
-  {
-   "id": "cita",
-   "ad": "Çita",
-   "seviye": "guclu",
-   "grup": "kara",
-   "etiketler": [],
-   "aciklama": "Dünyanın en hızlı kara hayvanı.",
-   "puan": {
-    "guc": 5,
-    "tehlike": 6,
-    "savunma": 3,
-    "hiz": 10,
-    "zeka": 5
-   }
-  },
-  {
-   "id": "kurt",
-   "ad": "Kurt",
-   "seviye": "guclu",
-   "grup": "kara",
-   "etiketler": [
-    "suru"
-   ],
-   "aciklama": "Sürü taktiğinin ustası, dayanıklı koşucu.",
-   "puan": {
-    "guc": 6,
+    "guc": 10,
     "tehlike": 7,
-    "savunma": 5,
-    "hiz": 7,
-    "zeka": 8
-   }
-  },
-  {
-   "id": "benekli-sirtlan",
-   "ad": "Benekli Sırtlan",
-   "seviye": "guclu",
-   "grup": "kara",
-   "etiketler": [
-    "suru"
-   ],
-   "aciklama": "Kemik kıran çenesi var, sürüyle aslanlara kafa tutar.",
-   "puan": {
-    "guc": 7,
-    "tehlike": 8,
-    "savunma": 6,
-    "hiz": 7,
-    "zeka": 8
-   }
-  },
-  {
-   "id": "afrika-mandasi",
-   "ad": "Afrika Mandası",
-   "seviye": "guclu",
-   "grup": "kara",
-   "etiketler": [
-    "suru"
-   ],
-   "aciklama": "Kara Ölüm lakaplı, aslanları bile kovalar.",
-   "puan": {
-    "guc": 9,
-    "tehlike": 9,
-    "savunma": 8,
+    "savunma": 9,
     "hiz": 6,
-    "zeka": 4
-   }
-  },
-  {
-   "id": "komodo-ejderi",
-   "ad": "Komodo Ejderi",
-   "seviye": "guclu",
-   "grup": "kara",
-   "etiketler": [
-    "zehirli"
-   ],
-   "aciklama": "En büyük kertenkele, zehirli ısırığıyla avını yavaşça çökertir.",
-   "puan": {
-    "guc": 7,
-    "tehlike": 8,
-    "savunma": 7,
-    "hiz": 4,
-    "zeka": 4
+    "zeka": 7
    }
   },
   {
    "id": "yesil-anakonda",
    "ad": "Yeşil Anakonda",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "deniz",
    "etiketler": [],
-   "aciklama": "En ağır yılan, avını suda sararak boğar.",
+   "aciklama": "En ağır yılan, suda boğar.",
    "puan": {
     "guc": 8,
     "tehlike": 7,
@@ -285,46 +409,44 @@
    }
   },
   {
-   "id": "kral-kobra",
-   "ad": "Kral Kobra",
-   "seviye": "guclu",
-   "grup": "kara",
+   "id": "kutu-denizanasi",
+   "ad": "Kutu Denizanası",
+   "seviye": "efsane",
+   "grup": "deniz",
    "etiketler": [
     "zehirli"
    ],
-   "aciklama": "En uzun zehirli yılan, başka yılanları avlar.",
+   "aciklama": "En zehirli deniz canlılarından.",
    "puan": {
-    "guc": 4,
-    "tehlike": 9,
-    "savunma": 3,
-    "hiz": 5,
-    "zeka": 5
+    "guc": 1,
+    "tehlike": 10,
+    "savunma": 2,
+    "hiz": 3,
+    "zeka": 1
    }
   },
   {
-   "id": "kara-mamba",
-   "ad": "Kara Mamba",
-   "seviye": "guclu",
-   "grup": "kara",
-   "etiketler": [
-    "zehirli"
-   ],
-   "aciklama": "Çok hızlı ve zehri son derece öldürücü.",
+   "id": "harpi-kartali",
+   "ad": "Harpi Kartalı",
+   "seviye": "efsane",
+   "grup": "hava",
+   "etiketler": [],
+   "aciklama": "Pençeleri ayı pençesi kadar büyük.",
    "puan": {
-    "guc": 3,
-    "tehlike": 10,
-    "savunma": 3,
-    "hiz": 9,
-    "zeka": 5
+    "guc": 5,
+    "tehlike": 7,
+    "savunma": 4,
+    "hiz": 8,
+    "zeka": 6
    }
   },
   {
    "id": "altin-kartal",
    "ad": "Altın Kartal",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "hava",
    "etiketler": [],
-   "aciklama": "Göklerin hükümdarı, dalışta çok hızlı.",
+   "aciklama": "Göklerin hükümdarı.",
    "puan": {
     "guc": 5,
     "tehlike": 6,
@@ -334,18 +456,114 @@
    }
   },
   {
-   "id": "bal-porsugu",
-   "ad": "Bal Porsuğu",
+   "id": "leopar",
+   "ad": "Leopar",
    "seviye": "guclu",
    "grup": "kara",
    "etiketler": [],
-   "aciklama": "Dünyanın en korkusuz hayvanı ünvanlı, kalın derisi ısırıklara dayanır.",
+   "aciklama": "Avını ağaca çıkaracak kadar güçlü.",
+   "puan": {
+    "guc": 7,
+    "tehlike": 8,
+    "savunma": 5,
+    "hiz": 8,
+    "zeka": 6
+   }
+  },
+  {
+   "id": "cita",
+   "ad": "Çita",
+   "seviye": "guclu",
+   "grup": "kara",
+   "etiketler": [],
+   "aciklama": "En hızlı kara hayvanı.",
    "puan": {
     "guc": 5,
+    "tehlike": 6,
+    "savunma": 3,
+    "hiz": 10,
+    "zeka": 5
+   }
+  },
+  {
+   "id": "puma",
+   "ad": "Puma",
+   "seviye": "guclu",
+   "grup": "kara",
+   "etiketler": [],
+   "aciklama": "Dağların sessiz avcısı.",
+   "puan": {
+    "guc": 7,
     "tehlike": 7,
-    "savunma": 9,
-    "hiz": 5,
+    "savunma": 5,
+    "hiz": 8,
+    "zeka": 6
+   }
+  },
+  {
+   "id": "sempanze",
+   "ad": "Şempanze",
+   "seviye": "guclu",
+   "grup": "kara",
+   "etiketler": [
+    "suru"
+   ],
+   "aciklama": "Alet kullanır, insandan çok güçlüdür.",
+   "puan": {
+    "guc": 7,
+    "tehlike": 6,
+    "savunma": 4,
+    "hiz": 6,
+    "zeka": 9
+   }
+  },
+  {
+   "id": "amerikan-bizonu",
+   "ad": "Amerikan Bizonu",
+   "seviye": "guclu",
+   "grup": "kara",
+   "etiketler": [
+    "suru"
+   ],
+   "aciklama": "Kuzey Amerika'nın en ağır kara hayvanı.",
+   "puan": {
+    "guc": 8,
+    "tehlike": 6,
+    "savunma": 8,
+    "hiz": 6,
+    "zeka": 3
+   }
+  },
+  {
+   "id": "kangal",
+   "ad": "Kangal",
+   "seviye": "guclu",
+   "grup": "kara",
+   "etiketler": [],
+   "aciklama": "Kurtlara meydan okuyan Anadolu çoban köpeği.",
+   "puan": {
+    "guc": 6,
+    "tehlike": 6,
+    "savunma": 6,
+    "hiz": 7,
     "zeka": 7
+   }
+  },
+  {
+   "id": "ok-kurbagasi",
+   "ad": "Ok Kurbağası",
+   "seviye": "guclu",
+   "grup": "kara",
+   "etiketler": [
+    "zehirli"
+   ],
+   "aciklama": "Avuç içi kadar ama zehri öldürücü.",
+   "puan": {
+    "guc": 1,
+    "tehlike": 10,
+    "savunma": 1,
+    "hiz": 3,
+    "zeka": 1
    }
   },
   {
@@ -354,7 +572,7 @@
    "seviye": "guclu",
    "grup": "deniz",
    "etiketler": [],
-   "aciklama": "Denizin dâhisi, kılık değiştirir ve kaçmayı iyi bilir.",
+   "aciklama": "Denizin dâhisi.",
    "puan": {
     "guc": 5,
     "tehlike": 5,
@@ -364,253 +582,33 @@
    }
   },
   {
-   "id": "zurafa",
-   "ad": "Zürafa",
+   "id": "kilic-baligi",
+   "ad": "Kılıç Balığı",
    "seviye": "guclu",
-   "grup": "kara",
-   "etiketler": [],
-   "aciklama": "En uzun hayvan, tekmesi aslanları bile uzak tutar.",
-   "puan": {
-    "guc": 8,
-    "tehlike": 6,
-    "savunma": 6,
-    "hiz": 6,
-    "zeka": 4
-   }
-  },
-  {
-   "id": "kizil-kanguru",
-   "ad": "Kızıl Kanguru",
-   "seviye": "guclu",
-   "grup": "kara",
-   "etiketler": [],
-   "aciklama": "Tekmeleri boksörü kıskandırır.",
-   "puan": {
-    "guc": 6,
-    "tehlike": 5,
-    "savunma": 5,
-    "hiz": 8,
-    "zeka": 4
-   }
-  },
-  {
-   "id": "akrep",
-   "ad": "Akrep",
-   "seviye": "siradan",
-   "grup": "kara",
-   "etiketler": [
-    "zehirli"
-   ],
-   "aciklama": "Zırhlı gövde ve zehirli kuyruk.",
-   "puan": {
-    "guc": 2,
-    "tehlike": 6,
-    "savunma": 7,
-    "hiz": 4,
-    "zeka": 2
-   }
-  },
-  {
-   "id": "karadul-orumcegi",
-   "ad": "Karadul Örümceği",
-   "seviye": "siradan",
-   "grup": "kara",
-   "etiketler": [
-    "zehirli"
-   ],
-   "aciklama": "Minicik ama zehri çok güçlü.",
-   "puan": {
-    "guc": 1,
-    "tehlike": 6,
-    "savunma": 1,
-    "hiz": 3,
-    "zeka": 2
-   }
-  },
-  {
-   "id": "asya-dev-esek-arisi",
-   "ad": "Asya Dev Eşek Arısı",
-   "seviye": "siradan",
-   "grup": "hava",
-   "etiketler": [
-    "zehirli"
-   ],
-   "aciklama": "Dünyanın en büyük eşek arısı, sokması çok acı verir.",
-   "puan": {
-    "guc": 2,
-    "tehlike": 7,
-    "savunma": 3,
-    "hiz": 8,
-    "zeka": 3
-   }
-  },
-  {
-   "id": "mantis-karidesi",
-   "ad": "Mantis Karidesi",
-   "seviye": "siradan",
    "grup": "deniz",
    "etiketler": [],
-   "aciklama": "Hayvanlar alemindeki en hızlı yumruklardan birine sahip.",
+   "aciklama": "Okyanusun en hızlılarından.",
    "puan": {
-    "guc": 3,
-    "tehlike": 4,
-    "savunma": 7,
+    "guc": 6,
+    "tehlike": 6,
+    "savunma": 4,
     "hiz": 10,
-    "zeka": 4
-   }
-  },
-  {
-   "id": "kirpi",
-   "ad": "Kirpi",
-   "seviye": "siradan",
-   "grup": "kara",
-   "etiketler": [],
-   "aciklama": "Top olup dikenlerini çıkarınca dokunulmaz.",
-   "puan": {
-    "guc": 2,
-    "tehlike": 2,
-    "savunma": 8,
-    "hiz": 3,
     "zeka": 3
    }
   },
   {
-   "id": "koala",
-   "ad": "Koala",
-   "seviye": "siradan",
-   "grup": "kara",
+   "id": "sah-kartal",
+   "ad": "Şah Kartal",
+   "seviye": "guclu",
+   "grup": "hava",
    "etiketler": [],
-   "aciklama": "Günün çoğunu uyuyarak geçirir.",
+   "aciklama": "Bozkırların güçlü kartalı.",
    "puan": {
-    "guc": 1,
-    "tehlike": 1,
-    "savunma": 2,
-    "hiz": 1,
-    "zeka": 1
-   }
-  },
-  {
-   "id": "tembel-hayvan",
-   "ad": "Tembel Hayvan",
-   "seviye": "siradan",
-   "grup": "kara",
-   "etiketler": [],
-   "aciklama": "Dünyanın en yavaş memelilerinden.",
-   "puan": {
-    "guc": 2,
-    "tehlike": 1,
-    "savunma": 3,
-    "hiz": 1,
-    "zeka": 2
-   }
-  },
-  {
-   "id": "dev-panda",
-   "ad": "Dev Panda",
-   "seviye": "siradan",
-   "grup": "kara",
-   "etiketler": [],
-   "aciklama": "Bambu yiyen tatlı görünüşlü ama sonuçta bir ayı.",
-   "puan": {
-    "guc": 7,
-    "tehlike": 5,
-    "savunma": 6,
-    "hiz": 3,
-    "zeka": 4
-   }
-  },
-  {
-   "id": "kangal",
-   "ad": "Kangal",
-   "seviye": "siradan",
-   "grup": "kara",
-   "etiketler": [],
-   "aciklama": "Anadolu'nun çoban köpeği, sürüleri kurtlara karşı korur.",
-   "puan": {
-    "guc": 6,
+    "guc": 5,
     "tehlike": 6,
-    "savunma": 6,
-    "hiz": 7,
-    "zeka": 7
-   }
-  },
-  {
-   "id": "ev-kedisi",
-   "ad": "Ev Kedisi",
-   "seviye": "siradan",
-   "grup": "kara",
-   "etiketler": [],
-   "aciklama": "Evin gerçek patronu.",
-   "puan": {
-    "guc": 2,
-    "tehlike": 2,
-    "savunma": 2,
-    "hiz": 7,
-    "zeka": 6
-   }
-  },
-  {
-   "id": "kutu-denizanasi",
-   "ad": "Kutu Denizanası",
-   "seviye": "siradan",
-   "grup": "deniz",
-   "etiketler": [
-    "zehirli"
-   ],
-   "aciklama": "Dünyanın en zehirli deniz canlılarından.",
-   "puan": {
-    "guc": 1,
-    "tehlike": 10,
-    "savunma": 2,
-    "hiz": 3,
-    "zeka": 1
-   }
-  },
-  {
-   "id": "altin-ok-kurbagasi",
-   "ad": "Altın Ok Kurbağası",
-   "seviye": "siradan",
-   "grup": "kara",
-   "etiketler": [
-    "zehirli"
-   ],
-   "aciklama": "Avuç içi kadar ama derisindeki zehir çok öldürücü.",
-   "puan": {
-    "guc": 1,
-    "tehlike": 10,
-    "savunma": 1,
-    "hiz": 3,
-    "zeka": 1
-   }
-  },
-  {
-   "id": "devekusu",
-   "ad": "Devekuşu",
-   "seviye": "siradan",
-   "grup": "kara",
-   "etiketler": [],
-   "aciklama": "En büyük kuş, çok hızlı koşar, tekmesi güçlüdür.",
-   "puan": {
-    "guc": 6,
-    "tehlike": 6,
-    "savunma": 5,
-    "hiz": 9,
-    "zeka": 3
-   }
-  },
-  {
-   "id": "tavsan",
-   "ad": "Tavşan",
-   "seviye": "siradan",
-   "grup": "kara",
-   "etiketler": [],
-   "aciklama": "Tek yeteneği kaçmak ama bunu çok iyi yapar.",
-   "puan": {
-    "guc": 1,
-    "tehlike": 1,
-    "savunma": 1,
+    "savunma": 4,
     "hiz": 8,
-    "zeka": 3
+    "zeka": 6
    }
   }
  ]

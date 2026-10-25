@@ -66,7 +66,7 @@
   function createGame({ kategori, kartlar, isimler, ayarlar = {}, rng = Math.random, ilkAcan }) {
     const butce = ayarlar.butce ?? 20;
     const slot = ayarlar.slot ?? 5;
-    const cekilis = ayarlar.cekilis ?? { efsane: 2, guclu: 4, siradan: 4 };
+    const cekilis = ayarlar.cekilis ?? { efsane: 7, guclu: 3 };
     const deck = drawDeck(kartlar, cekilis, kategori.garanti, rng);
     const state = {
       surum: 1,
@@ -286,7 +286,7 @@
     hayatta_kalma: "Senaryoyu canlandır: temel ihtiyaçlar karşılanıyor mu, seçimler birbirini tamamlıyor mu, gereksiz ya da tekrar eden var mı. İlk üç günü ve uzun vadeyi ayrı düşün.",
   };
 
-  const SEVIYE_TR = { efsane: "efsane", guclu: "güçlü", siradan: "sıradan" };
+  const SEVIYE_TR = { efsane: "efsane (en üst seviye)", guclu: "yıldız (bir tık altı)" };
 
   // ters=true: Takım 1 olarak 2. oyuncu sunulur (sıra yanlılığını önlemek için rastgele seçilir).
   function hakemIstemi(state, kategori, ters) {

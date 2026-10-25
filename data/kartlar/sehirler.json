@@ -90,7 +90,7 @@
    "seviye": "efsane",
    "grup": "asya",
    "etiketler": [],
-   "aciklama": "Dünyanın en kalabalık metropolü; temiz, güvenli ve teknolojik.",
+   "aciklama": "Temiz, güvenli ve teknolojik dev metropol.",
    "puan": {
     "yasam_kalitesi": 9,
     "i_s_imkani": 9,
@@ -132,7 +132,7 @@
    "seviye": "efsane",
    "grup": "diger",
    "etiketler": [],
-   "aciklama": "Opera binası ve plajlarıyla Avustralya'nın parlayan yıldızı.",
+   "aciklama": "Opera binası ve plajlarıyla Avustralya'nın yıldızı.",
    "puan": {
     "yasam_kalitesi": 9,
     "i_s_imkani": 7,
@@ -141,82 +141,26 @@
    }
   },
   {
-   "id": "roma",
-   "ad": "Roma",
-   "seviye": "guclu",
-   "grup": "avrupa",
+   "id": "melbourne",
+   "ad": "Melbourne",
+   "seviye": "efsane",
+   "grup": "diger",
    "etiketler": [],
-   "aciklama": "Her köşesi açık hava müzesi olan ebedi şehir.",
+   "aciklama": "Kahve, sanat ve sporun başkenti.",
    "puan": {
-    "yasam_kalitesi": 7,
-    "i_s_imkani": 6,
-    "eglence": 8,
-    "doga": 6
-   }
-  },
-  {
-   "id": "amsterdam",
-   "ad": "Amsterdam",
-   "seviye": "guclu",
-   "grup": "avrupa",
-   "etiketler": [],
-   "aciklama": "Kanallar, bisikletler ve rahat bir şehir hayatı.",
-   "puan": {
-    "yasam_kalitesi": 8,
-    "i_s_imkani": 8,
-    "eglence": 8,
-    "doga": 6
-   }
-  },
-  {
-   "id": "berlin",
-   "ad": "Berlin",
-   "seviye": "guclu",
-   "grup": "avrupa",
-   "etiketler": [],
-   "aciklama": "Gece hayatı ve yaratıcılığıyla Avrupa'nın enerjik başkenti.",
-   "puan": {
-    "yasam_kalitesi": 8,
-    "i_s_imkani": 8,
-    "eglence": 8,
-    "doga": 5
-   }
-  },
-  {
-   "id": "viyana",
-   "ad": "Viyana",
-   "seviye": "guclu",
-   "grup": "avrupa",
-   "etiketler": [],
-   "aciklama": "Yaşam kalitesi listelerinin sürekli zirvesindeki şehir.",
-   "puan": {
-    "yasam_kalitesi": 10,
+    "yasam_kalitesi": 9,
     "i_s_imkani": 7,
-    "eglence": 7,
-    "doga": 7
-   }
-  },
-  {
-   "id": "zurih",
-   "ad": "Zürih",
-   "seviye": "guclu",
-   "grup": "avrupa",
-   "etiketler": [],
-   "aciklama": "Göl kenarında, düzenli ve yüksek maaşlı bir şehir.",
-   "puan": {
-    "yasam_kalitesi": 10,
-    "i_s_imkani": 9,
-    "eglence": 6,
-    "doga": 9
+    "eglence": 8,
+    "doga": 8
    }
   },
   {
    "id": "singapur",
    "ad": "Singapur",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "asya",
    "etiketler": [],
-   "aciklama": "Bahçe şehir; temiz, güvenli ve iş dünyasının gözdesi.",
+   "aciklama": "Bahçe şehir; temiz, güvenli, iş dünyasının gözdesi.",
    "puan": {
     "yasam_kalitesi": 9,
     "i_s_imkani": 10,
@@ -227,10 +171,10 @@
   {
    "id": "seul",
    "ad": "Seul",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "asya",
    "etiketler": [],
-   "aciklama": "K-pop, teknoloji ve hiç bitmeyen şehir enerjisi.",
+   "aciklama": "K-pop ve teknolojinin başkenti.",
    "puan": {
     "yasam_kalitesi": 8,
     "i_s_imkani": 9,
@@ -241,7 +185,7 @@
   {
    "id": "dubai",
    "ad": "Dubai",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "asya",
    "etiketler": [],
    "aciklama": "Çölün ortasında gökdelenler ve lüks.",
@@ -253,79 +197,37 @@
    }
   },
   {
-   "id": "los-angeles",
-   "ad": "Los Angeles",
-   "seviye": "guclu",
-   "grup": "amerika",
+   "id": "viyana",
+   "ad": "Viyana",
+   "seviye": "efsane",
+   "grup": "avrupa",
    "etiketler": [],
-   "aciklama": "Hollywood, güneş ve okyanus kıyısı.",
+   "aciklama": "Yaşam kalitesi listelerinin sürekli zirvesinde.",
    "puan": {
-    "yasam_kalitesi": 6,
-    "i_s_imkani": 9,
-    "eglence": 9,
-    "doga": 7
-   }
-  },
-  {
-   "id": "toronto",
-   "ad": "Toronto",
-   "seviye": "guclu",
-   "grup": "amerika",
-   "etiketler": [],
-   "aciklama": "Kanada'nın çok kültürlü ve güvenli metropolü.",
-   "puan": {
-    "yasam_kalitesi": 8,
-    "i_s_imkani": 8,
-    "eglence": 7,
-    "doga": 7
-   }
-  },
-  {
-   "id": "vancouver",
-   "ad": "Vancouver",
-   "seviye": "guclu",
-   "grup": "amerika",
-   "etiketler": [],
-   "aciklama": "Dağlarla okyanusun arasına kurulmuş yeşil şehir.",
-   "puan": {
-    "yasam_kalitesi": 9,
+    "yasam_kalitesi": 10,
     "i_s_imkani": 7,
-    "eglence": 6,
-    "doga": 10
-   }
-  },
-  {
-   "id": "rio-de-janeiro",
-   "ad": "Rio de Janeiro",
-   "seviye": "guclu",
-   "grup": "amerika",
-   "etiketler": [],
-   "aciklama": "Karnaval, plajlar ve dağlarıyla renkli şehir.",
-   "puan": {
-    "yasam_kalitesi": 5,
-    "i_s_imkani": 5,
-    "eglence": 10,
-    "doga": 10
-   }
-  },
-  {
-   "id": "i-zmir",
-   "ad": "İzmir",
-   "seviye": "guclu",
-   "grup": "turkiye",
-   "etiketler": [],
-   "aciklama": "Ege'nin incisi; kordonu ve rahat havasıyla sevilir.",
-   "puan": {
-    "yasam_kalitesi": 7,
-    "i_s_imkani": 6,
     "eglence": 7,
-    "doga": 8
+    "doga": 7
+   }
+  },
+  {
+   "id": "zurih",
+   "ad": "Zürih",
+   "seviye": "efsane",
+   "grup": "avrupa",
+   "etiketler": [],
+   "aciklama": "Göl kenarında düzenli ve yüksek maaşlı şehir.",
+   "puan": {
+    "yasam_kalitesi": 10,
+    "i_s_imkani": 9,
+    "eglence": 6,
+    "doga": 9
    }
   },
   {
    "id": "kopenhag",
    "ad": "Kopenhag",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "avrupa",
    "etiketler": [],
    "aciklama": "Mutluluk listelerinin müdavimi, bisiklet cenneti.",
@@ -337,12 +239,166 @@
    }
   },
   {
-   "id": "ankara",
-   "ad": "Ankara",
-   "seviye": "siradan",
+   "id": "amsterdam",
+   "ad": "Amsterdam",
+   "seviye": "efsane",
+   "grup": "avrupa",
+   "etiketler": [],
+   "aciklama": "Kanallar ve rahat bir şehir hayatı.",
+   "puan": {
+    "yasam_kalitesi": 8,
+    "i_s_imkani": 8,
+    "eglence": 8,
+    "doga": 6
+   }
+  },
+  {
+   "id": "munih",
+   "ad": "Münih",
+   "seviye": "efsane",
+   "grup": "avrupa",
+   "etiketler": [],
+   "aciklama": "Bira bahçeleri ve Alplere yakınlık.",
+   "puan": {
+    "yasam_kalitesi": 9,
+    "i_s_imkani": 8,
+    "eglence": 7,
+    "doga": 8
+   }
+  },
+  {
+   "id": "berlin",
+   "ad": "Berlin",
+   "seviye": "efsane",
+   "grup": "avrupa",
+   "etiketler": [],
+   "aciklama": "Yaratıcı ve enerjik başkent.",
+   "puan": {
+    "yasam_kalitesi": 8,
+    "i_s_imkani": 8,
+    "eglence": 9,
+    "doga": 5
+   }
+  },
+  {
+   "id": "roma",
+   "ad": "Roma",
+   "seviye": "efsane",
+   "grup": "avrupa",
+   "etiketler": [],
+   "aciklama": "Her köşesi açık hava müzesi olan ebedi şehir.",
+   "puan": {
+    "yasam_kalitesi": 7,
+    "i_s_imkani": 6,
+    "eglence": 8,
+    "doga": 6
+   }
+  },
+  {
+   "id": "los-angeles",
+   "ad": "Los Angeles",
+   "seviye": "efsane",
+   "grup": "amerika",
+   "etiketler": [],
+   "aciklama": "Hollywood, güneş ve okyanus kıyısı.",
+   "puan": {
+    "yasam_kalitesi": 6,
+    "i_s_imkani": 9,
+    "eglence": 9,
+    "doga": 7
+   }
+  },
+  {
+   "id": "san-francisco",
+   "ad": "San Francisco",
+   "seviye": "efsane",
+   "grup": "amerika",
+   "etiketler": [],
+   "aciklama": "Teknoloji başkenti ve Golden Gate.",
+   "puan": {
+    "yasam_kalitesi": 7,
+    "i_s_imkani": 10,
+    "eglence": 8,
+    "doga": 8
+   }
+  },
+  {
+   "id": "vancouver",
+   "ad": "Vancouver",
+   "seviye": "efsane",
+   "grup": "amerika",
+   "etiketler": [],
+   "aciklama": "Dağlarla okyanus arasına kurulmuş yeşil şehir.",
+   "puan": {
+    "yasam_kalitesi": 9,
+    "i_s_imkani": 7,
+    "eglence": 6,
+    "doga": 10
+   }
+  },
+  {
+   "id": "toronto",
+   "ad": "Toronto",
+   "seviye": "efsane",
+   "grup": "amerika",
+   "etiketler": [],
+   "aciklama": "Kanada'nın çok kültürlü güvenli metropolü.",
+   "puan": {
+    "yasam_kalitesi": 8,
+    "i_s_imkani": 8,
+    "eglence": 7,
+    "doga": 7
+   }
+  },
+  {
+   "id": "rio-de-janeiro",
+   "ad": "Rio de Janeiro",
+   "seviye": "efsane",
+   "grup": "amerika",
+   "etiketler": [],
+   "aciklama": "Karnaval, plajlar ve dağlar.",
+   "puan": {
+    "yasam_kalitesi": 5,
+    "i_s_imkani": 5,
+    "eglence": 10,
+    "doga": 10
+   }
+  },
+  {
+   "id": "cape-town",
+   "ad": "Cape Town",
+   "seviye": "efsane",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Masa Dağı ve okyanusuyla Afrika'nın en güzel şehirlerinden.",
+   "puan": {
+    "yasam_kalitesi": 6,
+    "i_s_imkani": 5,
+    "eglence": 7,
+    "doga": 10
+   }
+  },
+  {
+   "id": "i-zmir",
+   "ad": "İzmir",
+   "seviye": "efsane",
    "grup": "turkiye",
    "etiketler": [],
-   "aciklama": "Başkent; düzenli, yeşil alanları bol bir memur şehri.",
+   "aciklama": "Ege'nin incisi; kordonu ve rahat havasıyla sevilir.",
+   "puan": {
+    "yasam_kalitesi": 7,
+    "i_s_imkani": 6,
+    "eglence": 7,
+    "doga": 8
+   }
+  },
+  {
+   "id": "ankara",
+   "ad": "Ankara",
+   "seviye": "guclu",
+   "grup": "turkiye",
+   "etiketler": [],
+   "aciklama": "Düzenli, yeşil alanları bol başkent.",
    "puan": {
     "yasam_kalitesi": 7,
     "i_s_imkani": 8,
@@ -353,10 +409,10 @@
   {
    "id": "antalya",
    "ad": "Antalya",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "turkiye",
    "etiketler": [],
-   "aciklama": "Deniz, güneş ve turizmin Türkiye'deki başkenti.",
+   "aciklama": "Deniz, güneş ve turizmin başkenti.",
    "puan": {
     "yasam_kalitesi": 7,
     "i_s_imkani": 5,
@@ -367,10 +423,10 @@
   {
    "id": "bursa",
    "ad": "Bursa",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "turkiye",
    "etiketler": [],
-   "aciklama": "Uludağ'ın eteğinde yeşil ve sanayisi güçlü şehir.",
+   "aciklama": "Uludağ'ın eteğinde yeşil ve sanayisi güçlü.",
    "puan": {
     "yasam_kalitesi": 7,
     "i_s_imkani": 6,
@@ -379,26 +435,12 @@
    }
   },
   {
-   "id": "trabzon",
-   "ad": "Trabzon",
-   "seviye": "siradan",
-   "grup": "turkiye",
-   "etiketler": [],
-   "aciklama": "Yaylaları ve yeşiliyle Karadeniz'in incisi.",
-   "puan": {
-    "yasam_kalitesi": 6,
-    "i_s_imkani": 5,
-    "eglence": 4,
-    "doga": 9
-   }
-  },
-  {
    "id": "eskisehir",
    "ad": "Eskişehir",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "turkiye",
    "etiketler": [],
-   "aciklama": "Öğrenci şehri; genç, temiz ve kültür dolu.",
+   "aciklama": "Genç, temiz ve kültür dolu öğrenci şehri.",
    "puan": {
     "yasam_kalitesi": 7,
     "i_s_imkani": 5,
@@ -407,23 +449,9 @@
    }
   },
   {
-   "id": "atina",
-   "ad": "Atina",
-   "seviye": "siradan",
-   "grup": "avrupa",
-   "etiketler": [],
-   "aciklama": "Akropolis'in gölgesinde antik bir başkent.",
-   "puan": {
-    "yasam_kalitesi": 6,
-    "i_s_imkani": 5,
-    "eglence": 8,
-    "doga": 6
-   }
-  },
-  {
    "id": "lizbon",
    "ad": "Lizbon",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "avrupa",
    "etiketler": [],
    "aciklama": "Tepeleri, tramvayları ve okyanus manzarası.",
@@ -437,10 +465,10 @@
   {
    "id": "prag",
    "ad": "Prag",
-   "seviye": "siradan",
+   "seviye": "guclu",
    "grup": "avrupa",
    "etiketler": [],
-   "aciklama": "Masal gibi eski şehri ve köprüleriyle ünlü.",
+   "aciklama": "Masal gibi eski şehri ve köprüleri.",
    "puan": {
     "yasam_kalitesi": 7,
     "i_s_imkani": 6,
@@ -449,87 +477,59 @@
    }
   },
   {
-   "id": "bangkok",
-   "ad": "Bangkok",
-   "seviye": "siradan",
-   "grup": "asya",
+   "id": "oslo",
+   "ad": "Oslo",
+   "seviye": "guclu",
+   "grup": "avrupa",
    "etiketler": [],
-   "aciklama": "Tapınaklar, sokak yemekleri ve kaotik bir enerji.",
+   "aciklama": "Fiyortların kıyısında sakin başkent.",
    "puan": {
-    "yasam_kalitesi": 5,
-    "i_s_imkani": 6,
-    "eglence": 9,
-    "doga": 5
+    "yasam_kalitesi": 9,
+    "i_s_imkani": 7,
+    "eglence": 6,
+    "doga": 9
    }
   },
   {
-   "id": "pekin",
-   "ad": "Pekin",
-   "seviye": "siradan",
+   "id": "helsinki",
+   "ad": "Helsinki",
+   "seviye": "guclu",
+   "grup": "avrupa",
+   "etiketler": [],
+   "aciklama": "Temiz ve sakin kuzey başkenti.",
+   "puan": {
+    "yasam_kalitesi": 9,
+    "i_s_imkani": 7,
+    "eglence": 6,
+    "doga": 8
+   }
+  },
+  {
+   "id": "osaka",
+   "ad": "Osaka",
+   "seviye": "guclu",
    "grup": "asya",
    "etiketler": [],
-   "aciklama": "Yasak Şehir ve Çin Seddi'ne kapı olan dev başkent.",
+   "aciklama": "Japonya'nın mutfağı ve neşesi.",
    "puan": {
-    "yasam_kalitesi": 5,
+    "yasam_kalitesi": 8,
     "i_s_imkani": 8,
-    "eglence": 6,
-    "doga": 3
-   }
-  },
-  {
-   "id": "kahire",
-   "ad": "Kahire",
-   "seviye": "siradan",
-   "grup": "diger",
-   "etiketler": [],
-   "aciklama": "Piramitlerin yanı başında kalabalık ve tarihi bir şehir.",
-   "puan": {
-    "yasam_kalitesi": 4,
-    "i_s_imkani": 4,
-    "eglence": 6,
-    "doga": 3
-   }
-  },
-  {
-   "id": "meksiko",
-   "ad": "Meksiko",
-   "seviye": "siradan",
-   "grup": "amerika",
-   "etiketler": [],
-   "aciklama": "Latin Amerika'nın en büyük şehirlerinden; renkli ve lezzetli.",
-   "puan": {
-    "yasam_kalitesi": 5,
-    "i_s_imkani": 6,
     "eglence": 8,
     "doga": 5
    }
   },
   {
-   "id": "cape-town",
-   "ad": "Cape Town",
-   "seviye": "siradan",
-   "grup": "diger",
+   "id": "montreal",
+   "ad": "Montreal",
+   "seviye": "guclu",
+   "grup": "amerika",
    "etiketler": [],
-   "aciklama": "Masa Dağı ve okyanusuyla Afrika'nın en güzel şehirlerinden.",
+   "aciklama": "Kuzey Amerika'nın Fransız ruhu.",
    "puan": {
-    "yasam_kalitesi": 6,
-    "i_s_imkani": 5,
-    "eglence": 7,
-    "doga": 10
-   }
-  },
-  {
-   "id": "moskova",
-   "ad": "Moskova",
-   "seviye": "siradan",
-   "grup": "avrupa",
-   "etiketler": [],
-   "aciklama": "Kızıl Meydan ve görkemli metrosuyla dev başkent.",
-   "puan": {
-    "yasam_kalitesi": 5,
+    "yasam_kalitesi": 8,
     "i_s_imkani": 7,
-    "eglence": 7,
-    "doga": 4
+    "eglence": 8,
+    "doga": 7
    }
   }
  ]
