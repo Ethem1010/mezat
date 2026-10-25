@@ -87,3 +87,10 @@ EŞLEŞMELER
  "kazanan":"takim1",
  "gerekce":"Dengeli sofra, rakibin güçlü ama ağır menüsünü geçti."}
 ```
+
+## Kart puanlarını gerçek bilgiye göre düzeltme (v7)
+
+- Kart dosyalarındaki ham 1-10 puanlar kalibre edilir: `10 - (10 - puan) × 0.6`. Havuzda sadece en iyiler olduğu için 7 → 8.2, 5 → 7.0 olur; sıralama değişmez. Takım toplamında kart puanı × 3 sayılır.
+- Yapay zeka hakemi her kart için 1-10 arası kendi puanını verir: ödüller, rekorlar, satış/izlenme, IMDb gibi puanlar, kalıcılık ve **Türkiye'deki bilinirlik** dahil. Her puanın somut bir "neden"i olmalıdır.
+- Kod, hakemin puanı ile kod puanı arasındaki farkın yarısını alır ve kart başına en fazla **±0.5** düzeltme uygular. Böylece hakem gerçekten fark yaratır ama tek bir yanlış bilgi maçı tek başına çeviremez.
+- Hakem internete bağlanıp canlı arama yapmaz; Claude'un eğitiminde gördüğü genel bilgilere (haberler, yorumlar, ansiklopedi) dayanır.
