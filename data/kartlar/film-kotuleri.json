@@ -47,10 +47,10 @@
    "etiketler": [],
    "aciklama": "Nefesiyle bile korkutan Sith lordu.",
    "puan": {
-    "guc": 9,
-    "zeka_ve_plan": 8,
-    "korkutuculuk": 9,
-    "efsanelik": 10
+    "guc": 9.4,
+    "zeka_ve_plan": 8.8,
+    "korkutuculuk": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -61,10 +61,10 @@
    "etiketler": [],
    "aciklama": "Bir şıklatmayla evrenin yarısını silen titan.",
    "puan": {
-    "guc": 10,
-    "zeka_ve_plan": 9,
-    "korkutuculuk": 8,
-    "efsanelik": 9
+    "guc": 10.0,
+    "zeka_ve_plan": 9.4,
+    "korkutuculuk": 8.8,
+    "efsanelik": 9.4
    }
   },
   {
@@ -75,10 +75,10 @@
    "etiketler": [],
    "aciklama": "Adı anılmaması gereken karanlık büyücü.",
    "puan": {
-    "guc": 9,
-    "zeka_ve_plan": 8,
-    "korkutuculuk": 9,
-    "efsanelik": 9
+    "guc": 9.4,
+    "zeka_ve_plan": 8.8,
+    "korkutuculuk": 9.4,
+    "efsanelik": 9.4
    }
   },
   {
@@ -89,10 +89,10 @@
    "etiketler": [],
    "aciklama": "Tek Yüzük'ün karanlık efendisi.",
    "puan": {
-    "guc": 10,
-    "zeka_ve_plan": 8,
-    "korkutuculuk": 9,
-    "efsanelik": 9
+    "guc": 10.0,
+    "zeka_ve_plan": 8.8,
+    "korkutuculuk": 9.4,
+    "efsanelik": 9.4
    }
   },
   {
@@ -103,10 +103,10 @@
    "etiketler": [],
    "aciklama": "Metali yöneten güçlü mutant.",
    "puan": {
-    "guc": 9,
-    "zeka_ve_plan": 8,
-    "korkutuculuk": 7,
-    "efsanelik": 8
+    "guc": 9.4,
+    "zeka_ve_plan": 8.8,
+    "korkutuculuk": 8.2,
+    "efsanelik": 8.8
    }
   },
   {
@@ -117,10 +117,10 @@
    "etiketler": [],
    "aciklama": "Matrix'te kendini çoğaltan program.",
    "puan": {
-    "guc": 7,
-    "zeka_ve_plan": 8,
-    "korkutuculuk": 7,
-    "efsanelik": 8
+    "guc": 8.2,
+    "zeka_ve_plan": 8.8,
+    "korkutuculuk": 8.2,
+    "efsanelik": 8.8
    }
   },
   {
@@ -131,10 +131,10 @@
    "etiketler": [],
    "aciklama": "Durdurulamayan robot suikastçi.",
    "puan": {
-    "guc": 8,
-    "zeka_ve_plan": 6,
-    "korkutuculuk": 9,
-    "efsanelik": 9
+    "guc": 8.8,
+    "zeka_ve_plan": 7.6,
+    "korkutuculuk": 9.4,
+    "efsanelik": 9.4
    }
   },
   {
@@ -145,10 +145,10 @@
    "etiketler": [],
    "aciklama": "Batman'in belini kıran güçlü stratejist.",
    "puan": {
-    "guc": 9,
-    "zeka_ve_plan": 8,
-    "korkutuculuk": 8,
-    "efsanelik": 7
+    "guc": 9.4,
+    "zeka_ve_plan": 8.8,
+    "korkutuculuk": 8.8,
+    "efsanelik": 8.2
    }
   },
   {
@@ -159,10 +159,10 @@
    "etiketler": [],
    "aciklama": "Apokolips'in acımasız hükümdarı.",
    "puan": {
-    "guc": 10,
-    "zeka_ve_plan": 8,
-    "korkutuculuk": 8,
-    "efsanelik": 7
+    "guc": 10.0,
+    "zeka_ve_plan": 8.8,
+    "korkutuculuk": 8.8,
+    "efsanelik": 8.2
    }
   },
   {
@@ -173,10 +173,10 @@
    "etiketler": [],
    "aciklama": "İnsanlığı yok etmek isteyen yapay zekâ.",
    "puan": {
-    "guc": 9,
-    "zeka_ve_plan": 9,
-    "korkutuculuk": 7,
-    "efsanelik": 7
+    "guc": 9.4,
+    "zeka_ve_plan": 9.4,
+    "korkutuculuk": 8.2,
+    "efsanelik": 8.2
    }
   },
   {
@@ -187,10 +187,10 @@
    "etiketler": [],
    "aciklama": "Kaosu planlayan gülümseyen deli.",
    "puan": {
-    "guc": 4,
-    "zeka_ve_plan": 9,
-    "korkutuculuk": 9,
-    "efsanelik": 10
+    "guc": 6.4,
+    "zeka_ve_plan": 9.4,
+    "korkutuculuk": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -201,10 +201,10 @@
    "etiketler": [],
    "aciklama": "Dâhi ve ürkütücü psikiyatrist.",
    "puan": {
-    "guc": 3,
-    "zeka_ve_plan": 10,
-    "korkutuculuk": 10,
-    "efsanelik": 9
+    "guc": 5.8,
+    "zeka_ve_plan": 10.0,
+    "korkutuculuk": 10.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -215,10 +215,10 @@
    "etiketler": [],
    "aciklama": "Yalanların ve hilelerin tanrısı.",
    "puan": {
-    "guc": 6,
-    "zeka_ve_plan": 9,
-    "korkutuculuk": 5,
-    "efsanelik": 8
+    "guc": 7.6,
+    "zeka_ve_plan": 9.4,
+    "korkutuculuk": 7.0,
+    "efsanelik": 8.8
    }
   },
   {
@@ -229,10 +229,10 @@
    "etiketler": [],
    "aciklama": "Superman'in dâhi düşmanı.",
    "puan": {
-    "guc": 3,
-    "zeka_ve_plan": 10,
-    "korkutuculuk": 6,
-    "efsanelik": 8
+    "guc": 5.8,
+    "zeka_ve_plan": 10.0,
+    "korkutuculuk": 7.6,
+    "efsanelik": 8.8
    }
   },
   {
@@ -243,10 +243,10 @@
    "etiketler": [],
    "aciklama": "Galaksiyi perde arkasından yöneten imparator.",
    "puan": {
-    "guc": 9,
-    "zeka_ve_plan": 10,
-    "korkutuculuk": 8,
-    "efsanelik": 8
+    "guc": 9.4,
+    "zeka_ve_plan": 10.0,
+    "korkutuculuk": 8.8,
+    "efsanelik": 8.8
    }
   },
   {
@@ -257,10 +257,10 @@
    "etiketler": [],
    "aciklama": "Gökdelen soygununun soğukkanlı beyni.",
    "puan": {
-    "guc": 3,
-    "zeka_ve_plan": 9,
-    "korkutuculuk": 6,
-    "efsanelik": 8
+    "guc": 5.8,
+    "zeka_ve_plan": 9.4,
+    "korkutuculuk": 7.6,
+    "efsanelik": 8.8
    }
   },
   {
@@ -271,10 +271,10 @@
    "etiketler": [],
    "aciklama": "Tahta göz diken kıskanç aslan.",
    "puan": {
-    "guc": 5,
-    "zeka_ve_plan": 8,
-    "korkutuculuk": 6,
-    "efsanelik": 9
+    "guc": 7.0,
+    "zeka_ve_plan": 8.8,
+    "korkutuculuk": 7.6,
+    "efsanelik": 9.4
    }
   },
   {
@@ -285,10 +285,10 @@
    "etiketler": [],
    "aciklama": "Yazı turayla karar veren soğuk tetikçi.",
    "puan": {
-    "guc": 6,
-    "zeka_ve_plan": 8,
-    "korkutuculuk": 10,
-    "efsanelik": 8
+    "guc": 7.6,
+    "zeka_ve_plan": 8.8,
+    "korkutuculuk": 10.0,
+    "efsanelik": 8.8
    }
   },
   {
@@ -299,10 +299,10 @@
    "etiketler": [],
    "aciklama": "Rüyalarda avlanan kâbus.",
    "puan": {
-    "guc": 6,
-    "zeka_ve_plan": 6,
-    "korkutuculuk": 10,
-    "efsanelik": 9
+    "guc": 7.6,
+    "zeka_ve_plan": 7.6,
+    "korkutuculuk": 10.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -313,10 +313,10 @@
    "etiketler": [],
    "aciklama": "Uzayda kimse çığlığını duymaz.",
    "puan": {
-    "guc": 8,
-    "zeka_ve_plan": 5,
-    "korkutuculuk": 10,
-    "efsanelik": 9
+    "guc": 8.8,
+    "zeka_ve_plan": 7.0,
+    "korkutuculuk": 10.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -327,10 +327,10 @@
    "etiketler": [],
    "aciklama": "Kanalizasyondaki korkunç palyaço.",
    "puan": {
-    "guc": 7,
-    "zeka_ve_plan": 7,
-    "korkutuculuk": 10,
-    "efsanelik": 8
+    "guc": 8.2,
+    "zeka_ve_plan": 8.2,
+    "korkutuculuk": 10.0,
+    "efsanelik": 8.8
    }
   },
   {
@@ -341,10 +341,10 @@
    "etiketler": [],
    "aciklama": "Issız otelde aklını kaybeden adam.",
    "puan": {
-    "guc": 4,
-    "zeka_ve_plan": 4,
-    "korkutuculuk": 9,
-    "efsanelik": 9
+    "guc": 6.4,
+    "zeka_ve_plan": 6.4,
+    "korkutuculuk": 9.4,
+    "efsanelik": 9.4
    }
   },
   {
@@ -355,10 +355,10 @@
    "etiketler": [],
    "aciklama": "Bates Motel'in ürkütücü sahibi.",
    "puan": {
-    "guc": 3,
-    "zeka_ve_plan": 6,
-    "korkutuculuk": 9,
-    "efsanelik": 9
+    "guc": 5.8,
+    "zeka_ve_plan": 7.6,
+    "korkutuculuk": 9.4,
+    "efsanelik": 9.4
    }
   },
   {
@@ -369,10 +369,10 @@
    "etiketler": [],
    "aciklama": "Cadılar Bayramı'nın sessiz avcısı.",
    "puan": {
-    "guc": 7,
-    "zeka_ve_plan": 3,
-    "korkutuculuk": 9,
-    "efsanelik": 8
+    "guc": 8.2,
+    "zeka_ve_plan": 5.8,
+    "korkutuculuk": 9.4,
+    "efsanelik": 8.8
    }
   },
   {
@@ -383,10 +383,10 @@
    "etiketler": [],
    "aciklama": "Maskeli ve durdurulamaz.",
    "puan": {
-    "guc": 7,
-    "zeka_ve_plan": 2,
-    "korkutuculuk": 9,
-    "efsanelik": 8
+    "guc": 8.2,
+    "zeka_ve_plan": 5.2,
+    "korkutuculuk": 9.4,
+    "efsanelik": 8.8
    }
   },
   {
@@ -397,10 +397,10 @@
    "etiketler": [],
    "aciklama": "Decepticon'ların lideri dev robot.",
    "puan": {
-    "guc": 9,
-    "zeka_ve_plan": 6,
-    "korkutuculuk": 7,
-    "efsanelik": 7
+    "guc": 9.4,
+    "zeka_ve_plan": 7.6,
+    "korkutuculuk": 8.2,
+    "efsanelik": 8.2
    }
   },
   {
@@ -411,10 +411,10 @@
    "etiketler": [],
    "aciklama": "Örümcek Adam'ın uçan düşmanı.",
    "puan": {
-    "guc": 7,
-    "zeka_ve_plan": 7,
-    "korkutuculuk": 7,
-    "efsanelik": 7
+    "guc": 8.2,
+    "zeka_ve_plan": 8.2,
+    "korkutuculuk": 8.2,
+    "efsanelik": 8.2
    }
   },
   {
@@ -425,10 +425,10 @@
    "etiketler": [],
    "aciklama": "Lambanın peşindeki hain vezir.",
    "puan": {
-    "guc": 7,
-    "zeka_ve_plan": 8,
-    "korkutuculuk": 6,
-    "efsanelik": 7
+    "guc": 8.2,
+    "zeka_ve_plan": 8.8,
+    "korkutuculuk": 7.6,
+    "efsanelik": 8.2
    }
   },
   {
@@ -439,10 +439,10 @@
    "etiketler": [],
    "aciklama": "Denizlerin pazarlıkçı cadısı.",
    "puan": {
-    "guc": 6,
-    "zeka_ve_plan": 7,
-    "korkutuculuk": 6,
-    "efsanelik": 7
+    "guc": 7.6,
+    "zeka_ve_plan": 8.2,
+    "korkutuculuk": 7.6,
+    "efsanelik": 8.2
    }
   },
   {
@@ -453,10 +453,10 @@
    "etiketler": [],
    "aciklama": "Ayna ayna söyle bana…",
    "puan": {
-    "guc": 4,
-    "zeka_ve_plan": 7,
-    "korkutuculuk": 6,
-    "efsanelik": 7
+    "guc": 6.4,
+    "zeka_ve_plan": 8.2,
+    "korkutuculuk": 7.6,
+    "efsanelik": 8.2
    }
   },
   {
@@ -467,10 +467,10 @@
    "etiketler": [],
    "aciklama": "Dalmaçyalı peşindeki moda delisi.",
    "puan": {
-    "guc": 2,
-    "zeka_ve_plan": 6,
-    "korkutuculuk": 5,
-    "efsanelik": 7
+    "guc": 5.2,
+    "zeka_ve_plan": 7.6,
+    "korkutuculuk": 7.0,
+    "efsanelik": 8.2
    }
   },
   {
@@ -481,10 +481,10 @@
    "etiketler": [],
    "aciklama": "Lanetli oyuncak bebek.",
    "puan": {
-    "guc": 5,
-    "zeka_ve_plan": 4,
-    "korkutuculuk": 9,
-    "efsanelik": 7
+    "guc": 7.0,
+    "zeka_ve_plan": 6.4,
+    "korkutuculuk": 9.4,
+    "efsanelik": 8.2
    }
   },
   {
@@ -495,10 +495,10 @@
    "etiketler": [],
    "aciklama": "Katil ruhlu oyuncak.",
    "puan": {
-    "guc": 3,
-    "zeka_ve_plan": 6,
-    "korkutuculuk": 8,
-    "efsanelik": 8
+    "guc": 5.8,
+    "zeka_ve_plan": 7.6,
+    "korkutuculuk": 8.8,
+    "efsanelik": 8.8
    }
   },
   {
@@ -509,10 +509,10 @@
    "etiketler": [],
    "aciklama": "Telefondaki tüyler ürperten ses.",
    "puan": {
-    "guc": 4,
-    "zeka_ve_plan": 6,
-    "korkutuculuk": 8,
-    "efsanelik": 7
+    "guc": 6.4,
+    "zeka_ve_plan": 7.6,
+    "korkutuculuk": 8.8,
+    "efsanelik": 8.2
    }
   },
   {
@@ -523,10 +523,10 @@
    "etiketler": [],
    "aciklama": "Kıymetlisinin peşindeki yaratık.",
    "puan": {
-    "guc": 2,
-    "zeka_ve_plan": 5,
-    "korkutuculuk": 6,
-    "efsanelik": 8
+    "guc": 5.2,
+    "zeka_ve_plan": 7.0,
+    "korkutuculuk": 7.6,
+    "efsanelik": 8.8
    }
   }
  ]

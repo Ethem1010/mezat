@@ -58,10 +58,10 @@
    ],
    "aciklama": "Mutfağın tartışmasız kralı.",
    "puan": {
-    "besin_degeri": 8,
-    "lezzet": 9,
-    "mutfakta_kullanim": 10,
-    "sevilme": 10
+    "besin_degeri": 8.8,
+    "lezzet": 9.4,
+    "mutfakta_kullanim": 10.0,
+    "sevilme": 10.0
    }
   },
   {
@@ -74,10 +74,10 @@
    ],
    "aciklama": "Kızartmadan püreye her şey.",
    "puan": {
-    "besin_degeri": 7,
-    "lezzet": 10,
-    "mutfakta_kullanim": 10,
-    "sevilme": 10
+    "besin_degeri": 8.2,
+    "lezzet": 10.0,
+    "mutfakta_kullanim": 10.0,
+    "sevilme": 10.0
    }
   },
   {
@@ -90,10 +90,10 @@
    ],
    "aciklama": "Her yemeğin başlangıcı.",
    "puan": {
-    "besin_degeri": 8,
-    "lezzet": 7,
-    "mutfakta_kullanim": 10,
-    "sevilme": 8
+    "besin_degeri": 8.8,
+    "lezzet": 8.2,
+    "mutfakta_kullanim": 10.0,
+    "sevilme": 8.8
    }
   },
   {
@@ -106,10 +106,10 @@
    ],
    "aciklama": "Lezzet ve sağlık bombası.",
    "puan": {
-    "besin_degeri": 9,
-    "lezzet": 8,
-    "mutfakta_kullanim": 10,
-    "sevilme": 8
+    "besin_degeri": 9.4,
+    "lezzet": 8.8,
+    "mutfakta_kullanim": 10.0,
+    "sevilme": 8.8
    }
   },
   {
@@ -122,10 +122,10 @@
    ],
    "aciklama": "Kahvaltının ve yemeklerin olmazsa olmazı.",
    "puan": {
-    "besin_degeri": 8,
-    "lezzet": 8,
-    "mutfakta_kullanim": 10,
-    "sevilme": 9
+    "besin_degeri": 8.8,
+    "lezzet": 8.8,
+    "mutfakta_kullanim": 10.0,
+    "sevilme": 9.4
    }
   },
   {
@@ -136,10 +136,10 @@
    "etiketler": [],
    "aciklama": "Karnıyarık, imam bayıldı, kebap.",
    "puan": {
-    "besin_degeri": 7,
-    "lezzet": 9,
-    "mutfakta_kullanim": 10,
-    "sevilme": 9
+    "besin_degeri": 8.2,
+    "lezzet": 9.4,
+    "mutfakta_kullanim": 10.0,
+    "sevilme": 9.4
    }
   },
   {
@@ -150,10 +150,10 @@
    "etiketler": [],
    "aciklama": "Mücver ve dolmanın yıldızı.",
    "puan": {
-    "besin_degeri": 7,
-    "lezzet": 7,
-    "mutfakta_kullanim": 8,
-    "sevilme": 7
+    "besin_degeri": 8.2,
+    "lezzet": 8.2,
+    "mutfakta_kullanim": 8.8,
+    "sevilme": 8.2
    }
   },
   {
@@ -164,10 +164,10 @@
    "etiketler": [],
    "aciklama": "Ferahlatan salata klasiği.",
    "puan": {
-    "besin_degeri": 6,
-    "lezzet": 8,
-    "mutfakta_kullanim": 8,
-    "sevilme": 9
+    "besin_degeri": 7.6,
+    "lezzet": 8.8,
+    "mutfakta_kullanim": 8.8,
+    "sevilme": 9.4
    }
   },
   {
@@ -178,10 +178,10 @@
    "etiketler": [],
    "aciklama": "Zeytinyağlının efsanesi.",
    "puan": {
-    "besin_degeri": 8,
-    "lezzet": 8,
-    "mutfakta_kullanim": 8,
-    "sevilme": 8
+    "besin_degeri": 8.8,
+    "lezzet": 8.8,
+    "mutfakta_kullanim": 8.8,
+    "sevilme": 8.8
    }
   },
   {
@@ -192,10 +192,10 @@
    "etiketler": [],
    "aciklama": "Ekşili yemeğiyle sevilen sebze.",
    "puan": {
-    "besin_degeri": 8,
-    "lezzet": 7,
-    "mutfakta_kullanim": 6,
-    "sevilme": 6
+    "besin_degeri": 8.8,
+    "lezzet": 8.2,
+    "mutfakta_kullanim": 7.6,
+    "sevilme": 7.6
    }
   },
   {
@@ -206,10 +206,10 @@
    "etiketler": [],
    "aciklama": "Közlemesi ve dolmasıyla tatlı biber.",
    "puan": {
-    "besin_degeri": 9,
-    "lezzet": 8,
-    "mutfakta_kullanim": 8,
-    "sevilme": 8
+    "besin_degeri": 9.4,
+    "lezzet": 8.8,
+    "mutfakta_kullanim": 8.8,
+    "sevilme": 8.8
    }
   },
   {
@@ -220,10 +220,10 @@
    "etiketler": [],
    "aciklama": "Haşlaması ve közüyle yaz klasiği.",
    "puan": {
-    "besin_degeri": 7,
-    "lezzet": 9,
-    "mutfakta_kullanim": 8,
-    "sevilme": 9
+    "besin_degeri": 8.2,
+    "lezzet": 9.4,
+    "mutfakta_kullanim": 8.8,
+    "sevilme": 9.4
    }
   },
   {
@@ -234,10 +234,10 @@
    "etiketler": [],
    "aciklama": "Göze iyi gelen turuncu kök.",
    "puan": {
-    "besin_degeri": 9,
-    "lezzet": 7,
-    "mutfakta_kullanim": 9,
-    "sevilme": 8
+    "besin_degeri": 9.4,
+    "lezzet": 8.2,
+    "mutfakta_kullanim": 9.4,
+    "sevilme": 8.8
    }
   },
   {
@@ -248,10 +248,10 @@
    "etiketler": [],
    "aciklama": "Kan yapan kırmızı kök.",
    "puan": {
-    "besin_degeri": 9,
-    "lezzet": 6,
-    "mutfakta_kullanim": 6,
-    "sevilme": 6
+    "besin_degeri": 9.4,
+    "lezzet": 7.6,
+    "mutfakta_kullanim": 7.6,
+    "sevilme": 7.6
    }
   },
   {
@@ -262,10 +262,10 @@
    "etiketler": [],
    "aciklama": "Kışın şifa kaynağı.",
    "puan": {
-    "besin_degeri": 8,
-    "lezzet": 6,
-    "mutfakta_kullanim": 6,
-    "sevilme": 6
+    "besin_degeri": 8.8,
+    "lezzet": 7.6,
+    "mutfakta_kullanim": 7.6,
+    "sevilme": 7.6
    }
   },
   {
@@ -276,10 +276,10 @@
    "etiketler": [],
    "aciklama": "Çayından yemeğine şifalı kök.",
    "puan": {
-    "besin_degeri": 9,
-    "lezzet": 6,
-    "mutfakta_kullanim": 7,
-    "sevilme": 7
+    "besin_degeri": 9.4,
+    "lezzet": 7.6,
+    "mutfakta_kullanim": 8.2,
+    "sevilme": 8.2
    }
   },
   {
@@ -290,10 +290,10 @@
    "etiketler": [],
    "aciklama": "Süper besin yeşil ağaç.",
    "puan": {
-    "besin_degeri": 10,
-    "lezzet": 6,
-    "mutfakta_kullanim": 8,
-    "sevilme": 6
+    "besin_degeri": 10.0,
+    "lezzet": 7.6,
+    "mutfakta_kullanim": 8.8,
+    "sevilme": 7.6
    }
   },
   {
@@ -304,10 +304,10 @@
    "etiketler": [],
    "aciklama": "Kızartması meşhur.",
    "puan": {
-    "besin_degeri": 9,
-    "lezzet": 7,
-    "mutfakta_kullanim": 8,
-    "sevilme": 7
+    "besin_degeri": 9.4,
+    "lezzet": 8.2,
+    "mutfakta_kullanim": 8.8,
+    "sevilme": 8.2
    }
   },
   {
@@ -318,10 +318,10 @@
    "etiketler": [],
    "aciklama": "Sarması ve turşusu meşhur.",
    "puan": {
-    "besin_degeri": 9,
-    "lezzet": 6,
-    "mutfakta_kullanim": 8,
-    "sevilme": 6
+    "besin_degeri": 9.4,
+    "lezzet": 7.6,
+    "mutfakta_kullanim": 8.8,
+    "sevilme": 7.6
    }
   },
   {
@@ -332,10 +332,10 @@
    "etiketler": [],
    "aciklama": "Zeytinyağlısı kış sofrası.",
    "puan": {
-    "besin_degeri": 8,
-    "lezzet": 7,
-    "mutfakta_kullanim": 7,
-    "sevilme": 6
+    "besin_degeri": 8.8,
+    "lezzet": 8.2,
+    "mutfakta_kullanim": 8.2,
+    "sevilme": 7.6
    }
   },
   {
@@ -346,10 +346,10 @@
    "etiketler": [],
    "aciklama": "Zeytinyağlısı nefis.",
    "puan": {
-    "besin_degeri": 8,
-    "lezzet": 6,
-    "mutfakta_kullanim": 7,
-    "sevilme": 5
+    "besin_degeri": 8.8,
+    "lezzet": 7.6,
+    "mutfakta_kullanim": 8.2,
+    "sevilme": 7.0
    }
   },
   {
@@ -360,10 +360,10 @@
    "etiketler": [],
    "aciklama": "Temel Reis'in gücü.",
    "puan": {
-    "besin_degeri": 10,
-    "lezzet": 7,
-    "mutfakta_kullanim": 8,
-    "sevilme": 7
+    "besin_degeri": 10.0,
+    "lezzet": 8.2,
+    "mutfakta_kullanim": 8.8,
+    "sevilme": 8.2
    }
   },
   {
@@ -374,10 +374,10 @@
    "etiketler": [],
    "aciklama": "Salatanın temeli.",
    "puan": {
-    "besin_degeri": 7,
-    "lezzet": 7,
-    "mutfakta_kullanim": 8,
-    "sevilme": 8
+    "besin_degeri": 8.2,
+    "lezzet": 8.2,
+    "mutfakta_kullanim": 8.8,
+    "sevilme": 8.8
    }
   },
   {
@@ -388,10 +388,10 @@
    "etiketler": [],
    "aciklama": "Acımsı tadıyla salata yıldızı.",
    "puan": {
-    "besin_degeri": 8,
-    "lezzet": 8,
-    "mutfakta_kullanim": 7,
-    "sevilme": 8
+    "besin_degeri": 8.8,
+    "lezzet": 8.8,
+    "mutfakta_kullanim": 8.2,
+    "sevilme": 8.8
    }
   },
   {
@@ -402,10 +402,10 @@
    "etiketler": [],
    "aciklama": "Her şeyin üstüne serpilen yeşillik.",
    "puan": {
-    "besin_degeri": 9,
-    "lezzet": 7,
-    "mutfakta_kullanim": 9,
-    "sevilme": 8
+    "besin_degeri": 9.4,
+    "lezzet": 8.2,
+    "mutfakta_kullanim": 9.4,
+    "sevilme": 8.8
    }
   },
   {
@@ -416,10 +416,10 @@
    "etiketler": [],
    "aciklama": "Tatlı yeşil taneler.",
    "puan": {
-    "besin_degeri": 8,
-    "lezzet": 7,
-    "mutfakta_kullanim": 7,
-    "sevilme": 7
+    "besin_degeri": 8.8,
+    "lezzet": 8.2,
+    "mutfakta_kullanim": 8.2,
+    "sevilme": 8.2
    }
   },
   {
@@ -430,10 +430,10 @@
    "etiketler": [],
    "aciklama": "Zeytinyağlısı lezzetli.",
    "puan": {
-    "besin_degeri": 9,
-    "lezzet": 7,
-    "mutfakta_kullanim": 6,
-    "sevilme": 5
+    "besin_degeri": 9.4,
+    "lezzet": 8.2,
+    "mutfakta_kullanim": 7.6,
+    "sevilme": 7.0
    }
   },
   {
@@ -444,10 +444,10 @@
    "etiketler": [],
    "aciklama": "Şık restoranların sebzesi.",
    "puan": {
-    "besin_degeri": 9,
-    "lezzet": 7,
-    "mutfakta_kullanim": 5,
-    "sevilme": 5
+    "besin_degeri": 9.4,
+    "lezzet": 8.2,
+    "mutfakta_kullanim": 7.0,
+    "sevilme": 7.0
    }
   },
   {
@@ -458,10 +458,10 @@
    "etiketler": [],
    "aciklama": "Fırında enfes.",
    "puan": {
-    "besin_degeri": 9,
-    "lezzet": 8,
-    "mutfakta_kullanim": 7,
-    "sevilme": 7
+    "besin_degeri": 9.4,
+    "lezzet": 8.8,
+    "mutfakta_kullanim": 8.2,
+    "sevilme": 8.2
    }
   },
   {
@@ -472,10 +472,10 @@
    "etiketler": [],
    "aciklama": "Minik lahanalar.",
    "puan": {
-    "besin_degeri": 9,
-    "lezzet": 5,
-    "mutfakta_kullanim": 5,
-    "sevilme": 4
+    "besin_degeri": 9.4,
+    "lezzet": 7.0,
+    "mutfakta_kullanim": 7.0,
+    "sevilme": 6.4
    }
   },
   {
@@ -486,10 +486,10 @@
    "etiketler": [],
    "aciklama": "Karadeniz'in yeşili.",
    "puan": {
-    "besin_degeri": 10,
-    "lezzet": 6,
-    "mutfakta_kullanim": 6,
-    "sevilme": 5
+    "besin_degeri": 10.0,
+    "lezzet": 7.6,
+    "mutfakta_kullanim": 7.6,
+    "sevilme": 7.0
    }
   },
   {
@@ -500,10 +500,10 @@
    "etiketler": [],
    "aciklama": "Yoğurtlusu meşhur.",
    "puan": {
-    "besin_degeri": 9,
-    "lezzet": 7,
-    "mutfakta_kullanim": 6,
-    "sevilme": 7
+    "besin_degeri": 9.4,
+    "lezzet": 8.2,
+    "mutfakta_kullanim": 7.6,
+    "sevilme": 8.2
    }
   },
   {
@@ -514,10 +514,10 @@
    "etiketler": [],
    "aciklama": "Kokusuyla mezelerin süsü.",
    "puan": {
-    "besin_degeri": 8,
-    "lezzet": 7,
-    "mutfakta_kullanim": 7,
-    "sevilme": 7
+    "besin_degeri": 8.8,
+    "lezzet": 8.2,
+    "mutfakta_kullanim": 8.2,
+    "sevilme": 8.2
    }
   },
   {
@@ -528,10 +528,10 @@
    "etiketler": [],
    "aciklama": "Çorbadan limonataya.",
    "puan": {
-    "besin_degeri": 7,
-    "lezzet": 7,
-    "mutfakta_kullanim": 8,
-    "sevilme": 8
+    "besin_degeri": 8.2,
+    "lezzet": 8.2,
+    "mutfakta_kullanim": 8.8,
+    "sevilme": 8.8
    }
   },
   {
@@ -542,10 +542,10 @@
    "etiketler": [],
    "aciklama": "Salatanın tazeliği.",
    "puan": {
-    "besin_degeri": 7,
-    "lezzet": 7,
-    "mutfakta_kullanim": 8,
-    "sevilme": 7
+    "besin_degeri": 8.2,
+    "lezzet": 8.2,
+    "mutfakta_kullanim": 8.8,
+    "sevilme": 8.2
    }
   }
  ]

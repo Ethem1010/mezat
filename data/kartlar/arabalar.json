@@ -50,10 +50,10 @@
    "etiketler": [],
    "aciklama": "Enzo Ferrari'nin imzasını taşıyan son efsane.",
    "puan": {
-    "performans": 10,
-    "i_koniklik": 10,
-    "nostalji": 9,
-    "tasarim": 10
+    "performans": 10.0,
+    "i_koniklik": 10.0,
+    "nostalji": 9.4,
+    "tasarim": 10.0
    }
   },
   {
@@ -64,10 +64,10 @@
    "etiketler": [],
    "aciklama": "Dünyanın en değerli klasik otomobillerinden.",
    "puan": {
-    "performans": 9,
-    "i_koniklik": 10,
-    "nostalji": 10,
-    "tasarim": 10
+    "performans": 9.4,
+    "i_koniklik": 10.0,
+    "nostalji": 10.0,
+    "tasarim": 10.0
    }
   },
   {
@@ -78,10 +78,10 @@
    "etiketler": [],
    "aciklama": "Süper araba kavramını başlatan İtalyan.",
    "puan": {
-    "performans": 9,
-    "i_koniklik": 10,
-    "nostalji": 10,
-    "tasarim": 10
+    "performans": 9.4,
+    "i_koniklik": 10.0,
+    "nostalji": 10.0,
+    "tasarim": 10.0
    }
   },
   {
@@ -92,10 +92,10 @@
    "etiketler": [],
    "aciklama": "Makas kapılarıyla 80'lerin poster arabası.",
    "puan": {
-    "performans": 9,
-    "i_koniklik": 10,
-    "nostalji": 10,
-    "tasarim": 10
+    "performans": 9.4,
+    "i_koniklik": 10.0,
+    "nostalji": 10.0,
+    "tasarim": 10.0
    }
   },
   {
@@ -106,10 +106,10 @@
    "etiketler": [],
    "aciklama": "Siluetini 60 yıldır koruyan efsane.",
    "puan": {
-    "performans": 8,
-    "i_koniklik": 10,
-    "nostalji": 10,
-    "tasarim": 9
+    "performans": 8.8,
+    "i_koniklik": 10.0,
+    "nostalji": 10.0,
+    "tasarim": 9.4
    }
   },
   {
@@ -120,10 +120,10 @@
    "etiketler": [],
    "aciklama": "Martı kanadı kapılarıyla 50'lerin yıldızı.",
    "puan": {
-    "performans": 8,
-    "i_koniklik": 10,
-    "nostalji": 10,
-    "tasarim": 10
+    "performans": 8.8,
+    "i_koniklik": 10.0,
+    "nostalji": 10.0,
+    "tasarim": 10.0
    }
   },
   {
@@ -134,10 +134,10 @@
    "etiketler": [],
    "aciklama": "Tarihin en güzel arabalarından biri sayılır.",
    "puan": {
-    "performans": 8,
-    "i_koniklik": 10,
-    "nostalji": 10,
-    "tasarim": 10
+    "performans": 8.8,
+    "i_koniklik": 10.0,
+    "nostalji": 10.0,
+    "tasarim": 10.0
    }
   },
   {
@@ -148,10 +148,10 @@
    "etiketler": [],
    "aciklama": "Le Mans'ta Ferrari'yi deviren Amerikan efsanesi.",
    "puan": {
-    "performans": 9,
-    "i_koniklik": 10,
-    "nostalji": 9,
-    "tasarim": 9
+    "performans": 9.4,
+    "i_koniklik": 10.0,
+    "nostalji": 9.4,
+    "tasarim": 9.4
    }
   },
   {
@@ -162,10 +162,10 @@
    "etiketler": [],
    "aciklama": "Küçük gövdede dev V8.",
    "puan": {
-    "performans": 9,
-    "i_koniklik": 9,
-    "nostalji": 9,
-    "tasarim": 9
+    "performans": 9.4,
+    "i_koniklik": 9.4,
+    "nostalji": 9.4,
+    "tasarim": 9.4
    }
   },
   {
@@ -176,10 +176,10 @@
    "etiketler": [],
    "aciklama": "James Bond'un efsane arabası.",
    "puan": {
-    "performans": 8,
-    "i_koniklik": 10,
-    "nostalji": 10,
-    "tasarim": 10
+    "performans": 8.8,
+    "i_koniklik": 10.0,
+    "nostalji": 10.0,
+    "tasarim": 10.0
    }
   },
   {
@@ -190,10 +190,10 @@
    "etiketler": [],
    "aciklama": "Amerikan muscle car efsanesi.",
    "puan": {
-    "performans": 7,
-    "i_koniklik": 10,
-    "nostalji": 10,
-    "tasarim": 9
+    "performans": 8.2,
+    "i_koniklik": 10.0,
+    "nostalji": 10.0,
+    "tasarim": 9.4
    }
   },
   {
@@ -204,10 +204,10 @@
    "etiketler": [],
    "aciklama": "Kükreyen V8'iyle filmlerin yıldızı.",
    "puan": {
-    "performans": 8,
-    "i_koniklik": 10,
-    "nostalji": 10,
-    "tasarim": 9
+    "performans": 8.8,
+    "i_koniklik": 10.0,
+    "nostalji": 10.0,
+    "tasarim": 9.4
    }
   },
   {
@@ -218,10 +218,10 @@
    "etiketler": [],
    "aciklama": "Bölünmüş arka camıyla Amerikan ikonu.",
    "puan": {
-    "performans": 8,
-    "i_koniklik": 9,
-    "nostalji": 10,
-    "tasarim": 10
+    "performans": 8.8,
+    "i_koniklik": 9.4,
+    "nostalji": 10.0,
+    "tasarim": 10.0
    }
   },
   {
@@ -232,10 +232,10 @@
    "etiketler": [],
    "aciklama": "Ortada sürücü koltuğuyla 90'ların hız rekortmeni.",
    "puan": {
-    "performans": 10,
-    "i_koniklik": 10,
-    "nostalji": 9,
-    "tasarim": 10
+    "performans": 10.0,
+    "i_koniklik": 10.0,
+    "nostalji": 9.4,
+    "tasarim": 10.0
    }
   },
   {
@@ -246,10 +246,10 @@
    "etiketler": [],
    "aciklama": "Zamanının en teknolojik süper arabası.",
    "puan": {
-    "performans": 10,
-    "i_koniklik": 9,
-    "nostalji": 9,
-    "tasarim": 9
+    "performans": 10.0,
+    "i_koniklik": 9.4,
+    "nostalji": 9.4,
+    "tasarim": 9.4
    }
   },
   {
@@ -260,10 +260,10 @@
    "etiketler": [],
    "aciklama": "Formula 1 teknolojisiyle yol arabası.",
    "puan": {
-    "performans": 10,
-    "i_koniklik": 9,
-    "nostalji": 7,
-    "tasarim": 9
+    "performans": 10.0,
+    "i_koniklik": 9.4,
+    "nostalji": 8.2,
+    "tasarim": 9.4
    }
   },
   {
@@ -274,10 +274,10 @@
    "etiketler": [],
    "aciklama": "400 km/s'yi aşan hiper araba.",
    "puan": {
-    "performans": 10,
-    "i_koniklik": 9,
-    "nostalji": 6,
-    "tasarim": 9
+    "performans": 10.0,
+    "i_koniklik": 9.4,
+    "nostalji": 7.6,
+    "tasarim": 9.4
    }
   },
   {
@@ -288,10 +288,10 @@
    "etiketler": [],
    "aciklama": "1500 beygirlik hiper araba.",
    "puan": {
-    "performans": 10,
-    "i_koniklik": 9,
-    "nostalji": 5,
-    "tasarim": 9
+    "performans": 10.0,
+    "i_koniklik": 9.4,
+    "nostalji": 7.0,
+    "tasarim": 9.4
    }
   },
   {
@@ -302,10 +302,10 @@
    "etiketler": [],
    "aciklama": "V12 motorlu modern Lamborghini amiral gemisi.",
    "puan": {
-    "performans": 10,
-    "i_koniklik": 9,
-    "nostalji": 5,
-    "tasarim": 10
+    "performans": 10.0,
+    "i_koniklik": 9.4,
+    "nostalji": 7.0,
+    "tasarim": 10.0
    }
   },
   {
@@ -316,10 +316,10 @@
    "etiketler": [],
    "aciklama": "Hızlı ve Öfkeli'yle efsaneleşen JDM ikonu.",
    "puan": {
-    "performans": 9,
-    "i_koniklik": 10,
-    "nostalji": 10,
-    "tasarim": 8
+    "performans": 9.4,
+    "i_koniklik": 10.0,
+    "nostalji": 10.0,
+    "tasarim": 8.8
    }
   },
   {
@@ -330,10 +330,10 @@
    "etiketler": [],
    "aciklama": "Godzilla lakaplı Japon efsanesi.",
    "puan": {
-    "performans": 9,
-    "i_koniklik": 10,
-    "nostalji": 10,
-    "tasarim": 9
+    "performans": 9.4,
+    "i_koniklik": 10.0,
+    "nostalji": 10.0,
+    "tasarim": 9.4
    }
   },
   {
@@ -344,10 +344,10 @@
    "etiketler": [],
    "aciklama": "Japonya'nın Ferrari'lere meydan okuyan süper arabası.",
    "puan": {
-    "performans": 9,
-    "i_koniklik": 9,
-    "nostalji": 9,
-    "tasarim": 9
+    "performans": 9.4,
+    "i_koniklik": 9.4,
+    "nostalji": 9.4,
+    "tasarim": 9.4
    }
   },
   {
@@ -358,10 +358,10 @@
    "etiketler": [],
    "aciklama": "Rotary motorlu zarif JDM.",
    "puan": {
-    "performans": 8,
-    "i_koniklik": 9,
-    "nostalji": 10,
-    "tasarim": 10
+    "performans": 8.8,
+    "i_koniklik": 9.4,
+    "nostalji": 10.0,
+    "tasarim": 10.0
    }
   },
   {
@@ -372,10 +372,10 @@
    "etiketler": [],
    "aciklama": "Kutu gibi tasarımıyla lüks arazinin kralı.",
    "puan": {
-    "performans": 7,
-    "i_koniklik": 10,
-    "nostalji": 8,
-    "tasarim": 8
+    "performans": 8.2,
+    "i_koniklik": 10.0,
+    "nostalji": 8.8,
+    "tasarim": 8.8
    }
   },
   {
@@ -386,10 +386,10 @@
    "etiketler": [],
    "aciklama": "Lüksün zirvesi.",
    "puan": {
-    "performans": 7,
-    "i_koniklik": 10,
-    "nostalji": 7,
-    "tasarim": 10
+    "performans": 8.2,
+    "i_koniklik": 10.0,
+    "nostalji": 8.2,
+    "tasarim": 10.0
    }
   },
   {
@@ -400,10 +400,10 @@
    "etiketler": [],
    "aciklama": "Kasa Mercedes'in yarış ruhlu en efsane hâli.",
    "puan": {
-    "performans": 8,
-    "i_koniklik": 9,
-    "nostalji": 9,
-    "tasarim": 8
+    "performans": 8.8,
+    "i_koniklik": 9.4,
+    "nostalji": 9.4,
+    "tasarim": 8.8
    }
   },
   {
@@ -414,10 +414,10 @@
    "etiketler": [],
    "aciklama": "Porsche'nin de katkı verdiği güçlü sedan.",
    "puan": {
-    "performans": 8,
-    "i_koniklik": 8,
-    "nostalji": 9,
-    "tasarim": 8
+    "performans": 8.8,
+    "i_koniklik": 8.8,
+    "nostalji": 9.4,
+    "tasarim": 8.8
    }
   },
   {
@@ -428,10 +428,10 @@
    "etiketler": [],
    "aciklama": "Yarış pistlerinden gelen efsane BMW.",
    "puan": {
-    "performans": 8,
-    "i_koniklik": 9,
-    "nostalji": 9,
-    "tasarim": 8
+    "performans": 8.8,
+    "i_koniklik": 9.4,
+    "nostalji": 9.4,
+    "tasarim": 8.8
    }
   },
   {
@@ -442,10 +442,10 @@
    "etiketler": [],
    "aciklama": "Rallide dört çeker devrimini başlatan araba.",
    "puan": {
-    "performans": 8,
-    "i_koniklik": 9,
-    "nostalji": 9,
-    "tasarim": 7
+    "performans": 8.8,
+    "i_koniklik": 9.4,
+    "nostalji": 9.4,
+    "tasarim": 8.2
    }
   },
   {
@@ -456,10 +456,10 @@
    "etiketler": [],
    "aciklama": "Ralli için doğmuş kama tasarım.",
    "puan": {
-    "performans": 8,
-    "i_koniklik": 9,
-    "nostalji": 9,
-    "tasarim": 9
+    "performans": 8.8,
+    "i_koniklik": 9.4,
+    "nostalji": 9.4,
+    "tasarim": 9.4
    }
   },
   {
@@ -470,10 +470,10 @@
    "etiketler": [],
    "aciklama": "Ralli kökenli dört çeker efsane.",
    "puan": {
-    "performans": 8,
-    "i_koniklik": 8,
-    "nostalji": 8,
-    "tasarim": 7
+    "performans": 8.8,
+    "i_koniklik": 8.8,
+    "nostalji": 8.8,
+    "tasarim": 8.2
    }
   },
   {
@@ -484,10 +484,10 @@
    "etiketler": [],
    "aciklama": "Türkiye sokaklarının efsanesi.",
    "puan": {
-    "performans": 4,
-    "i_koniklik": 9,
-    "nostalji": 10,
-    "tasarim": 6
+    "performans": 6.4,
+    "i_koniklik": 9.4,
+    "nostalji": 10.0,
+    "tasarim": 7.6
    }
   },
   {
@@ -498,10 +498,10 @@
    "etiketler": [],
    "aciklama": "Türkiye'nin ilk seri üretim yerli otomobili.",
    "puan": {
-    "performans": 3,
-    "i_koniklik": 9,
-    "nostalji": 10,
-    "tasarim": 6
+    "performans": 5.8,
+    "i_koniklik": 9.4,
+    "nostalji": 10.0,
+    "tasarim": 7.6
    }
   },
   {
@@ -512,10 +512,10 @@
    "etiketler": [],
    "aciklama": "1961'de üretilen ilk Türk otomobili.",
    "puan": {
-    "performans": 3,
-    "i_koniklik": 9,
-    "nostalji": 10,
-    "tasarim": 7
+    "performans": 5.8,
+    "i_koniklik": 9.4,
+    "nostalji": 10.0,
+    "tasarim": 8.2
    }
   },
   {
@@ -526,10 +526,10 @@
    "etiketler": [],
    "aciklama": "Türkiye'nin yeni nesil elektrikli otomobili.",
    "puan": {
-    "performans": 8,
-    "i_koniklik": 8,
-    "nostalji": 4,
-    "tasarim": 8
+    "performans": 8.8,
+    "i_koniklik": 8.8,
+    "nostalji": 6.4,
+    "tasarim": 8.8
    }
   }
  ]

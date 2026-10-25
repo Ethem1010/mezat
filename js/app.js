@@ -43,7 +43,7 @@
       const r = await fetch("data/kategoriler.json");
       if (!r.ok) throw new Error(r.status);
       const k = await r.json();
-      A.katalog = k.kategoriler;
+      A.katalog = k.kategoriler.slice().sort((a, b) => a.ad.localeCompare(b.ad, "tr"));
       A.ayarlar = { butce: k.butce, slot: k.slot, cekilis: k.cekilis };
       const son = load("mezat-son-kategori", null);
       await sec(A.katalog.some((c) => c.id === son) ? son : "hayvanlar");
@@ -103,7 +103,7 @@
       </div></div>
       <div class="kv"><h3>Bonus ve cezalar</h3><ul class="list">${kat.sinerjiler.map((s) => `<li><b>${esc(s.ad)}</b> · ${esc(sinerjiMetni(s, kat))}</li>`).join("")}</ul></div>`;
     const yz = A.yzDurum === "hazir"
-      ? `<label class="switch" for="yz"><input type="checkbox" id="yz" ${A.yzAcik ? "checked" : ""}><span><b>Yapay zeka hakemi</b> · Claude maçı yorumlar, uyuma göre ±5 bonus verir. Claude hesabını kullanır; ilk maçta izin ister.</span></label>`
+      ? `<label class="switch" for="yz"><input type="checkbox" id="yz" ${A.yzAcik ? "checked" : ""}><span><b>Yapay zeka hakemi</b> · Claude kartları gerçek bilgilere göre (Türkiye'deki bilinirlik dahil) yeniden puanlar, uyuma göre ±5 bonus verir. Claude hesabını kullanır; ilk maçta izin ister.</span></label>`
       : `<p class="hint">Hakem: kod. Yapay zeka hakemi bu sayfa Claude içinde açılınca devreye girer.</p>`;
     return `
       <header class="hero">
@@ -276,7 +276,7 @@
     try {
       const ters = Math.random() < 0.5;   // takım sırası karıştırılır: hakem "ilk takımı" kayıramaz
       const raw = await A.sample.json(E.hakemIstemi(A.state, A.kategori, ters), { signal: ctl.signal, modelTier: "default", effort: "medium" });
-      const ai = E.yzCevabiniDogrula(raw, ters);
+      const ai = E.yzCevabiniDogrula(raw, ters, A.state, A.kategori);
       if (ai) A.sonuc = E.judge(A.state, A.kategori, ai);
       else A.hakemNotu = "Yapay zekanın cevabı okunamadı; karar kod hakeminden.";
     } catch (e) {
@@ -304,9 +304,9 @@
       : `<section class="verdict ${pc(r.kazanan)}"><span class="trophy" aria-hidden="true">🏆</span><div class="eyebrow">${badge} · ${tm.simge} ${esc(kat.ad)}</div><h2>${esc(r.takimlar[r.kazanan].ad)} kazandı</h2><div class="score num">${t0.toplam} – ${t1.toplam}</div>${r.gerekce ? `<p>${esc(r.gerekce)}</p>` : ""}</section>`;
     const teams = r.takimlar.map((t, i) => `
       <div class="team ${pc(i)}"><h3>${esc(t.ad)}</h3>
-        ${t.cards.map((c) => `<div class="trow"><span class="nm">${esc(c.ad)}</span><span class="sc num">${c.skor.toFixed(1)}</span><span class="meta">${esc(kat.gruplar[c.grup] || c.grup)} · ${LABEL[c.seviye]} · ${c.odenen ? c.odenen + " ödendi" : "bedava"}</span></div>`).join("")}
+        ${t.cards.map((c) => `<div class="trow"><span class="nm">${esc(c.ad)}</span><span class="sc num">${c.skor.toFixed(1)}</span><span class="meta">${esc(kat.gruplar[c.grup] || c.grup)} · ${LABEL[c.seviye]} · ${c.odenen ? c.odenen + " ödendi" : "bedava"}${c.duzeltme ? ` · <b class="${c.duzeltme > 0 ? "plus" : "minus"}">hakem ${c.duzeltme > 0 ? "+" : ""}${c.duzeltme.toFixed(1)}</b>` : ""}</span>${c.duzeltme && c.duzeltmeNeden ? `<span class="why">${esc(c.duzeltmeNeden)}</span>` : ""}</div>`).join("")}
         <div class="sum">
-          <div><span>Kart puanı × 2</span><span class="num">${(t.kodPuani - t.bonus).toFixed(1)}</span></div>
+          <div><span>Kart puanı × 3</span><span class="num">${(t.kodPuani - t.bonus).toFixed(1)}</span></div>
           ${t.sinerjiler.map((s) => `<div><span>${esc(s.ad)}</span><span class="num ${s.bonus > 0 ? "plus" : "minus"}">${s.bonus > 0 ? "+" : ""}${s.bonus}</span></div>`).join("") || `<div><span>Kural bonusu yok</span><span class="num">0</span></div>`}
           ${r.hakem === "yz" ? (t.maddeler.length
             ? t.maddeler.map((m) => `<div><span>Hakem: ${esc(m.konu)}</span><span class="num ${m.puan > 0 ? "plus" : "minus"}">${m.puan > 0 ? "+" : ""}${m.puan}</span></div>${m.neden ? `<div class="why">${esc(m.neden)}</div>` : ""}`).join("")
@@ -326,7 +326,7 @@
         <button class="ghost" data-act="copy">Hakem metnini kopyala</button>
         ${A.kopya ? `<p class="hint">${esc(A.kopya.durum)}</p>${A.kopya.goster ? `<textarea class="copybox" id="copybox" readonly>${esc(A.kopya.metin)}</textarea>` : ""}` : ""}
       </details>
-      <p class="note">Kazananı her zaman sayılar belirler. Yapay zeka hakemi en fazla ±5 uyum bonusu verebilir ve maçı yorumlar.</p>`;
+      <p class="note">Kazananı her zaman sayılar belirler. Yapay zeka hakemi her kartın puanını gerçek bilgilere göre en fazla ±0.5 düzeltir, en fazla ±5 uyum bonusu verir ve maçı yorumlar.</p>`;
   }
 
   // Kazanana küçük bir konfeti yağmuru (hareket azaltma açıksa yok).

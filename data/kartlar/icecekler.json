@@ -56,10 +56,10 @@
    "etiketler": [],
    "aciklama": "İnce belli bardakta milli içecek.",
    "puan": {
-    "lezzet": 9,
-    "populerlik": 10,
-    "her_mevsime_uygunluk": 10,
-    "cesitlilik": 7
+    "lezzet": 9.4,
+    "populerlik": 10.0,
+    "her_mevsime_uygunluk": 10.0,
+    "cesitlilik": 8.2
    }
   },
   {
@@ -70,10 +70,10 @@
    "etiketler": [],
    "aciklama": "Kırk yıl hatırı olan köpüklü kahve.",
    "puan": {
-    "lezzet": 9,
-    "populerlik": 9,
-    "her_mevsime_uygunluk": 9,
-    "cesitlilik": 7
+    "lezzet": 9.4,
+    "populerlik": 9.4,
+    "her_mevsime_uygunluk": 9.4,
+    "cesitlilik": 8.2
    }
   },
   {
@@ -84,10 +84,10 @@
    "etiketler": [],
    "aciklama": "Sütlü yumuşak espresso.",
    "puan": {
-    "lezzet": 9,
-    "populerlik": 9,
-    "her_mevsime_uygunluk": 9,
-    "cesitlilik": 9
+    "lezzet": 9.4,
+    "populerlik": 9.4,
+    "her_mevsime_uygunluk": 9.4,
+    "cesitlilik": 9.4
    }
   },
   {
@@ -98,10 +98,10 @@
    "etiketler": [],
    "aciklama": "Kahvenin en yoğun hali.",
    "puan": {
-    "lezzet": 8,
-    "populerlik": 9,
-    "her_mevsime_uygunluk": 9,
-    "cesitlilik": 9
+    "lezzet": 8.8,
+    "populerlik": 9.4,
+    "her_mevsime_uygunluk": 9.4,
+    "cesitlilik": 9.4
    }
   },
   {
@@ -112,10 +112,10 @@
    "etiketler": [],
    "aciklama": "Kış gecelerinin tatlı içeceği.",
    "puan": {
-    "lezzet": 9,
-    "populerlik": 8,
-    "her_mevsime_uygunluk": 5,
-    "cesitlilik": 7
+    "lezzet": 9.4,
+    "populerlik": 8.8,
+    "her_mevsime_uygunluk": 7.0,
+    "cesitlilik": 8.2
    }
   },
   {
@@ -126,10 +126,10 @@
    "etiketler": [],
    "aciklama": "Tarçınlı sıcak kış klasiği.",
    "puan": {
-    "lezzet": 9,
-    "populerlik": 7,
-    "her_mevsime_uygunluk": 4,
-    "cesitlilik": 5
+    "lezzet": 9.4,
+    "populerlik": 8.2,
+    "her_mevsime_uygunluk": 6.4,
+    "cesitlilik": 7.0
    }
   },
   {
@@ -140,10 +140,10 @@
    "etiketler": [],
    "aciklama": "Köpüklü İtalyan kahvesi.",
    "puan": {
-    "lezzet": 9,
-    "populerlik": 9,
-    "her_mevsime_uygunluk": 9,
-    "cesitlilik": 8
+    "lezzet": 9.4,
+    "populerlik": 9.4,
+    "her_mevsime_uygunluk": 9.4,
+    "cesitlilik": 8.8
    }
   },
   {
@@ -154,10 +154,10 @@
    "etiketler": [],
    "aciklama": "Kebabın vazgeçilmez eşi.",
    "puan": {
-    "lezzet": 9,
-    "populerlik": 10,
-    "her_mevsime_uygunluk": 9,
-    "cesitlilik": 6
+    "lezzet": 9.4,
+    "populerlik": 10.0,
+    "her_mevsime_uygunluk": 9.4,
+    "cesitlilik": 7.6
    }
   },
   {
@@ -168,10 +168,10 @@
    "etiketler": [],
    "aciklama": "Adana'nın acılı kırmızısı.",
    "puan": {
-    "lezzet": 8,
-    "populerlik": 8,
-    "her_mevsime_uygunluk": 7,
-    "cesitlilik": 6
+    "lezzet": 8.8,
+    "populerlik": 8.8,
+    "her_mevsime_uygunluk": 8.2,
+    "cesitlilik": 7.6
    }
   },
   {
@@ -182,10 +182,10 @@
    "etiketler": [],
    "aciklama": "Leblebili kış içeceği.",
    "puan": {
-    "lezzet": 8,
-    "populerlik": 7,
-    "her_mevsime_uygunluk": 4,
-    "cesitlilik": 5
+    "lezzet": 8.8,
+    "populerlik": 8.2,
+    "her_mevsime_uygunluk": 6.4,
+    "cesitlilik": 7.0
    }
   },
   {
@@ -196,10 +196,10 @@
    "etiketler": [],
    "aciklama": "Ev yapımı ferahlık.",
    "puan": {
-    "lezzet": 9,
-    "populerlik": 9,
-    "her_mevsime_uygunluk": 7,
-    "cesitlilik": 8
+    "lezzet": 9.4,
+    "populerlik": 9.4,
+    "her_mevsime_uygunluk": 8.2,
+    "cesitlilik": 8.8
    }
   },
   {
@@ -210,10 +210,10 @@
    "etiketler": [],
    "aciklama": "Dünyanın en bilinen gazlısı.",
    "puan": {
-    "lezzet": 9,
-    "populerlik": 10,
-    "her_mevsime_uygunluk": 8,
-    "cesitlilik": 7
+    "lezzet": 9.4,
+    "populerlik": 10.0,
+    "her_mevsime_uygunluk": 8.8,
+    "cesitlilik": 8.2
    }
   },
   {
@@ -224,10 +224,10 @@
    "etiketler": [],
    "aciklama": "Vitamin dolu sabah klasiği.",
    "puan": {
-    "lezzet": 10,
-    "populerlik": 9,
-    "her_mevsime_uygunluk": 8,
-    "cesitlilik": 7
+    "lezzet": 10.0,
+    "populerlik": 9.4,
+    "her_mevsime_uygunluk": 8.8,
+    "cesitlilik": 8.2
    }
   },
   {
@@ -238,10 +238,10 @@
    "etiketler": [],
    "aciklama": "Yazın vazgeçilmez kahvesi.",
    "puan": {
-    "lezzet": 9,
-    "populerlik": 9,
-    "her_mevsime_uygunluk": 6,
-    "cesitlilik": 9
+    "lezzet": 9.4,
+    "populerlik": 9.4,
+    "her_mevsime_uygunluk": 7.6,
+    "cesitlilik": 9.4
    }
   },
   {
@@ -252,10 +252,10 @@
    "etiketler": [],
    "aciklama": "Dondurmalı yoğun içecek.",
    "puan": {
-    "lezzet": 10,
-    "populerlik": 9,
-    "her_mevsime_uygunluk": 6,
-    "cesitlilik": 9
+    "lezzet": 10.0,
+    "populerlik": 9.4,
+    "her_mevsime_uygunluk": 7.6,
+    "cesitlilik": 9.4
    }
   },
   {
@@ -266,10 +266,10 @@
    "etiketler": [],
    "aciklama": "Meyveli sağlıklı karışım.",
    "puan": {
-    "lezzet": 9,
-    "populerlik": 8,
-    "her_mevsime_uygunluk": 7,
-    "cesitlilik": 10
+    "lezzet": 9.4,
+    "populerlik": 8.8,
+    "her_mevsime_uygunluk": 8.2,
+    "cesitlilik": 10.0
    }
   },
   {
@@ -280,10 +280,10 @@
    "etiketler": [],
    "aciklama": "Tuzlu maden suyu, sindirim dostu.",
    "puan": {
-    "lezzet": 7,
-    "populerlik": 9,
-    "her_mevsime_uygunluk": 9,
-    "cesitlilik": 8
+    "lezzet": 8.2,
+    "populerlik": 9.4,
+    "her_mevsime_uygunluk": 9.4,
+    "cesitlilik": 8.8
    }
   },
   {
@@ -294,10 +294,10 @@
    "etiketler": [],
    "aciklama": "Şeftalili buzlu çay.",
    "puan": {
-    "lezzet": 8,
-    "populerlik": 9,
-    "her_mevsime_uygunluk": 7,
-    "cesitlilik": 7
+    "lezzet": 8.8,
+    "populerlik": 9.4,
+    "her_mevsime_uygunluk": 8.2,
+    "cesitlilik": 8.2
    }
   },
   {
@@ -308,10 +308,10 @@
    "etiketler": [],
    "aciklama": "Hayatın kaynağı.",
    "puan": {
-    "lezzet": 7,
-    "populerlik": 10,
-    "her_mevsime_uygunluk": 10,
-    "cesitlilik": 4
+    "lezzet": 8.2,
+    "populerlik": 10.0,
+    "her_mevsime_uygunluk": 10.0,
+    "cesitlilik": 6.4
    }
   },
   {
@@ -322,10 +322,10 @@
    "etiketler": [],
    "aciklama": "Toplu Tayvan çayı.",
    "puan": {
-    "lezzet": 8,
-    "populerlik": 8,
-    "her_mevsime_uygunluk": 7,
-    "cesitlilik": 9
+    "lezzet": 8.8,
+    "populerlik": 8.8,
+    "her_mevsime_uygunluk": 8.2,
+    "cesitlilik": 9.4
    }
   },
   {
@@ -336,10 +336,10 @@
    "etiketler": [],
    "aciklama": "Çikolatalı espresso keyfi.",
    "puan": {
-    "lezzet": 9,
-    "populerlik": 8,
-    "her_mevsime_uygunluk": 8,
-    "cesitlilik": 8
+    "lezzet": 9.4,
+    "populerlik": 8.8,
+    "her_mevsime_uygunluk": 8.8,
+    "cesitlilik": 8.8
    }
   },
   {
@@ -350,10 +350,10 @@
    "etiketler": [],
    "aciklama": "Üzümden yapılan tatlı içecek.",
    "puan": {
-    "lezzet": 8,
-    "populerlik": 6,
-    "her_mevsime_uygunluk": 6,
-    "cesitlilik": 5
+    "lezzet": 8.8,
+    "populerlik": 7.6,
+    "her_mevsime_uygunluk": 7.6,
+    "cesitlilik": 7.0
    }
   },
   {
@@ -364,10 +364,10 @@
    "etiketler": [],
    "aciklama": "Probiyotik ekşimsi süt içeceği.",
    "puan": {
-    "lezzet": 7,
-    "populerlik": 7,
-    "her_mevsime_uygunluk": 9,
-    "cesitlilik": 6
+    "lezzet": 8.2,
+    "populerlik": 8.2,
+    "her_mevsime_uygunluk": 9.4,
+    "cesitlilik": 7.6
    }
   },
   {
@@ -378,10 +378,10 @@
    "etiketler": [],
    "aciklama": "Osmanlı'nın serinleten şerbeti.",
    "puan": {
-    "lezzet": 8,
-    "populerlik": 6,
-    "her_mevsime_uygunluk": 6,
-    "cesitlilik": 5
+    "lezzet": 8.8,
+    "populerlik": 7.6,
+    "her_mevsime_uygunluk": 7.6,
+    "cesitlilik": 7.0
    }
   },
   {
@@ -392,10 +392,10 @@
    "etiketler": [],
    "aciklama": "Hint usulü yoğurt içeceği.",
    "puan": {
-    "lezzet": 8,
-    "populerlik": 6,
-    "her_mevsime_uygunluk": 8,
-    "cesitlilik": 7
+    "lezzet": 8.8,
+    "populerlik": 7.6,
+    "her_mevsime_uygunluk": 8.8,
+    "cesitlilik": 8.2
    }
   },
   {
@@ -406,10 +406,10 @@
    "etiketler": [],
    "aciklama": "Sağlıklı hafif çay.",
    "puan": {
-    "lezzet": 7,
-    "populerlik": 8,
-    "her_mevsime_uygunluk": 9,
-    "cesitlilik": 7
+    "lezzet": 8.2,
+    "populerlik": 8.8,
+    "her_mevsime_uygunluk": 9.4,
+    "cesitlilik": 8.2
    }
   },
   {
@@ -420,10 +420,10 @@
    "etiketler": [],
    "aciklama": "Kışın şifa çayı.",
    "puan": {
-    "lezzet": 7,
-    "populerlik": 8,
-    "her_mevsime_uygunluk": 6,
-    "cesitlilik": 5
+    "lezzet": 8.2,
+    "populerlik": 8.8,
+    "her_mevsime_uygunluk": 7.6,
+    "cesitlilik": 7.0
    }
   },
   {
@@ -434,10 +434,10 @@
    "etiketler": [],
    "aciklama": "Çocukluğun sıcak içeceği.",
    "puan": {
-    "lezzet": 7,
-    "populerlik": 7,
-    "her_mevsime_uygunluk": 5,
-    "cesitlilik": 5
+    "lezzet": 8.2,
+    "populerlik": 8.2,
+    "her_mevsime_uygunluk": 7.0,
+    "cesitlilik": 7.0
    }
   },
   {
@@ -448,10 +448,10 @@
    "etiketler": [],
    "aciklama": "Nostaljik şişe gazoz.",
    "puan": {
-    "lezzet": 8,
-    "populerlik": 8,
-    "her_mevsime_uygunluk": 7,
-    "cesitlilik": 6
+    "lezzet": 8.8,
+    "populerlik": 8.8,
+    "her_mevsime_uygunluk": 8.2,
+    "cesitlilik": 7.6
    }
   },
   {
@@ -462,10 +462,10 @@
    "etiketler": [],
    "aciklama": "Hafif tatlı meyve suyu.",
    "puan": {
-    "lezzet": 7,
-    "populerlik": 6,
-    "her_mevsime_uygunluk": 7,
-    "cesitlilik": 5
+    "lezzet": 8.2,
+    "populerlik": 7.6,
+    "her_mevsime_uygunluk": 8.2,
+    "cesitlilik": 7.0
    }
   },
   {
@@ -476,10 +476,10 @@
    "etiketler": [],
    "aciklama": "Ekşimsi kırmızı lezzet.",
    "puan": {
-    "lezzet": 8,
-    "populerlik": 8,
-    "her_mevsime_uygunluk": 7,
-    "cesitlilik": 6
+    "lezzet": 8.8,
+    "populerlik": 8.8,
+    "her_mevsime_uygunluk": 8.2,
+    "cesitlilik": 7.6
    }
   },
   {
@@ -490,10 +490,10 @@
    "etiketler": [],
    "aciklama": "Kafeinli enerji.",
    "puan": {
-    "lezzet": 6,
-    "populerlik": 8,
-    "her_mevsime_uygunluk": 7,
-    "cesitlilik": 6
+    "lezzet": 7.6,
+    "populerlik": 8.8,
+    "her_mevsime_uygunluk": 8.2,
+    "cesitlilik": 7.6
    }
   },
   {
@@ -504,10 +504,10 @@
    "etiketler": [],
    "aciklama": "Kırmızı mayhoş çay.",
    "puan": {
-    "lezzet": 7,
-    "populerlik": 6,
-    "her_mevsime_uygunluk": 7,
-    "cesitlilik": 6
+    "lezzet": 8.2,
+    "populerlik": 7.6,
+    "her_mevsime_uygunluk": 8.2,
+    "cesitlilik": 7.6
    }
   },
   {
@@ -518,10 +518,10 @@
    "etiketler": [],
    "aciklama": "Gül kokulu tatlı şerbet.",
    "puan": {
-    "lezzet": 8,
-    "populerlik": 6,
-    "her_mevsime_uygunluk": 6,
-    "cesitlilik": 5
+    "lezzet": 8.8,
+    "populerlik": 7.6,
+    "her_mevsime_uygunluk": 7.6,
+    "cesitlilik": 7.0
    }
   },
   {
@@ -532,10 +532,10 @@
    "etiketler": [],
    "aciklama": "Güney Amerika'nın enerji çayı.",
    "puan": {
-    "lezzet": 6,
-    "populerlik": 6,
-    "her_mevsime_uygunluk": 8,
-    "cesitlilik": 6
+    "lezzet": 7.6,
+    "populerlik": 7.6,
+    "her_mevsime_uygunluk": 8.8,
+    "cesitlilik": 7.6
    }
   }
  ]

@@ -59,10 +59,10 @@
    "etiketler": [],
    "aciklama": "Altı şampiyonluk, sıfır final kaybı.",
    "puan": {
-    "pozisyonunda_ustalik": 10,
-    "oyun_zekasi": 9,
-    "sampiyonluklar": 10,
-    "efsanelik": 10
+    "pozisyonunda_ustalik": 10.0,
+    "oyun_zekasi": 9.4,
+    "sampiyonluklar": 10.0,
+    "efsanelik": 10.0
    }
   },
   {
@@ -73,10 +73,10 @@
    "etiketler": [],
    "aciklama": "NBA tarihinin sayı rekortmeni.",
    "puan": {
-    "pozisyonunda_ustalik": 10,
-    "oyun_zekasi": 10,
-    "sampiyonluklar": 9,
-    "efsanelik": 10
+    "pozisyonunda_ustalik": 10.0,
+    "oyun_zekasi": 10.0,
+    "sampiyonluklar": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -87,10 +87,10 @@
    "etiketler": [],
    "aciklama": "Mamba zihniyetinin sahibi, beş şampiyonluk.",
    "puan": {
-    "pozisyonunda_ustalik": 10,
-    "oyun_zekasi": 8,
-    "sampiyonluklar": 9,
-    "efsanelik": 10
+    "pozisyonunda_ustalik": 10.0,
+    "oyun_zekasi": 8.8,
+    "sampiyonluklar": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -101,10 +101,10 @@
    "etiketler": [],
    "aciklama": "Celtics'in efsane şutörü.",
    "puan": {
-    "pozisyonunda_ustalik": 9,
-    "oyun_zekasi": 10,
-    "sampiyonluklar": 9,
-    "efsanelik": 10
+    "pozisyonunda_ustalik": 9.4,
+    "oyun_zekasi": 10.0,
+    "sampiyonluklar": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -115,10 +115,10 @@
    "etiketler": [],
    "aciklama": "Durdurulamayan uzun şutör.",
    "puan": {
-    "pozisyonunda_ustalik": 10,
-    "oyun_zekasi": 8,
-    "sampiyonluklar": 8,
-    "efsanelik": 9
+    "pozisyonunda_ustalik": 10.0,
+    "oyun_zekasi": 8.8,
+    "sampiyonluklar": 8.8,
+    "efsanelik": 9.4
    }
   },
   {
@@ -129,10 +129,10 @@
    "etiketler": [],
    "aciklama": "Yunan Ucube; atletizm ve güç.",
    "puan": {
-    "pozisyonunda_ustalik": 10,
-    "oyun_zekasi": 8,
-    "sampiyonluklar": 8,
-    "efsanelik": 9
+    "pozisyonunda_ustalik": 10.0,
+    "oyun_zekasi": 8.8,
+    "sampiyonluklar": 8.8,
+    "efsanelik": 9.4
    }
   },
   {
@@ -143,10 +143,10 @@
    "etiketler": [],
    "aciklama": "Dr. J; smacın sanatçısı.",
    "puan": {
-    "pozisyonunda_ustalik": 9,
-    "oyun_zekasi": 8,
-    "sampiyonluklar": 8,
-    "efsanelik": 10
+    "pozisyonunda_ustalik": 9.4,
+    "oyun_zekasi": 8.8,
+    "sampiyonluklar": 8.8,
+    "efsanelik": 10.0
    }
   },
   {
@@ -157,10 +157,10 @@
    "etiketler": [],
    "aciklama": "Jordan'ın sağ kolu, savunma ustası.",
    "puan": {
-    "pozisyonunda_ustalik": 9,
-    "oyun_zekasi": 9,
-    "sampiyonluklar": 10,
-    "efsanelik": 9
+    "pozisyonunda_ustalik": 9.4,
+    "oyun_zekasi": 9.4,
+    "sampiyonluklar": 10.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -171,10 +171,10 @@
    "etiketler": [],
    "aciklama": "Miami Heat'in Flash'ı.",
    "puan": {
-    "pozisyonunda_ustalik": 9,
-    "oyun_zekasi": 8,
-    "sampiyonluklar": 9,
-    "efsanelik": 9
+    "pozisyonunda_ustalik": 9.4,
+    "oyun_zekasi": 8.8,
+    "sampiyonluklar": 9.4,
+    "efsanelik": 9.4
    }
   },
   {
@@ -185,10 +185,10 @@
    "etiketler": [],
    "aciklama": "Pas sihirbazı, Showtime Lakers'ın lideri.",
    "puan": {
-    "pozisyonunda_ustalik": 9,
-    "oyun_zekasi": 10,
-    "sampiyonluklar": 9,
-    "efsanelik": 10
+    "pozisyonunda_ustalik": 9.4,
+    "oyun_zekasi": 10.0,
+    "sampiyonluklar": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -199,10 +199,10 @@
    "etiketler": [],
    "aciklama": "Üçlük atışını yeniden tanımlayan şutör.",
    "puan": {
-    "pozisyonunda_ustalik": 10,
-    "oyun_zekasi": 9,
-    "sampiyonluklar": 9,
-    "efsanelik": 10
+    "pozisyonunda_ustalik": 10.0,
+    "oyun_zekasi": 9.4,
+    "sampiyonluklar": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -213,10 +213,10 @@
    "etiketler": [],
    "aciklama": "Bad Boys Pistons'ın lideri.",
    "puan": {
-    "pozisyonunda_ustalik": 9,
-    "oyun_zekasi": 9,
-    "sampiyonluklar": 8,
-    "efsanelik": 9
+    "pozisyonunda_ustalik": 9.4,
+    "oyun_zekasi": 9.4,
+    "sampiyonluklar": 8.8,
+    "efsanelik": 9.4
    }
   },
   {
@@ -227,10 +227,10 @@
    "etiketler": [],
    "aciklama": "Bir sezon ortalama triple-double yapan ilk isim.",
    "puan": {
-    "pozisyonunda_ustalik": 9,
-    "oyun_zekasi": 9,
-    "sampiyonluklar": 7,
-    "efsanelik": 9
+    "pozisyonunda_ustalik": 9.4,
+    "oyun_zekasi": 9.4,
+    "sampiyonluklar": 8.2,
+    "efsanelik": 9.4
    }
   },
   {
@@ -241,10 +241,10 @@
    "etiketler": [],
    "aciklama": "NBA logosundaki adam.",
    "puan": {
-    "pozisyonunda_ustalik": 9,
-    "oyun_zekasi": 9,
-    "sampiyonluklar": 7,
-    "efsanelik": 10
+    "pozisyonunda_ustalik": 9.4,
+    "oyun_zekasi": 9.4,
+    "sampiyonluklar": 8.2,
+    "efsanelik": 10.0
    }
   },
   {
@@ -255,10 +255,10 @@
    "etiketler": [],
    "aciklama": "İki kez MVP olan pas ustası.",
    "puan": {
-    "pozisyonunda_ustalik": 9,
-    "oyun_zekasi": 10,
-    "sampiyonluklar": 4,
-    "efsanelik": 9
+    "pozisyonunda_ustalik": 9.4,
+    "oyun_zekasi": 10.0,
+    "sampiyonluklar": 6.4,
+    "efsanelik": 9.4
    }
   },
   {
@@ -269,10 +269,10 @@
    "etiketler": [],
    "aciklama": "Crossover'ıyla devleri deviren küçük dev.",
    "puan": {
-    "pozisyonunda_ustalik": 10,
-    "oyun_zekasi": 7,
-    "sampiyonluklar": 4,
-    "efsanelik": 10
+    "pozisyonunda_ustalik": 10.0,
+    "oyun_zekasi": 8.2,
+    "sampiyonluklar": 6.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -283,10 +283,10 @@
    "etiketler": [],
    "aciklama": "Potanın altındaki durdurulamaz dev.",
    "puan": {
-    "pozisyonunda_ustalik": 10,
-    "oyun_zekasi": 8,
-    "sampiyonluklar": 9,
-    "efsanelik": 10
+    "pozisyonunda_ustalik": 10.0,
+    "oyun_zekasi": 8.8,
+    "sampiyonluklar": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -297,10 +297,10 @@
    "etiketler": [],
    "aciklama": "Skyhook atışıyla altı şampiyonluk.",
    "puan": {
-    "pozisyonunda_ustalik": 10,
-    "oyun_zekasi": 9,
-    "sampiyonluklar": 10,
-    "efsanelik": 10
+    "pozisyonunda_ustalik": 10.0,
+    "oyun_zekasi": 9.4,
+    "sampiyonluklar": 10.0,
+    "efsanelik": 10.0
    }
   },
   {
@@ -311,10 +311,10 @@
    "etiketler": [],
    "aciklama": "Sessiz ama ölümcül, beş şampiyonluk.",
    "puan": {
-    "pozisyonunda_ustalik": 10,
-    "oyun_zekasi": 9,
-    "sampiyonluklar": 10,
-    "efsanelik": 9
+    "pozisyonunda_ustalik": 10.0,
+    "oyun_zekasi": 9.4,
+    "sampiyonluklar": 10.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -325,10 +325,10 @@
    "etiketler": [],
    "aciklama": "Dream Shake hareketiyle ünlü pivot.",
    "puan": {
-    "pozisyonunda_ustalik": 10,
-    "oyun_zekasi": 9,
-    "sampiyonluklar": 8,
-    "efsanelik": 9
+    "pozisyonunda_ustalik": 10.0,
+    "oyun_zekasi": 9.4,
+    "sampiyonluklar": 8.8,
+    "efsanelik": 9.4
    }
   },
   {
@@ -339,10 +339,10 @@
    "etiketler": [],
    "aciklama": "Bir maçta 100 sayı atan dev.",
    "puan": {
-    "pozisyonunda_ustalik": 10,
-    "oyun_zekasi": 7,
-    "sampiyonluklar": 7,
-    "efsanelik": 10
+    "pozisyonunda_ustalik": 10.0,
+    "oyun_zekasi": 8.2,
+    "sampiyonluklar": 8.2,
+    "efsanelik": 10.0
    }
   },
   {
@@ -353,10 +353,10 @@
    "etiketler": [],
    "aciklama": "On bir şampiyonluk yüzüğü.",
    "puan": {
-    "pozisyonunda_ustalik": 10,
-    "oyun_zekasi": 9,
-    "sampiyonluklar": 10,
-    "efsanelik": 10
+    "pozisyonunda_ustalik": 10.0,
+    "oyun_zekasi": 9.4,
+    "sampiyonluklar": 10.0,
+    "efsanelik": 10.0
    }
   },
   {
@@ -367,10 +367,10 @@
    "etiketler": [],
    "aciklama": "Pas veren pivot, birden çok MVP.",
    "puan": {
-    "pozisyonunda_ustalik": 9,
-    "oyun_zekasi": 10,
-    "sampiyonluklar": 7,
-    "efsanelik": 8
+    "pozisyonunda_ustalik": 9.4,
+    "oyun_zekasi": 10.0,
+    "sampiyonluklar": 8.2,
+    "efsanelik": 8.8
    }
   },
   {
@@ -381,10 +381,10 @@
    "etiketler": [],
    "aciklama": "Savunmanın ve tutkunun sembolü.",
    "puan": {
-    "pozisyonunda_ustalik": 10,
-    "oyun_zekasi": 8,
-    "sampiyonluklar": 7,
-    "efsanelik": 8
+    "pozisyonunda_ustalik": 10.0,
+    "oyun_zekasi": 8.8,
+    "sampiyonluklar": 8.2,
+    "efsanelik": 8.8
    }
   },
   {
@@ -395,10 +395,10 @@
    "etiketler": [],
    "aciklama": "Tek ayak fadeaway şutunun Alman ustası.",
    "puan": {
-    "pozisyonunda_ustalik": 9,
-    "oyun_zekasi": 8,
-    "sampiyonluklar": 7,
-    "efsanelik": 9
+    "pozisyonunda_ustalik": 9.4,
+    "oyun_zekasi": 8.8,
+    "sampiyonluklar": 8.2,
+    "efsanelik": 9.4
    }
   },
   {
@@ -409,10 +409,10 @@
    "etiketler": [],
    "aciklama": "İki takımla Finaller MVP'si.",
    "puan": {
-    "pozisyonunda_ustalik": 9,
-    "oyun_zekasi": 8,
-    "sampiyonluklar": 8,
-    "efsanelik": 8
+    "pozisyonunda_ustalik": 9.4,
+    "oyun_zekasi": 8.8,
+    "sampiyonluklar": 8.8,
+    "efsanelik": 8.8
    }
   },
   {
@@ -423,10 +423,10 @@
    "etiketler": [],
    "aciklama": "Ribaunt makinesi, savunmanın çılgın dehası.",
    "puan": {
-    "pozisyonunda_ustalik": 9,
-    "oyun_zekasi": 6,
-    "sampiyonluklar": 9,
-    "efsanelik": 8
+    "pozisyonunda_ustalik": 9.4,
+    "oyun_zekasi": 7.6,
+    "sampiyonluklar": 9.4,
+    "efsanelik": 8.8
    }
   },
   {
@@ -437,10 +437,10 @@
    "etiketler": [],
    "aciklama": "NBA'de Gelişim Ödülü kazanan Türk forvet.",
    "puan": {
-    "pozisyonunda_ustalik": 7,
-    "oyun_zekasi": 8,
-    "sampiyonluklar": 5,
-    "efsanelik": 8
+    "pozisyonunda_ustalik": 8.2,
+    "oyun_zekasi": 8.8,
+    "sampiyonluklar": 7.0,
+    "efsanelik": 8.8
    }
   },
   {
@@ -451,10 +451,10 @@
    "etiketler": [],
    "aciklama": "Genç yaşta rekorlar kıran Sloven yıldız.",
    "puan": {
-    "pozisyonunda_ustalik": 10,
-    "oyun_zekasi": 9,
-    "sampiyonluklar": 5,
-    "efsanelik": 8
+    "pozisyonunda_ustalik": 10.0,
+    "oyun_zekasi": 9.4,
+    "sampiyonluklar": 7.0,
+    "efsanelik": 8.8
    }
   },
   {
@@ -465,10 +465,10 @@
    "etiketler": [],
    "aciklama": "Point God; oyun kuruculuğun ustası.",
    "puan": {
-    "pozisyonunda_ustalik": 8,
-    "oyun_zekasi": 9,
-    "sampiyonluklar": 4,
-    "efsanelik": 8
+    "pozisyonunda_ustalik": 8.8,
+    "oyun_zekasi": 9.4,
+    "sampiyonluklar": 6.4,
+    "efsanelik": 8.8
    }
   },
   {
@@ -479,10 +479,10 @@
    "etiketler": [],
    "aciklama": "Top sürme yeteneği efsanevi.",
    "puan": {
-    "pozisyonunda_ustalik": 9,
-    "oyun_zekasi": 8,
-    "sampiyonluklar": 7,
-    "efsanelik": 8
+    "pozisyonunda_ustalik": 9.4,
+    "oyun_zekasi": 8.8,
+    "sampiyonluklar": 8.2,
+    "efsanelik": 8.8
    }
   },
   {
@@ -493,10 +493,10 @@
    "etiketler": [],
    "aciklama": "Spurs'ün hızlı Fransız oyun kurucusu.",
    "puan": {
-    "pozisyonunda_ustalik": 8,
-    "oyun_zekasi": 8,
-    "sampiyonluklar": 8,
-    "efsanelik": 8
+    "pozisyonunda_ustalik": 8.8,
+    "oyun_zekasi": 8.8,
+    "sampiyonluklar": 8.8,
+    "efsanelik": 8.8
    }
   },
   {
@@ -507,10 +507,10 @@
    "etiketler": [],
    "aciklama": "Ribauntların \"Uçan Buzdolabı\".",
    "puan": {
-    "pozisyonunda_ustalik": 9,
-    "oyun_zekasi": 8,
-    "sampiyonluklar": 4,
-    "efsanelik": 9
+    "pozisyonunda_ustalik": 9.4,
+    "oyun_zekasi": 8.8,
+    "sampiyonluklar": 6.4,
+    "efsanelik": 9.4
    }
   },
   {
@@ -521,10 +521,10 @@
    "etiketler": [],
    "aciklama": "NBA'de yükselen Türk pivot.",
    "puan": {
-    "pozisyonunda_ustalik": 8,
-    "oyun_zekasi": 8,
-    "sampiyonluklar": 3,
-    "efsanelik": 6
+    "pozisyonunda_ustalik": 8.8,
+    "oyun_zekasi": 8.8,
+    "sampiyonluklar": 5.8,
+    "efsanelik": 7.6
    }
   },
   {
@@ -535,10 +535,10 @@
    "etiketler": [],
    "aciklama": "NBA şampiyonluğu yaşayan ilk Türk.",
    "puan": {
-    "pozisyonunda_ustalik": 7,
-    "oyun_zekasi": 7,
-    "sampiyonluklar": 6,
-    "efsanelik": 6
+    "pozisyonunda_ustalik": 8.2,
+    "oyun_zekasi": 8.2,
+    "sampiyonluklar": 7.6,
+    "efsanelik": 7.6
    }
   }
  ]

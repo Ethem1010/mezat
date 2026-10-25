@@ -62,10 +62,10 @@
    "etiketler": [],
    "aciklama": "Lokantaların ilk tercihi.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 7,
-    "sofra_uyumu": 10,
-    "sevilme": 10
+    "lezzet": 9.4,
+    "doyuruculuk": 8.2,
+    "sofra_uyumu": 10.0,
+    "sevilme": 10.0
    }
   },
   {
@@ -76,10 +76,10 @@
    "etiketler": [],
    "aciklama": "Baharatlı Anadolu çorbası.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 7,
-    "sofra_uyumu": 9,
-    "sevilme": 9
+    "lezzet": 9.4,
+    "doyuruculuk": 8.2,
+    "sofra_uyumu": 9.4,
+    "sevilme": 9.4
    }
   },
   {
@@ -90,10 +90,10 @@
    "etiketler": [],
    "aciklama": "Yoğurtlu, naneli şifa.",
    "puan": {
-    "lezzet": 8,
-    "doyuruculuk": 6,
-    "sofra_uyumu": 9,
-    "sevilme": 8
+    "lezzet": 8.8,
+    "doyuruculuk": 7.6,
+    "sofra_uyumu": 9.4,
+    "sevilme": 8.8
    }
   },
   {
@@ -104,10 +104,10 @@
    "etiketler": [],
    "aciklama": "Gece yarısının efsanesi.",
    "puan": {
-    "lezzet": 8,
-    "doyuruculuk": 7,
-    "sofra_uyumu": 7,
-    "sevilme": 6
+    "lezzet": 8.8,
+    "doyuruculuk": 8.2,
+    "sofra_uyumu": 8.2,
+    "sevilme": 7.6
    }
   },
   {
@@ -118,10 +118,10 @@
    "etiketler": [],
    "aciklama": "Tereyağlı, yoğurtlu Bursa efsanesi.",
    "puan": {
-    "lezzet": 10,
-    "doyuruculuk": 9,
-    "sofra_uyumu": 8,
-    "sevilme": 10
+    "lezzet": 10.0,
+    "doyuruculuk": 9.4,
+    "sofra_uyumu": 8.8,
+    "sevilme": 10.0
    }
   },
   {
@@ -132,10 +132,10 @@
    "etiketler": [],
    "aciklama": "Acılı, közde zırh kıyması.",
    "puan": {
-    "lezzet": 10,
-    "doyuruculuk": 9,
-    "sofra_uyumu": 8,
-    "sevilme": 10
+    "lezzet": 10.0,
+    "doyuruculuk": 9.4,
+    "sofra_uyumu": 8.8,
+    "sevilme": 10.0
    }
   },
   {
@@ -146,10 +146,10 @@
    "etiketler": [],
    "aciklama": "Patlıcanın en güzel hali.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 8,
-    "sofra_uyumu": 9,
-    "sevilme": 9
+    "lezzet": 9.4,
+    "doyuruculuk": 8.8,
+    "sofra_uyumu": 9.4,
+    "sevilme": 9.4
    }
   },
   {
@@ -160,10 +160,10 @@
    "etiketler": [],
    "aciklama": "Saray mutfağından beğendili et.",
    "puan": {
-    "lezzet": 10,
-    "doyuruculuk": 9,
-    "sofra_uyumu": 8,
-    "sevilme": 8
+    "lezzet": 10.0,
+    "doyuruculuk": 9.4,
+    "sofra_uyumu": 8.8,
+    "sevilme": 8.8
    }
   },
   {
@@ -174,10 +174,10 @@
    "etiketler": [],
    "aciklama": "Ağır ateşte lokum gibi kuzu.",
    "puan": {
-    "lezzet": 10,
-    "doyuruculuk": 9,
-    "sofra_uyumu": 8,
-    "sevilme": 8
+    "lezzet": 10.0,
+    "doyuruculuk": 9.4,
+    "sofra_uyumu": 8.8,
+    "sevilme": 8.8
    }
   },
   {
@@ -188,10 +188,10 @@
    "etiketler": [],
    "aciklama": "Yoğurtlu minik bohçalar.",
    "puan": {
-    "lezzet": 10,
-    "doyuruculuk": 8,
-    "sofra_uyumu": 8,
-    "sevilme": 10
+    "lezzet": 10.0,
+    "doyuruculuk": 8.8,
+    "sofra_uyumu": 8.8,
+    "sevilme": 10.0
    }
   },
   {
@@ -202,10 +202,10 @@
    "etiketler": [],
    "aciklama": "Bulgur kabuklu doyurucu köfte.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 8,
-    "sofra_uyumu": 8,
-    "sevilme": 9
+    "lezzet": 9.4,
+    "doyuruculuk": 8.8,
+    "sofra_uyumu": 8.8,
+    "sevilme": 9.4
    }
   },
   {
@@ -216,10 +216,10 @@
    "etiketler": [],
    "aciklama": "Zeytinyağlı ince sarma.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 6,
-    "sofra_uyumu": 9,
-    "sevilme": 9
+    "lezzet": 9.4,
+    "doyuruculuk": 7.6,
+    "sofra_uyumu": 9.4,
+    "sevilme": 9.4
    }
   },
   {
@@ -230,10 +230,10 @@
    "etiketler": [],
    "aciklama": "Lavaşa sarılı kebap.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 9,
-    "sofra_uyumu": 8,
-    "sevilme": 8
+    "lezzet": 9.4,
+    "doyuruculuk": 9.4,
+    "sofra_uyumu": 8.8,
+    "sevilme": 8.8
    }
   },
   {
@@ -244,10 +244,10 @@
    "etiketler": [],
    "aciklama": "Karadeniz'in gümüş balığı.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 7,
-    "sofra_uyumu": 8,
-    "sevilme": 8
+    "lezzet": 9.4,
+    "doyuruculuk": 8.2,
+    "sofra_uyumu": 8.8,
+    "sevilme": 8.8
    }
   },
   {
@@ -258,10 +258,10 @@
    "etiketler": [],
    "aciklama": "Her yemeğin yanına.",
    "puan": {
-    "lezzet": 8,
-    "doyuruculuk": 8,
-    "sofra_uyumu": 10,
-    "sevilme": 9
+    "lezzet": 8.8,
+    "doyuruculuk": 8.8,
+    "sofra_uyumu": 10.0,
+    "sevilme": 9.4
    }
   },
   {
@@ -272,10 +272,10 @@
    "etiketler": [],
    "aciklama": "Serinleten yoğurtlu eşlikçi.",
    "puan": {
-    "lezzet": 8,
-    "doyuruculuk": 4,
-    "sofra_uyumu": 10,
-    "sevilme": 9
+    "lezzet": 8.8,
+    "doyuruculuk": 6.4,
+    "sofra_uyumu": 10.0,
+    "sevilme": 9.4
    }
   },
   {
@@ -286,10 +286,10 @@
    "etiketler": [],
    "aciklama": "Taze sofra klasiği.",
    "puan": {
-    "lezzet": 8,
-    "doyuruculuk": 4,
-    "sofra_uyumu": 10,
-    "sevilme": 9
+    "lezzet": 8.8,
+    "doyuruculuk": 6.4,
+    "sofra_uyumu": 10.0,
+    "sevilme": 9.4
    }
   },
   {
@@ -300,10 +300,10 @@
    "etiketler": [],
    "aciklama": "İnce hamurda kıymalı lezzet.",
    "puan": {
-    "lezzet": 10,
-    "doyuruculuk": 8,
-    "sofra_uyumu": 8,
-    "sevilme": 10
+    "lezzet": 10.0,
+    "doyuruculuk": 8.8,
+    "sofra_uyumu": 8.8,
+    "sevilme": 10.0
    }
   },
   {
@@ -314,10 +314,10 @@
    "etiketler": [],
    "aciklama": "Karadeniz'in kayık hamuru.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 9,
-    "sofra_uyumu": 8,
-    "sevilme": 9
+    "lezzet": 9.4,
+    "doyuruculuk": 9.4,
+    "sofra_uyumu": 8.8,
+    "sevilme": 9.4
    }
   },
   {
@@ -328,10 +328,10 @@
    "etiketler": [],
    "aciklama": "Kat kat peynirli börek.",
    "puan": {
-    "lezzet": 10,
-    "doyuruculuk": 8,
-    "sofra_uyumu": 8,
-    "sevilme": 9
+    "lezzet": 10.0,
+    "doyuruculuk": 8.8,
+    "sofra_uyumu": 8.8,
+    "sevilme": 9.4
    }
   },
   {
@@ -342,10 +342,10 @@
    "etiketler": [],
    "aciklama": "Sacda pişen köy lezzeti.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 8,
-    "sofra_uyumu": 8,
-    "sevilme": 9
+    "lezzet": 9.4,
+    "doyuruculuk": 8.8,
+    "sofra_uyumu": 8.8,
+    "sevilme": 9.4
    }
   },
   {
@@ -356,10 +356,10 @@
    "etiketler": [],
    "aciklama": "Antep fıstıklı şerbetli efsane.",
    "puan": {
-    "lezzet": 10,
-    "doyuruculuk": 6,
-    "sofra_uyumu": 10,
-    "sevilme": 10
+    "lezzet": 10.0,
+    "doyuruculuk": 7.6,
+    "sofra_uyumu": 10.0,
+    "sevilme": 10.0
    }
   },
   {
@@ -370,10 +370,10 @@
    "etiketler": [],
    "aciklama": "Peynirli, sıcak Hatay tatlısı.",
    "puan": {
-    "lezzet": 10,
-    "doyuruculuk": 6,
-    "sofra_uyumu": 9,
-    "sevilme": 10
+    "lezzet": 10.0,
+    "doyuruculuk": 7.6,
+    "sofra_uyumu": 9.4,
+    "sevilme": 10.0
    }
   },
   {
@@ -384,10 +384,10 @@
    "etiketler": [],
    "aciklama": "Kaymaklı Afyon tatlısı.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 6,
-    "sofra_uyumu": 9,
-    "sevilme": 8
+    "lezzet": 9.4,
+    "doyuruculuk": 7.6,
+    "sofra_uyumu": 9.4,
+    "sevilme": 8.8
    }
   },
   {
@@ -398,10 +398,10 @@
    "etiketler": [],
    "aciklama": "Fırında kızarmış süt tatlısı.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 5,
-    "sofra_uyumu": 9,
-    "sevilme": 9
+    "lezzet": 9.4,
+    "doyuruculuk": 7.0,
+    "sofra_uyumu": 9.4,
+    "sevilme": 9.4
    }
   },
   {
@@ -412,10 +412,10 @@
    "etiketler": [],
    "aciklama": "Kışın içi ısıtan çorba.",
    "puan": {
-    "lezzet": 8,
-    "doyuruculuk": 7,
-    "sofra_uyumu": 8,
-    "sevilme": 7
+    "lezzet": 8.8,
+    "doyuruculuk": 8.2,
+    "sofra_uyumu": 8.8,
+    "sevilme": 8.2
    }
   },
   {
@@ -426,10 +426,10 @@
    "etiketler": [],
    "aciklama": "Kış sabahlarının çorbası.",
    "puan": {
-    "lezzet": 7,
-    "doyuruculuk": 8,
-    "sofra_uyumu": 6,
-    "sevilme": 5
+    "lezzet": 8.2,
+    "doyuruculuk": 8.8,
+    "sofra_uyumu": 7.6,
+    "sevilme": 7.0
    }
   },
   {
@@ -440,10 +440,10 @@
    "etiketler": [],
    "aciklama": "Pilavla Türk klasiği.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 9,
-    "sofra_uyumu": 9,
-    "sevilme": 9
+    "lezzet": 9.4,
+    "doyuruculuk": 9.4,
+    "sofra_uyumu": 9.4,
+    "sevilme": 9.4
    }
   },
   {
@@ -454,10 +454,10 @@
    "etiketler": [],
    "aciklama": "Hızlı ve doyurucu ev yemeği.",
    "puan": {
-    "lezzet": 8,
-    "doyuruculuk": 8,
-    "sofra_uyumu": 8,
-    "sevilme": 8
+    "lezzet": 8.8,
+    "doyuruculuk": 8.8,
+    "sofra_uyumu": 8.8,
+    "sevilme": 8.8
    }
   },
   {
@@ -468,10 +468,10 @@
    "etiketler": [],
    "aciklama": "Izgara köfte klasiği.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 8,
-    "sofra_uyumu": 9,
-    "sevilme": 9
+    "lezzet": 9.4,
+    "doyuruculuk": 8.8,
+    "sofra_uyumu": 9.4,
+    "sevilme": 9.4
    }
   },
   {
@@ -482,10 +482,10 @@
    "etiketler": [],
    "aciklama": "Domatesli Anadolu pilavı.",
    "puan": {
-    "lezzet": 8,
-    "doyuruculuk": 8,
-    "sofra_uyumu": 9,
-    "sevilme": 8
+    "lezzet": 8.8,
+    "doyuruculuk": 8.8,
+    "sofra_uyumu": 9.4,
+    "sevilme": 8.8
    }
   },
   {
@@ -496,10 +496,10 @@
    "etiketler": [],
    "aciklama": "Herkesin sevdiği eşlikçi.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 6,
-    "sofra_uyumu": 9,
-    "sevilme": 10
+    "lezzet": 9.4,
+    "doyuruculuk": 7.6,
+    "sofra_uyumu": 9.4,
+    "sevilme": 10.0
    }
   },
   {
@@ -510,10 +510,10 @@
    "etiketler": [],
    "aciklama": "Acılı, dürümlük lezzet.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 7,
-    "sofra_uyumu": 7,
-    "sevilme": 9
+    "lezzet": 9.4,
+    "doyuruculuk": 8.2,
+    "sofra_uyumu": 8.2,
+    "sevilme": 9.4
    }
   },
   {
@@ -524,10 +524,10 @@
    "etiketler": [],
    "aciklama": "Yanık tabanlı muhallebi.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 5,
-    "sofra_uyumu": 9,
-    "sevilme": 8
+    "lezzet": 9.4,
+    "doyuruculuk": 7.0,
+    "sofra_uyumu": 9.4,
+    "sevilme": 8.8
    }
   },
   {
@@ -538,10 +538,10 @@
    "etiketler": [],
    "aciklama": "İrmikli şerbetli tatlı.",
    "puan": {
-    "lezzet": 8,
-    "doyuruculuk": 6,
-    "sofra_uyumu": 8,
-    "sevilme": 7
+    "lezzet": 8.8,
+    "doyuruculuk": 7.6,
+    "sofra_uyumu": 8.8,
+    "sevilme": 8.2
    }
   }
  ]

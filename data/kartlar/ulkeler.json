@@ -50,10 +50,10 @@
    "etiketler": [],
    "aciklama": "Roma, Venedik, Floransa ve pizzanın vatanı.",
    "puan": {
-    "turistik_yerler": 10,
-    "mutfak": 10,
-    "kultur": 10,
-    "doga": 8
+    "turistik_yerler": 10.0,
+    "mutfak": 10.0,
+    "kultur": 10.0,
+    "doga": 8.8
    }
   },
   {
@@ -64,10 +64,10 @@
    "etiketler": [],
    "aciklama": "İki kıta, binlerce yıllık tarih, zengin mutfak.",
    "puan": {
-    "turistik_yerler": 9,
-    "mutfak": 10,
-    "kultur": 10,
-    "doga": 9
+    "turistik_yerler": 9.4,
+    "mutfak": 10.0,
+    "kultur": 10.0,
+    "doga": 9.4
    }
   },
   {
@@ -78,10 +78,10 @@
    "etiketler": [],
    "aciklama": "Dünyanın en çok turist ağırlayan ülkesi.",
    "puan": {
-    "turistik_yerler": 10,
-    "mutfak": 9,
-    "kultur": 10,
-    "doga": 8
+    "turistik_yerler": 10.0,
+    "mutfak": 9.4,
+    "kultur": 10.0,
+    "doga": 8.8
    }
   },
   {
@@ -92,10 +92,10 @@
    "etiketler": [],
    "aciklama": "Flamenko, tapas ve sonsuz plajlar.",
    "puan": {
-    "turistik_yerler": 9,
-    "mutfak": 9,
-    "kultur": 9,
-    "doga": 8
+    "turistik_yerler": 9.4,
+    "mutfak": 9.4,
+    "kultur": 9.4,
+    "doga": 8.8
    }
   },
   {
@@ -106,10 +106,10 @@
    "etiketler": [],
    "aciklama": "Antik tapınaklar ve masmavi adalar.",
    "puan": {
-    "turistik_yerler": 9,
-    "mutfak": 8,
-    "kultur": 9,
-    "doga": 8
+    "turistik_yerler": 9.4,
+    "mutfak": 8.8,
+    "kultur": 9.4,
+    "doga": 8.8
    }
   },
   {
@@ -120,10 +120,10 @@
    "etiketler": [],
    "aciklama": "Okyanus kıyıları, Lizbon ve pastel de nata.",
    "puan": {
-    "turistik_yerler": 8,
-    "mutfak": 8,
-    "kultur": 8,
-    "doga": 8
+    "turistik_yerler": 8.8,
+    "mutfak": 8.8,
+    "kultur": 8.8,
+    "doga": 8.8
    }
   },
   {
@@ -134,10 +134,10 @@
    "etiketler": [],
    "aciklama": "Alpler, çikolata ve kartpostal köyler.",
    "puan": {
-    "turistik_yerler": 8,
-    "mutfak": 7,
-    "kultur": 7,
-    "doga": 10
+    "turistik_yerler": 8.8,
+    "mutfak": 8.2,
+    "kultur": 8.2,
+    "doga": 10.0
    }
   },
   {
@@ -148,10 +148,10 @@
    "etiketler": [],
    "aciklama": "Fiyortlar ve kuzey ışıkları.",
    "puan": {
-    "turistik_yerler": 8,
-    "mutfak": 6,
-    "kultur": 7,
-    "doga": 10
+    "turistik_yerler": 8.8,
+    "mutfak": 7.6,
+    "kultur": 8.2,
+    "doga": 10.0
    }
   },
   {
@@ -162,10 +162,10 @@
    "etiketler": [],
    "aciklama": "Volkanlar, buzullar ve gayzerler.",
    "puan": {
-    "turistik_yerler": 8,
-    "mutfak": 5,
-    "kultur": 6,
-    "doga": 10
+    "turistik_yerler": 8.8,
+    "mutfak": 7.0,
+    "kultur": 7.6,
+    "doga": 10.0
    }
   },
   {
@@ -176,10 +176,10 @@
    "etiketler": [],
    "aciklama": "Tapınaklar, sakuralar ve suşi.",
    "puan": {
-    "turistik_yerler": 9,
-    "mutfak": 10,
-    "kultur": 10,
-    "doga": 8
+    "turistik_yerler": 9.4,
+    "mutfak": 10.0,
+    "kultur": 10.0,
+    "doga": 8.8
    }
   },
   {
@@ -190,10 +190,10 @@
    "etiketler": [],
    "aciklama": "Çin Seddi ve binlerce yıllık medeniyet.",
    "puan": {
-    "turistik_yerler": 9,
-    "mutfak": 9,
-    "kultur": 9,
-    "doga": 8
+    "turistik_yerler": 9.4,
+    "mutfak": 9.4,
+    "kultur": 9.4,
+    "doga": 8.8
    }
   },
   {
@@ -204,10 +204,10 @@
    "etiketler": [],
    "aciklama": "Tac Mahal, baharatlar ve renk cümbüşü.",
    "puan": {
-    "turistik_yerler": 9,
-    "mutfak": 9,
-    "kultur": 10,
-    "doga": 8
+    "turistik_yerler": 9.4,
+    "mutfak": 9.4,
+    "kultur": 10.0,
+    "doga": 8.8
    }
   },
   {
@@ -218,10 +218,10 @@
    "etiketler": [],
    "aciklama": "Tapınaklar, plajlar ve sokak yemekleri.",
    "puan": {
-    "turistik_yerler": 9,
-    "mutfak": 9,
-    "kultur": 8,
-    "doga": 9
+    "turistik_yerler": 9.4,
+    "mutfak": 9.4,
+    "kultur": 8.8,
+    "doga": 9.4
    }
   },
   {
@@ -232,10 +232,10 @@
    "etiketler": [],
    "aciklama": "K-pop, teknoloji ve tapınaklar.",
    "puan": {
-    "turistik_yerler": 8,
-    "mutfak": 9,
-    "kultur": 9,
-    "doga": 7
+    "turistik_yerler": 8.8,
+    "mutfak": 9.4,
+    "kultur": 9.4,
+    "doga": 8.2
    }
   },
   {
@@ -246,10 +246,10 @@
    "etiketler": [],
    "aciklama": "Ha Long Körfezi ve lezzetli sokak yemekleri.",
    "puan": {
-    "turistik_yerler": 8,
-    "mutfak": 9,
-    "kultur": 8,
-    "doga": 9
+    "turistik_yerler": 8.8,
+    "mutfak": 9.4,
+    "kultur": 8.8,
+    "doga": 9.4
    }
   },
   {
@@ -260,10 +260,10 @@
    "etiketler": [],
    "aciklama": "Bali ve binlerce adalık tropik cennet.",
    "puan": {
-    "turistik_yerler": 8,
-    "mutfak": 8,
-    "kultur": 8,
-    "doga": 10
+    "turistik_yerler": 8.8,
+    "mutfak": 8.8,
+    "kultur": 8.8,
+    "doga": 10.0
    }
   },
   {
@@ -274,10 +274,10 @@
    "etiketler": [],
    "aciklama": "Büyük Kanyon'dan New York'a her şey bir ülkede.",
    "puan": {
-    "turistik_yerler": 10,
-    "mutfak": 8,
-    "kultur": 9,
-    "doga": 9
+    "turistik_yerler": 10.0,
+    "mutfak": 8.8,
+    "kultur": 9.4,
+    "doga": 9.4
    }
   },
   {
@@ -288,10 +288,10 @@
    "etiketler": [],
    "aciklama": "Dağlar, göller ve uçsuz bucaksız ormanlar.",
    "puan": {
-    "turistik_yerler": 8,
-    "mutfak": 7,
-    "kultur": 7,
-    "doga": 10
+    "turistik_yerler": 8.8,
+    "mutfak": 8.2,
+    "kultur": 8.2,
+    "doga": 10.0
    }
   },
   {
@@ -302,10 +302,10 @@
    "etiketler": [],
    "aciklama": "Maya tapınakları, tacolar ve renkli şenlikler.",
    "puan": {
-    "turistik_yerler": 9,
-    "mutfak": 9,
-    "kultur": 9,
-    "doga": 8
+    "turistik_yerler": 9.4,
+    "mutfak": 9.4,
+    "kultur": 9.4,
+    "doga": 8.8
    }
   },
   {
@@ -316,10 +316,10 @@
    "etiketler": [],
    "aciklama": "Amazon, karnaval ve samba.",
    "puan": {
-    "turistik_yerler": 8,
-    "mutfak": 8,
-    "kultur": 9,
-    "doga": 10
+    "turistik_yerler": 8.8,
+    "mutfak": 8.8,
+    "kultur": 9.4,
+    "doga": 10.0
    }
   },
   {
@@ -330,10 +330,10 @@
    "etiketler": [],
    "aciklama": "Machu Picchu ve And Dağları.",
    "puan": {
-    "turistik_yerler": 9,
-    "mutfak": 9,
-    "kultur": 8,
-    "doga": 9
+    "turistik_yerler": 9.4,
+    "mutfak": 9.4,
+    "kultur": 8.8,
+    "doga": 9.4
    }
   },
   {
@@ -344,10 +344,10 @@
    "etiketler": [],
    "aciklama": "Piramitler, Nil ve firavunların izleri.",
    "puan": {
-    "turistik_yerler": 10,
-    "mutfak": 7,
-    "kultur": 10,
-    "doga": 7
+    "turistik_yerler": 10.0,
+    "mutfak": 8.2,
+    "kultur": 10.0,
+    "doga": 8.2
    }
   },
   {
@@ -358,10 +358,10 @@
    "etiketler": [],
    "aciklama": "Çarşılar, çöl ve Marakeş'in renkleri.",
    "puan": {
-    "turistik_yerler": 8,
-    "mutfak": 9,
-    "kultur": 9,
-    "doga": 8
+    "turistik_yerler": 8.8,
+    "mutfak": 9.4,
+    "kultur": 9.4,
+    "doga": 8.8
    }
   },
   {
@@ -372,10 +372,10 @@
    "etiketler": [],
    "aciklama": "Mercan Kayalığı ve kanguruların kıtası.",
    "puan": {
-    "turistik_yerler": 9,
-    "mutfak": 7,
-    "kultur": 7,
-    "doga": 10
+    "turistik_yerler": 9.4,
+    "mutfak": 8.2,
+    "kultur": 8.2,
+    "doga": 10.0
    }
   },
   {
@@ -386,10 +386,10 @@
    "etiketler": [],
    "aciklama": "Dünyanın en etkileyici doğa manzaralarından.",
    "puan": {
-    "turistik_yerler": 8,
-    "mutfak": 6,
-    "kultur": 7,
-    "doga": 10
+    "turistik_yerler": 8.8,
+    "mutfak": 7.6,
+    "kultur": 8.2,
+    "doga": 10.0
    }
   },
   {
@@ -400,10 +400,10 @@
    "etiketler": [],
    "aciklama": "Şatolar, Noel pazarları ve düzenli şehirler.",
    "puan": {
-    "turistik_yerler": 8,
-    "mutfak": 7,
-    "kultur": 8,
-    "doga": 7
+    "turistik_yerler": 8.8,
+    "mutfak": 8.2,
+    "kultur": 8.8,
+    "doga": 8.2
    }
   },
   {
@@ -414,10 +414,10 @@
    "etiketler": [],
    "aciklama": "Londra, kraliyet ve tarih.",
    "puan": {
-    "turistik_yerler": 9,
-    "mutfak": 6,
-    "kultur": 9,
-    "doga": 6
+    "turistik_yerler": 9.4,
+    "mutfak": 7.6,
+    "kultur": 9.4,
+    "doga": 7.6
    }
   },
   {
@@ -428,10 +428,10 @@
    "etiketler": [],
    "aciklama": "Laleler, yel değirmenleri ve kanallar.",
    "puan": {
-    "turistik_yerler": 8,
-    "mutfak": 6,
-    "kultur": 7,
-    "doga": 6
+    "turistik_yerler": 8.8,
+    "mutfak": 7.6,
+    "kultur": 8.2,
+    "doga": 7.6
    }
   },
   {
@@ -442,10 +442,10 @@
    "etiketler": [],
    "aciklama": "Viyana'nın klasik müziği ve Alp köyleri.",
    "puan": {
-    "turistik_yerler": 8,
-    "mutfak": 7,
-    "kultur": 8,
-    "doga": 9
+    "turistik_yerler": 8.8,
+    "mutfak": 8.2,
+    "kultur": 8.8,
+    "doga": 9.4
    }
   },
   {
@@ -456,10 +456,10 @@
    "etiketler": [],
    "aciklama": "Dubrovnik ve Adriyatik koyları.",
    "puan": {
-    "turistik_yerler": 8,
-    "mutfak": 7,
-    "kultur": 7,
-    "doga": 9
+    "turistik_yerler": 8.8,
+    "mutfak": 8.2,
+    "kultur": 8.2,
+    "doga": 9.4
    }
   },
   {
@@ -470,10 +470,10 @@
    "etiketler": [],
    "aciklama": "Tango, et ve Patagonya.",
    "puan": {
-    "turistik_yerler": 7,
-    "mutfak": 8,
-    "kultur": 8,
-    "doga": 9
+    "turistik_yerler": 8.2,
+    "mutfak": 8.8,
+    "kultur": 8.8,
+    "doga": 9.4
    }
   },
   {
@@ -484,10 +484,10 @@
    "etiketler": [],
    "aciklama": "Klasik arabalar, salsa ve Havana.",
    "puan": {
-    "turistik_yerler": 8,
-    "mutfak": 7,
-    "kultur": 9,
-    "doga": 7
+    "turistik_yerler": 8.8,
+    "mutfak": 8.2,
+    "kultur": 9.4,
+    "doga": 8.2
    }
   },
   {
@@ -498,10 +498,10 @@
    "etiketler": [],
    "aciklama": "Safari, şarap bağları ve Cape Town.",
    "puan": {
-    "turistik_yerler": 8,
-    "mutfak": 7,
-    "kultur": 7,
-    "doga": 9
+    "turistik_yerler": 8.8,
+    "mutfak": 8.2,
+    "kultur": 8.2,
+    "doga": 9.4
    }
   },
   {
@@ -512,10 +512,10 @@
    "etiketler": [],
    "aciklama": "Büyük göç ve safari ülkesi.",
    "puan": {
-    "turistik_yerler": 7,
-    "mutfak": 6,
-    "kultur": 7,
-    "doga": 10
+    "turistik_yerler": 8.2,
+    "mutfak": 7.6,
+    "kultur": 8.2,
+    "doga": 10.0
    }
   },
   {
@@ -526,10 +526,10 @@
    "etiketler": [],
    "aciklama": "Kilimanjaro, Serengeti ve Zanzibar.",
    "puan": {
-    "turistik_yerler": 8,
-    "mutfak": 6,
-    "kultur": 7,
-    "doga": 10
+    "turistik_yerler": 8.8,
+    "mutfak": 7.6,
+    "kultur": 8.2,
+    "doga": 10.0
    }
   }
  ]

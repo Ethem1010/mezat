@@ -49,10 +49,10 @@
    "etiketler": [],
    "aciklama": "Her bilimin temeli.",
    "puan": {
-    "hayatta_ise_yarama": 10,
-    "meslek_kapisi": 10,
-    "genel_kultur": 7,
-    "eglence": 5
+    "hayatta_ise_yarama": 10.0,
+    "meslek_kapisi": 10.0,
+    "genel_kultur": 8.2,
+    "eglence": 7.0
    }
   },
   {
@@ -63,10 +63,10 @@
    "etiketler": [],
    "aciklama": "Evrenin kurallarını öğretir.",
    "puan": {
-    "hayatta_ise_yarama": 8,
-    "meslek_kapisi": 10,
-    "genel_kultur": 8,
-    "eglence": 6
+    "hayatta_ise_yarama": 8.8,
+    "meslek_kapisi": 10.0,
+    "genel_kultur": 8.8,
+    "eglence": 7.6
    }
   },
   {
@@ -77,10 +77,10 @@
    "etiketler": [],
    "aciklama": "Maddenin sırları.",
    "puan": {
-    "hayatta_ise_yarama": 7,
-    "meslek_kapisi": 9,
-    "genel_kultur": 7,
-    "eglence": 6
+    "hayatta_ise_yarama": 8.2,
+    "meslek_kapisi": 9.4,
+    "genel_kultur": 8.2,
+    "eglence": 7.6
    }
   },
   {
@@ -91,10 +91,10 @@
    "etiketler": [],
    "aciklama": "Canlıları ve vücudumuzu tanıtır.",
    "puan": {
-    "hayatta_ise_yarama": 9,
-    "meslek_kapisi": 10,
-    "genel_kultur": 8,
-    "eglence": 7
+    "hayatta_ise_yarama": 9.4,
+    "meslek_kapisi": 10.0,
+    "genel_kultur": 8.8,
+    "eglence": 8.2
    }
   },
   {
@@ -105,10 +105,10 @@
    "etiketler": [],
    "aciklama": "Geleceğin dili.",
    "puan": {
-    "hayatta_ise_yarama": 10,
-    "meslek_kapisi": 10,
-    "genel_kultur": 7,
-    "eglence": 9
+    "hayatta_ise_yarama": 10.0,
+    "meslek_kapisi": 10.0,
+    "genel_kultur": 8.2,
+    "eglence": 9.4
    }
   },
   {
@@ -119,10 +119,10 @@
    "etiketler": [],
    "aciklama": "Şekillerin ve mekânın bilimi.",
    "puan": {
-    "hayatta_ise_yarama": 7,
-    "meslek_kapisi": 9,
-    "genel_kultur": 6,
-    "eglence": 6
+    "hayatta_ise_yarama": 8.2,
+    "meslek_kapisi": 9.4,
+    "genel_kultur": 7.6,
+    "eglence": 7.6
    }
   },
   {
@@ -133,10 +133,10 @@
    "etiketler": [],
    "aciklama": "Yıldızlara uzanan merak.",
    "puan": {
-    "hayatta_ise_yarama": 5,
-    "meslek_kapisi": 7,
-    "genel_kultur": 9,
-    "eglence": 9
+    "hayatta_ise_yarama": 7.0,
+    "meslek_kapisi": 8.2,
+    "genel_kultur": 9.4,
+    "eglence": 9.4
    }
   },
   {
@@ -147,10 +147,10 @@
    "etiketler": [],
    "aciklama": "Okuma, yazma, ifade gücü.",
    "puan": {
-    "hayatta_ise_yarama": 10,
-    "meslek_kapisi": 8,
-    "genel_kultur": 9,
-    "eglence": 7
+    "hayatta_ise_yarama": 10.0,
+    "meslek_kapisi": 8.8,
+    "genel_kultur": 9.4,
+    "eglence": 8.2
    }
   },
   {
@@ -161,10 +161,10 @@
    "etiketler": [],
    "aciklama": "Geçmişi bilmeyen geleceği kuramaz.",
    "puan": {
-    "hayatta_ise_yarama": 7,
-    "meslek_kapisi": 7,
-    "genel_kultur": 10,
-    "eglence": 7
+    "hayatta_ise_yarama": 8.2,
+    "meslek_kapisi": 8.2,
+    "genel_kultur": 10.0,
+    "eglence": 8.2
    }
   },
   {
@@ -175,10 +175,10 @@
    "etiketler": [],
    "aciklama": "Dünyayı tanıtır.",
    "puan": {
-    "hayatta_ise_yarama": 8,
-    "meslek_kapisi": 7,
-    "genel_kultur": 10,
-    "eglence": 7
+    "hayatta_ise_yarama": 8.8,
+    "meslek_kapisi": 8.2,
+    "genel_kultur": 10.0,
+    "eglence": 8.2
    }
   },
   {
@@ -189,10 +189,10 @@
    "etiketler": [],
    "aciklama": "Düşünmeyi öğretir.",
    "puan": {
-    "hayatta_ise_yarama": 8,
-    "meslek_kapisi": 6,
-    "genel_kultur": 10,
-    "eglence": 6
+    "hayatta_ise_yarama": 8.8,
+    "meslek_kapisi": 7.6,
+    "genel_kultur": 10.0,
+    "eglence": 7.6
    }
   },
   {
@@ -203,10 +203,10 @@
    "etiketler": [],
    "aciklama": "İnsanı anlamanın anahtarı.",
    "puan": {
-    "hayatta_ise_yarama": 9,
-    "meslek_kapisi": 8,
-    "genel_kultur": 8,
-    "eglence": 8
+    "hayatta_ise_yarama": 9.4,
+    "meslek_kapisi": 8.8,
+    "genel_kultur": 8.8,
+    "eglence": 8.8
    }
   },
   {
@@ -217,10 +217,10 @@
    "etiketler": [],
    "aciklama": "Paranın ve piyasanın dili.",
    "puan": {
-    "hayatta_ise_yarama": 10,
-    "meslek_kapisi": 9,
-    "genel_kultur": 8,
-    "eglence": 6
+    "hayatta_ise_yarama": 10.0,
+    "meslek_kapisi": 9.4,
+    "genel_kultur": 8.8,
+    "eglence": 7.6
    }
   },
   {
@@ -231,10 +231,10 @@
    "etiketler": [],
    "aciklama": "Haklarını bilmeyi öğretir.",
    "puan": {
-    "hayatta_ise_yarama": 9,
-    "meslek_kapisi": 9,
-    "genel_kultur": 8,
-    "eglence": 5
+    "hayatta_ise_yarama": 9.4,
+    "meslek_kapisi": 9.4,
+    "genel_kultur": 8.8,
+    "eglence": 7.0
    }
   },
   {
@@ -245,10 +245,10 @@
    "etiketler": [],
    "aciklama": "Dünyanın ortak dili.",
    "puan": {
-    "hayatta_ise_yarama": 10,
-    "meslek_kapisi": 10,
-    "genel_kultur": 8,
-    "eglence": 7
+    "hayatta_ise_yarama": 10.0,
+    "meslek_kapisi": 10.0,
+    "genel_kultur": 8.8,
+    "eglence": 8.2
    }
   },
   {
@@ -259,10 +259,10 @@
    "etiketler": [],
    "aciklama": "Avrupa'nın iş dili.",
    "puan": {
-    "hayatta_ise_yarama": 7,
-    "meslek_kapisi": 8,
-    "genel_kultur": 6,
-    "eglence": 5
+    "hayatta_ise_yarama": 8.2,
+    "meslek_kapisi": 8.8,
+    "genel_kultur": 7.6,
+    "eglence": 7.0
    }
   },
   {
@@ -273,10 +273,10 @@
    "etiketler": [],
    "aciklama": "Yüz milyonların dili.",
    "puan": {
-    "hayatta_ise_yarama": 7,
-    "meslek_kapisi": 7,
-    "genel_kultur": 6,
-    "eglence": 7
+    "hayatta_ise_yarama": 8.2,
+    "meslek_kapisi": 8.2,
+    "genel_kultur": 7.6,
+    "eglence": 8.2
    }
   },
   {
@@ -287,10 +287,10 @@
    "etiketler": [],
    "aciklama": "Dünyanın en çok konuşulan dili.",
    "puan": {
-    "hayatta_ise_yarama": 7,
-    "meslek_kapisi": 8,
-    "genel_kultur": 7,
-    "eglence": 5
+    "hayatta_ise_yarama": 8.2,
+    "meslek_kapisi": 8.8,
+    "genel_kultur": 8.2,
+    "eglence": 7.0
    }
   },
   {
@@ -301,10 +301,10 @@
    "etiketler": [],
    "aciklama": "Teknoloji ve kültür kapısı.",
    "puan": {
-    "hayatta_ise_yarama": 5,
-    "meslek_kapisi": 6,
-    "genel_kultur": 7,
-    "eglence": 7
+    "hayatta_ise_yarama": 7.0,
+    "meslek_kapisi": 7.6,
+    "genel_kultur": 8.2,
+    "eglence": 8.2
    }
   },
   {
@@ -315,10 +315,10 @@
    "etiketler": [],
    "aciklama": "Sağlıklı vücut, takım ruhu.",
    "puan": {
-    "hayatta_ise_yarama": 9,
-    "meslek_kapisi": 6,
-    "genel_kultur": 4,
-    "eglence": 10
+    "hayatta_ise_yarama": 9.4,
+    "meslek_kapisi": 7.6,
+    "genel_kultur": 6.4,
+    "eglence": 10.0
    }
   },
   {
@@ -329,10 +329,10 @@
    "etiketler": [],
    "aciklama": "Ruhun gıdası.",
    "puan": {
-    "hayatta_ise_yarama": 6,
-    "meslek_kapisi": 6,
-    "genel_kultur": 7,
-    "eglence": 10
+    "hayatta_ise_yarama": 7.6,
+    "meslek_kapisi": 7.6,
+    "genel_kultur": 8.2,
+    "eglence": 10.0
    }
   },
   {
@@ -343,10 +343,10 @@
    "etiketler": [],
    "aciklama": "Yaratıcılığı açar.",
    "puan": {
-    "hayatta_ise_yarama": 6,
-    "meslek_kapisi": 6,
-    "genel_kultur": 7,
-    "eglence": 9
+    "hayatta_ise_yarama": 7.6,
+    "meslek_kapisi": 7.6,
+    "genel_kultur": 8.2,
+    "eglence": 9.4
    }
   },
   {
@@ -357,10 +357,10 @@
    "etiketler": [],
    "aciklama": "Kendini ifade etmeyi öğretir.",
    "puan": {
-    "hayatta_ise_yarama": 7,
-    "meslek_kapisi": 6,
-    "genel_kultur": 6,
-    "eglence": 10
+    "hayatta_ise_yarama": 8.2,
+    "meslek_kapisi": 7.6,
+    "genel_kultur": 7.6,
+    "eglence": 10.0
    }
   },
   {
@@ -371,10 +371,10 @@
    "etiketler": [],
    "aciklama": "Strateji ve sabır.",
    "puan": {
-    "hayatta_ise_yarama": 6,
-    "meslek_kapisi": 4,
-    "genel_kultur": 6,
-    "eglence": 9
+    "hayatta_ise_yarama": 7.6,
+    "meslek_kapisi": 6.4,
+    "genel_kultur": 7.6,
+    "eglence": 9.4
    }
   },
   {
@@ -385,10 +385,10 @@
    "etiketler": [],
    "aciklama": "Hayat kurtaran beceri.",
    "puan": {
-    "hayatta_ise_yarama": 10,
-    "meslek_kapisi": 4,
-    "genel_kultur": 3,
-    "eglence": 9
+    "hayatta_ise_yarama": 10.0,
+    "meslek_kapisi": 6.4,
+    "genel_kultur": 5.8,
+    "eglence": 9.4
    }
   },
   {
@@ -399,10 +399,10 @@
    "etiketler": [],
    "aciklama": "Toplumu anlamak.",
    "puan": {
-    "hayatta_ise_yarama": 7,
-    "meslek_kapisi": 6,
-    "genel_kultur": 8,
-    "eglence": 6
+    "hayatta_ise_yarama": 8.2,
+    "meslek_kapisi": 7.6,
+    "genel_kultur": 8.8,
+    "eglence": 7.6
    }
   },
   {
@@ -413,10 +413,10 @@
    "etiketler": [],
    "aciklama": "İnanç ve ahlak kültürü.",
    "puan": {
-    "hayatta_ise_yarama": 6,
-    "meslek_kapisi": 4,
-    "genel_kultur": 8,
-    "eglence": 5
+    "hayatta_ise_yarama": 7.6,
+    "meslek_kapisi": 6.4,
+    "genel_kultur": 8.8,
+    "eglence": 7.0
    }
   },
   {
@@ -427,10 +427,10 @@
    "etiketler": [],
    "aciklama": "Doğru düşünme kuralları.",
    "puan": {
-    "hayatta_ise_yarama": 8,
-    "meslek_kapisi": 6,
-    "genel_kultur": 7,
-    "eglence": 5
+    "hayatta_ise_yarama": 8.8,
+    "meslek_kapisi": 7.6,
+    "genel_kultur": 8.2,
+    "eglence": 7.0
    }
   },
   {
@@ -441,10 +441,10 @@
    "etiketler": [],
    "aciklama": "Diplomasinin klasik dili.",
    "puan": {
-    "hayatta_ise_yarama": 6,
-    "meslek_kapisi": 6,
-    "genel_kultur": 7,
-    "eglence": 6
+    "hayatta_ise_yarama": 7.6,
+    "meslek_kapisi": 7.6,
+    "genel_kultur": 8.2,
+    "eglence": 7.6
    }
   },
   {
@@ -455,10 +455,10 @@
    "etiketler": [],
    "aciklama": "Geniş bir coğrafyanın dili.",
    "puan": {
-    "hayatta_ise_yarama": 6,
-    "meslek_kapisi": 6,
-    "genel_kultur": 7,
-    "eglence": 5
+    "hayatta_ise_yarama": 7.6,
+    "meslek_kapisi": 7.6,
+    "genel_kultur": 8.2,
+    "eglence": 7.0
    }
   },
   {
@@ -469,10 +469,10 @@
    "etiketler": [],
    "aciklama": "Avrasya'nın dili.",
    "puan": {
-    "hayatta_ise_yarama": 5,
-    "meslek_kapisi": 6,
-    "genel_kultur": 6,
-    "eglence": 5
+    "hayatta_ise_yarama": 7.0,
+    "meslek_kapisi": 7.6,
+    "genel_kultur": 7.6,
+    "eglence": 7.0
    }
   },
   {
@@ -483,10 +483,10 @@
    "etiketler": [],
    "aciklama": "Verinin dili.",
    "puan": {
-    "hayatta_ise_yarama": 8,
-    "meslek_kapisi": 9,
-    "genel_kultur": 5,
-    "eglence": 4
+    "hayatta_ise_yarama": 8.8,
+    "meslek_kapisi": 9.4,
+    "genel_kultur": 7.0,
+    "eglence": 6.4
    }
   },
   {
@@ -497,10 +497,10 @@
    "etiketler": [],
    "aciklama": "Üret ve tasarla.",
    "puan": {
-    "hayatta_ise_yarama": 7,
-    "meslek_kapisi": 7,
-    "genel_kultur": 5,
-    "eglence": 8
+    "hayatta_ise_yarama": 8.2,
+    "meslek_kapisi": 8.2,
+    "genel_kultur": 7.0,
+    "eglence": 8.8
    }
   },
   {
@@ -511,10 +511,10 @@
    "etiketler": [],
    "aciklama": "Kodla, robot yap.",
    "puan": {
-    "hayatta_ise_yarama": 7,
-    "meslek_kapisi": 9,
-    "genel_kultur": 6,
-    "eglence": 9
+    "hayatta_ise_yarama": 8.2,
+    "meslek_kapisi": 9.4,
+    "genel_kultur": 7.6,
+    "eglence": 9.4
    }
   },
   {
@@ -525,10 +525,10 @@
    "etiketler": [],
    "aciklama": "Hayat kurtaran bilgiler.",
    "puan": {
-    "hayatta_ise_yarama": 10,
-    "meslek_kapisi": 5,
-    "genel_kultur": 5,
-    "eglence": 5
+    "hayatta_ise_yarama": 10.0,
+    "meslek_kapisi": 7.0,
+    "genel_kultur": 7.0,
+    "eglence": 7.0
    }
   }
  ]

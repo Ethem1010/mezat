@@ -49,10 +49,10 @@
    "etiketler": [],
    "aciklama": "Dünyanın en çok izlenen sporu.",
    "puan": {
-    "i_zlenme": 10,
-    "heyecan": 9,
-    "dunyada_yayginlik": 10,
-    "turkiye_de_sevilme": 10
+    "i_zlenme": 10.0,
+    "heyecan": 9.4,
+    "dunyada_yayginlik": 10.0,
+    "turkiye_de_sevilme": 10.0
    }
   },
   {
@@ -63,10 +63,10 @@
    "etiketler": [],
    "aciklama": "Hızlı, sayılı ve son saniyeye kadar heyecanlı.",
    "puan": {
-    "i_zlenme": 9,
-    "heyecan": 9,
-    "dunyada_yayginlik": 9,
-    "turkiye_de_sevilme": 8
+    "i_zlenme": 9.4,
+    "heyecan": 9.4,
+    "dunyada_yayginlik": 9.4,
+    "turkiye_de_sevilme": 8.8
    }
   },
   {
@@ -77,10 +77,10 @@
    "etiketler": [],
    "aciklama": "Filenin Sultanları'yla Türkiye'nin gururu.",
    "puan": {
-    "i_zlenme": 7,
-    "heyecan": 8,
-    "dunyada_yayginlik": 8,
-    "turkiye_de_sevilme": 9
+    "i_zlenme": 8.2,
+    "heyecan": 8.8,
+    "dunyada_yayginlik": 8.8,
+    "turkiye_de_sevilme": 9.4
    }
   },
   {
@@ -91,10 +91,10 @@
    "etiketler": [],
    "aciklama": "Super Bowl'un sporu.",
    "puan": {
-    "i_zlenme": 9,
-    "heyecan": 8,
-    "dunyada_yayginlik": 5,
-    "turkiye_de_sevilme": 3
+    "i_zlenme": 9.4,
+    "heyecan": 8.8,
+    "dunyada_yayginlik": 7.0,
+    "turkiye_de_sevilme": 5.8
    }
   },
   {
@@ -105,10 +105,10 @@
    "etiketler": [],
    "aciklama": "Buz üstünde hızlı ve sert mücadele.",
    "puan": {
-    "i_zlenme": 7,
-    "heyecan": 9,
-    "dunyada_yayginlik": 6,
-    "turkiye_de_sevilme": 2
+    "i_zlenme": 8.2,
+    "heyecan": 9.4,
+    "dunyada_yayginlik": 7.6,
+    "turkiye_de_sevilme": 5.2
    }
   },
   {
@@ -119,10 +119,10 @@
    "etiketler": [],
    "aciklama": "Hindistan ve İngiltere'de milyarların tutkusu.",
    "puan": {
-    "i_zlenme": 9,
-    "heyecan": 6,
-    "dunyada_yayginlik": 7,
-    "turkiye_de_sevilme": 1
+    "i_zlenme": 9.4,
+    "heyecan": 7.6,
+    "dunyada_yayginlik": 8.2,
+    "turkiye_de_sevilme": 4.6
    }
   },
   {
@@ -133,10 +133,10 @@
    "etiketler": [],
    "aciklama": "Amerika'nın milli eğlencesi.",
    "puan": {
-    "i_zlenme": 8,
-    "heyecan": 6,
-    "dunyada_yayginlik": 6,
-    "turkiye_de_sevilme": 1
+    "i_zlenme": 8.8,
+    "heyecan": 7.6,
+    "dunyada_yayginlik": 7.6,
+    "turkiye_de_sevilme": 4.6
    }
   },
   {
@@ -147,10 +147,10 @@
    "etiketler": [],
    "aciklama": "Hızlı ve sert bir salon sporu.",
    "puan": {
-    "i_zlenme": 6,
-    "heyecan": 8,
-    "dunyada_yayginlik": 6,
-    "turkiye_de_sevilme": 6
+    "i_zlenme": 7.6,
+    "heyecan": 8.8,
+    "dunyada_yayginlik": 7.6,
+    "turkiye_de_sevilme": 7.6
    }
   },
   {
@@ -161,10 +161,10 @@
    "etiketler": [],
    "aciklama": "Sert temaslı oval top sporu.",
    "puan": {
-    "i_zlenme": 7,
-    "heyecan": 8,
-    "dunyada_yayginlik": 5,
-    "turkiye_de_sevilme": 2
+    "i_zlenme": 8.2,
+    "heyecan": 8.8,
+    "dunyada_yayginlik": 7.0,
+    "turkiye_de_sevilme": 5.2
    }
   },
   {
@@ -175,10 +175,10 @@
    "etiketler": [],
    "aciklama": "Grand Slam'leriyle en prestijli bireysel spor.",
    "puan": {
-    "i_zlenme": 9,
-    "heyecan": 8,
-    "dunyada_yayginlik": 9,
-    "turkiye_de_sevilme": 6
+    "i_zlenme": 9.4,
+    "heyecan": 8.8,
+    "dunyada_yayginlik": 9.4,
+    "turkiye_de_sevilme": 7.6
    }
   },
   {
@@ -189,10 +189,10 @@
    "etiketler": [],
    "aciklama": "Olimpiyatların kalbi: koşu, atlama, atma.",
    "puan": {
-    "i_zlenme": 8,
-    "heyecan": 8,
-    "dunyada_yayginlik": 10,
-    "turkiye_de_sevilme": 6
+    "i_zlenme": 8.8,
+    "heyecan": 8.8,
+    "dunyada_yayginlik": 10.0,
+    "turkiye_de_sevilme": 7.6
    }
   },
   {
@@ -203,10 +203,10 @@
    "etiketler": [],
    "aciklama": "Havuzda saniyelerle yarış.",
    "puan": {
-    "i_zlenme": 7,
-    "heyecan": 7,
-    "dunyada_yayginlik": 9,
-    "turkiye_de_sevilme": 6
+    "i_zlenme": 8.2,
+    "heyecan": 8.2,
+    "dunyada_yayginlik": 9.4,
+    "turkiye_de_sevilme": 7.6
    }
   },
   {
@@ -217,10 +217,10 @@
    "etiketler": [],
    "aciklama": "Güç ve esnekliğin büyüleyici gösterisi.",
    "puan": {
-    "i_zlenme": 7,
-    "heyecan": 8,
-    "dunyada_yayginlik": 8,
-    "turkiye_de_sevilme": 5
+    "i_zlenme": 8.2,
+    "heyecan": 8.8,
+    "dunyada_yayginlik": 8.8,
+    "turkiye_de_sevilme": 7.0
    }
   },
   {
@@ -231,10 +231,10 @@
    "etiketler": [],
    "aciklama": "Tour de France ve Cumhurbaşkanlığı Turu.",
    "puan": {
-    "i_zlenme": 7,
-    "heyecan": 7,
-    "dunyada_yayginlik": 8,
-    "turkiye_de_sevilme": 5
+    "i_zlenme": 8.2,
+    "heyecan": 8.2,
+    "dunyada_yayginlik": 8.8,
+    "turkiye_de_sevilme": 7.0
    }
   },
   {
@@ -245,10 +245,10 @@
    "etiketler": [],
    "aciklama": "Ustalık ve sabır isteyen dünya sporu.",
    "puan": {
-    "i_zlenme": 7,
-    "heyecan": 4,
-    "dunyada_yayginlik": 8,
-    "turkiye_de_sevilme": 1
+    "i_zlenme": 8.2,
+    "heyecan": 6.4,
+    "dunyada_yayginlik": 8.8,
+    "turkiye_de_sevilme": 4.6
    }
   },
   {
@@ -259,10 +259,10 @@
    "etiketler": [],
    "aciklama": "Zihnin sporu, dünyanın her yerinde.",
    "puan": {
-    "i_zlenme": 6,
-    "heyecan": 6,
-    "dunyada_yayginlik": 10,
-    "turkiye_de_sevilme": 7
+    "i_zlenme": 7.6,
+    "heyecan": 7.6,
+    "dunyada_yayginlik": 10.0,
+    "turkiye_de_sevilme": 8.2
    }
   },
   {
@@ -273,10 +273,10 @@
    "etiketler": [],
    "aciklama": "Mete Gazoz'un altın madalyasıyla sevildi.",
    "puan": {
-    "i_zlenme": 5,
-    "heyecan": 6,
-    "dunyada_yayginlik": 6,
-    "turkiye_de_sevilme": 8
+    "i_zlenme": 7.0,
+    "heyecan": 7.6,
+    "dunyada_yayginlik": 7.6,
+    "turkiye_de_sevilme": 8.8
    }
   },
   {
@@ -287,10 +287,10 @@
    "etiketler": [],
    "aciklama": "Naim Süleymanoğlu'nun sporu.",
    "puan": {
-    "i_zlenme": 5,
-    "heyecan": 7,
-    "dunyada_yayginlik": 7,
-    "turkiye_de_sevilme": 8
+    "i_zlenme": 7.0,
+    "heyecan": 8.2,
+    "dunyada_yayginlik": 8.2,
+    "turkiye_de_sevilme": 8.8
    }
   },
   {
@@ -301,10 +301,10 @@
    "etiketler": [],
    "aciklama": "Ringde güç ve stratejinin yüz yıllık sporu.",
    "puan": {
-    "i_zlenme": 9,
-    "heyecan": 9,
-    "dunyada_yayginlik": 9,
-    "turkiye_de_sevilme": 6
+    "i_zlenme": 9.4,
+    "heyecan": 9.4,
+    "dunyada_yayginlik": 9.4,
+    "turkiye_de_sevilme": 7.6
    }
   },
   {
@@ -315,10 +315,10 @@
    "etiketler": [],
    "aciklama": "Tüm dövüş sanatlarının buluştuğu kafes.",
    "puan": {
-    "i_zlenme": 9,
-    "heyecan": 10,
-    "dunyada_yayginlik": 8,
-    "turkiye_de_sevilme": 5
+    "i_zlenme": 9.4,
+    "heyecan": 10.0,
+    "dunyada_yayginlik": 8.8,
+    "turkiye_de_sevilme": 7.0
    }
   },
   {
@@ -329,10 +329,10 @@
    "etiketler": [],
    "aciklama": "Ata sporu; Kırkpınar'dan olimpiyatlara.",
    "puan": {
-    "i_zlenme": 6,
-    "heyecan": 7,
-    "dunyada_yayginlik": 7,
-    "turkiye_de_sevilme": 10
+    "i_zlenme": 7.6,
+    "heyecan": 8.2,
+    "dunyada_yayginlik": 8.2,
+    "turkiye_de_sevilme": 10.0
    }
   },
   {
@@ -343,10 +343,10 @@
    "etiketler": [],
    "aciklama": "Türkiye'ye madalyalar getiren tekme sporu.",
    "puan": {
-    "i_zlenme": 5,
-    "heyecan": 7,
-    "dunyada_yayginlik": 8,
-    "turkiye_de_sevilme": 7
+    "i_zlenme": 7.0,
+    "heyecan": 8.2,
+    "dunyada_yayginlik": 8.8,
+    "turkiye_de_sevilme": 8.2
    }
   },
   {
@@ -357,10 +357,10 @@
    "etiketler": [],
    "aciklama": "Rakibin gücünü kullanma sanatı.",
    "puan": {
-    "i_zlenme": 5,
-    "heyecan": 7,
-    "dunyada_yayginlik": 8,
-    "turkiye_de_sevilme": 5
+    "i_zlenme": 7.0,
+    "heyecan": 8.2,
+    "dunyada_yayginlik": 8.8,
+    "turkiye_de_sevilme": 7.0
    }
   },
   {
@@ -371,10 +371,10 @@
    "etiketler": [],
    "aciklama": "Saniyenin binde biriyle kazanılan yarışlar.",
    "puan": {
-    "i_zlenme": 10,
-    "heyecan": 9,
-    "dunyada_yayginlik": 8,
-    "turkiye_de_sevilme": 7
+    "i_zlenme": 10.0,
+    "heyecan": 9.4,
+    "dunyada_yayginlik": 8.8,
+    "turkiye_de_sevilme": 8.2
    }
   },
   {
@@ -385,10 +385,10 @@
    "etiketler": [],
    "aciklama": "İki tekerlekte ölümüne viraj.",
    "puan": {
-    "i_zlenme": 8,
-    "heyecan": 10,
-    "dunyada_yayginlik": 6,
-    "turkiye_de_sevilme": 5
+    "i_zlenme": 8.8,
+    "heyecan": 10.0,
+    "dunyada_yayginlik": 7.6,
+    "turkiye_de_sevilme": 7.0
    }
   },
   {
@@ -399,10 +399,10 @@
    "etiketler": [],
    "aciklama": "Toprak ve çakılda yarış.",
    "puan": {
-    "i_zlenme": 6,
-    "heyecan": 9,
-    "dunyada_yayginlik": 5,
-    "turkiye_de_sevilme": 5
+    "i_zlenme": 7.6,
+    "heyecan": 9.4,
+    "dunyada_yayginlik": 7.0,
+    "turkiye_de_sevilme": 7.0
    }
   },
   {
@@ -413,10 +413,10 @@
    "etiketler": [],
    "aciklama": "Refleks ve hızın sporu.",
    "puan": {
-    "i_zlenme": 6,
-    "heyecan": 7,
-    "dunyada_yayginlik": 8,
-    "turkiye_de_sevilme": 5
+    "i_zlenme": 7.6,
+    "heyecan": 8.2,
+    "dunyada_yayginlik": 8.8,
+    "turkiye_de_sevilme": 7.0
    }
   },
   {
@@ -427,10 +427,10 @@
    "etiketler": [],
    "aciklama": "Asya'da dev bir spor.",
    "puan": {
-    "i_zlenme": 6,
-    "heyecan": 7,
-    "dunyada_yayginlik": 8,
-    "turkiye_de_sevilme": 3
+    "i_zlenme": 7.6,
+    "heyecan": 8.2,
+    "dunyada_yayginlik": 8.8,
+    "turkiye_de_sevilme": 5.8
    }
   },
   {
@@ -441,10 +441,10 @@
    "etiketler": [],
    "aciklama": "Karlı dağlarda hız.",
    "puan": {
-    "i_zlenme": 6,
-    "heyecan": 8,
-    "dunyada_yayginlik": 6,
-    "turkiye_de_sevilme": 4
+    "i_zlenme": 7.6,
+    "heyecan": 8.8,
+    "dunyada_yayginlik": 7.6,
+    "turkiye_de_sevilme": 6.4
    }
   },
   {
@@ -455,10 +455,10 @@
    "etiketler": [],
    "aciklama": "Dalgalarla dans.",
    "puan": {
-    "i_zlenme": 5,
-    "heyecan": 8,
-    "dunyada_yayginlik": 5,
-    "turkiye_de_sevilme": 2
+    "i_zlenme": 7.0,
+    "heyecan": 8.8,
+    "dunyada_yayginlik": 7.0,
+    "turkiye_de_sevilme": 5.2
    }
   },
   {
@@ -469,10 +469,10 @@
    "etiketler": [],
    "aciklama": "Kılıçla yapılan zarif düello.",
    "puan": {
-    "i_zlenme": 4,
-    "heyecan": 7,
-    "dunyada_yayginlik": 5,
-    "turkiye_de_sevilme": 3
+    "i_zlenme": 6.4,
+    "heyecan": 8.2,
+    "dunyada_yayginlik": 7.0,
+    "turkiye_de_sevilme": 5.8
    }
   },
   {
@@ -483,10 +483,10 @@
    "etiketler": [],
    "aciklama": "Disiplin ve hızın dövüş sanatı.",
    "puan": {
-    "i_zlenme": 5,
-    "heyecan": 7,
-    "dunyada_yayginlik": 8,
-    "turkiye_de_sevilme": 6
+    "i_zlenme": 7.0,
+    "heyecan": 8.2,
+    "dunyada_yayginlik": 8.8,
+    "turkiye_de_sevilme": 7.6
    }
   },
   {
@@ -497,10 +497,10 @@
    "etiketler": [],
    "aciklama": "Havuzda oynanan sert takım sporu.",
    "puan": {
-    "i_zlenme": 4,
-    "heyecan": 7,
-    "dunyada_yayginlik": 4,
-    "turkiye_de_sevilme": 2
+    "i_zlenme": 6.4,
+    "heyecan": 8.2,
+    "dunyada_yayginlik": 6.4,
+    "turkiye_de_sevilme": 5.2
    }
   },
   {
@@ -511,10 +511,10 @@
    "etiketler": [],
    "aciklama": "Masa başında hassasiyet.",
    "puan": {
-    "i_zlenme": 5,
-    "heyecan": 5,
-    "dunyada_yayginlik": 7,
-    "turkiye_de_sevilme": 6
+    "i_zlenme": 7.0,
+    "heyecan": 7.0,
+    "dunyada_yayginlik": 8.2,
+    "turkiye_de_sevilme": 7.6
    }
   },
   {
@@ -525,10 +525,10 @@
    "etiketler": [],
    "aciklama": "Takım halinde suda güç ve uyum.",
    "puan": {
-    "i_zlenme": 4,
-    "heyecan": 5,
-    "dunyada_yayginlik": 5,
-    "turkiye_de_sevilme": 2
+    "i_zlenme": 6.4,
+    "heyecan": 7.0,
+    "dunyada_yayginlik": 7.0,
+    "turkiye_de_sevilme": 5.2
    }
   }
  ]

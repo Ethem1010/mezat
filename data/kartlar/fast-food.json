@@ -61,10 +61,10 @@
    "etiketler": [],
    "aciklama": "Erimiş peynirli klasik.",
    "puan": {
-    "lezzet": 10,
-    "doyuruculuk": 9,
-    "fiyat": 7,
-    "populerlik": 10
+    "lezzet": 10.0,
+    "doyuruculuk": 9.4,
+    "fiyat": 8.2,
+    "populerlik": 10.0
    }
   },
   {
@@ -75,10 +75,10 @@
    "etiketler": [],
    "aciklama": "Çift katlı dünyaca ünlü burger.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 9,
-    "fiyat": 7,
-    "populerlik": 10
+    "lezzet": 9.4,
+    "doyuruculuk": 9.4,
+    "fiyat": 8.2,
+    "populerlik": 10.0
    }
   },
   {
@@ -89,10 +89,10 @@
    "etiketler": [],
    "aciklama": "Izgara alevli dev burger.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 9,
-    "fiyat": 7,
-    "populerlik": 9
+    "lezzet": 9.4,
+    "doyuruculuk": 9.4,
+    "fiyat": 8.2,
+    "populerlik": 9.4
    }
   },
   {
@@ -103,10 +103,10 @@
    "etiketler": [],
    "aciklama": "Türkiye'nin fast food kralı.",
    "puan": {
-    "lezzet": 10,
-    "doyuruculuk": 9,
-    "fiyat": 9,
-    "populerlik": 10
+    "lezzet": 10.0,
+    "doyuruculuk": 9.4,
+    "fiyat": 9.4,
+    "populerlik": 10.0
    }
   },
   {
@@ -117,10 +117,10 @@
    "etiketler": [],
    "aciklama": "Tereyağlı dönerin dürümü.",
    "puan": {
-    "lezzet": 10,
-    "doyuruculuk": 9,
-    "fiyat": 7,
-    "populerlik": 8
+    "lezzet": 10.0,
+    "doyuruculuk": 9.4,
+    "fiyat": 8.2,
+    "populerlik": 8.8
    }
   },
   {
@@ -131,10 +131,10 @@
    "etiketler": [],
    "aciklama": "Domates, mozzarella, fesleğen.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 8,
-    "fiyat": 7,
-    "populerlik": 10
+    "lezzet": 9.4,
+    "doyuruculuk": 8.8,
+    "fiyat": 8.2,
+    "populerlik": 10.0
    }
   },
   {
@@ -145,10 +145,10 @@
    "etiketler": [],
    "aciklama": "Sucuk dilimli Amerikan klasiği.",
    "puan": {
-    "lezzet": 10,
-    "doyuruculuk": 9,
-    "fiyat": 7,
-    "populerlik": 10
+    "lezzet": 10.0,
+    "doyuruculuk": 9.4,
+    "fiyat": 8.2,
+    "populerlik": 10.0
    }
   },
   {
@@ -159,10 +159,10 @@
    "etiketler": [],
    "aciklama": "Soslu çıtır kanatlar.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 7,
-    "fiyat": 7,
-    "populerlik": 9
+    "lezzet": 9.4,
+    "doyuruculuk": 8.2,
+    "fiyat": 8.2,
+    "populerlik": 9.4
    }
   },
   {
@@ -173,10 +173,10 @@
    "etiketler": [],
    "aciklama": "Gece yarısının efsane lezzeti.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 8,
-    "fiyat": 8,
-    "populerlik": 8
+    "lezzet": 9.4,
+    "doyuruculuk": 8.8,
+    "fiyat": 8.8,
+    "populerlik": 8.8
    }
   },
   {
@@ -187,10 +187,10 @@
    "etiketler": [],
    "aciklama": "Taksim'in sarımsaklı efsanesi.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 6,
-    "fiyat": 10,
-    "populerlik": 9
+    "lezzet": 9.4,
+    "doyuruculuk": 7.6,
+    "fiyat": 10.0,
+    "populerlik": 9.4
    }
   },
   {
@@ -201,10 +201,10 @@
    "etiketler": [],
    "aciklama": "Mersin'in ince dürümü.",
    "puan": {
-    "lezzet": 10,
-    "doyuruculuk": 8,
-    "fiyat": 9,
-    "populerlik": 8
+    "lezzet": 10.0,
+    "doyuruculuk": 8.8,
+    "fiyat": 9.4,
+    "populerlik": 8.8
    }
   },
   {
@@ -215,10 +215,10 @@
    "etiketler": [],
    "aciklama": "Meksika'nın çıtır kabuklusu.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 7,
-    "fiyat": 8,
-    "populerlik": 8
+    "lezzet": 9.4,
+    "doyuruculuk": 8.2,
+    "fiyat": 8.8,
+    "populerlik": 8.8
    }
   },
   {
@@ -229,10 +229,10 @@
    "etiketler": [],
    "aciklama": "Dolu dolu Meksika dürümü.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 10,
-    "fiyat": 7,
-    "populerlik": 8
+    "lezzet": 9.4,
+    "doyuruculuk": 10.0,
+    "fiyat": 8.2,
+    "populerlik": 8.8
    }
   },
   {
@@ -243,10 +243,10 @@
    "etiketler": [],
    "aciklama": "Sosisli sokak klasiği.",
    "puan": {
-    "lezzet": 8,
-    "doyuruculuk": 7,
-    "fiyat": 9,
-    "populerlik": 9
+    "lezzet": 8.8,
+    "doyuruculuk": 8.2,
+    "fiyat": 9.4,
+    "populerlik": 9.4
    }
   },
   {
@@ -257,10 +257,10 @@
    "etiketler": [],
    "aciklama": "Baharatlı kızarmış tavuk.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 8,
-    "fiyat": 7,
-    "populerlik": 9
+    "lezzet": 9.4,
+    "doyuruculuk": 8.8,
+    "fiyat": 8.2,
+    "populerlik": 9.4
    }
   },
   {
@@ -271,10 +271,10 @@
    "etiketler": [],
    "aciklama": "Her menünün yıldızı.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 6,
-    "fiyat": 9,
-    "populerlik": 10
+    "lezzet": 9.4,
+    "doyuruculuk": 7.6,
+    "fiyat": 9.4,
+    "populerlik": 10.0
    }
   },
   {
@@ -285,10 +285,10 @@
    "etiketler": [],
    "aciklama": "Çıtır kaplamalı halkalar.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 5,
-    "fiyat": 8,
-    "populerlik": 8
+    "lezzet": 9.4,
+    "doyuruculuk": 7.0,
+    "fiyat": 8.8,
+    "populerlik": 8.8
    }
   },
   {
@@ -299,10 +299,10 @@
    "etiketler": [],
    "aciklama": "Çocukların favorisi tavuk parçaları.",
    "puan": {
-    "lezzet": 8,
-    "doyuruculuk": 6,
-    "fiyat": 8,
-    "populerlik": 9
+    "lezzet": 8.8,
+    "doyuruculuk": 7.6,
+    "fiyat": 8.8,
+    "populerlik": 9.4
    }
   },
   {
@@ -313,10 +313,10 @@
    "etiketler": [],
    "aciklama": "Baharatlı kalın patates.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 6,
-    "fiyat": 8,
-    "populerlik": 8
+    "lezzet": 9.4,
+    "doyuruculuk": 7.6,
+    "fiyat": 8.8,
+    "populerlik": 8.8
    }
   },
   {
@@ -327,10 +327,10 @@
    "etiketler": [],
    "aciklama": "Burgerin eşi.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 2,
-    "fiyat": 8,
-    "populerlik": 10
+    "lezzet": 9.4,
+    "doyuruculuk": 5.2,
+    "fiyat": 8.8,
+    "populerlik": 10.0
    }
   },
   {
@@ -341,10 +341,10 @@
    "etiketler": [],
    "aciklama": "Dondurmalı yoğun içecek.",
    "puan": {
-    "lezzet": 10,
-    "doyuruculuk": 4,
-    "fiyat": 7,
-    "populerlik": 9
+    "lezzet": 10.0,
+    "doyuruculuk": 6.4,
+    "fiyat": 8.2,
+    "populerlik": 9.4
    }
   },
   {
@@ -355,10 +355,10 @@
    "etiketler": [],
    "aciklama": "Dönerin vazgeçilmezi.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 3,
-    "fiyat": 9,
-    "populerlik": 10
+    "lezzet": 9.4,
+    "doyuruculuk": 5.8,
+    "fiyat": 9.4,
+    "populerlik": 10.0
    }
   },
   {
@@ -369,10 +369,10 @@
    "etiketler": [],
    "aciklama": "Soslu kap dondurma.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 4,
-    "fiyat": 8,
-    "populerlik": 8
+    "lezzet": 9.4,
+    "doyuruculuk": 6.4,
+    "fiyat": 8.8,
+    "populerlik": 8.8
    }
   },
   {
@@ -383,10 +383,10 @@
    "etiketler": [],
    "aciklama": "Parçacıklı karıştırılmış dondurma.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 4,
-    "fiyat": 7,
-    "populerlik": 9
+    "lezzet": 9.4,
+    "doyuruculuk": 6.4,
+    "fiyat": 8.2,
+    "populerlik": 9.4
    }
   },
   {
@@ -397,10 +397,10 @@
    "etiketler": [],
    "aciklama": "Sıcak çıtır turta.",
    "puan": {
-    "lezzet": 8,
-    "doyuruculuk": 4,
-    "fiyat": 8,
-    "populerlik": 7
+    "lezzet": 8.8,
+    "doyuruculuk": 6.4,
+    "fiyat": 8.8,
+    "populerlik": 8.2
    }
   },
   {
@@ -411,10 +411,10 @@
    "etiketler": [],
    "aciklama": "Kantinlerin kralı.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 7,
-    "fiyat": 9,
-    "populerlik": 9
+    "lezzet": 9.4,
+    "doyuruculuk": 8.2,
+    "fiyat": 9.4,
+    "populerlik": 9.4
    }
   },
   {
@@ -425,10 +425,10 @@
    "etiketler": [],
    "aciklama": "İngiliz balık-patates.",
    "puan": {
-    "lezzet": 8,
-    "doyuruculuk": 8,
-    "fiyat": 7,
-    "populerlik": 7
+    "lezzet": 8.8,
+    "doyuruculuk": 8.8,
+    "fiyat": 8.2,
+    "populerlik": 8.2
    }
   },
   {
@@ -439,10 +439,10 @@
    "etiketler": [],
    "aciklama": "Peynirli lavaş.",
    "puan": {
-    "lezzet": 8,
-    "doyuruculuk": 7,
-    "fiyat": 8,
-    "populerlik": 6
+    "lezzet": 8.8,
+    "doyuruculuk": 8.2,
+    "fiyat": 8.8,
+    "populerlik": 7.6
    }
   },
   {
@@ -453,10 +453,10 @@
    "etiketler": [],
    "aciklama": "Uzayan peynir çubukları.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 5,
-    "fiyat": 7,
-    "populerlik": 7
+    "lezzet": 9.4,
+    "doyuruculuk": 7.0,
+    "fiyat": 8.2,
+    "populerlik": 8.2
    }
   },
   {
@@ -467,10 +467,10 @@
    "etiketler": [],
    "aciklama": "Lahana salatası.",
    "puan": {
-    "lezzet": 6,
-    "doyuruculuk": 3,
-    "fiyat": 8,
-    "populerlik": 6
+    "lezzet": 7.6,
+    "doyuruculuk": 5.8,
+    "fiyat": 8.8,
+    "populerlik": 7.6
    }
   },
   {
@@ -481,10 +481,10 @@
    "etiketler": [],
    "aciklama": "Ferah eşlikçi.",
    "puan": {
-    "lezzet": 8,
-    "doyuruculuk": 2,
-    "fiyat": 8,
-    "populerlik": 7
+    "lezzet": 8.8,
+    "doyuruculuk": 5.2,
+    "fiyat": 8.8,
+    "populerlik": 8.2
    }
   },
   {
@@ -495,10 +495,10 @@
    "etiketler": [],
    "aciklama": "Şeftalili soğuk çay.",
    "puan": {
-    "lezzet": 7,
-    "doyuruculuk": 2,
-    "fiyat": 8,
-    "populerlik": 8
+    "lezzet": 8.2,
+    "doyuruculuk": 5.2,
+    "fiyat": 8.8,
+    "populerlik": 8.8
    }
   },
   {
@@ -509,10 +509,10 @@
    "etiketler": [],
    "aciklama": "Çikolata parçacıklı kurabiye.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 4,
-    "fiyat": 8,
-    "populerlik": 8
+    "lezzet": 9.4,
+    "doyuruculuk": 6.4,
+    "fiyat": 8.8,
+    "populerlik": 8.8
    }
   },
   {
@@ -523,10 +523,10 @@
    "etiketler": [],
    "aciklama": "Şekerli kızarmış hamur.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 4,
-    "fiyat": 7,
-    "populerlik": 7
+    "lezzet": 9.4,
+    "doyuruculuk": 6.4,
+    "fiyat": 8.2,
+    "populerlik": 8.2
    }
   },
   {
@@ -537,10 +537,10 @@
    "etiketler": [],
    "aciklama": "Islak çikolatalı kare.",
    "puan": {
-    "lezzet": 9,
-    "doyuruculuk": 4,
-    "fiyat": 7,
-    "populerlik": 7
+    "lezzet": 9.4,
+    "doyuruculuk": 6.4,
+    "fiyat": 8.2,
+    "populerlik": 8.2
    }
   }
  ]

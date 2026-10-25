@@ -56,10 +56,10 @@
    "etiketler": [],
    "aciklama": "Okyanusun tepe avcısı, köpek balıklarını bile avlar.",
    "puan": {
-    "guc": 10,
-    "tehlike": 9,
-    "hiz": 8,
-    "hayatta_kalma": 9
+    "guc": 10.0,
+    "tehlike": 9.4,
+    "hiz": 8.8,
+    "hayatta_kalma": 9.4
    }
   },
   {
@@ -70,10 +70,10 @@
    "etiketler": [],
    "aciklama": "Okyanusun en ünlü avcısı.",
    "puan": {
-    "guc": 9,
-    "tehlike": 9,
-    "hiz": 8,
-    "hayatta_kalma": 8
+    "guc": 9.4,
+    "tehlike": 9.4,
+    "hiz": 8.8,
+    "hayatta_kalma": 8.8
    }
   },
   {
@@ -84,10 +84,10 @@
    "etiketler": [],
    "aciklama": "Dünyanın en büyük hayvanı.",
    "puan": {
-    "guc": 10,
-    "tehlike": 2,
-    "hiz": 6,
-    "hayatta_kalma": 8
+    "guc": 10.0,
+    "tehlike": 5.2,
+    "hiz": 7.6,
+    "hayatta_kalma": 8.8
    }
   },
   {
@@ -98,10 +98,10 @@
    "etiketler": [],
    "aciklama": "Dişli balinaların en büyüğü.",
    "puan": {
-    "guc": 10,
-    "tehlike": 6,
-    "hiz": 6,
-    "hayatta_kalma": 9
+    "guc": 10.0,
+    "tehlike": 7.6,
+    "hiz": 7.6,
+    "hayatta_kalma": 9.4
    }
   },
   {
@@ -112,10 +112,10 @@
    "etiketler": [],
    "aciklama": "Şarkılarıyla ünlü dev balina.",
    "puan": {
-    "guc": 9,
-    "tehlike": 2,
-    "hiz": 5,
-    "hayatta_kalma": 8
+    "guc": 9.4,
+    "tehlike": 5.2,
+    "hiz": 7.0,
+    "hayatta_kalma": 8.8
    }
   },
   {
@@ -126,10 +126,10 @@
    "etiketler": [],
    "aciklama": "Antarktika'nın yırtıcı foku.",
    "puan": {
-    "guc": 7,
-    "tehlike": 7,
-    "hiz": 7,
-    "hayatta_kalma": 8
+    "guc": 8.2,
+    "tehlike": 8.2,
+    "hiz": 8.2,
+    "hayatta_kalma": 8.8
    }
   },
   {
@@ -140,10 +140,10 @@
    "etiketler": [],
    "aciklama": "Dev dişleriyle kutup buzlarının sakini.",
    "puan": {
-    "guc": 7,
-    "tehlike": 5,
-    "hiz": 3,
-    "hayatta_kalma": 8
+    "guc": 8.2,
+    "tehlike": 7.0,
+    "hiz": 5.8,
+    "hayatta_kalma": 8.8
    }
   },
   {
@@ -154,10 +154,10 @@
    "etiketler": [],
    "aciklama": "En büyük fok.",
    "puan": {
-    "guc": 7,
-    "tehlike": 4,
-    "hiz": 4,
-    "hayatta_kalma": 8
+    "guc": 8.2,
+    "tehlike": 6.4,
+    "hiz": 6.4,
+    "hayatta_kalma": 8.8
    }
   },
   {
@@ -168,10 +168,10 @@
    "etiketler": [],
    "aciklama": "Zeki ve hızlı, köpek balıklarını kovalayabilir.",
    "puan": {
-    "guc": 5,
-    "tehlike": 3,
-    "hiz": 9,
-    "hayatta_kalma": 8
+    "guc": 7.0,
+    "tehlike": 5.8,
+    "hiz": 9.4,
+    "hayatta_kalma": 8.8
    }
   },
   {
@@ -182,10 +182,10 @@
    "etiketler": [],
    "aciklama": "Önüne geleni yiyen çizgili avcı.",
    "puan": {
-    "guc": 8,
-    "tehlike": 9,
-    "hiz": 7,
-    "hayatta_kalma": 8
+    "guc": 8.8,
+    "tehlike": 9.4,
+    "hiz": 8.2,
+    "hayatta_kalma": 8.8
    }
   },
   {
@@ -196,10 +196,10 @@
    "etiketler": [],
    "aciklama": "Tuhaf kafası geniş görüş sağlar.",
    "puan": {
-    "guc": 7,
-    "tehlike": 7,
-    "hiz": 7,
-    "hayatta_kalma": 7
+    "guc": 8.2,
+    "tehlike": 8.2,
+    "hiz": 8.2,
+    "hayatta_kalma": 8.2
    }
   },
   {
@@ -210,10 +210,10 @@
    "etiketler": [],
    "aciklama": "Dünyanın en büyük balığı.",
    "puan": {
-    "guc": 9,
-    "tehlike": 1,
-    "hiz": 4,
-    "hayatta_kalma": 8
+    "guc": 9.4,
+    "tehlike": 4.6,
+    "hiz": 6.4,
+    "hayatta_kalma": 8.8
    }
   },
   {
@@ -224,10 +224,10 @@
    "etiketler": [],
    "aciklama": "Okyanusun en hızlılarından.",
    "puan": {
-    "guc": 6,
-    "tehlike": 6,
-    "hiz": 10,
-    "hayatta_kalma": 7
+    "guc": 7.6,
+    "tehlike": 7.6,
+    "hiz": 10.0,
+    "hayatta_kalma": 8.2
    }
   },
   {
@@ -238,10 +238,10 @@
    "etiketler": [],
    "aciklama": "Denizin en hızlı balığı sayılır.",
    "puan": {
-    "guc": 5,
-    "tehlike": 5,
-    "hiz": 10,
-    "hayatta_kalma": 7
+    "guc": 7.0,
+    "tehlike": 7.0,
+    "hiz": 10.0,
+    "hayatta_kalma": 8.2
    }
   },
   {
@@ -252,10 +252,10 @@
    "etiketler": [],
    "aciklama": "Okyanusu hızla geçen dev yüzücü.",
    "puan": {
-    "guc": 6,
-    "tehlike": 2,
-    "hiz": 9,
-    "hayatta_kalma": 7
+    "guc": 7.6,
+    "tehlike": 5.2,
+    "hiz": 9.4,
+    "hayatta_kalma": 8.2
    }
   },
   {
@@ -266,10 +266,10 @@
    "etiketler": [],
    "aciklama": "Dev kanatlarıyla süzülen nazik dev.",
    "puan": {
-    "guc": 6,
-    "tehlike": 2,
-    "hiz": 6,
-    "hayatta_kalma": 7
+    "guc": 7.6,
+    "tehlike": 5.2,
+    "hiz": 7.6,
+    "hayatta_kalma": 8.2
    }
   },
   {
@@ -280,10 +280,10 @@
    "etiketler": [],
    "aciklama": "Derinliklerin efsanevi canavarı.",
    "puan": {
-    "guc": 7,
-    "tehlike": 6,
-    "hiz": 5,
-    "hayatta_kalma": 7
+    "guc": 8.2,
+    "tehlike": 7.6,
+    "hiz": 7.0,
+    "hayatta_kalma": 8.2
    }
   },
   {
@@ -294,10 +294,10 @@
    "etiketler": [],
    "aciklama": "Kıyıların en büyük ve en tehlikeli sürüngeni.",
    "puan": {
-    "guc": 9,
-    "tehlike": 10,
-    "hiz": 5,
-    "hayatta_kalma": 9
+    "guc": 9.4,
+    "tehlike": 10.0,
+    "hiz": 7.0,
+    "hayatta_kalma": 9.4
    }
   },
   {
@@ -308,10 +308,10 @@
    "etiketler": [],
    "aciklama": "Tatlı suya da girebilen sert avcı.",
    "puan": {
-    "guc": 8,
-    "tehlike": 9,
-    "hiz": 7,
-    "hayatta_kalma": 8
+    "guc": 8.8,
+    "tehlike": 9.4,
+    "hiz": 8.2,
+    "hayatta_kalma": 8.8
    }
   },
   {
@@ -324,10 +324,10 @@
    ],
    "aciklama": "En zehirli deniz canlılarından.",
    "puan": {
-    "guc": 1,
-    "tehlike": 10,
-    "hiz": 3,
-    "hayatta_kalma": 7
+    "guc": 4.6,
+    "tehlike": 10.0,
+    "hiz": 5.8,
+    "hayatta_kalma": 8.2
    }
   },
   {
@@ -340,10 +340,10 @@
    ],
    "aciklama": "Minicik ama zehri öldürücü.",
    "puan": {
-    "guc": 1,
-    "tehlike": 9,
-    "hiz": 3,
-    "hayatta_kalma": 6
+    "guc": 4.6,
+    "tehlike": 9.4,
+    "hiz": 5.8,
+    "hayatta_kalma": 7.6
    }
   },
   {
@@ -356,10 +356,10 @@
    ],
    "aciklama": "Taş gibi görünür, dikenleri çok zehirli.",
    "puan": {
-    "guc": 2,
-    "tehlike": 9,
-    "hiz": 1,
-    "hayatta_kalma": 8
+    "guc": 5.2,
+    "tehlike": 9.4,
+    "hiz": 4.6,
+    "hayatta_kalma": 8.8
    }
   },
   {
@@ -372,10 +372,10 @@
    ],
    "aciklama": "Kuvvetli zehirli yüzücü yılan.",
    "puan": {
-    "guc": 2,
-    "tehlike": 8,
-    "hiz": 6,
-    "hayatta_kalma": 6
+    "guc": 5.2,
+    "tehlike": 8.8,
+    "hiz": 7.6,
+    "hayatta_kalma": 7.6
    }
   },
   {
@@ -386,10 +386,10 @@
    "etiketler": [],
    "aciklama": "Kılık değiştirme ustası.",
    "puan": {
-    "guc": 5,
-    "tehlike": 5,
-    "hiz": 5,
-    "hayatta_kalma": 8
+    "guc": 7.0,
+    "tehlike": 7.0,
+    "hiz": 7.0,
+    "hayatta_kalma": 8.8
    }
   },
   {
@@ -400,10 +400,10 @@
    "etiketler": [],
    "aciklama": "Hayvanlar alemindeki en hızlı yumruklardan biri.",
    "puan": {
-    "guc": 3,
-    "tehlike": 4,
-    "hiz": 10,
-    "hayatta_kalma": 7
+    "guc": 5.8,
+    "tehlike": 6.4,
+    "hiz": 10.0,
+    "hayatta_kalma": 8.2
    }
   },
   {
@@ -414,10 +414,10 @@
    "etiketler": [],
    "aciklama": "Yüzyıllarca yaşayabilen yavaş dev.",
    "puan": {
-    "guc": 7,
-    "tehlike": 5,
-    "hiz": 1,
-    "hayatta_kalma": 10
+    "guc": 8.2,
+    "tehlike": 7.0,
+    "hiz": 4.6,
+    "hayatta_kalma": 10.0
    }
   },
   {
@@ -428,10 +428,10 @@
    "etiketler": [],
    "aciklama": "Fırlayan çenesiyle derinlerin tuhafı.",
    "puan": {
-    "guc": 5,
-    "tehlike": 5,
-    "hiz": 4,
-    "hayatta_kalma": 7
+    "guc": 7.0,
+    "tehlike": 7.0,
+    "hiz": 6.4,
+    "hayatta_kalma": 8.2
    }
   },
   {
@@ -442,10 +442,10 @@
    "etiketler": [],
    "aciklama": "Başındaki ışıkla karanlıkta avlanır.",
    "puan": {
-    "guc": 3,
-    "tehlike": 4,
-    "hiz": 2,
-    "hayatta_kalma": 8
+    "guc": 5.8,
+    "tehlike": 6.4,
+    "hiz": 5.2,
+    "hayatta_kalma": 8.8
    }
   },
   {
@@ -456,10 +456,10 @@
    "etiketler": [],
    "aciklama": "Bacak açıklığı rekortmeni.",
    "puan": {
-    "guc": 4,
-    "tehlike": 2,
-    "hiz": 2,
-    "hayatta_kalma": 8
+    "guc": 6.4,
+    "tehlike": 5.2,
+    "hiz": 5.2,
+    "hayatta_kalma": 8.8
    }
   },
   {
@@ -470,10 +470,10 @@
    "etiketler": [],
    "aciklama": "Tek boynuzlu \"deniz unicornu\".",
    "puan": {
-    "guc": 6,
-    "tehlike": 3,
-    "hiz": 6,
-    "hayatta_kalma": 8
+    "guc": 7.6,
+    "tehlike": 5.8,
+    "hiz": 7.6,
+    "hayatta_kalma": 8.8
    }
   },
   {
@@ -484,10 +484,10 @@
    "etiketler": [],
    "aciklama": "Beyaz ve konuşkan balina.",
    "puan": {
-    "guc": 6,
-    "tehlike": 2,
-    "hiz": 5,
-    "hayatta_kalma": 8
+    "guc": 7.6,
+    "tehlike": 5.2,
+    "hiz": 7.0,
+    "hayatta_kalma": 8.8
    }
   },
   {
@@ -498,10 +498,10 @@
    "etiketler": [],
    "aciklama": "En büyük kaplumbağa, okyanus gezgini.",
    "puan": {
-    "guc": 5,
-    "tehlike": 1,
-    "hiz": 5,
-    "hayatta_kalma": 9
+    "guc": 7.0,
+    "tehlike": 4.6,
+    "hiz": 7.0,
+    "hayatta_kalma": 9.4
    }
   },
   {
@@ -512,10 +512,10 @@
    "etiketler": [],
    "aciklama": "Ok gibi hızlı, keskin dişli.",
    "puan": {
-    "guc": 5,
-    "tehlike": 6,
-    "hiz": 9,
-    "hayatta_kalma": 6
+    "guc": 7.0,
+    "tehlike": 7.6,
+    "hiz": 9.4,
+    "hayatta_kalma": 7.6
    }
   },
   {
@@ -526,10 +526,10 @@
    "etiketler": [],
    "aciklama": "Kayalıklarda pusuya yatan avcı.",
    "puan": {
-    "guc": 5,
-    "tehlike": 6,
-    "hiz": 5,
-    "hayatta_kalma": 7
+    "guc": 7.0,
+    "tehlike": 7.6,
+    "hiz": 7.0,
+    "hayatta_kalma": 8.2
    }
   },
   {
@@ -542,10 +542,10 @@
    ],
    "aciklama": "Şişip diken çıkarır, zehri güçlü.",
    "puan": {
-    "guc": 1,
-    "tehlike": 8,
-    "hiz": 3,
-    "hayatta_kalma": 7
+    "guc": 4.6,
+    "tehlike": 8.8,
+    "hiz": 5.8,
+    "hayatta_kalma": 8.2
    }
   }
  ]

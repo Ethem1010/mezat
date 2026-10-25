@@ -226,14 +226,24 @@
   }
 
   // ai (isteğe bağlı): yzCevabiniDogrula'dan geçmiş yapay zeka kararı.
-  // Yapay zeka sadece -5..+5 uyum bonusu ve anlatı ekler; kazananı yine sayılar belirler.
+  // Yapay zeka kart puanlarını en fazla ±0.5 düzeltir, -5..+5 uyum bonusu ve anlatı ekler; kazananı yine sayılar belirler.
+  // Kart puanının toplama etkisi. Puanlar 6-10 aralığına kalibre edildiği için çarpan 3.
+  const CARPAN = 3;
+  // Yapay zeka hakemi bir kartın puanını en fazla bu kadar düzeltebilir.
+  const KART_DUZELTME = 0.5;
+
   function judge(state, kategori, ai) {
+    const duz = (ai && ai.kartDuzeltme) || {};
     const res = state.players.map((pl, i) => {
-      const cards = pl.kartlar.map((c) => ({ ...c, skor: cardScore(c, kategori) })).sort((a, b) => b.skor - a.skor);
+      const cards = pl.kartlar.map((c) => {
+        const kodSkor = cardScore(c, kategori);
+        const d = duz[c.ad] || null;
+        return { ...c, kodSkor, duzeltme: d ? d.fark : 0, duzeltmeNeden: d ? d.neden : "", skor: kodSkor + (d ? d.fark : 0) };
+      }).sort((a, b) => b.skor - a.skor);
       const ham = cards.reduce((s, c) => s + c.skor, 0);
       const syn = synergies(cards, kategori);
       const bonus = syn.reduce((s, x) => s + x.bonus, 0);
-      const kod = round1(ham * 2 + bonus);
+      const kod = round1(ham * CARPAN + bonus);
       const uyum = ai ? ai.bonus[i] : 0;
       return { ad: pl.ad, kalanButce: pl.butce, cards, ham: round1(ham), sinerjiler: syn, bonus, kodPuani: kod,
         uyum, uyumGerekce: ai ? ai.bonusGerekce[i] : "", maddeler: ai ? ai.maddeler[i] : [], toplam: round1(kod + uyum) };
@@ -255,7 +265,12 @@
     else if (res[0].kalanButce !== res[1].kalanButce) { kazanan = res[0].kalanButce > res[1].kalanButce ? 0 : 1; esitlikBozuldu = true; }
     let gerekce = "";
     if (ai) {
-      ai.anlatilar.forEach((t, i) => { if (t && turlar[i]) turlar[i].metin = t; });
+      // Anlatı sadece aynı eşleşme ve aynı kazanan için kullanılır; yoksa kodun metni kalır.
+      for (const t of turlar) {
+        const k = t.kazanan === null ? "" : (t.kazanan === 0 ? t.a.ad : t.b.ad);
+        const m = ai.anlatilar.find((x) => x.metin && ((x.a === t.a.ad && x.b === t.b.ad) || (x.a === t.b.ad && x.b === t.a.ad)));
+        if (m && (k === "" || m.kazanan === k)) t.metin = m.metin;
+      }
       const beklenen = kazanan === null ? "berabere" : kazanan === 0 ? "takim1" : "takim2";
       if (ai.kazanan === beklenen && !esitlikBozuldu) gerekce = ai.gerekce;
     }
@@ -291,40 +306,42 @@
     const team = (t, no) => {
       const lines = t.cards.map((c) => {
         const p = Object.entries(kategori.olcutler).map(([k, o]) => `${o.ad} ${c.puan[k]}`).join(", ");
-        return `- ${c.ad} [${kategori.gruplar[c.grup] || c.grup}, ${SEVIYE_TR[c.seviye] || c.seviye}]: ${c.aciklama} (${p})`;
+        return `- ${c.ad} [${kategori.gruplar[c.grup] || c.grup}, ${SEVIYE_TR[c.seviye] || c.seviye}] kod_skoru ${c.skor.toFixed(1)}: ${c.aciklama} (${p})`;
       }).join("\n");
       const syn = t.sinerjiler.length ? t.sinerjiler.map((s) => `${s.ad} ${s.bonus > 0 ? "+" : ""}${s.bonus}`).join(", ") : "yok";
-      return `TAKIM ${no} — kod_puani: ${t.kodPuani} (kodun zaten saydığı bonuslar: ${syn})\n${lines}`;
+      return `TAKIM ${no} (kodun zaten saydığı bonuslar: ${syn})\n${lines}`;
     };
-    const ad = (oyuncu) => (sira[0] === oyuncu ? "Takım 1" : "Takım 2");
     const pairs = j.turlar.map((d, i) => {
       const [x, y] = ters ? [d.b, d.a] : [d.a, d.b];
-      const sonuc = d.kazanan === null ? "berabere" : `${ad(d.kazanan)} kazandı`;
-      return `${i + 1}. ${x.ad} (Takım 1) vs ${y.ad} (Takım 2) → ${sonuc}`;
+      return `${i + 1}. ${x.ad} (Takım 1) vs ${y.ad} (Takım 2)`;
     }).join("\n");
-    return `Sen bir açık artırma draft oyununun tarafsız ve tutarlı hakemisin. İki takım aynı kategoriden 5'er kart topladı.
+    return `Sen bir açık artırma draft oyununun tarafsız, bilgili ve tutarlı hakemisin. İki oyuncu aynı kategoriden 5'er kart topladı. Oyuncular Türkiye'den.
 
-ROLÜN
-Kartların gücünü kod zaten puanladı (kod_puani kesin, değiştiremezsin). Senin işin kodun göremediğini değerlendirmek: takımın KENDİ İÇİNDEKİ UYUMU ve kategorinin HAKEM NOTU'ndaki kurallar.
+HAVUZ HAKKINDA
+Bu kategorinin havuzunda sadece en iyiler var: "efsane" kartlar alanının zirvesi, "yıldız" kartlar bir tık altı ama yine çok güçlü. Yani hiçbir kart vasat değil; puanlar da buna göre yüksek.
 
-NASIL DÜŞÜNECEKSİN (${kategori.sablon})
+1) KART PUANLARI (gerçek bilgiye dayalı)
+Her kart için kendi bilgine dayanarak 1-10 arası bir puan ver (tek ondalık olabilir). Kafana göre değil, gerçek ve bilinen verilere göre puanla:
+- Ölçütleri ve ağırlıklarını kullan.
+- Somut göstergelere bak: ödüller ve kupalar, rekorlar, satış/izlenme/dinlenme, eleştirmen ve izleyici puanları (IMDb vb.), yıllar içindeki kalıcılık, kültürel etki.
+- TÜRKİYE'DEKİ BİLİNİRLİK ve sevilme önemlidir: Türkiye'de nesiller boyu sevilmiş bir yerli kart (ör. TRT'de yıllarca yayınlanan bir çizgi film, yerli bir efsane) yurt dışında az bilinse de düşük puan almaz.
+- Ölçek: 10 tartışmasız zirve · 9 dünya ya da Türkiye çapında efsane · 8 çok güçlü · 7 iyi ama zirve değil · 6 ve altı bu havuzda nadir olmalı.
+- Emin değilsen kod_skoru'na yakın puan ver. Kod puanını sadece gerçek bir sebep varsa aş; sebep "neden" alanında somut bir bilgi olsun (ör. "Dünya Kupası şampiyonu", "TRT'de 30 yıl yayınlandı"), "çok sevilir" gibi boş laf değil.
+- Aynı karta her maçta aynı puanı verecek kadar tutarlı ol. Kartın hangi takımda olduğu puanını etkilemez.
+
+2) TAKIM UYUMU (${kategori.sablon})
 ${REHBER[kategori.sablon] || REHBER.duello}
+Her takım için en fazla 3 madde yaz. Her madde -2 ile +2 arası TAM SAYI: +2 belirgin avantaj · +1 küçük avantaj · -1 küçük zayıflık · -2 belirgin zayıflık.
+- Kartların tek tek güçlü olmasını ödüllendirme; o zaten kart puanında var. Kodun zaten saydığı bonusları tekrar sayma.
+- Emin değilsen madde yazma; liste boş kalabilir. İki takım benzer uyumdaysa farkı küçük tut.
+- İyi örnek: {"konu":"Hepsi karada","puan":-1,"neden":"Suya kaçan bir rakibe karşı hiçbir kartı yok."}
 
-PUAN CETVELİ
-- Her takım için en fazla 3 madde yaz. Her madde -2 ile +2 arası TAM SAYI:
-  +2 belirgin, sonucu etkileyecek bir avantaj · +1 küçük avantaj · -1 küçük zayıflık · -2 belirgin zayıflık.
-- Kartların tek tek güçlü olmasını (efsane, yüksek puan) ödüllendirme; o zaten kod_puani'nda var.
-- Kodun zaten saydığı bonusları tekrar sayma.
-- Emin değilsen o maddeyi yazma. Söylenecek bir şey yoksa madde listesi boş kalabilir.
-- İyi madde örneği: {"konu":"Hepsi karada","puan":-1,"neden":"Suya kaçan bir rakibe karşı hiçbir kartı yok."} Kötü örnek: {"konu":"Güçlü kartlar","puan":2} (kart gücü zaten sayıldı, nedeni de yok).
-- İki takım benzer uyumdaysa farkı küçük tut. Aynı takıma her seferinde aynı değerlendirmeyi yapacak kadar tutarlı ol.
-
-ANLATI
-Eşleşmelerin sonucu aşağıda kod tarafından belirlendi; sonucu değiştirme. Her eşleşme için kazananın NEDEN kazandığını kartların gerçek ve genel bilinen özellikleriyle anlatan, 1-2 cümlelik eğlenceli bir metin yaz. Bilgi uydurma, gerçek kişilere saygılı ol, şiddet ayrıntısına girme. Türkçe ve sade yaz.
+3) EŞLEŞMELER
+Aşağıdaki her eşleşme için, kendi kart puanlarına göre hangi kartın kazandığını yaz ve nedenini kartların gerçek, bilinen özellikleriyle anlatan 1-2 cümlelik eğlenceli bir metin yaz. Bilgi uydurma, gerçek kişilere saygılı ol, şiddet ayrıntısına girme. Türkçe ve sade yaz.
 
 CEVAP: Sadece şu biçimde tek bir JSON nesnesi döndür, başka hiçbir şey yazma:
-{"takim1":{"maddeler":[{"konu":"2-4 kelime","puan":1,"neden":"tek cümle"}]},"takim2":{"maddeler":[]},"anlatilar":["1. eşleşme","2.","3.","4.","5."],"kazanan":"takim1","gerekce":"en fazla 2 cümle"}
-"kazanan": kod_puani + maddelerin toplamı yüksek olan takım ("takim1", "takim2" ya da "berabere"). "gerekce": sonucu belirleyen farkı söyle.
+{"kartlar":[{"ad":"Kart adı (aynen)","puan":9.2,"neden":"tek cümle, somut bilgi"}],"takim1":{"maddeler":[{"konu":"2-4 kelime","puan":1,"neden":"tek cümle"}]},"takim2":{"maddeler":[]},"anlatilar":[{"a":"1. kart","b":"2. kart","kazanan":"kazanan kartın adı","metin":"1-2 cümle"}],"kazanan":"takim1","gerekce":"en fazla 2 cümle"}
+"kartlar" listesinde 10 kartın hepsi olsun. "kazanan": kart puanları ve maddelerle toplamda önde olan takım ("takim1", "takim2" ya da "berabere").
 
 KATEGORİ: ${kategori.ad}
 GÖREV: ${kategori.gorev_mesaji}
@@ -340,8 +357,9 @@ ${pairs}`;
   }
 
   // Yapay zekadan gelen her şeyi güvenilmez kabul eder: sınırlar, kırpar, eksikleri boş bırakır.
-  // Bonus, maddelerin toplamından kodla hesaplanır (Claude'un toplamına güvenilmez).
-  function yzCevabiniDogrula(raw, ters) {
+  // Bonus maddelerin toplamından, kart düzeltmesi kod puanıyla farktan kodla hesaplanır.
+  // state ve kategori verilirse kart puanları doğrulanıp en fazla ±KART_DUZELTME düzeltmeye çevrilir.
+  function yzCevabiniDogrula(raw, ters, state, kategori) {
     if (!raw || typeof raw !== "object") return null;
     const str = (v, max) => (typeof v === "string" ? v.replace(/\s+/g, " ").trim().slice(0, max) : "");
     const takim = (o) => {
@@ -358,14 +376,28 @@ ${pairs}`;
     };
     let t1 = takim(raw.takim1), t2 = takim(raw.takim2);
     if (!t1 || !t2) return null;
-    const anl = Array.isArray(raw.anlatilar) ? raw.anlatilar.slice(0, 5).map((t) => str(t, 280)) : [];
-    while (anl.length < 5) anl.push("");
+    const kartDuzeltme = {};
+    if (state && kategori && Array.isArray(raw.kartlar)) {
+      const kodSkor = {};
+      for (const pl of state.players) for (const c of pl.kartlar) kodSkor[c.ad] = cardScore(c, kategori);
+      for (const k of raw.kartlar.slice(0, 12)) {
+        const ad = k && typeof k.ad === "string" ? k.ad.trim() : "";
+        const p = Number(k && k.puan);
+        if (!(ad in kodSkor) || !Number.isFinite(p)) continue;
+        const hedef = Math.max(1, Math.min(10, p));
+        const fark = round1(Math.max(-KART_DUZELTME, Math.min(KART_DUZELTME, (hedef - kodSkor[ad]) / 2)));
+        if (fark !== 0) kartDuzeltme[ad] = { fark, neden: str(k.neden, 160) };
+      }
+    }
+    const anlatilar = Array.isArray(raw.anlatilar) ? raw.anlatilar.slice(0, 5).map((x) => (x && typeof x === "object"
+      ? { a: str(x.a, 80), b: str(x.b, 80), kazanan: str(x.kazanan, 80), metin: str(x.metin, 280) }
+      : null)).filter(Boolean) : [];
     let kaz = ["takim1", "takim2", "berabere"].includes(raw.kazanan) ? raw.kazanan : "";
     if (ters) { [t1, t2] = [t2, t1]; kaz = kaz === "takim1" ? "takim2" : kaz === "takim2" ? "takim1" : kaz; }
     return {
       bonus: [t1.bonus, t2.bonus], maddeler: [t1.maddeler, t2.maddeler],
       bonusGerekce: [t1.maddeler.map((m) => m.neden).join(" "), t2.maddeler.map((m) => m.neden).join(" ")],
-      anlatilar: anl, kazanan: kaz, gerekce: str(raw.gerekce, 400),
+      kartDuzeltme, anlatilar, kazanan: kaz, gerekce: str(raw.gerekce, 400),
     };
   }
 

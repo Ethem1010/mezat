@@ -49,10 +49,10 @@
    "etiketler": [],
    "aciklama": "Hiç yenilmeden dünyanın yarısını fethetti.",
    "puan": {
-    "askeri_deha": 10,
-    "zafer_sayisi": 10,
-    "liderlik": 10,
-    "strateji": 10
+    "askeri_deha": 10.0,
+    "zafer_sayisi": 10.0,
+    "liderlik": 10.0,
+    "strateji": 10.0
    }
   },
   {
@@ -63,10 +63,10 @@
    "etiketler": [],
    "aciklama": "Fillerle Alpleri aştı, Cannae'yi kazandı.",
    "puan": {
-    "askeri_deha": 10,
-    "zafer_sayisi": 8,
-    "liderlik": 9,
-    "strateji": 10
+    "askeri_deha": 10.0,
+    "zafer_sayisi": 8.8,
+    "liderlik": 9.4,
+    "strateji": 10.0
    }
   },
   {
@@ -77,10 +77,10 @@
    "etiketler": [],
    "aciklama": "Galya'yı fethetti, Roma'yı değiştirdi.",
    "puan": {
-    "askeri_deha": 10,
-    "zafer_sayisi": 9,
-    "liderlik": 10,
-    "strateji": 9
+    "askeri_deha": 10.0,
+    "zafer_sayisi": 9.4,
+    "liderlik": 10.0,
+    "strateji": 9.4
    }
   },
   {
@@ -91,10 +91,10 @@
    "etiketler": [],
    "aciklama": "Savaş Sanatı'nın yazarı.",
    "puan": {
-    "askeri_deha": 10,
-    "zafer_sayisi": 7,
-    "liderlik": 8,
-    "strateji": 10
+    "askeri_deha": 10.0,
+    "zafer_sayisi": 8.2,
+    "liderlik": 8.8,
+    "strateji": 10.0
    }
   },
   {
@@ -105,10 +105,10 @@
    "etiketler": [],
    "aciklama": "Büyük Hun İmparatorluğu'nun kurucusu.",
    "puan": {
-    "askeri_deha": 9,
-    "zafer_sayisi": 9,
-    "liderlik": 10,
-    "strateji": 9
+    "askeri_deha": 9.4,
+    "zafer_sayisi": 9.4,
+    "liderlik": 10.0,
+    "strateji": 9.4
    }
   },
   {
@@ -119,10 +119,10 @@
    "etiketler": [],
    "aciklama": "Dev Pers ordusunun komutanı.",
    "puan": {
-    "askeri_deha": 7,
-    "zafer_sayisi": 7,
-    "liderlik": 8,
-    "strateji": 6
+    "askeri_deha": 8.2,
+    "zafer_sayisi": 8.2,
+    "liderlik": 8.8,
+    "strateji": 7.6
    }
   },
   {
@@ -133,10 +133,10 @@
    "etiketler": [],
    "aciklama": "Tarihin en büyük kara imparatorluğu.",
    "puan": {
-    "askeri_deha": 10,
-    "zafer_sayisi": 10,
-    "liderlik": 10,
-    "strateji": 10
+    "askeri_deha": 10.0,
+    "zafer_sayisi": 10.0,
+    "liderlik": 10.0,
+    "strateji": 10.0
    }
   },
   {
@@ -147,10 +147,10 @@
    "etiketler": [],
    "aciklama": "Hiç yenilmeyen fatih.",
    "puan": {
-    "askeri_deha": 10,
-    "zafer_sayisi": 10,
-    "liderlik": 9,
-    "strateji": 9
+    "askeri_deha": 10.0,
+    "zafer_sayisi": 10.0,
+    "liderlik": 9.4,
+    "strateji": 9.4
    }
   },
   {
@@ -161,10 +161,10 @@
    "etiketler": [],
    "aciklama": "Kudüs'ü geri alan komutan.",
    "puan": {
-    "askeri_deha": 9,
-    "zafer_sayisi": 8,
-    "liderlik": 10,
-    "strateji": 9
+    "askeri_deha": 9.4,
+    "zafer_sayisi": 8.8,
+    "liderlik": 10.0,
+    "strateji": 9.4
    }
   },
   {
@@ -175,10 +175,10 @@
    "etiketler": [],
    "aciklama": "Roma'yı titreten Hun hükümdarı.",
    "puan": {
-    "askeri_deha": 9,
-    "zafer_sayisi": 9,
-    "liderlik": 10,
-    "strateji": 8
+    "askeri_deha": 9.4,
+    "zafer_sayisi": 9.4,
+    "liderlik": 10.0,
+    "strateji": 8.8
    }
   },
   {
@@ -189,10 +189,10 @@
    "etiketler": [],
    "aciklama": "Haçlı seferlerinin efsane kralı.",
    "puan": {
-    "askeri_deha": 8,
-    "zafer_sayisi": 8,
-    "liderlik": 9,
-    "strateji": 8
+    "askeri_deha": 8.8,
+    "zafer_sayisi": 8.8,
+    "liderlik": 9.4,
+    "strateji": 8.8
    }
   },
   {
@@ -203,10 +203,10 @@
    "etiketler": [],
    "aciklama": "İstanbul'u fethetti, çağ kapattı.",
    "puan": {
-    "askeri_deha": 10,
-    "zafer_sayisi": 9,
-    "liderlik": 10,
-    "strateji": 10
+    "askeri_deha": 10.0,
+    "zafer_sayisi": 9.4,
+    "liderlik": 10.0,
+    "strateji": 10.0
    }
   },
   {
@@ -217,10 +217,10 @@
    "etiketler": [],
    "aciklama": "Kurtuluş Savaşı'nın başkomutanı.",
    "puan": {
-    "askeri_deha": 10,
-    "zafer_sayisi": 9,
-    "liderlik": 10,
-    "strateji": 10
+    "askeri_deha": 10.0,
+    "zafer_sayisi": 9.4,
+    "liderlik": 10.0,
+    "strateji": 10.0
    }
   },
   {
@@ -231,10 +231,10 @@
    "etiketler": [],
    "aciklama": "Malazgirt zaferi.",
    "puan": {
-    "askeri_deha": 10,
-    "zafer_sayisi": 8,
-    "liderlik": 10,
-    "strateji": 9
+    "askeri_deha": 10.0,
+    "zafer_sayisi": 8.8,
+    "liderlik": 10.0,
+    "strateji": 9.4
    }
   },
   {
@@ -245,10 +245,10 @@
    "etiketler": [],
    "aciklama": "Osmanlı'nın zirvesi.",
    "puan": {
-    "askeri_deha": 9,
-    "zafer_sayisi": 10,
-    "liderlik": 10,
-    "strateji": 9
+    "askeri_deha": 9.4,
+    "zafer_sayisi": 10.0,
+    "liderlik": 10.0,
+    "strateji": 9.4
    }
   },
   {
@@ -259,10 +259,10 @@
    "etiketler": [],
    "aciklama": "Çaldıran ve Mısır seferleri.",
    "puan": {
-    "askeri_deha": 10,
-    "zafer_sayisi": 9,
-    "liderlik": 9,
-    "strateji": 9
+    "askeri_deha": 10.0,
+    "zafer_sayisi": 9.4,
+    "liderlik": 9.4,
+    "strateji": 9.4
    }
   },
   {
@@ -273,10 +273,10 @@
    "etiketler": [],
    "aciklama": "Akdeniz'in hâkimi amiral.",
    "puan": {
-    "askeri_deha": 10,
-    "zafer_sayisi": 9,
-    "liderlik": 9,
-    "strateji": 10
+    "askeri_deha": 10.0,
+    "zafer_sayisi": 9.4,
+    "liderlik": 9.4,
+    "strateji": 10.0
    }
   },
   {
@@ -287,10 +287,10 @@
    "etiketler": [],
    "aciklama": "Avrupa'yı fetheden dâhi.",
    "puan": {
-    "askeri_deha": 10,
-    "zafer_sayisi": 10,
-    "liderlik": 10,
-    "strateji": 10
+    "askeri_deha": 10.0,
+    "zafer_sayisi": 10.0,
+    "liderlik": 10.0,
+    "strateji": 10.0
    }
   },
   {
@@ -301,10 +301,10 @@
    "etiketler": [],
    "aciklama": "ABD bağımsızlık savaşının lideri.",
    "puan": {
-    "askeri_deha": 8,
-    "zafer_sayisi": 7,
-    "liderlik": 10,
-    "strateji": 8
+    "askeri_deha": 8.8,
+    "zafer_sayisi": 8.2,
+    "liderlik": 10.0,
+    "strateji": 8.8
    }
   },
   {
@@ -315,10 +315,10 @@
    "etiketler": [],
    "aciklama": "Trafalgar zaferi.",
    "puan": {
-    "askeri_deha": 9,
-    "zafer_sayisi": 8,
-    "liderlik": 9,
-    "strateji": 10
+    "askeri_deha": 9.4,
+    "zafer_sayisi": 8.8,
+    "liderlik": 9.4,
+    "strateji": 10.0
    }
   },
   {
@@ -329,10 +329,10 @@
    "etiketler": [],
    "aciklama": "\"Çöl Tilkisi\".",
    "puan": {
-    "askeri_deha": 9,
-    "zafer_sayisi": 7,
-    "liderlik": 9,
-    "strateji": 10
+    "askeri_deha": 9.4,
+    "zafer_sayisi": 8.2,
+    "liderlik": 9.4,
+    "strateji": 10.0
    }
   },
   {
@@ -343,10 +343,10 @@
    "etiketler": [],
    "aciklama": "Berlin'e giden Sovyet mareşali.",
    "puan": {
-    "askeri_deha": 9,
-    "zafer_sayisi": 9,
-    "liderlik": 8,
-    "strateji": 9
+    "askeri_deha": 9.4,
+    "zafer_sayisi": 9.4,
+    "liderlik": 8.8,
+    "strateji": 9.4
    }
   },
   {
@@ -357,10 +357,10 @@
    "etiketler": [],
    "aciklama": "Waterloo'da Napolyon'u yendi.",
    "puan": {
-    "askeri_deha": 9,
-    "zafer_sayisi": 9,
-    "liderlik": 8,
-    "strateji": 9
+    "askeri_deha": 9.4,
+    "zafer_sayisi": 9.4,
+    "liderlik": 8.8,
+    "strateji": 9.4
    }
   },
   {
@@ -371,10 +371,10 @@
    "etiketler": [],
    "aciklama": "Güney Amerika'nın kurtarıcısı.",
    "puan": {
-    "askeri_deha": 8,
-    "zafer_sayisi": 8,
-    "liderlik": 10,
-    "strateji": 8
+    "askeri_deha": 8.8,
+    "zafer_sayisi": 8.8,
+    "liderlik": 10.0,
+    "strateji": 8.8
    }
   },
   {
@@ -385,10 +385,10 @@
    "etiketler": [],
    "aciklama": "\"Malaya Kaplanı\".",
    "puan": {
-    "askeri_deha": 8,
-    "zafer_sayisi": 7,
-    "liderlik": 8,
-    "strateji": 8
+    "askeri_deha": 8.8,
+    "zafer_sayisi": 8.2,
+    "liderlik": 8.8,
+    "strateji": 8.8
    }
   },
   {
@@ -399,10 +399,10 @@
    "etiketler": [],
    "aciklama": "300 Spartalı'nın kralı.",
    "puan": {
-    "askeri_deha": 8,
-    "zafer_sayisi": 5,
-    "liderlik": 10,
-    "strateji": 8
+    "askeri_deha": 8.8,
+    "zafer_sayisi": 7.0,
+    "liderlik": 10.0,
+    "strateji": 8.8
    }
   },
   {
@@ -413,10 +413,10 @@
    "etiketler": [],
    "aciklama": "Mısır'ın büyük firavunu.",
    "puan": {
-    "askeri_deha": 7,
-    "zafer_sayisi": 7,
-    "liderlik": 9,
-    "strateji": 7
+    "askeri_deha": 8.2,
+    "zafer_sayisi": 8.2,
+    "liderlik": 9.4,
+    "strateji": 8.2
    }
   },
   {
@@ -427,10 +427,10 @@
    "etiketler": [],
    "aciklama": "Fransa'nın kahraman kızı.",
    "puan": {
-    "askeri_deha": 7,
-    "zafer_sayisi": 6,
-    "liderlik": 10,
-    "strateji": 6
+    "askeri_deha": 8.2,
+    "zafer_sayisi": 7.6,
+    "liderlik": 10.0,
+    "strateji": 7.6
    }
   },
   {
@@ -441,10 +441,10 @@
    "etiketler": [],
    "aciklama": "İskoçya'nın özgürlük savaşçısı.",
    "puan": {
-    "askeri_deha": 7,
-    "zafer_sayisi": 5,
-    "liderlik": 10,
-    "strateji": 7
+    "askeri_deha": 8.2,
+    "zafer_sayisi": 7.0,
+    "liderlik": 10.0,
+    "strateji": 8.2
    }
   },
   {
@@ -455,10 +455,10 @@
    "etiketler": [],
    "aciklama": "Osmanlı'nın kurucusu.",
    "puan": {
-    "askeri_deha": 8,
-    "zafer_sayisi": 7,
-    "liderlik": 9,
-    "strateji": 8
+    "askeri_deha": 8.8,
+    "zafer_sayisi": 8.2,
+    "liderlik": 9.4,
+    "strateji": 8.8
    }
   },
   {
@@ -469,10 +469,10 @@
    "etiketler": [],
    "aciklama": "Haçlılara karşı Anadolu'yu korudu.",
    "puan": {
-    "askeri_deha": 8,
-    "zafer_sayisi": 7,
-    "liderlik": 9,
-    "strateji": 8
+    "askeri_deha": 8.8,
+    "zafer_sayisi": 8.2,
+    "liderlik": 9.4,
+    "strateji": 8.8
    }
   },
   {
@@ -483,10 +483,10 @@
    "etiketler": [],
    "aciklama": "Hızlı tank harekâtları.",
    "puan": {
-    "askeri_deha": 8,
-    "zafer_sayisi": 7,
-    "liderlik": 8,
-    "strateji": 8
+    "askeri_deha": 8.8,
+    "zafer_sayisi": 8.2,
+    "liderlik": 8.8,
+    "strateji": 8.8
    }
   },
   {
@@ -497,10 +497,10 @@
    "etiketler": [],
    "aciklama": "ABD İç Savaşı'nın galibi.",
    "puan": {
-    "askeri_deha": 8,
-    "zafer_sayisi": 8,
-    "liderlik": 8,
-    "strateji": 8
+    "askeri_deha": 8.8,
+    "zafer_sayisi": 8.8,
+    "liderlik": 8.8,
+    "strateji": 8.8
    }
   },
   {
@@ -511,10 +511,10 @@
    "etiketler": [],
    "aciklama": "Güney'in usta generali.",
    "puan": {
-    "askeri_deha": 9,
-    "zafer_sayisi": 6,
-    "liderlik": 9,
-    "strateji": 9
+    "askeri_deha": 9.4,
+    "zafer_sayisi": 7.6,
+    "liderlik": 9.4,
+    "strateji": 9.4
    }
   },
   {
@@ -525,10 +525,10 @@
    "etiketler": [],
    "aciklama": "El Alamein zaferi.",
    "puan": {
-    "askeri_deha": 8,
-    "zafer_sayisi": 7,
-    "liderlik": 8,
-    "strateji": 8
+    "askeri_deha": 8.8,
+    "zafer_sayisi": 8.2,
+    "liderlik": 8.8,
+    "strateji": 8.8
    }
   }
  ]

@@ -49,10 +49,10 @@
    "etiketler": [],
    "aciklama": "Antep fıstıklı kat kat efsane.",
    "puan": {
-    "lezzet": 10,
-    "populerlik": 10,
-    "gorunum": 9,
-    "cesitlilik": 9
+    "lezzet": 10.0,
+    "populerlik": 10.0,
+    "gorunum": 9.4,
+    "cesitlilik": 9.4
    }
   },
   {
@@ -63,10 +63,10 @@
    "etiketler": [],
    "aciklama": "Peynirli sıcak Hatay tatlısı.",
    "puan": {
-    "lezzet": 10,
-    "populerlik": 10,
-    "gorunum": 8,
-    "cesitlilik": 7
+    "lezzet": 10.0,
+    "populerlik": 10.0,
+    "gorunum": 8.8,
+    "cesitlilik": 8.2
    }
   },
   {
@@ -77,10 +77,10 @@
    "etiketler": [],
    "aciklama": "Tel tel çıtır şerbetli.",
    "puan": {
-    "lezzet": 9,
-    "populerlik": 9,
-    "gorunum": 8,
-    "cesitlilik": 8
+    "lezzet": 9.4,
+    "populerlik": 9.4,
+    "gorunum": 8.8,
+    "cesitlilik": 8.8
    }
   },
   {
@@ -91,10 +91,10 @@
    "etiketler": [],
    "aciklama": "Kaymaklı fıstıklı üçgenler.",
    "puan": {
-    "lezzet": 10,
-    "populerlik": 8,
-    "gorunum": 9,
-    "cesitlilik": 7
+    "lezzet": 10.0,
+    "populerlik": 8.8,
+    "gorunum": 9.4,
+    "cesitlilik": 8.2
    }
   },
   {
@@ -105,10 +105,10 @@
    "etiketler": [],
    "aciklama": "Çıtır şerbetli klasik.",
    "puan": {
-    "lezzet": 8,
-    "populerlik": 9,
-    "gorunum": 7,
-    "cesitlilik": 6
+    "lezzet": 8.8,
+    "populerlik": 9.4,
+    "gorunum": 8.2,
+    "cesitlilik": 7.6
    }
   },
   {
@@ -119,10 +119,10 @@
    "etiketler": [],
    "aciklama": "Kaymaklı Afyon tatlısı.",
    "puan": {
-    "lezzet": 9,
-    "populerlik": 8,
-    "gorunum": 8,
-    "cesitlilik": 6
+    "lezzet": 9.4,
+    "populerlik": 8.8,
+    "gorunum": 8.8,
+    "cesitlilik": 7.6
    }
   },
   {
@@ -133,10 +133,10 @@
    "etiketler": [],
    "aciklama": "Gaziantep'in kahvaltı tatlısı.",
    "puan": {
-    "lezzet": 10,
-    "populerlik": 8,
-    "gorunum": 8,
-    "cesitlilik": 6
+    "lezzet": 10.0,
+    "populerlik": 8.8,
+    "gorunum": 8.8,
+    "cesitlilik": 7.6
    }
   },
   {
@@ -147,10 +147,10 @@
    "etiketler": [],
    "aciklama": "Fırında kızarmış sütlü tatlı.",
    "puan": {
-    "lezzet": 9,
-    "populerlik": 10,
-    "gorunum": 8,
-    "cesitlilik": 7
+    "lezzet": 9.4,
+    "populerlik": 10.0,
+    "gorunum": 8.8,
+    "cesitlilik": 8.2
    }
   },
   {
@@ -161,10 +161,10 @@
    "etiketler": [],
    "aciklama": "Yanık tabanlı muhallebi.",
    "puan": {
-    "lezzet": 9,
-    "populerlik": 8,
-    "gorunum": 8,
-    "cesitlilik": 6
+    "lezzet": 9.4,
+    "populerlik": 8.8,
+    "gorunum": 8.8,
+    "cesitlilik": 7.6
    }
   },
   {
@@ -175,10 +175,10 @@
    "etiketler": [],
    "aciklama": "Saray mutfağının sürprizi.",
    "puan": {
-    "lezzet": 9,
-    "populerlik": 7,
-    "gorunum": 7,
-    "cesitlilik": 6
+    "lezzet": 9.4,
+    "populerlik": 8.2,
+    "gorunum": 8.2,
+    "cesitlilik": 7.6
    }
   },
   {
@@ -189,10 +189,10 @@
    "etiketler": [],
    "aciklama": "Çikolata soslu krema topları.",
    "puan": {
-    "lezzet": 9,
-    "populerlik": 9,
-    "gorunum": 9,
-    "cesitlilik": 7
+    "lezzet": 9.4,
+    "populerlik": 9.4,
+    "gorunum": 9.4,
+    "cesitlilik": 8.2
    }
   },
   {
@@ -203,10 +203,10 @@
    "etiketler": [],
    "aciklama": "Peynirli şerbetli toplar.",
    "puan": {
-    "lezzet": 8,
-    "populerlik": 7,
-    "gorunum": 7,
-    "cesitlilik": 6
+    "lezzet": 8.8,
+    "populerlik": 8.2,
+    "gorunum": 8.2,
+    "cesitlilik": 7.6
    }
   },
   {
@@ -217,10 +217,10 @@
    "etiketler": [],
    "aciklama": "Üç sütlü karamelli kek.",
    "puan": {
-    "lezzet": 9,
-    "populerlik": 9,
-    "gorunum": 8,
-    "cesitlilik": 6
+    "lezzet": 9.4,
+    "populerlik": 9.4,
+    "gorunum": 8.8,
+    "cesitlilik": 7.6
    }
   },
   {
@@ -231,10 +231,10 @@
    "etiketler": [],
    "aciklama": "Kahveli İtalyan efsanesi.",
    "puan": {
-    "lezzet": 10,
-    "populerlik": 9,
-    "gorunum": 9,
-    "cesitlilik": 7
+    "lezzet": 10.0,
+    "populerlik": 9.4,
+    "gorunum": 9.4,
+    "cesitlilik": 8.2
    }
   },
   {
@@ -245,10 +245,10 @@
    "etiketler": [],
    "aciklama": "Kremalı peynir tatlısı.",
    "puan": {
-    "lezzet": 10,
-    "populerlik": 10,
-    "gorunum": 9,
-    "cesitlilik": 9
+    "lezzet": 10.0,
+    "populerlik": 10.0,
+    "gorunum": 9.4,
+    "cesitlilik": 9.4
    }
   },
   {
@@ -259,10 +259,10 @@
    "etiketler": [],
    "aciklama": "İçi akan sıcak çikolata.",
    "puan": {
-    "lezzet": 10,
-    "populerlik": 9,
-    "gorunum": 9,
-    "cesitlilik": 6
+    "lezzet": 10.0,
+    "populerlik": 9.4,
+    "gorunum": 9.4,
+    "cesitlilik": 7.6
    }
   },
   {
@@ -273,10 +273,10 @@
    "etiketler": [],
    "aciklama": "Yanık yüzlü kremamsı cheesecake.",
    "puan": {
-    "lezzet": 10,
-    "populerlik": 9,
-    "gorunum": 8,
-    "cesitlilik": 6
+    "lezzet": 10.0,
+    "populerlik": 9.4,
+    "gorunum": 8.8,
+    "cesitlilik": 7.6
    }
   },
   {
@@ -287,10 +287,10 @@
    "etiketler": [],
    "aciklama": "Islak çikolatalı kare.",
    "puan": {
-    "lezzet": 9,
-    "populerlik": 9,
-    "gorunum": 7,
-    "cesitlilik": 8
+    "lezzet": 9.4,
+    "populerlik": 9.4,
+    "gorunum": 8.2,
+    "cesitlilik": 8.8
    }
   },
   {
@@ -301,10 +301,10 @@
    "etiketler": [],
    "aciklama": "Renkli Fransız kurabiyesi.",
    "puan": {
-    "lezzet": 8,
-    "populerlik": 8,
-    "gorunum": 10,
-    "cesitlilik": 9
+    "lezzet": 8.8,
+    "populerlik": 8.8,
+    "gorunum": 10.0,
+    "cesitlilik": 9.4
    }
   },
   {
@@ -315,10 +315,10 @@
    "etiketler": [],
    "aciklama": "Kat kat tereyağlı Fransız klasiği.",
    "puan": {
-    "lezzet": 9,
-    "populerlik": 9,
-    "gorunum": 8,
-    "cesitlilik": 8
+    "lezzet": 9.4,
+    "populerlik": 9.4,
+    "gorunum": 8.8,
+    "cesitlilik": 8.8
    }
   },
   {
@@ -329,10 +329,10 @@
    "etiketler": [],
    "aciklama": "Uzayan, bıçakla kesilen dondurma.",
    "puan": {
-    "lezzet": 10,
-    "populerlik": 9,
-    "gorunum": 8,
-    "cesitlilik": 8
+    "lezzet": 10.0,
+    "populerlik": 9.4,
+    "gorunum": 8.8,
+    "cesitlilik": 8.8
    }
   },
   {
@@ -343,10 +343,10 @@
    "etiketler": [],
    "aciklama": "İtalyan dondurması.",
    "puan": {
-    "lezzet": 10,
-    "populerlik": 9,
-    "gorunum": 9,
-    "cesitlilik": 9
+    "lezzet": 10.0,
+    "populerlik": 9.4,
+    "gorunum": 9.4,
+    "cesitlilik": 9.4
    }
   },
   {
@@ -357,10 +357,10 @@
    "etiketler": [],
    "aciklama": "Çikolata kaplı çubuk dondurma.",
    "puan": {
-    "lezzet": 9,
-    "populerlik": 9,
-    "gorunum": 8,
-    "cesitlilik": 7
+    "lezzet": 9.4,
+    "populerlik": 9.4,
+    "gorunum": 8.8,
+    "cesitlilik": 8.2
    }
   },
   {
@@ -371,10 +371,10 @@
    "etiketler": [],
    "aciklama": "Meyve ve çikolatalı serin keyif.",
    "puan": {
-    "lezzet": 9,
-    "populerlik": 9,
-    "gorunum": 9,
-    "cesitlilik": 9
+    "lezzet": 9.4,
+    "populerlik": 9.4,
+    "gorunum": 9.4,
+    "cesitlilik": 9.4
    }
   },
   {
@@ -385,10 +385,10 @@
    "etiketler": [],
    "aciklama": "Sıcak helva ile soğuk dondurma.",
    "puan": {
-    "lezzet": 9,
-    "populerlik": 7,
-    "gorunum": 8,
-    "cesitlilik": 6
+    "lezzet": 9.4,
+    "populerlik": 8.2,
+    "gorunum": 8.8,
+    "cesitlilik": 7.6
    }
   },
   {
@@ -399,10 +399,10 @@
    "etiketler": [],
    "aciklama": "Hayır ve düğünlerin tatlısı.",
    "puan": {
-    "lezzet": 8,
-    "populerlik": 8,
-    "gorunum": 6,
-    "cesitlilik": 5
+    "lezzet": 8.8,
+    "populerlik": 8.8,
+    "gorunum": 7.6,
+    "cesitlilik": 7.0
    }
   },
   {
@@ -413,10 +413,10 @@
    "etiketler": [],
    "aciklama": "İrmikli şerbetli.",
    "puan": {
-    "lezzet": 8,
-    "populerlik": 7,
-    "gorunum": 6,
-    "cesitlilik": 6
+    "lezzet": 8.8,
+    "populerlik": 8.2,
+    "gorunum": 7.6,
+    "cesitlilik": 7.6
    }
   },
   {
@@ -427,10 +427,10 @@
    "etiketler": [],
    "aciklama": "Ramazan'ın hafif tatlısı.",
    "puan": {
-    "lezzet": 8,
-    "populerlik": 8,
-    "gorunum": 8,
-    "cesitlilik": 6
+    "lezzet": 8.8,
+    "populerlik": 8.8,
+    "gorunum": 8.8,
+    "cesitlilik": 7.6
    }
   },
   {
@@ -441,10 +441,10 @@
    "etiketler": [],
    "aciklama": "Çikolatalı puding.",
    "puan": {
-    "lezzet": 8,
-    "populerlik": 8,
-    "gorunum": 6,
-    "cesitlilik": 6
+    "lezzet": 8.8,
+    "populerlik": 8.8,
+    "gorunum": 7.6,
+    "cesitlilik": 7.6
    }
   },
   {
@@ -455,10 +455,10 @@
    "etiketler": [],
    "aciklama": "Bereket dolu tatlı.",
    "puan": {
-    "lezzet": 8,
-    "populerlik": 7,
-    "gorunum": 8,
-    "cesitlilik": 8
+    "lezzet": 8.8,
+    "populerlik": 8.2,
+    "gorunum": 8.8,
+    "cesitlilik": 8.8
    }
   },
   {
@@ -469,10 +469,10 @@
    "etiketler": [],
    "aciklama": "Kremalı çikolatalı uzun pasta.",
    "puan": {
-    "lezzet": 8,
-    "populerlik": 8,
-    "gorunum": 8,
-    "cesitlilik": 6
+    "lezzet": 8.8,
+    "populerlik": 8.8,
+    "gorunum": 8.8,
+    "cesitlilik": 7.6
    }
   },
   {
@@ -483,10 +483,10 @@
    "etiketler": [],
    "aciklama": "Ortası delik renkli halka.",
    "puan": {
-    "lezzet": 8,
-    "populerlik": 9,
-    "gorunum": 8,
-    "cesitlilik": 8
+    "lezzet": 8.8,
+    "populerlik": 9.4,
+    "gorunum": 8.8,
+    "cesitlilik": 8.8
    }
   },
   {
@@ -497,10 +497,10 @@
    "etiketler": [],
    "aciklama": "Kremalı minik kek.",
    "puan": {
-    "lezzet": 7,
-    "populerlik": 8,
-    "gorunum": 9,
-    "cesitlilik": 8
+    "lezzet": 8.2,
+    "populerlik": 8.8,
+    "gorunum": 9.4,
+    "cesitlilik": 8.8
    }
   },
   {
@@ -511,10 +511,10 @@
    "etiketler": [],
    "aciklama": "Hafif dondurulmuş yoğurt.",
    "puan": {
-    "lezzet": 7,
-    "populerlik": 7,
-    "gorunum": 8,
-    "cesitlilik": 8
+    "lezzet": 8.2,
+    "populerlik": 8.2,
+    "gorunum": 8.8,
+    "cesitlilik": 8.8
    }
   },
   {
@@ -525,10 +525,10 @@
    "etiketler": [],
    "aciklama": "Meyveli buzlu tatlı.",
    "puan": {
-    "lezzet": 7,
-    "populerlik": 6,
-    "gorunum": 8,
-    "cesitlilik": 7
+    "lezzet": 8.2,
+    "populerlik": 7.6,
+    "gorunum": 8.8,
+    "cesitlilik": 8.2
    }
   }
  ]

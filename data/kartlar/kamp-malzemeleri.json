@@ -65,10 +65,10 @@
    "etiketler": [],
    "aciklama": "Fırtınaya ve kara dayanır.",
    "puan": {
-    "hayatta_kalma_faydasi": 10,
-    "cok_amaclilik": 6,
-    "hafiflik": 5,
-    "dayaniklilik": 10
+    "hayatta_kalma_faydasi": 10.0,
+    "cok_amaclilik": 7.6,
+    "hafiflik": 7.0,
+    "dayaniklilik": 10.0
    }
   },
   {
@@ -79,10 +79,10 @@
    "etiketler": [],
    "aciklama": "Sırtta taşınacak kadar hafif.",
    "puan": {
-    "hayatta_kalma_faydasi": 9,
-    "cok_amaclilik": 5,
-    "hafiflik": 10,
-    "dayaniklilik": 7
+    "hayatta_kalma_faydasi": 9.4,
+    "cok_amaclilik": 7.0,
+    "hafiflik": 10.0,
+    "dayaniklilik": 8.2
    }
   },
   {
@@ -93,10 +93,10 @@
    "etiketler": [],
    "aciklama": "Tek kişilik acil barınak.",
    "puan": {
-    "hayatta_kalma_faydasi": 8,
-    "cok_amaclilik": 5,
-    "hafiflik": 9,
-    "dayaniklilik": 7
+    "hayatta_kalma_faydasi": 8.8,
+    "cok_amaclilik": 7.0,
+    "hafiflik": 9.4,
+    "dayaniklilik": 8.2
    }
   },
   {
@@ -107,10 +107,10 @@
    "etiketler": [],
    "aciklama": "Çatı, zemin, rüzgârlık.",
    "puan": {
-    "hayatta_kalma_faydasi": 8,
-    "cok_amaclilik": 9,
-    "hafiflik": 8,
-    "dayaniklilik": 8
+    "hayatta_kalma_faydasi": 8.8,
+    "cok_amaclilik": 9.4,
+    "hafiflik": 8.8,
+    "dayaniklilik": 8.8
    }
   },
   {
@@ -121,10 +121,10 @@
    "etiketler": [],
    "aciklama": "Eksi derecede sıcak tutar.",
    "puan": {
-    "hayatta_kalma_faydasi": 10,
-    "cok_amaclilik": 4,
-    "hafiflik": 8,
-    "dayaniklilik": 8
+    "hayatta_kalma_faydasi": 10.0,
+    "cok_amaclilik": 6.4,
+    "hafiflik": 8.8,
+    "dayaniklilik": 8.8
    }
   },
   {
@@ -135,10 +135,10 @@
    "etiketler": [],
    "aciklama": "Yerin soğuğunu keser.",
    "puan": {
-    "hayatta_kalma_faydasi": 8,
-    "cok_amaclilik": 4,
-    "hafiflik": 9,
-    "dayaniklilik": 6
+    "hayatta_kalma_faydasi": 8.8,
+    "cok_amaclilik": 6.4,
+    "hafiflik": 9.4,
+    "dayaniklilik": 7.6
    }
   },
   {
@@ -149,10 +149,10 @@
    "etiketler": [],
    "aciklama": "Hafif ama sıcak.",
    "puan": {
-    "hayatta_kalma_faydasi": 8,
-    "cok_amaclilik": 6,
-    "hafiflik": 8,
-    "dayaniklilik": 8
+    "hayatta_kalma_faydasi": 8.8,
+    "cok_amaclilik": 7.6,
+    "hafiflik": 8.8,
+    "dayaniklilik": 8.8
    }
   },
   {
@@ -163,10 +163,10 @@
    "etiketler": [],
    "aciklama": "Dakikalar içinde sıcak yemek.",
    "puan": {
-    "hayatta_kalma_faydasi": 9,
-    "cok_amaclilik": 7,
-    "hafiflik": 7,
-    "dayaniklilik": 8
+    "hayatta_kalma_faydasi": 9.4,
+    "cok_amaclilik": 8.2,
+    "hafiflik": 8.2,
+    "dayaniklilik": 8.8
    }
   },
   {
@@ -177,10 +177,10 @@
    "etiketler": [],
    "aciklama": "Dereden içilebilir su.",
    "puan": {
-    "hayatta_kalma_faydasi": 10,
-    "cok_amaclilik": 5,
-    "hafiflik": 9,
-    "dayaniklilik": 7
+    "hayatta_kalma_faydasi": 10.0,
+    "cok_amaclilik": 7.0,
+    "hafiflik": 9.4,
+    "dayaniklilik": 8.2
    }
   },
   {
@@ -191,10 +191,10 @@
    "etiketler": [],
    "aciklama": "Suyunu güvenle taşır.",
    "puan": {
-    "hayatta_kalma_faydasi": 9,
-    "cok_amaclilik": 5,
-    "hafiflik": 8,
-    "dayaniklilik": 10
+    "hayatta_kalma_faydasi": 9.4,
+    "cok_amaclilik": 7.0,
+    "hafiflik": 8.8,
+    "dayaniklilik": 10.0
    }
   },
   {
@@ -205,10 +205,10 @@
    "etiketler": [],
    "aciklama": "Sırt çantasına litrelerce su.",
    "puan": {
-    "hayatta_kalma_faydasi": 8,
-    "cok_amaclilik": 5,
-    "hafiflik": 9,
-    "dayaniklilik": 6
+    "hayatta_kalma_faydasi": 8.8,
+    "cok_amaclilik": 7.0,
+    "hafiflik": 9.4,
+    "dayaniklilik": 7.6
    }
   },
   {
@@ -219,10 +219,10 @@
    "etiketler": [],
    "aciklama": "Eller serbest gece ışığı.",
    "puan": {
-    "hayatta_kalma_faydasi": 9,
-    "cok_amaclilik": 7,
-    "hafiflik": 10,
-    "dayaniklilik": 8
+    "hayatta_kalma_faydasi": 9.4,
+    "cok_amaclilik": 8.2,
+    "hafiflik": 10.0,
+    "dayaniklilik": 8.8
    }
   },
   {
@@ -233,10 +233,10 @@
    "etiketler": [],
    "aciklama": "Tüm kampı aydınlatır.",
    "puan": {
-    "hayatta_kalma_faydasi": 8,
-    "cok_amaclilik": 6,
-    "hafiflik": 7,
-    "dayaniklilik": 8
+    "hayatta_kalma_faydasi": 8.8,
+    "cok_amaclilik": 7.6,
+    "hafiflik": 8.2,
+    "dayaniklilik": 8.8
    }
   },
   {
@@ -247,10 +247,10 @@
    "etiketler": [],
    "aciklama": "Telefon ve ışığa bitmeyen enerji.",
    "puan": {
-    "hayatta_kalma_faydasi": 7,
-    "cok_amaclilik": 8,
-    "hafiflik": 7,
-    "dayaniklilik": 7
+    "hayatta_kalma_faydasi": 8.2,
+    "cok_amaclilik": 8.8,
+    "hafiflik": 8.2,
+    "dayaniklilik": 8.2
    }
   },
   {
@@ -261,10 +261,10 @@
    "etiketler": [],
    "aciklama": "Kes, aç, vidala.",
    "puan": {
-    "hayatta_kalma_faydasi": 10,
-    "cok_amaclilik": 10,
-    "hafiflik": 9,
-    "dayaniklilik": 9
+    "hayatta_kalma_faydasi": 10.0,
+    "cok_amaclilik": 10.0,
+    "hafiflik": 9.4,
+    "dayaniklilik": 9.4
    }
   },
   {
@@ -275,10 +275,10 @@
    "etiketler": [],
    "aciklama": "Odun ve kazık için.",
    "puan": {
-    "hayatta_kalma_faydasi": 9,
-    "cok_amaclilik": 7,
-    "hafiflik": 5,
-    "dayaniklilik": 10
+    "hayatta_kalma_faydasi": 9.4,
+    "cok_amaclilik": 8.2,
+    "hafiflik": 7.0,
+    "dayaniklilik": 10.0
    }
   },
   {
@@ -289,10 +289,10 @@
    "etiketler": [],
    "aciklama": "Bağla, as, onar.",
    "puan": {
-    "hayatta_kalma_faydasi": 9,
-    "cok_amaclilik": 10,
-    "hafiflik": 10,
-    "dayaniklilik": 9
+    "hayatta_kalma_faydasi": 9.4,
+    "cok_amaclilik": 10.0,
+    "hafiflik": 10.0,
+    "dayaniklilik": 9.4
    }
   },
   {
@@ -303,10 +303,10 @@
    "etiketler": [],
    "aciklama": "Doğada en önemli güvence.",
    "puan": {
-    "hayatta_kalma_faydasi": 10,
-    "cok_amaclilik": 6,
-    "hafiflik": 8,
-    "dayaniklilik": 7
+    "hayatta_kalma_faydasi": 10.0,
+    "cok_amaclilik": 7.6,
+    "hafiflik": 8.8,
+    "dayaniklilik": 8.2
    }
   },
   {
@@ -317,10 +317,10 @@
    "etiketler": [],
    "aciklama": "Kaybolmayı önler.",
    "puan": {
-    "hayatta_kalma_faydasi": 9,
-    "cok_amaclilik": 4,
-    "hafiflik": 10,
-    "dayaniklilik": 9
+    "hayatta_kalma_faydasi": 9.4,
+    "cok_amaclilik": 6.4,
+    "hafiflik": 10.0,
+    "dayaniklilik": 9.4
    }
   },
   {
@@ -331,10 +331,10 @@
    "etiketler": [],
    "aciklama": "Her koşulda ateş.",
    "puan": {
-    "hayatta_kalma_faydasi": 9,
-    "cok_amaclilik": 5,
-    "hafiflik": 10,
-    "dayaniklilik": 10
+    "hayatta_kalma_faydasi": 9.4,
+    "cok_amaclilik": 7.0,
+    "hafiflik": 10.0,
+    "dayaniklilik": 10.0
    }
   },
   {
@@ -345,10 +345,10 @@
    "etiketler": [],
    "aciklama": "Konumunu hep bilirsin.",
    "puan": {
-    "hayatta_kalma_faydasi": 8,
-    "cok_amaclilik": 6,
-    "hafiflik": 8,
-    "dayaniklilik": 7
+    "hayatta_kalma_faydasi": 8.8,
+    "cok_amaclilik": 7.6,
+    "hafiflik": 8.8,
+    "dayaniklilik": 8.2
    }
   },
   {
@@ -359,10 +359,10 @@
    "etiketler": [],
    "aciklama": "Hafif ve sağlam mutfak.",
    "puan": {
-    "hayatta_kalma_faydasi": 8,
-    "cok_amaclilik": 7,
-    "hafiflik": 9,
-    "dayaniklilik": 10
+    "hayatta_kalma_faydasi": 8.8,
+    "cok_amaclilik": 8.2,
+    "hafiflik": 9.4,
+    "dayaniklilik": 10.0
    }
   },
   {
@@ -373,10 +373,10 @@
    "etiketler": [],
    "aciklama": "Su ekle, sıcak yemek hazır.",
    "puan": {
-    "hayatta_kalma_faydasi": 9,
-    "cok_amaclilik": 3,
-    "hafiflik": 10,
-    "dayaniklilik": 8
+    "hayatta_kalma_faydasi": 9.4,
+    "cok_amaclilik": 5.8,
+    "hafiflik": 10.0,
+    "dayaniklilik": 8.8
    }
   },
   {
@@ -387,10 +387,10 @@
    "etiketler": [],
    "aciklama": "Cepte hızlı enerji.",
    "puan": {
-    "hayatta_kalma_faydasi": 8,
-    "cok_amaclilik": 3,
-    "hafiflik": 10,
-    "dayaniklilik": 7
+    "hayatta_kalma_faydasi": 8.8,
+    "cok_amaclilik": 5.8,
+    "hafiflik": 10.0,
+    "dayaniklilik": 8.2
    }
   },
   {
@@ -401,10 +401,10 @@
    "etiketler": [],
    "aciklama": "Dizleri korur, yolu kolaylaştırır.",
    "puan": {
-    "hayatta_kalma_faydasi": 6,
-    "cok_amaclilik": 7,
-    "hafiflik": 8,
-    "dayaniklilik": 8
+    "hayatta_kalma_faydasi": 7.6,
+    "cok_amaclilik": 8.2,
+    "hafiflik": 8.8,
+    "dayaniklilik": 8.8
    }
   },
   {
@@ -415,10 +415,10 @@
    "etiketler": [],
    "aciklama": "Ateş başında rahat oturuş.",
    "puan": {
-    "hayatta_kalma_faydasi": 3,
-    "cok_amaclilik": 4,
-    "hafiflik": 6,
-    "dayaniklilik": 7
+    "hayatta_kalma_faydasi": 5.8,
+    "cok_amaclilik": 6.4,
+    "hafiflik": 7.6,
+    "dayaniklilik": 8.2
    }
   },
   {
@@ -429,10 +429,10 @@
    "etiketler": [],
    "aciklama": "Ağaçlar arası uyku.",
    "puan": {
-    "hayatta_kalma_faydasi": 6,
-    "cok_amaclilik": 5,
-    "hafiflik": 9,
-    "dayaniklilik": 6
+    "hayatta_kalma_faydasi": 7.6,
+    "cok_amaclilik": 7.0,
+    "hafiflik": 9.4,
+    "dayaniklilik": 7.6
    }
   },
   {
@@ -443,10 +443,10 @@
    "etiketler": [],
    "aciklama": "Sıcağı sıcak tutar.",
    "puan": {
-    "hayatta_kalma_faydasi": 6,
-    "cok_amaclilik": 5,
-    "hafiflik": 6,
-    "dayaniklilik": 9
+    "hayatta_kalma_faydasi": 7.6,
+    "cok_amaclilik": 7.0,
+    "hafiflik": 7.6,
+    "dayaniklilik": 9.4
    }
   },
   {
@@ -457,10 +457,10 @@
    "etiketler": [],
    "aciklama": "Mikropları yok eder.",
    "puan": {
-    "hayatta_kalma_faydasi": 8,
-    "cok_amaclilik": 3,
-    "hafiflik": 10,
-    "dayaniklilik": 6
+    "hayatta_kalma_faydasi": 8.8,
+    "cok_amaclilik": 5.8,
+    "hafiflik": 10.0,
+    "dayaniklilik": 7.6
    }
   },
   {
@@ -471,10 +471,10 @@
    "etiketler": [],
    "aciklama": "Elektriksiz yumuşak ışık.",
    "puan": {
-    "hayatta_kalma_faydasi": 5,
-    "cok_amaclilik": 4,
-    "hafiflik": 7,
-    "dayaniklilik": 6
+    "hayatta_kalma_faydasi": 7.0,
+    "cok_amaclilik": 6.4,
+    "hafiflik": 8.2,
+    "dayaniklilik": 7.6
    }
   },
   {
@@ -485,10 +485,10 @@
    "etiketler": [],
    "aciklama": "Islanmayı önler.",
    "puan": {
-    "hayatta_kalma_faydasi": 7,
-    "cok_amaclilik": 6,
-    "hafiflik": 9,
-    "dayaniklilik": 6
+    "hayatta_kalma_faydasi": 8.2,
+    "cok_amaclilik": 7.6,
+    "hafiflik": 9.4,
+    "dayaniklilik": 7.6
    }
   },
   {
@@ -499,10 +499,10 @@
    "etiketler": [],
    "aciklama": "Cepte anında sıcaklık.",
    "puan": {
-    "hayatta_kalma_faydasi": 6,
-    "cok_amaclilik": 3,
-    "hafiflik": 10,
-    "dayaniklilik": 4
+    "hayatta_kalma_faydasi": 7.6,
+    "cok_amaclilik": 5.8,
+    "hafiflik": 10.0,
+    "dayaniklilik": 6.4
    }
   },
   {
@@ -513,10 +513,10 @@
    "etiketler": [],
    "aciklama": "Kazmak ve temizlemek için.",
    "puan": {
-    "hayatta_kalma_faydasi": 6,
-    "cok_amaclilik": 6,
-    "hafiflik": 7,
-    "dayaniklilik": 8
+    "hayatta_kalma_faydasi": 7.6,
+    "cok_amaclilik": 7.6,
+    "hafiflik": 8.2,
+    "dayaniklilik": 8.8
    }
   },
   {
@@ -527,10 +527,10 @@
    "etiketler": [],
    "aciklama": "Doğada taze kahve.",
    "puan": {
-    "hayatta_kalma_faydasi": 3,
-    "cok_amaclilik": 3,
-    "hafiflik": 8,
-    "dayaniklilik": 7
+    "hayatta_kalma_faydasi": 5.8,
+    "cok_amaclilik": 5.8,
+    "hafiflik": 8.8,
+    "dayaniklilik": 8.2
    }
   },
   {
@@ -541,10 +541,10 @@
    "etiketler": [],
    "aciklama": "Kamp ateşine müzik.",
    "puan": {
-    "hayatta_kalma_faydasi": 2,
-    "cok_amaclilik": 3,
-    "hafiflik": 7,
-    "dayaniklilik": 6
+    "hayatta_kalma_faydasi": 5.2,
+    "cok_amaclilik": 5.8,
+    "hafiflik": 8.2,
+    "dayaniklilik": 7.6
    }
   }
  ]

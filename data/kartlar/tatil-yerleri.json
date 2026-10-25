@@ -50,10 +50,10 @@
    "etiketler": [],
    "aciklama": "Gece hayatı, koylar ve beyaz evler.",
    "puan": {
-    "doga": 7,
-    "deniz_ve_eglence": 10,
-    "yemek": 8,
-    "ulasim_ve_fiyat": 6
+    "doga": 8.2,
+    "deniz_ve_eglence": 10.0,
+    "yemek": 8.8,
+    "ulasim_ve_fiyat": 7.6
    }
   },
   {
@@ -64,10 +64,10 @@
    "etiketler": [],
    "aciklama": "Kaleiçi, şelaleler ve uçsuz bucaksız plajlar.",
    "puan": {
-    "doga": 8,
-    "deniz_ve_eglence": 10,
-    "yemek": 8,
-    "ulasim_ve_fiyat": 8
+    "doga": 8.8,
+    "deniz_ve_eglence": 10.0,
+    "yemek": 8.8,
+    "ulasim_ve_fiyat": 8.8
    }
   },
   {
@@ -78,10 +78,10 @@
    "etiketler": [],
    "aciklama": "Yamaç paraşütü ve masmavi lagün.",
    "puan": {
-    "doga": 9,
-    "deniz_ve_eglence": 9,
-    "yemek": 7,
-    "ulasim_ve_fiyat": 7
+    "doga": 9.4,
+    "deniz_ve_eglence": 9.4,
+    "yemek": 8.2,
+    "ulasim_ve_fiyat": 8.2
    }
   },
   {
@@ -92,10 +92,10 @@
    "etiketler": [],
    "aciklama": "Dalış, koylar ve sakin sokaklar.",
    "puan": {
-    "doga": 9,
-    "deniz_ve_eglence": 8,
-    "yemek": 8,
-    "ulasim_ve_fiyat": 6
+    "doga": 9.4,
+    "deniz_ve_eglence": 8.8,
+    "yemek": 8.8,
+    "ulasim_ve_fiyat": 7.6
    }
   },
   {
@@ -106,10 +106,10 @@
    "etiketler": [],
    "aciklama": "Rüzgâr sörfü ve taş evler.",
    "puan": {
-    "doga": 6,
-    "deniz_ve_eglence": 9,
-    "yemek": 9,
-    "ulasim_ve_fiyat": 5
+    "doga": 7.6,
+    "deniz_ve_eglence": 9.4,
+    "yemek": 9.4,
+    "ulasim_ve_fiyat": 7.0
    }
   },
   {
@@ -120,10 +120,10 @@
    "etiketler": [],
    "aciklama": "Bağlar, rüzgâr ve sakin plajlar.",
    "puan": {
-    "doga": 7,
-    "deniz_ve_eglence": 7,
-    "yemek": 9,
-    "ulasim_ve_fiyat": 6
+    "doga": 8.2,
+    "deniz_ve_eglence": 8.2,
+    "yemek": 9.4,
+    "ulasim_ve_fiyat": 7.6
    }
   },
   {
@@ -134,10 +134,10 @@
    "etiketler": [],
    "aciklama": "Su üstü bungalovlar ve turkuaz deniz.",
    "puan": {
-    "doga": 9,
-    "deniz_ve_eglence": 9,
-    "yemek": 6,
-    "ulasim_ve_fiyat": 2
+    "doga": 9.4,
+    "deniz_ve_eglence": 9.4,
+    "yemek": 7.6,
+    "ulasim_ve_fiyat": 5.2
    }
   },
   {
@@ -148,10 +148,10 @@
    "etiketler": [],
    "aciklama": "Tapınaklar, pirinç terasları ve sörf.",
    "puan": {
-    "doga": 9,
-    "deniz_ve_eglence": 8,
-    "yemek": 8,
-    "ulasim_ve_fiyat": 5
+    "doga": 9.4,
+    "deniz_ve_eglence": 8.8,
+    "yemek": 8.8,
+    "ulasim_ve_fiyat": 7.0
    }
   },
   {
@@ -162,10 +162,10 @@
    "etiketler": [],
    "aciklama": "Mavi kubbeler ve ünlü gün batımı.",
    "puan": {
-    "doga": 7,
-    "deniz_ve_eglence": 8,
-    "yemek": 8,
-    "ulasim_ve_fiyat": 4
+    "doga": 8.2,
+    "deniz_ve_eglence": 8.8,
+    "yemek": 8.8,
+    "ulasim_ve_fiyat": 6.4
    }
   },
   {
@@ -176,10 +176,10 @@
    "etiketler": [],
    "aciklama": "Yel değirmenleri ve gece hayatı.",
    "puan": {
-    "doga": 6,
-    "deniz_ve_eglence": 10,
-    "yemek": 8,
-    "ulasim_ve_fiyat": 4
+    "doga": 7.6,
+    "deniz_ve_eglence": 10.0,
+    "yemek": 8.8,
+    "ulasim_ve_fiyat": 6.4
    }
   },
   {
@@ -190,10 +190,10 @@
    "etiketler": [],
    "aciklama": "Uçurumlara kurulu renkli kasabalar.",
    "puan": {
-    "doga": 9,
-    "deniz_ve_eglence": 8,
-    "yemek": 9,
-    "ulasim_ve_fiyat": 4
+    "doga": 9.4,
+    "deniz_ve_eglence": 8.8,
+    "yemek": 9.4,
+    "ulasim_ve_fiyat": 6.4
    }
   },
   {
@@ -204,10 +204,10 @@
    "etiketler": [],
    "aciklama": "Tayland'ın plaj ve eğlence adası.",
    "puan": {
-    "doga": 8,
-    "deniz_ve_eglence": 9,
-    "yemek": 8,
-    "ulasim_ve_fiyat": 6
+    "doga": 8.8,
+    "deniz_ve_eglence": 9.4,
+    "yemek": 8.8,
+    "ulasim_ve_fiyat": 7.6
    }
   },
   {
@@ -218,10 +218,10 @@
    "etiketler": [],
    "aciklama": "Pasifik'in en ünlü lagünü.",
    "puan": {
-    "doga": 10,
-    "deniz_ve_eglence": 8,
-    "yemek": 6,
-    "ulasim_ve_fiyat": 1
+    "doga": 10.0,
+    "deniz_ve_eglence": 8.8,
+    "yemek": 7.6,
+    "ulasim_ve_fiyat": 4.6
    }
   },
   {
@@ -232,10 +232,10 @@
    "etiketler": [],
    "aciklama": "Peri bacaları ve gün doğumunda balonlar.",
    "puan": {
-    "doga": 10,
-    "deniz_ve_eglence": 4,
-    "yemek": 8,
-    "ulasim_ve_fiyat": 7
+    "doga": 10.0,
+    "deniz_ve_eglence": 6.4,
+    "yemek": 8.8,
+    "ulasim_ve_fiyat": 8.2
    }
   },
   {
@@ -246,10 +246,10 @@
    "etiketler": [],
    "aciklama": "Bembeyaz travertenler ve antik havuz.",
    "puan": {
-    "doga": 9,
-    "deniz_ve_eglence": 5,
-    "yemek": 6,
-    "ulasim_ve_fiyat": 8
+    "doga": 9.4,
+    "deniz_ve_eglence": 7.0,
+    "yemek": 7.6,
+    "ulasim_ve_fiyat": 8.8
    }
   },
   {
@@ -260,10 +260,10 @@
    "etiketler": [],
    "aciklama": "Sisli yeşil yaylalar ve kaplıcalar.",
    "puan": {
-    "doga": 9,
-    "deniz_ve_eglence": 2,
-    "yemek": 8,
-    "ulasim_ve_fiyat": 7
+    "doga": 9.4,
+    "deniz_ve_eglence": 5.2,
+    "yemek": 8.8,
+    "ulasim_ve_fiyat": 8.2
    }
   },
   {
@@ -274,10 +274,10 @@
    "etiketler": [],
    "aciklama": "Karadeniz'in kartpostal gölü.",
    "puan": {
-    "doga": 9,
-    "deniz_ve_eglence": 2,
-    "yemek": 7,
-    "ulasim_ve_fiyat": 7
+    "doga": 9.4,
+    "deniz_ve_eglence": 5.2,
+    "yemek": 8.2,
+    "ulasim_ve_fiyat": 8.2
    }
   },
   {
@@ -288,10 +288,10 @@
    "etiketler": [],
    "aciklama": "Karlı zirveler ve tren yolculukları.",
    "puan": {
-    "doga": 10,
-    "deniz_ve_eglence": 5,
-    "yemek": 7,
-    "ulasim_ve_fiyat": 3
+    "doga": 10.0,
+    "deniz_ve_eglence": 7.0,
+    "yemek": 8.2,
+    "ulasim_ve_fiyat": 5.8
    }
   },
   {
@@ -302,10 +302,10 @@
    "etiketler": [],
    "aciklama": "Şelaleler, buzullar ve kuzey ışıkları.",
    "puan": {
-    "doga": 10,
-    "deniz_ve_eglence": 3,
-    "yemek": 5,
-    "ulasim_ve_fiyat": 3
+    "doga": 10.0,
+    "deniz_ve_eglence": 5.8,
+    "yemek": 7.0,
+    "ulasim_ve_fiyat": 5.8
    }
   },
   {
@@ -316,10 +316,10 @@
    "etiketler": [],
    "aciklama": "Boğaz, tarih ve bitmeyen lezzetler.",
    "puan": {
-    "doga": 5,
-    "deniz_ve_eglence": 7,
-    "yemek": 10,
-    "ulasim_ve_fiyat": 8
+    "doga": 7.0,
+    "deniz_ve_eglence": 8.2,
+    "yemek": 10.0,
+    "ulasim_ve_fiyat": 8.8
    }
   },
   {
@@ -330,10 +330,10 @@
    "etiketler": [],
    "aciklama": "Eyfel, Louvre ve kafeler.",
    "puan": {
-    "doga": 4,
-    "deniz_ve_eglence": 7,
-    "yemek": 9,
-    "ulasim_ve_fiyat": 5
+    "doga": 6.4,
+    "deniz_ve_eglence": 8.2,
+    "yemek": 9.4,
+    "ulasim_ve_fiyat": 7.0
    }
   },
   {
@@ -344,10 +344,10 @@
    "etiketler": [],
    "aciklama": "Kolezyum, çeşmeler ve makarna.",
    "puan": {
-    "doga": 4,
-    "deniz_ve_eglence": 6,
-    "yemek": 10,
-    "ulasim_ve_fiyat": 5
+    "doga": 6.4,
+    "deniz_ve_eglence": 7.6,
+    "yemek": 10.0,
+    "ulasim_ve_fiyat": 7.0
    }
   },
   {
@@ -358,10 +358,10 @@
    "etiketler": [],
    "aciklama": "Gaudí, plaj ve tapas.",
    "puan": {
-    "doga": 5,
-    "deniz_ve_eglence": 9,
-    "yemek": 9,
-    "ulasim_ve_fiyat": 5
+    "doga": 7.0,
+    "deniz_ve_eglence": 9.4,
+    "yemek": 9.4,
+    "ulasim_ve_fiyat": 7.0
    }
   },
   {
@@ -372,10 +372,10 @@
    "etiketler": [],
    "aciklama": "Teknoloji, tapınaklar ve ramen.",
    "puan": {
-    "doga": 5,
-    "deniz_ve_eglence": 7,
-    "yemek": 10,
-    "ulasim_ve_fiyat": 3
+    "doga": 7.0,
+    "deniz_ve_eglence": 8.2,
+    "yemek": 10.0,
+    "ulasim_ve_fiyat": 5.8
    }
   },
   {
@@ -386,10 +386,10 @@
    "etiketler": [],
    "aciklama": "Gökdelenler, müzeler ve Broadway.",
    "puan": {
-    "doga": 4,
-    "deniz_ve_eglence": 9,
-    "yemek": 9,
-    "ulasim_ve_fiyat": 3
+    "doga": 6.4,
+    "deniz_ve_eglence": 9.4,
+    "yemek": 9.4,
+    "ulasim_ve_fiyat": 5.8
    }
   },
   {
@@ -400,10 +400,10 @@
    "etiketler": [],
    "aciklama": "Ilıcalar, koylar ve kumsallar.",
    "puan": {
-    "doga": 7,
-    "deniz_ve_eglence": 9,
-    "yemek": 8,
-    "ulasim_ve_fiyat": 6
+    "doga": 8.2,
+    "deniz_ve_eglence": 9.4,
+    "yemek": 8.8,
+    "ulasim_ve_fiyat": 7.6
    }
   },
   {
@@ -414,10 +414,10 @@
    "etiketler": [],
    "aciklama": "Plajlar ve eğlence yakınında.",
    "puan": {
-    "doga": 7,
-    "deniz_ve_eglence": 8,
-    "yemek": 8,
-    "ulasim_ve_fiyat": 7
+    "doga": 8.2,
+    "deniz_ve_eglence": 8.8,
+    "yemek": 8.8,
+    "ulasim_ve_fiyat": 8.2
    }
   },
   {
@@ -428,10 +428,10 @@
    "etiketler": [],
    "aciklama": "Türkiye'nin en büyük adası, sakin ve doğal.",
    "puan": {
-    "doga": 8,
-    "deniz_ve_eglence": 6,
-    "yemek": 7,
-    "ulasim_ve_fiyat": 6
+    "doga": 8.8,
+    "deniz_ve_eglence": 7.6,
+    "yemek": 8.2,
+    "ulasim_ve_fiyat": 7.6
    }
   },
   {
@@ -442,10 +442,10 @@
    "etiketler": [],
    "aciklama": "Buz gibi suyuyla kanyon yürüyüşü.",
    "puan": {
-    "doga": 9,
-    "deniz_ve_eglence": 5,
-    "yemek": 6,
-    "ulasim_ve_fiyat": 7
+    "doga": 9.4,
+    "deniz_ve_eglence": 7.0,
+    "yemek": 7.6,
+    "ulasim_ve_fiyat": 8.2
    }
   },
   {
@@ -456,10 +456,10 @@
    "etiketler": [],
    "aciklama": "Oksijen deposu yeşil dağlar.",
    "puan": {
-    "doga": 9,
-    "deniz_ve_eglence": 3,
-    "yemek": 7,
-    "ulasim_ve_fiyat": 8
+    "doga": 9.4,
+    "deniz_ve_eglence": 5.8,
+    "yemek": 8.2,
+    "ulasim_ve_fiyat": 8.8
    }
   },
   {
@@ -470,10 +470,10 @@
    "etiketler": [],
    "aciklama": "Sonbaharda renk cümbüşü.",
    "puan": {
-    "doga": 9,
-    "deniz_ve_eglence": 1,
-    "yemek": 4,
-    "ulasim_ve_fiyat": 7
+    "doga": 9.4,
+    "deniz_ve_eglence": 4.6,
+    "yemek": 6.4,
+    "ulasim_ve_fiyat": 8.2
    }
   },
   {
@@ -484,10 +484,10 @@
    "etiketler": [],
    "aciklama": "Taş evler ve Mezopotamya manzarası.",
    "puan": {
-    "doga": 5,
-    "deniz_ve_eglence": 2,
-    "yemek": 9,
-    "ulasim_ve_fiyat": 7
+    "doga": 7.0,
+    "deniz_ve_eglence": 5.2,
+    "yemek": 9.4,
+    "ulasim_ve_fiyat": 8.2
    }
   },
   {
@@ -498,10 +498,10 @@
    "etiketler": [],
    "aciklama": "Osmanlı konakları ve lokumu.",
    "puan": {
-    "doga": 6,
-    "deniz_ve_eglence": 2,
-    "yemek": 8,
-    "ulasim_ve_fiyat": 7
+    "doga": 7.6,
+    "deniz_ve_eglence": 5.2,
+    "yemek": 8.8,
+    "ulasim_ve_fiyat": 8.2
    }
   },
   {
@@ -512,10 +512,10 @@
    "etiketler": [],
    "aciklama": "Masal gibi köprüler ve kuleler.",
    "puan": {
-    "doga": 4,
-    "deniz_ve_eglence": 6,
-    "yemek": 8,
-    "ulasim_ve_fiyat": 7
+    "doga": 6.4,
+    "deniz_ve_eglence": 7.6,
+    "yemek": 8.8,
+    "ulasim_ve_fiyat": 8.2
    }
   },
   {
@@ -526,10 +526,10 @@
    "etiketler": [],
    "aciklama": "Kanallar ve bisikletler.",
    "puan": {
-    "doga": 4,
-    "deniz_ve_eglence": 7,
-    "yemek": 7,
-    "ulasim_ve_fiyat": 5
+    "doga": 6.4,
+    "deniz_ve_eglence": 8.2,
+    "yemek": 8.2,
+    "ulasim_ve_fiyat": 7.0
    }
   }
  ]

@@ -50,10 +50,10 @@
    "etiketler": [],
    "aciklama": "Batan gemide unutulmaz bir aşk; Oscar rekortmeni.",
    "puan": {
-    "gise": 10,
-    "efsanelik": 10,
-    "oduller": 10,
-    "tekrar_izlenme": 7
+    "gise": 10.0,
+    "efsanelik": 10.0,
+    "oduller": 10.0,
+    "tekrar_izlenme": 8.2
    }
   },
   {
@@ -64,10 +64,10 @@
    "etiketler": [],
    "aciklama": "Corleone ailesi; sinemanın zirvesi.",
    "puan": {
-    "gise": 8,
-    "efsanelik": 10,
-    "oduller": 10,
-    "tekrar_izlenme": 8
+    "gise": 8.8,
+    "efsanelik": 10.0,
+    "oduller": 10.0,
+    "tekrar_izlenme": 8.8
    }
   },
   {
@@ -78,10 +78,10 @@
    "etiketler": [],
    "aciklama": "Umut ve dostluk üzerine en sevilen filmlerden.",
    "puan": {
-    "gise": 6,
-    "efsanelik": 10,
-    "oduller": 7,
-    "tekrar_izlenme": 10
+    "gise": 7.6,
+    "efsanelik": 10.0,
+    "oduller": 8.2,
+    "tekrar_izlenme": 10.0
    }
   },
   {
@@ -92,10 +92,10 @@
    "etiketler": [],
    "aciklama": "Hayat bir kutu çikolata gibidir.",
    "puan": {
-    "gise": 9,
-    "efsanelik": 9,
-    "oduller": 10,
-    "tekrar_izlenme": 9
+    "gise": 9.4,
+    "efsanelik": 9.4,
+    "oduller": 10.0,
+    "tekrar_izlenme": 9.4
    }
   },
   {
@@ -106,10 +106,10 @@
    "etiketler": [],
    "aciklama": "Holokost'ta bin kişiyi kurtaran adamın hikâyesi.",
    "puan": {
-    "gise": 7,
-    "efsanelik": 10,
-    "oduller": 10,
-    "tekrar_izlenme": 6
+    "gise": 8.2,
+    "efsanelik": 10.0,
+    "oduller": 10.0,
+    "tekrar_izlenme": 7.6
    }
   },
   {
@@ -120,10 +120,10 @@
    "etiketler": [],
    "aciklama": "Ağlatan baba oğul hikâyesi.",
    "puan": {
-    "gise": 8,
-    "efsanelik": 9,
-    "oduller": 6,
-    "tekrar_izlenme": 7
+    "gise": 8.8,
+    "efsanelik": 9.4,
+    "oduller": 7.6,
+    "tekrar_izlenme": 8.2
    }
   },
   {
@@ -134,10 +134,10 @@
    "etiketler": [],
    "aciklama": "Yıllar sonra hapisten çıkan eşkıyanın İstanbul'u.",
    "puan": {
-    "gise": 7,
-    "efsanelik": 9,
-    "oduller": 6,
-    "tekrar_izlenme": 7
+    "gise": 8.2,
+    "efsanelik": 9.4,
+    "oduller": 7.6,
+    "tekrar_izlenme": 8.2
    }
   },
   {
@@ -148,10 +148,10 @@
    "etiketler": [],
    "aciklama": "Batman ve Joker'in efsane karşılaşması.",
    "puan": {
-    "gise": 10,
-    "efsanelik": 10,
-    "oduller": 8,
-    "tekrar_izlenme": 9
+    "gise": 10.0,
+    "efsanelik": 10.0,
+    "oduller": 8.8,
+    "tekrar_izlenme": 9.4
    }
   },
   {
@@ -162,10 +162,10 @@
    "etiketler": [],
    "aciklama": "Generalden gladyatöre bir intikam hikâyesi.",
    "puan": {
-    "gise": 9,
-    "efsanelik": 9,
-    "oduller": 9,
-    "tekrar_izlenme": 8
+    "gise": 9.4,
+    "efsanelik": 9.4,
+    "oduller": 9.4,
+    "tekrar_izlenme": 8.8
    }
   },
   {
@@ -176,10 +176,10 @@
    "etiketler": [],
    "aciklama": "Süper kahraman destanının büyük finali.",
    "puan": {
-    "gise": 10,
-    "efsanelik": 8,
-    "oduller": 5,
-    "tekrar_izlenme": 7
+    "gise": 10.0,
+    "efsanelik": 8.8,
+    "oduller": 7.0,
+    "tekrar_izlenme": 8.2
    }
   },
   {
@@ -190,10 +190,10 @@
    "etiketler": [],
    "aciklama": "İç içe geçmiş suç hikâyeleri.",
    "puan": {
-    "gise": 7,
-    "efsanelik": 10,
-    "oduller": 8,
-    "tekrar_izlenme": 8
+    "gise": 8.2,
+    "efsanelik": 10.0,
+    "oduller": 8.8,
+    "tekrar_izlenme": 8.8
    }
   },
   {
@@ -204,10 +204,10 @@
    "etiketler": [],
    "aciklama": "Orta Dünya'da Tek Yüzük'ü yok etme yolculuğu.",
    "puan": {
-    "gise": 9,
-    "efsanelik": 10,
-    "oduller": 10,
-    "tekrar_izlenme": 9
+    "gise": 9.4,
+    "efsanelik": 10.0,
+    "oduller": 10.0,
+    "tekrar_izlenme": 9.4
    }
   },
   {
@@ -218,10 +218,10 @@
    "etiketler": [],
    "aciklama": "Kırmızı hap mı mavi hap mı?",
    "puan": {
-    "gise": 9,
-    "efsanelik": 10,
-    "oduller": 7,
-    "tekrar_izlenme": 9
+    "gise": 9.4,
+    "efsanelik": 10.0,
+    "oduller": 8.2,
+    "tekrar_izlenme": 9.4
    }
   },
   {
@@ -232,10 +232,10 @@
    "etiketler": [],
    "aciklama": "Uzak bir galakside başlayan efsane seri.",
    "puan": {
-    "gise": 10,
-    "efsanelik": 10,
-    "oduller": 8,
-    "tekrar_izlenme": 8
+    "gise": 10.0,
+    "efsanelik": 10.0,
+    "oduller": 8.8,
+    "tekrar_izlenme": 8.8
    }
   },
   {
@@ -246,10 +246,10 @@
    "etiketler": [],
    "aciklama": "Pandora'da geçen gişe rekortmeni.",
    "puan": {
-    "gise": 10,
-    "efsanelik": 8,
-    "oduller": 7,
-    "tekrar_izlenme": 6
+    "gise": 10.0,
+    "efsanelik": 8.8,
+    "oduller": 8.2,
+    "tekrar_izlenme": 7.6
    }
   },
   {
@@ -260,10 +260,10 @@
    "etiketler": [],
    "aciklama": "Rüya içinde rüya.",
    "puan": {
-    "gise": 9,
-    "efsanelik": 9,
-    "oduller": 8,
-    "tekrar_izlenme": 8
+    "gise": 9.4,
+    "efsanelik": 9.4,
+    "oduller": 8.8,
+    "tekrar_izlenme": 8.8
    }
   },
   {
@@ -274,10 +274,10 @@
    "etiketler": [],
    "aciklama": "Zaman ve uzayın ötesine yolculuk.",
    "puan": {
-    "gise": 9,
-    "efsanelik": 9,
-    "oduller": 7,
-    "tekrar_izlenme": 8
+    "gise": 9.4,
+    "efsanelik": 9.4,
+    "oduller": 8.2,
+    "tekrar_izlenme": 8.8
    }
   },
   {
@@ -288,10 +288,10 @@
    "etiketler": [],
    "aciklama": "Dinozorlar yeniden canlanıyor.",
    "puan": {
-    "gise": 10,
-    "efsanelik": 9,
-    "oduller": 7,
-    "tekrar_izlenme": 8
+    "gise": 10.0,
+    "efsanelik": 9.4,
+    "oduller": 8.2,
+    "tekrar_izlenme": 8.8
    }
   },
   {
@@ -302,10 +302,10 @@
    "etiketler": [],
    "aciklama": "DeLorean ile zaman yolculuğu.",
    "puan": {
-    "gise": 9,
-    "efsanelik": 10,
-    "oduller": 6,
-    "tekrar_izlenme": 9
+    "gise": 9.4,
+    "efsanelik": 10.0,
+    "oduller": 7.6,
+    "tekrar_izlenme": 9.4
    }
   },
   {
@@ -316,10 +316,10 @@
    "etiketler": [],
    "aciklama": "Hogwarts'a ilk adım.",
    "puan": {
-    "gise": 10,
-    "efsanelik": 9,
-    "oduller": 6,
-    "tekrar_izlenme": 9
+    "gise": 10.0,
+    "efsanelik": 9.4,
+    "oduller": 7.6,
+    "tekrar_izlenme": 9.4
    }
   },
   {
@@ -330,10 +330,10 @@
    "etiketler": [],
    "aciklama": "Yeşilçam'ın tekrar tekrar izlenen kült komedisi.",
    "puan": {
-    "gise": 8,
-    "efsanelik": 10,
-    "oduller": 6,
-    "tekrar_izlenme": 10
+    "gise": 8.8,
+    "efsanelik": 10.0,
+    "oduller": 7.6,
+    "tekrar_izlenme": 10.0
    }
   },
   {
@@ -344,10 +344,10 @@
    "etiketler": [],
    "aciklama": "Uzaylılarla dolu kült Türk komedisi.",
    "puan": {
-    "gise": 8,
-    "efsanelik": 9,
-    "oduller": 4,
-    "tekrar_izlenme": 10
+    "gise": 8.8,
+    "efsanelik": 9.4,
+    "oduller": 6.4,
+    "tekrar_izlenme": 10.0
    }
   },
   {
@@ -358,10 +358,10 @@
    "etiketler": [],
    "aciklama": "Köye televizyonun gelişi.",
    "puan": {
-    "gise": 8,
-    "efsanelik": 9,
-    "oduller": 5,
-    "tekrar_izlenme": 9
+    "gise": 8.8,
+    "efsanelik": 9.4,
+    "oduller": 7.0,
+    "tekrar_izlenme": 9.4
    }
   },
   {
@@ -372,10 +372,10 @@
    "etiketler": [],
    "aciklama": "Simba'nın hikâyesi ve unutulmaz müzikleri.",
    "puan": {
-    "gise": 10,
-    "efsanelik": 10,
-    "oduller": 8,
-    "tekrar_izlenme": 10
+    "gise": 10.0,
+    "efsanelik": 10.0,
+    "oduller": 8.8,
+    "tekrar_izlenme": 10.0
    }
   },
   {
@@ -386,10 +386,10 @@
    "etiketler": [],
    "aciklama": "Oyuncakların gizli dünyası.",
    "puan": {
-    "gise": 9,
-    "efsanelik": 9,
-    "oduller": 8,
-    "tekrar_izlenme": 8
+    "gise": 9.4,
+    "efsanelik": 9.4,
+    "oduller": 8.8,
+    "tekrar_izlenme": 8.8
    }
   },
   {
@@ -400,10 +400,10 @@
    "etiketler": [],
    "aciklama": "Bir kötü karakterin doğuşu.",
    "puan": {
-    "gise": 9,
-    "efsanelik": 8,
-    "oduller": 8,
-    "tekrar_izlenme": 6
+    "gise": 9.4,
+    "efsanelik": 8.8,
+    "oduller": 8.8,
+    "tekrar_izlenme": 7.6
    }
   },
   {
@@ -414,10 +414,10 @@
    "etiketler": [],
    "aciklama": "Bir boksörün hayallerine tutunması.",
    "puan": {
-    "gise": 7,
-    "efsanelik": 9,
-    "oduller": 9,
-    "tekrar_izlenme": 7
+    "gise": 8.2,
+    "efsanelik": 9.4,
+    "oduller": 9.4,
+    "tekrar_izlenme": 8.2
    }
   },
   {
@@ -428,10 +428,10 @@
    "etiketler": [],
    "aciklama": "Dördüncü duvarı yıkan antikahraman.",
    "puan": {
-    "gise": 9,
-    "efsanelik": 7,
-    "oduller": 3,
-    "tekrar_izlenme": 7
+    "gise": 9.4,
+    "efsanelik": 8.2,
+    "oduller": 5.8,
+    "tekrar_izlenme": 8.2
    }
   },
   {
@@ -442,10 +442,10 @@
    "etiketler": [],
    "aciklama": "Arabalar, aile ve fizik kurallarını zorlayan sahneler.",
    "puan": {
-    "gise": 9,
-    "efsanelik": 7,
-    "oduller": 2,
-    "tekrar_izlenme": 7
+    "gise": 9.4,
+    "efsanelik": 8.2,
+    "oduller": 5.2,
+    "tekrar_izlenme": 8.2
    }
   },
   {
@@ -456,10 +456,10 @@
    "etiketler": [],
    "aciklama": "Kaptan Jack Sparrow'un maceraları.",
    "puan": {
-    "gise": 9,
-    "efsanelik": 8,
-    "oduller": 4,
-    "tekrar_izlenme": 8
+    "gise": 9.4,
+    "efsanelik": 8.8,
+    "oduller": 6.4,
+    "tekrar_izlenme": 8.8
    }
   },
   {
@@ -470,10 +470,10 @@
    "etiketler": [],
    "aciklama": "Gişe rekorları kıran komedi serisi.",
    "puan": {
-    "gise": 9,
-    "efsanelik": 7,
-    "oduller": 2,
-    "tekrar_izlenme": 6
+    "gise": 9.4,
+    "efsanelik": 8.2,
+    "oduller": 5.2,
+    "tekrar_izlenme": 7.6
    }
   },
   {
@@ -484,10 +484,10 @@
    "etiketler": [],
    "aciklama": "Yılbaşı klasiği; evi hırsızlardan korumak.",
    "puan": {
-    "gise": 8,
-    "efsanelik": 9,
-    "oduller": 3,
-    "tekrar_izlenme": 10
+    "gise": 8.8,
+    "efsanelik": 9.4,
+    "oduller": 5.8,
+    "tekrar_izlenme": 10.0
    }
   },
   {
@@ -498,10 +498,10 @@
    "etiketler": [],
    "aciklama": "Maskeyi takınca çılgına dönen adam.",
    "puan": {
-    "gise": 8,
-    "efsanelik": 8,
-    "oduller": 3,
-    "tekrar_izlenme": 8
+    "gise": 8.8,
+    "efsanelik": 8.8,
+    "oduller": 5.8,
+    "tekrar_izlenme": 8.8
    }
   },
   {
@@ -512,10 +512,10 @@
    "etiketler": [],
    "aciklama": "Bataklıktaki yeşil devin masalları ters yüz edişi.",
    "puan": {
-    "gise": 9,
-    "efsanelik": 8,
-    "oduller": 6,
-    "tekrar_izlenme": 9
+    "gise": 9.4,
+    "efsanelik": 8.8,
+    "oduller": 7.6,
+    "tekrar_izlenme": 9.4
    }
   },
   {
@@ -526,10 +526,10 @@
    "etiketler": [],
    "aciklama": "Mamut, tembel hayvan ve kaplan buzul çağında.",
    "puan": {
-    "gise": 9,
-    "efsanelik": 7,
-    "oduller": 3,
-    "tekrar_izlenme": 8
+    "gise": 9.4,
+    "efsanelik": 8.2,
+    "oduller": 5.8,
+    "tekrar_izlenme": 8.8
    }
   }
  ]

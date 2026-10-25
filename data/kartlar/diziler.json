@@ -49,10 +49,10 @@
    "etiketler": [],
    "aciklama": "Kimya öğretmeninin suç dünyasına dönüşümü.",
    "puan": {
-    "hikaye": 10,
-    "reyting": 9,
-    "efsanelik": 10,
-    "tekrar_izlenme": 8
+    "hikaye": 10.0,
+    "reyting": 9.4,
+    "efsanelik": 10.0,
+    "tekrar_izlenme": 8.8
    }
   },
   {
@@ -63,10 +63,10 @@
    "etiketler": [],
    "aciklama": "Mafya babasının terapi seansları.",
    "puan": {
-    "hikaye": 10,
-    "reyting": 8,
-    "efsanelik": 10,
-    "tekrar_izlenme": 8
+    "hikaye": 10.0,
+    "reyting": 8.8,
+    "efsanelik": 10.0,
+    "tekrar_izlenme": 8.8
    }
   },
   {
@@ -77,10 +77,10 @@
    "etiketler": [],
    "aciklama": "Polat Alemdar; Türk dizilerinin en efsanelerinden.",
    "puan": {
-    "hikaye": 8,
-    "reyting": 10,
-    "efsanelik": 9,
-    "tekrar_izlenme": 7
+    "hikaye": 8.8,
+    "reyting": 10.0,
+    "efsanelik": 9.4,
+    "tekrar_izlenme": 8.2
    }
   },
   {
@@ -91,10 +91,10 @@
    "etiketler": [],
    "aciklama": "Dövmedeki planla hapisten kaçış.",
    "puan": {
-    "hikaye": 8,
-    "reyting": 9,
-    "efsanelik": 9,
-    "tekrar_izlenme": 7
+    "hikaye": 8.8,
+    "reyting": 9.4,
+    "efsanelik": 9.4,
+    "tekrar_izlenme": 8.2
    }
   },
   {
@@ -105,10 +105,10 @@
    "etiketler": [],
    "aciklama": "Profesör ve darphane soygunu.",
    "puan": {
-    "hikaye": 8,
-    "reyting": 9,
-    "efsanelik": 8,
-    "tekrar_izlenme": 6
+    "hikaye": 8.8,
+    "reyting": 9.4,
+    "efsanelik": 8.8,
+    "tekrar_izlenme": 7.6
    }
   },
   {
@@ -119,10 +119,10 @@
    "etiketler": [],
    "aciklama": "Modern Londra'da dâhi dedektif.",
    "puan": {
-    "hikaye": 9,
-    "reyting": 8,
-    "efsanelik": 9,
-    "tekrar_izlenme": 8
+    "hikaye": 9.4,
+    "reyting": 8.8,
+    "efsanelik": 9.4,
+    "tekrar_izlenme": 8.8
    }
   },
   {
@@ -133,10 +133,10 @@
    "etiketler": [],
    "aciklama": "Ankara'nın sert ve kendine özgü komiseri.",
    "puan": {
-    "hikaye": 9,
-    "reyting": 7,
-    "efsanelik": 9,
-    "tekrar_izlenme": 8
+    "hikaye": 9.4,
+    "reyting": 8.2,
+    "efsanelik": 9.4,
+    "tekrar_izlenme": 8.8
    }
   },
   {
@@ -147,10 +147,10 @@
    "etiketler": [],
    "aciklama": "Birmingham'ın şapkalı çetesi.",
    "puan": {
-    "hikaye": 9,
-    "reyting": 8,
-    "efsanelik": 9,
-    "tekrar_izlenme": 8
+    "hikaye": 9.4,
+    "reyting": 8.8,
+    "efsanelik": 9.4,
+    "tekrar_izlenme": 8.8
    }
   },
   {
@@ -161,10 +161,10 @@
    "etiketler": [],
    "aciklama": "Gizli bir hayat süren adli tıp uzmanı.",
    "puan": {
-    "hikaye": 8,
-    "reyting": 8,
-    "efsanelik": 8,
-    "tekrar_izlenme": 7
+    "hikaye": 8.8,
+    "reyting": 8.8,
+    "efsanelik": 8.8,
+    "tekrar_izlenme": 8.2
    }
   },
   {
@@ -175,10 +175,10 @@
    "etiketler": [],
    "aciklama": "Demir Taht için savaşan haneler.",
    "puan": {
-    "hikaye": 9,
-    "reyting": 10,
-    "efsanelik": 10,
-    "tekrar_izlenme": 7
+    "hikaye": 9.4,
+    "reyting": 10.0,
+    "efsanelik": 10.0,
+    "tekrar_izlenme": 8.2
    }
   },
   {
@@ -189,10 +189,10 @@
    "etiketler": [],
    "aciklama": "80'ler havasında doğaüstü macera.",
    "puan": {
-    "hikaye": 8,
-    "reyting": 10,
-    "efsanelik": 9,
-    "tekrar_izlenme": 7
+    "hikaye": 8.8,
+    "reyting": 10.0,
+    "efsanelik": 9.4,
+    "tekrar_izlenme": 8.2
    }
   },
   {
@@ -203,10 +203,10 @@
    "etiketler": [],
    "aciklama": "Zaman yolculuğuyla iç içe aile sırları.",
    "puan": {
-    "hikaye": 10,
-    "reyting": 7,
-    "efsanelik": 8,
-    "tekrar_izlenme": 7
+    "hikaye": 10.0,
+    "reyting": 8.2,
+    "efsanelik": 8.8,
+    "tekrar_izlenme": 8.2
    }
   },
   {
@@ -217,10 +217,10 @@
    "etiketler": [],
    "aciklama": "Teknolojinin karanlık yüzü.",
    "puan": {
-    "hikaye": 10,
-    "reyting": 7,
-    "efsanelik": 9,
-    "tekrar_izlenme": 7
+    "hikaye": 10.0,
+    "reyting": 8.2,
+    "efsanelik": 9.4,
+    "tekrar_izlenme": 8.2
    }
   },
   {
@@ -231,10 +231,10 @@
    "etiketler": [],
    "aciklama": "İntikam, ihanet ve unutulmaz replikler.",
    "puan": {
-    "hikaye": 10,
-    "reyting": 9,
-    "efsanelik": 9,
-    "tekrar_izlenme": 8
+    "hikaye": 10.0,
+    "reyting": 9.4,
+    "efsanelik": 9.4,
+    "tekrar_izlenme": 8.8
    }
   },
   {
@@ -245,10 +245,10 @@
    "etiketler": [],
    "aciklama": "Kanuni dönemi saray hikâyesi.",
    "puan": {
-    "hikaye": 8,
-    "reyting": 10,
-    "efsanelik": 9,
-    "tekrar_izlenme": 6
+    "hikaye": 8.8,
+    "reyting": 10.0,
+    "efsanelik": 9.4,
+    "tekrar_izlenme": 7.6
    }
   },
   {
@@ -259,10 +259,10 @@
    "etiketler": [],
    "aciklama": "Bir ailenin dağılışını anlatan klasik.",
    "puan": {
-    "hikaye": 8,
-    "reyting": 9,
-    "efsanelik": 8,
-    "tekrar_izlenme": 6
+    "hikaye": 8.8,
+    "reyting": 9.4,
+    "efsanelik": 8.8,
+    "tekrar_izlenme": 7.6
    }
   },
   {
@@ -273,10 +273,10 @@
    "etiketler": [],
    "aciklama": "Reyting rekoru kıran yasak aşk hikâyesi.",
    "puan": {
-    "hikaye": 8,
-    "reyting": 10,
-    "efsanelik": 8,
-    "tekrar_izlenme": 6
+    "hikaye": 8.8,
+    "reyting": 10.0,
+    "efsanelik": 8.8,
+    "tekrar_izlenme": 7.6
    }
   },
   {
@@ -287,10 +287,10 @@
    "etiketler": [],
    "aciklama": "Nükleer felaketi anlatan çarpıcı mini dizi.",
    "puan": {
-    "hikaye": 10,
-    "reyting": 8,
-    "efsanelik": 9,
-    "tekrar_izlenme": 7
+    "hikaye": 10.0,
+    "reyting": 8.8,
+    "efsanelik": 9.4,
+    "tekrar_izlenme": 8.2
    }
   },
   {
@@ -301,10 +301,10 @@
    "etiketler": [],
    "aciklama": "Altı arkadaşın New York hikâyesi.",
    "puan": {
-    "hikaye": 8,
-    "reyting": 10,
-    "efsanelik": 10,
-    "tekrar_izlenme": 10
+    "hikaye": 8.8,
+    "reyting": 10.0,
+    "efsanelik": 10.0,
+    "tekrar_izlenme": 10.0
    }
   },
   {
@@ -315,10 +315,10 @@
    "etiketler": [],
    "aciklama": "Ofis hayatının en komik hali.",
    "puan": {
-    "hikaye": 8,
-    "reyting": 8,
-    "efsanelik": 9,
-    "tekrar_izlenme": 10
+    "hikaye": 8.8,
+    "reyting": 8.8,
+    "efsanelik": 9.4,
+    "tekrar_izlenme": 10.0
    }
   },
   {
@@ -329,10 +329,10 @@
    "etiketler": [],
    "aciklama": "Bitmeyen esprileriyle defalarca izlenen komedi.",
    "puan": {
-    "hikaye": 8,
-    "reyting": 9,
-    "efsanelik": 9,
-    "tekrar_izlenme": 10
+    "hikaye": 8.8,
+    "reyting": 9.4,
+    "efsanelik": 9.4,
+    "tekrar_izlenme": 10.0
    }
   },
   {
@@ -343,10 +343,10 @@
    "etiketler": [],
    "aciklama": "Absürt mizahıyla kült olmuş dizi.",
    "puan": {
-    "hikaye": 9,
-    "reyting": 7,
-    "efsanelik": 10,
-    "tekrar_izlenme": 10
+    "hikaye": 9.4,
+    "reyting": 8.2,
+    "efsanelik": 10.0,
+    "tekrar_izlenme": 10.0
    }
   },
   {
@@ -357,10 +357,10 @@
    "etiketler": [],
    "aciklama": "Absürt diyaloglarıyla yeni nesil kült.",
    "puan": {
-    "hikaye": 9,
-    "reyting": 7,
-    "efsanelik": 8,
-    "tekrar_izlenme": 9
+    "hikaye": 9.4,
+    "reyting": 8.2,
+    "efsanelik": 8.8,
+    "tekrar_izlenme": 9.4
    }
   },
   {
@@ -371,10 +371,10 @@
    "etiketler": [],
    "aciklama": "Karadeniz'de bir otel ve unutulmaz karakterler.",
    "puan": {
-    "hikaye": 7,
-    "reyting": 8,
-    "efsanelik": 8,
-    "tekrar_izlenme": 9
+    "hikaye": 8.2,
+    "reyting": 8.8,
+    "efsanelik": 8.8,
+    "tekrar_izlenme": 9.4
    }
   },
   {
@@ -385,10 +385,10 @@
    "etiketler": [],
    "aciklama": "Dâhi ama sosyal açıdan zorlanan bilim insanları.",
    "puan": {
-    "hikaye": 7,
-    "reyting": 9,
-    "efsanelik": 8,
-    "tekrar_izlenme": 9
+    "hikaye": 8.2,
+    "reyting": 9.4,
+    "efsanelik": 8.8,
+    "tekrar_izlenme": 9.4
    }
   },
   {
@@ -399,10 +399,10 @@
    "etiketler": [],
    "aciklama": "Bir mahallenin ve ailenin mücadelesi.",
    "puan": {
-    "hikaye": 7,
-    "reyting": 9,
-    "efsanelik": 7,
-    "tekrar_izlenme": 6
+    "hikaye": 8.2,
+    "reyting": 9.4,
+    "efsanelik": 8.2,
+    "tekrar_izlenme": 7.6
    }
   },
   {
@@ -413,10 +413,10 @@
    "etiketler": [],
    "aciklama": "Çocuk oyunlarıyla ölümcül yarışma.",
    "puan": {
-    "hikaye": 7,
-    "reyting": 10,
-    "efsanelik": 7,
-    "tekrar_izlenme": 5
+    "hikaye": 8.2,
+    "reyting": 10.0,
+    "efsanelik": 8.2,
+    "tekrar_izlenme": 7.0
    }
   },
   {
@@ -427,10 +427,10 @@
    "etiketler": [],
    "aciklama": "Yıllarca ekranda kalan polis dizisi.",
    "puan": {
-    "hikaye": 6,
-    "reyting": 8,
-    "efsanelik": 7,
-    "tekrar_izlenme": 6
+    "hikaye": 7.6,
+    "reyting": 8.8,
+    "efsanelik": 8.2,
+    "tekrar_izlenme": 7.6
    }
   },
   {
@@ -441,10 +441,10 @@
    "etiketler": [],
    "aciklama": "Zombi kıyametinde hayatta kalma.",
    "puan": {
-    "hikaye": 7,
-    "reyting": 8,
-    "efsanelik": 7,
-    "tekrar_izlenme": 5
+    "hikaye": 8.2,
+    "reyting": 8.8,
+    "efsanelik": 8.2,
+    "tekrar_izlenme": 7.0
    }
   },
   {
@@ -455,10 +455,10 @@
    "etiketler": [],
    "aciklama": "Gizemli bir adaya düşen yolcular.",
    "puan": {
-    "hikaye": 8,
-    "reyting": 8,
-    "efsanelik": 8,
-    "tekrar_izlenme": 5
+    "hikaye": 8.8,
+    "reyting": 8.8,
+    "efsanelik": 8.8,
+    "tekrar_izlenme": 7.0
    }
   },
   {
@@ -469,10 +469,10 @@
    "etiketler": [],
    "aciklama": "Büyülü bir anne ve komik bir aile.",
    "puan": {
-    "hikaye": 7,
-    "reyting": 8,
-    "efsanelik": 8,
-    "tekrar_izlenme": 8
+    "hikaye": 8.2,
+    "reyting": 8.8,
+    "efsanelik": 8.8,
+    "tekrar_izlenme": 8.8
    }
   },
   {
@@ -483,10 +483,10 @@
    "etiketler": [],
    "aciklama": "Çukurova'da aşk ve hırs.",
    "puan": {
-    "hikaye": 7,
-    "reyting": 9,
-    "efsanelik": 6,
-    "tekrar_izlenme": 5
+    "hikaye": 8.2,
+    "reyting": 9.4,
+    "efsanelik": 7.6,
+    "tekrar_izlenme": 7.0
    }
   },
   {
@@ -497,10 +497,10 @@
    "etiketler": [],
    "aciklama": "Gençlik ve aile hikâyesi.",
    "puan": {
-    "hikaye": 7,
-    "reyting": 7,
-    "efsanelik": 7,
-    "tekrar_izlenme": 6
+    "hikaye": 8.2,
+    "reyting": 8.2,
+    "efsanelik": 8.2,
+    "tekrar_izlenme": 7.6
    }
   },
   {
@@ -511,10 +511,10 @@
    "etiketler": [],
    "aciklama": "Bir ailenin yıllara yayılan komik hikâyesi.",
    "puan": {
-    "hikaye": 7,
-    "reyting": 9,
-    "efsanelik": 8,
-    "tekrar_izlenme": 8
+    "hikaye": 8.2,
+    "reyting": 9.4,
+    "efsanelik": 8.8,
+    "tekrar_izlenme": 8.8
    }
   },
   {
@@ -525,10 +525,10 @@
    "etiketler": [],
    "aciklama": "Bir babanın çocuklarına anlattığı uzun hikâye.",
    "puan": {
-    "hikaye": 7,
-    "reyting": 8,
-    "efsanelik": 7,
-    "tekrar_izlenme": 8
+    "hikaye": 8.2,
+    "reyting": 8.8,
+    "efsanelik": 8.2,
+    "tekrar_izlenme": 8.8
    }
   }
  ]

@@ -50,10 +50,10 @@
    "etiketler": [],
    "aciklama": "Hiç uyumayan şehir, dünyanın finans ve kültür merkezi.",
    "puan": {
-    "yasam_kalitesi": 7,
-    "i_s_imkani": 10,
-    "eglence": 10,
-    "doga": 4
+    "yasam_kalitesi": 8.2,
+    "i_s_imkani": 10.0,
+    "eglence": 10.0,
+    "doga": 6.4
    }
   },
   {
@@ -64,10 +64,10 @@
    "etiketler": [],
    "aciklama": "Tarih, müzik ve iş dünyasının buluştuğu dev başkent.",
    "puan": {
-    "yasam_kalitesi": 7,
-    "i_s_imkani": 10,
-    "eglence": 9,
-    "doga": 5
+    "yasam_kalitesi": 8.2,
+    "i_s_imkani": 10.0,
+    "eglence": 9.4,
+    "doga": 7.0
    }
   },
   {
@@ -78,10 +78,10 @@
    "etiketler": [],
    "aciklama": "Işıklar şehri, sanatın ve modanın başkenti.",
    "puan": {
-    "yasam_kalitesi": 7,
-    "i_s_imkani": 8,
-    "eglence": 9,
-    "doga": 5
+    "yasam_kalitesi": 8.2,
+    "i_s_imkani": 8.8,
+    "eglence": 9.4,
+    "doga": 7.0
    }
   },
   {
@@ -92,10 +92,10 @@
    "etiketler": [],
    "aciklama": "Temiz, güvenli ve teknolojik dev metropol.",
    "puan": {
-    "yasam_kalitesi": 9,
-    "i_s_imkani": 9,
-    "eglence": 9,
-    "doga": 5
+    "yasam_kalitesi": 9.4,
+    "i_s_imkani": 9.4,
+    "eglence": 9.4,
+    "doga": 7.0
    }
   },
   {
@@ -106,10 +106,10 @@
    "etiketler": [],
    "aciklama": "İki kıtayı birleştiren, tarihi ve boğazıyla eşsiz şehir.",
    "puan": {
-    "yasam_kalitesi": 6,
-    "i_s_imkani": 9,
-    "eglence": 10,
-    "doga": 6
+    "yasam_kalitesi": 7.6,
+    "i_s_imkani": 9.4,
+    "eglence": 10.0,
+    "doga": 7.6
    }
   },
   {
@@ -120,10 +120,10 @@
    "etiketler": [],
    "aciklama": "Deniz, futbol ve Gaudí'nin mimarisi bir arada.",
    "puan": {
-    "yasam_kalitesi": 8,
-    "i_s_imkani": 7,
-    "eglence": 9,
-    "doga": 8
+    "yasam_kalitesi": 8.8,
+    "i_s_imkani": 8.2,
+    "eglence": 9.4,
+    "doga": 8.8
    }
   },
   {
@@ -134,10 +134,10 @@
    "etiketler": [],
    "aciklama": "Opera binası ve plajlarıyla Avustralya'nın yıldızı.",
    "puan": {
-    "yasam_kalitesi": 9,
-    "i_s_imkani": 7,
-    "eglence": 8,
-    "doga": 9
+    "yasam_kalitesi": 9.4,
+    "i_s_imkani": 8.2,
+    "eglence": 8.8,
+    "doga": 9.4
    }
   },
   {
@@ -148,10 +148,10 @@
    "etiketler": [],
    "aciklama": "Kahve, sanat ve sporun başkenti.",
    "puan": {
-    "yasam_kalitesi": 9,
-    "i_s_imkani": 7,
-    "eglence": 8,
-    "doga": 8
+    "yasam_kalitesi": 9.4,
+    "i_s_imkani": 8.2,
+    "eglence": 8.8,
+    "doga": 8.8
    }
   },
   {
@@ -162,10 +162,10 @@
    "etiketler": [],
    "aciklama": "Bahçe şehir; temiz, güvenli, iş dünyasının gözdesi.",
    "puan": {
-    "yasam_kalitesi": 9,
-    "i_s_imkani": 10,
-    "eglence": 7,
-    "doga": 6
+    "yasam_kalitesi": 9.4,
+    "i_s_imkani": 10.0,
+    "eglence": 8.2,
+    "doga": 7.6
    }
   },
   {
@@ -176,10 +176,10 @@
    "etiketler": [],
    "aciklama": "K-pop ve teknolojinin başkenti.",
    "puan": {
-    "yasam_kalitesi": 8,
-    "i_s_imkani": 9,
-    "eglence": 9,
-    "doga": 5
+    "yasam_kalitesi": 8.8,
+    "i_s_imkani": 9.4,
+    "eglence": 9.4,
+    "doga": 7.0
    }
   },
   {
@@ -190,10 +190,10 @@
    "etiketler": [],
    "aciklama": "Çölün ortasında gökdelenler ve lüks.",
    "puan": {
-    "yasam_kalitesi": 7,
-    "i_s_imkani": 9,
-    "eglence": 8,
-    "doga": 3
+    "yasam_kalitesi": 8.2,
+    "i_s_imkani": 9.4,
+    "eglence": 8.8,
+    "doga": 5.8
    }
   },
   {
@@ -204,10 +204,10 @@
    "etiketler": [],
    "aciklama": "Yaşam kalitesi listelerinin sürekli zirvesinde.",
    "puan": {
-    "yasam_kalitesi": 10,
-    "i_s_imkani": 7,
-    "eglence": 7,
-    "doga": 7
+    "yasam_kalitesi": 10.0,
+    "i_s_imkani": 8.2,
+    "eglence": 8.2,
+    "doga": 8.2
    }
   },
   {
@@ -218,10 +218,10 @@
    "etiketler": [],
    "aciklama": "Göl kenarında düzenli ve yüksek maaşlı şehir.",
    "puan": {
-    "yasam_kalitesi": 10,
-    "i_s_imkani": 9,
-    "eglence": 6,
-    "doga": 9
+    "yasam_kalitesi": 10.0,
+    "i_s_imkani": 9.4,
+    "eglence": 7.6,
+    "doga": 9.4
    }
   },
   {
@@ -232,10 +232,10 @@
    "etiketler": [],
    "aciklama": "Mutluluk listelerinin müdavimi, bisiklet cenneti.",
    "puan": {
-    "yasam_kalitesi": 10,
-    "i_s_imkani": 8,
-    "eglence": 7,
-    "doga": 7
+    "yasam_kalitesi": 10.0,
+    "i_s_imkani": 8.8,
+    "eglence": 8.2,
+    "doga": 8.2
    }
   },
   {
@@ -246,10 +246,10 @@
    "etiketler": [],
    "aciklama": "Kanallar ve rahat bir şehir hayatı.",
    "puan": {
-    "yasam_kalitesi": 8,
-    "i_s_imkani": 8,
-    "eglence": 8,
-    "doga": 6
+    "yasam_kalitesi": 8.8,
+    "i_s_imkani": 8.8,
+    "eglence": 8.8,
+    "doga": 7.6
    }
   },
   {
@@ -260,10 +260,10 @@
    "etiketler": [],
    "aciklama": "Bira bahçeleri ve Alplere yakınlık.",
    "puan": {
-    "yasam_kalitesi": 9,
-    "i_s_imkani": 8,
-    "eglence": 7,
-    "doga": 8
+    "yasam_kalitesi": 9.4,
+    "i_s_imkani": 8.8,
+    "eglence": 8.2,
+    "doga": 8.8
    }
   },
   {
@@ -274,10 +274,10 @@
    "etiketler": [],
    "aciklama": "Yaratıcı ve enerjik başkent.",
    "puan": {
-    "yasam_kalitesi": 8,
-    "i_s_imkani": 8,
-    "eglence": 9,
-    "doga": 5
+    "yasam_kalitesi": 8.8,
+    "i_s_imkani": 8.8,
+    "eglence": 9.4,
+    "doga": 7.0
    }
   },
   {
@@ -288,10 +288,10 @@
    "etiketler": [],
    "aciklama": "Her köşesi açık hava müzesi olan ebedi şehir.",
    "puan": {
-    "yasam_kalitesi": 7,
-    "i_s_imkani": 6,
-    "eglence": 8,
-    "doga": 6
+    "yasam_kalitesi": 8.2,
+    "i_s_imkani": 7.6,
+    "eglence": 8.8,
+    "doga": 7.6
    }
   },
   {
@@ -302,10 +302,10 @@
    "etiketler": [],
    "aciklama": "Hollywood, güneş ve okyanus kıyısı.",
    "puan": {
-    "yasam_kalitesi": 6,
-    "i_s_imkani": 9,
-    "eglence": 9,
-    "doga": 7
+    "yasam_kalitesi": 7.6,
+    "i_s_imkani": 9.4,
+    "eglence": 9.4,
+    "doga": 8.2
    }
   },
   {
@@ -316,10 +316,10 @@
    "etiketler": [],
    "aciklama": "Teknoloji başkenti ve Golden Gate.",
    "puan": {
-    "yasam_kalitesi": 7,
-    "i_s_imkani": 10,
-    "eglence": 8,
-    "doga": 8
+    "yasam_kalitesi": 8.2,
+    "i_s_imkani": 10.0,
+    "eglence": 8.8,
+    "doga": 8.8
    }
   },
   {
@@ -330,10 +330,10 @@
    "etiketler": [],
    "aciklama": "Dağlarla okyanus arasına kurulmuş yeşil şehir.",
    "puan": {
-    "yasam_kalitesi": 9,
-    "i_s_imkani": 7,
-    "eglence": 6,
-    "doga": 10
+    "yasam_kalitesi": 9.4,
+    "i_s_imkani": 8.2,
+    "eglence": 7.6,
+    "doga": 10.0
    }
   },
   {
@@ -344,10 +344,10 @@
    "etiketler": [],
    "aciklama": "Kanada'nın çok kültürlü güvenli metropolü.",
    "puan": {
-    "yasam_kalitesi": 8,
-    "i_s_imkani": 8,
-    "eglence": 7,
-    "doga": 7
+    "yasam_kalitesi": 8.8,
+    "i_s_imkani": 8.8,
+    "eglence": 8.2,
+    "doga": 8.2
    }
   },
   {
@@ -358,10 +358,10 @@
    "etiketler": [],
    "aciklama": "Karnaval, plajlar ve dağlar.",
    "puan": {
-    "yasam_kalitesi": 5,
-    "i_s_imkani": 5,
-    "eglence": 10,
-    "doga": 10
+    "yasam_kalitesi": 7.0,
+    "i_s_imkani": 7.0,
+    "eglence": 10.0,
+    "doga": 10.0
    }
   },
   {
@@ -372,10 +372,10 @@
    "etiketler": [],
    "aciklama": "Masa Dağı ve okyanusuyla Afrika'nın en güzel şehirlerinden.",
    "puan": {
-    "yasam_kalitesi": 6,
-    "i_s_imkani": 5,
-    "eglence": 7,
-    "doga": 10
+    "yasam_kalitesi": 7.6,
+    "i_s_imkani": 7.0,
+    "eglence": 8.2,
+    "doga": 10.0
    }
   },
   {
@@ -386,10 +386,10 @@
    "etiketler": [],
    "aciklama": "Ege'nin incisi; kordonu ve rahat havasıyla sevilir.",
    "puan": {
-    "yasam_kalitesi": 7,
-    "i_s_imkani": 6,
-    "eglence": 7,
-    "doga": 8
+    "yasam_kalitesi": 8.2,
+    "i_s_imkani": 7.6,
+    "eglence": 8.2,
+    "doga": 8.8
    }
   },
   {
@@ -400,10 +400,10 @@
    "etiketler": [],
    "aciklama": "Düzenli, yeşil alanları bol başkent.",
    "puan": {
-    "yasam_kalitesi": 7,
-    "i_s_imkani": 8,
-    "eglence": 5,
-    "doga": 4
+    "yasam_kalitesi": 8.2,
+    "i_s_imkani": 8.8,
+    "eglence": 7.0,
+    "doga": 6.4
    }
   },
   {
@@ -414,10 +414,10 @@
    "etiketler": [],
    "aciklama": "Deniz, güneş ve turizmin başkenti.",
    "puan": {
-    "yasam_kalitesi": 7,
-    "i_s_imkani": 5,
-    "eglence": 7,
-    "doga": 9
+    "yasam_kalitesi": 8.2,
+    "i_s_imkani": 7.0,
+    "eglence": 8.2,
+    "doga": 9.4
    }
   },
   {
@@ -428,10 +428,10 @@
    "etiketler": [],
    "aciklama": "Uludağ'ın eteğinde yeşil ve sanayisi güçlü.",
    "puan": {
-    "yasam_kalitesi": 7,
-    "i_s_imkani": 6,
-    "eglence": 5,
-    "doga": 7
+    "yasam_kalitesi": 8.2,
+    "i_s_imkani": 7.6,
+    "eglence": 7.0,
+    "doga": 8.2
    }
   },
   {
@@ -442,10 +442,10 @@
    "etiketler": [],
    "aciklama": "Genç, temiz ve kültür dolu öğrenci şehri.",
    "puan": {
-    "yasam_kalitesi": 7,
-    "i_s_imkani": 5,
-    "eglence": 6,
-    "doga": 5
+    "yasam_kalitesi": 8.2,
+    "i_s_imkani": 7.0,
+    "eglence": 7.6,
+    "doga": 7.0
    }
   },
   {
@@ -456,10 +456,10 @@
    "etiketler": [],
    "aciklama": "Tepeleri, tramvayları ve okyanus manzarası.",
    "puan": {
-    "yasam_kalitesi": 7,
-    "i_s_imkani": 6,
-    "eglence": 8,
-    "doga": 7
+    "yasam_kalitesi": 8.2,
+    "i_s_imkani": 7.6,
+    "eglence": 8.8,
+    "doga": 8.2
    }
   },
   {
@@ -470,10 +470,10 @@
    "etiketler": [],
    "aciklama": "Masal gibi eski şehri ve köprüleri.",
    "puan": {
-    "yasam_kalitesi": 7,
-    "i_s_imkani": 6,
-    "eglence": 8,
-    "doga": 6
+    "yasam_kalitesi": 8.2,
+    "i_s_imkani": 7.6,
+    "eglence": 8.8,
+    "doga": 7.6
    }
   },
   {
@@ -484,10 +484,10 @@
    "etiketler": [],
    "aciklama": "Fiyortların kıyısında sakin başkent.",
    "puan": {
-    "yasam_kalitesi": 9,
-    "i_s_imkani": 7,
-    "eglence": 6,
-    "doga": 9
+    "yasam_kalitesi": 9.4,
+    "i_s_imkani": 8.2,
+    "eglence": 7.6,
+    "doga": 9.4
    }
   },
   {
@@ -498,10 +498,10 @@
    "etiketler": [],
    "aciklama": "Temiz ve sakin kuzey başkenti.",
    "puan": {
-    "yasam_kalitesi": 9,
-    "i_s_imkani": 7,
-    "eglence": 6,
-    "doga": 8
+    "yasam_kalitesi": 9.4,
+    "i_s_imkani": 8.2,
+    "eglence": 7.6,
+    "doga": 8.8
    }
   },
   {
@@ -512,10 +512,10 @@
    "etiketler": [],
    "aciklama": "Japonya'nın mutfağı ve neşesi.",
    "puan": {
-    "yasam_kalitesi": 8,
-    "i_s_imkani": 8,
-    "eglence": 8,
-    "doga": 5
+    "yasam_kalitesi": 8.8,
+    "i_s_imkani": 8.8,
+    "eglence": 8.8,
+    "doga": 7.0
    }
   },
   {
@@ -526,10 +526,10 @@
    "etiketler": [],
    "aciklama": "Kuzey Amerika'nın Fransız ruhu.",
    "puan": {
-    "yasam_kalitesi": 8,
-    "i_s_imkani": 7,
-    "eglence": 8,
-    "doga": 7
+    "yasam_kalitesi": 8.8,
+    "i_s_imkani": 8.2,
+    "eglence": 8.8,
+    "doga": 8.2
    }
   }
  ]

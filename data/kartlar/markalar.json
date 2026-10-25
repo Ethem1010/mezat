@@ -56,10 +56,10 @@
    "etiketler": [],
    "aciklama": "Dünyanın en değerli markalarından.",
    "puan": {
-    "bilinirlik": 10,
-    "marka_degeri": 10,
-    "kalite_algisi": 9,
-    "dunyaya_yayilma": 10
+    "bilinirlik": 10.0,
+    "marka_degeri": 10.0,
+    "kalite_algisi": 9.4,
+    "dunyaya_yayilma": 10.0
    }
   },
   {
@@ -70,10 +70,10 @@
    "etiketler": [],
    "aciklama": "İnternetin kapısı.",
    "puan": {
-    "bilinirlik": 10,
-    "marka_degeri": 10,
-    "kalite_algisi": 9,
-    "dunyaya_yayilma": 10
+    "bilinirlik": 10.0,
+    "marka_degeri": 10.0,
+    "kalite_algisi": 9.4,
+    "dunyaya_yayilma": 10.0
    }
   },
   {
@@ -84,10 +84,10 @@
    "etiketler": [],
    "aciklama": "Windows ve Office'in sahibi.",
    "puan": {
-    "bilinirlik": 10,
-    "marka_degeri": 10,
-    "kalite_algisi": 8,
-    "dunyaya_yayilma": 10
+    "bilinirlik": 10.0,
+    "marka_degeri": 10.0,
+    "kalite_algisi": 8.8,
+    "dunyaya_yayilma": 10.0
    }
   },
   {
@@ -98,10 +98,10 @@
    "etiketler": [],
    "aciklama": "Telefondan buzdolabına dev teknoloji markası.",
    "puan": {
-    "bilinirlik": 10,
-    "marka_degeri": 9,
-    "kalite_algisi": 8,
-    "dunyaya_yayilma": 10
+    "bilinirlik": 10.0,
+    "marka_degeri": 9.4,
+    "kalite_algisi": 8.8,
+    "dunyaya_yayilma": 10.0
    }
   },
   {
@@ -112,10 +112,10 @@
    "etiketler": [],
    "aciklama": "PlayStation ve Walkman'in yaratıcısı.",
    "puan": {
-    "bilinirlik": 9,
-    "marka_degeri": 8,
-    "kalite_algisi": 8,
-    "dunyaya_yayilma": 10
+    "bilinirlik": 9.4,
+    "marka_degeri": 8.8,
+    "kalite_algisi": 8.8,
+    "dunyaya_yayilma": 10.0
    }
   },
   {
@@ -126,10 +126,10 @@
    "etiketler": [],
    "aciklama": "Dünyanın en büyük online mağazası.",
    "puan": {
-    "bilinirlik": 10,
-    "marka_degeri": 10,
-    "kalite_algisi": 8,
-    "dunyaya_yayilma": 10
+    "bilinirlik": 10.0,
+    "marka_degeri": 10.0,
+    "kalite_algisi": 8.8,
+    "dunyaya_yayilma": 10.0
    }
   },
   {
@@ -140,10 +140,10 @@
    "etiketler": [],
    "aciklama": "\"Just Do It\" sloganlı spor devi.",
    "puan": {
-    "bilinirlik": 10,
-    "marka_degeri": 10,
-    "kalite_algisi": 9,
-    "dunyaya_yayilma": 10
+    "bilinirlik": 10.0,
+    "marka_degeri": 10.0,
+    "kalite_algisi": 9.4,
+    "dunyaya_yayilma": 10.0
    }
   },
   {
@@ -154,10 +154,10 @@
    "etiketler": [],
    "aciklama": "Üç bantlı efsane spor markası.",
    "puan": {
-    "bilinirlik": 10,
-    "marka_degeri": 9,
-    "kalite_algisi": 8,
-    "dunyaya_yayilma": 10
+    "bilinirlik": 10.0,
+    "marka_degeri": 9.4,
+    "kalite_algisi": 8.8,
+    "dunyaya_yayilma": 10.0
    }
   },
   {
@@ -168,10 +168,10 @@
    "etiketler": [],
    "aciklama": "Lüks modanın en değerli markası.",
    "puan": {
-    "bilinirlik": 9,
-    "marka_degeri": 10,
-    "kalite_algisi": 10,
-    "dunyaya_yayilma": 9
+    "bilinirlik": 9.4,
+    "marka_degeri": 10.0,
+    "kalite_algisi": 10.0,
+    "dunyaya_yayilma": 9.4
    }
   },
   {
@@ -182,10 +182,10 @@
    "etiketler": [],
    "aciklama": "İtalyan lüks moda ikonu.",
    "puan": {
-    "bilinirlik": 9,
-    "marka_degeri": 9,
-    "kalite_algisi": 9,
-    "dunyaya_yayilma": 9
+    "bilinirlik": 9.4,
+    "marka_degeri": 9.4,
+    "kalite_algisi": 9.4,
+    "dunyaya_yayilma": 9.4
    }
   },
   {
@@ -196,10 +196,10 @@
    "etiketler": [],
    "aciklama": "Zarafetin ve No.5 parfümün evi.",
    "puan": {
-    "bilinirlik": 9,
-    "marka_degeri": 9,
-    "kalite_algisi": 10,
-    "dunyaya_yayilma": 9
+    "bilinirlik": 9.4,
+    "marka_degeri": 9.4,
+    "kalite_algisi": 10.0,
+    "dunyaya_yayilma": 9.4
    }
   },
   {
@@ -210,10 +210,10 @@
    "etiketler": [],
    "aciklama": "Lüks saatin simgesi.",
    "puan": {
-    "bilinirlik": 9,
-    "marka_degeri": 9,
-    "kalite_algisi": 10,
-    "dunyaya_yayilma": 9
+    "bilinirlik": 9.4,
+    "marka_degeri": 9.4,
+    "kalite_algisi": 10.0,
+    "dunyaya_yayilma": 9.4
    }
   },
   {
@@ -224,10 +224,10 @@
    "etiketler": [],
    "aciklama": "Birkin çantasının en seçkin lüks evi.",
    "puan": {
-    "bilinirlik": 8,
-    "marka_degeri": 9,
-    "kalite_algisi": 10,
-    "dunyaya_yayilma": 8
+    "bilinirlik": 8.8,
+    "marka_degeri": 9.4,
+    "kalite_algisi": 10.0,
+    "dunyaya_yayilma": 8.8
    }
   },
   {
@@ -238,10 +238,10 @@
    "etiketler": [],
    "aciklama": "Dünyanın en tanınan içecek markası.",
    "puan": {
-    "bilinirlik": 10,
-    "marka_degeri": 10,
-    "kalite_algisi": 8,
-    "dunyaya_yayilma": 10
+    "bilinirlik": 10.0,
+    "marka_degeri": 10.0,
+    "kalite_algisi": 8.8,
+    "dunyaya_yayilma": 10.0
    }
   },
   {
@@ -252,10 +252,10 @@
    "etiketler": [],
    "aciklama": "Altın kemerli fast food devi.",
    "puan": {
-    "bilinirlik": 10,
-    "marka_degeri": 10,
-    "kalite_algisi": 6,
-    "dunyaya_yayilma": 10
+    "bilinirlik": 10.0,
+    "marka_degeri": 10.0,
+    "kalite_algisi": 7.6,
+    "dunyaya_yayilma": 10.0
    }
   },
   {
@@ -266,10 +266,10 @@
    "etiketler": [],
    "aciklama": "Yeşil logolu kahve zinciri.",
    "puan": {
-    "bilinirlik": 10,
-    "marka_degeri": 9,
-    "kalite_algisi": 7,
-    "dunyaya_yayilma": 10
+    "bilinirlik": 10.0,
+    "marka_degeri": 9.4,
+    "kalite_algisi": 8.2,
+    "dunyaya_yayilma": 10.0
    }
   },
   {
@@ -280,10 +280,10 @@
    "etiketler": [],
    "aciklama": "Dünyanın en büyük gıda şirketi.",
    "puan": {
-    "bilinirlik": 9,
-    "marka_degeri": 9,
-    "kalite_algisi": 7,
-    "dunyaya_yayilma": 10
+    "bilinirlik": 9.4,
+    "marka_degeri": 9.4,
+    "kalite_algisi": 8.2,
+    "dunyaya_yayilma": 10.0
    }
   },
   {
@@ -294,10 +294,10 @@
    "etiketler": [],
    "aciklama": "\"Kanat verir\" sloganlı enerji içeceği.",
    "puan": {
-    "bilinirlik": 9,
-    "marka_degeri": 9,
-    "kalite_algisi": 7,
-    "dunyaya_yayilma": 10
+    "bilinirlik": 9.4,
+    "marka_degeri": 9.4,
+    "kalite_algisi": 8.2,
+    "dunyaya_yayilma": 10.0
    }
   },
   {
@@ -308,10 +308,10 @@
    "etiketler": [],
    "aciklama": "Lüks ve güvenliğin yıldızı.",
    "puan": {
-    "bilinirlik": 10,
-    "marka_degeri": 10,
-    "kalite_algisi": 10,
-    "dunyaya_yayilma": 10
+    "bilinirlik": 10.0,
+    "marka_degeri": 10.0,
+    "kalite_algisi": 10.0,
+    "dunyaya_yayilma": 10.0
    }
   },
   {
@@ -322,10 +322,10 @@
    "etiketler": [],
    "aciklama": "Sürüş keyfinin Alman markası.",
    "puan": {
-    "bilinirlik": 10,
-    "marka_degeri": 9,
-    "kalite_algisi": 9,
-    "dunyaya_yayilma": 10
+    "bilinirlik": 10.0,
+    "marka_degeri": 9.4,
+    "kalite_algisi": 9.4,
+    "dunyaya_yayilma": 10.0
    }
   },
   {
@@ -336,10 +336,10 @@
    "etiketler": [],
    "aciklama": "Kırmızı efsane süper otomobil.",
    "puan": {
-    "bilinirlik": 10,
-    "marka_degeri": 10,
-    "kalite_algisi": 10,
-    "dunyaya_yayilma": 9
+    "bilinirlik": 10.0,
+    "marka_degeri": 10.0,
+    "kalite_algisi": 10.0,
+    "dunyaya_yayilma": 9.4
    }
   },
   {
@@ -350,10 +350,10 @@
    "etiketler": [],
    "aciklama": "Dünyanın en çok araba satan şirketi.",
    "puan": {
-    "bilinirlik": 10,
-    "marka_degeri": 9,
-    "kalite_algisi": 9,
-    "dunyaya_yayilma": 10
+    "bilinirlik": 10.0,
+    "marka_degeri": 9.4,
+    "kalite_algisi": 9.4,
+    "dunyaya_yayilma": 10.0
    }
   },
   {
@@ -364,10 +364,10 @@
    "etiketler": [],
    "aciklama": "Elektrikli otomobil devrimi.",
    "puan": {
-    "bilinirlik": 9,
-    "marka_degeri": 9,
-    "kalite_algisi": 8,
-    "dunyaya_yayilma": 9
+    "bilinirlik": 9.4,
+    "marka_degeri": 9.4,
+    "kalite_algisi": 8.8,
+    "dunyaya_yayilma": 9.4
    }
   },
   {
@@ -378,10 +378,10 @@
    "etiketler": [],
    "aciklama": "Kendin kur mobilyaların İsveç devi.",
    "puan": {
-    "bilinirlik": 10,
-    "marka_degeri": 9,
-    "kalite_algisi": 7,
-    "dunyaya_yayilma": 10
+    "bilinirlik": 10.0,
+    "marka_degeri": 9.4,
+    "kalite_algisi": 8.2,
+    "dunyaya_yayilma": 10.0
    }
   },
   {
@@ -392,10 +392,10 @@
    "etiketler": [],
    "aciklama": "Mickey'den Marvel'a eğlence imparatorluğu.",
    "puan": {
-    "bilinirlik": 10,
-    "marka_degeri": 10,
-    "kalite_algisi": 9,
-    "dunyaya_yayilma": 10
+    "bilinirlik": 10.0,
+    "marka_degeri": 10.0,
+    "kalite_algisi": 9.4,
+    "dunyaya_yayilma": 10.0
    }
   },
   {
@@ -406,10 +406,10 @@
    "etiketler": [],
    "aciklama": "Dizi film izlemenin adresi.",
    "puan": {
-    "bilinirlik": 9,
-    "marka_degeri": 8,
-    "kalite_algisi": 8,
-    "dunyaya_yayilma": 9
+    "bilinirlik": 9.4,
+    "marka_degeri": 8.8,
+    "kalite_algisi": 8.8,
+    "dunyaya_yayilma": 9.4
    }
   },
   {
@@ -420,10 +420,10 @@
    "etiketler": [],
    "aciklama": "Bilgisayarların içindeki işlemci.",
    "puan": {
-    "bilinirlik": 8,
-    "marka_degeri": 8,
-    "kalite_algisi": 8,
-    "dunyaya_yayilma": 9
+    "bilinirlik": 8.8,
+    "marka_degeri": 8.8,
+    "kalite_algisi": 8.8,
+    "dunyaya_yayilma": 9.4
    }
   },
   {
@@ -434,10 +434,10 @@
    "etiketler": [],
    "aciklama": "Hızlı kedi logolu spor markası.",
    "puan": {
-    "bilinirlik": 8,
-    "marka_degeri": 7,
-    "kalite_algisi": 7,
-    "dunyaya_yayilma": 9
+    "bilinirlik": 8.8,
+    "marka_degeri": 8.2,
+    "kalite_algisi": 8.2,
+    "dunyaya_yayilma": 9.4
    }
   },
   {
@@ -448,10 +448,10 @@
    "etiketler": [],
    "aciklama": "Hızlı modanın İspanyol devi.",
    "puan": {
-    "bilinirlik": 9,
-    "marka_degeri": 8,
-    "kalite_algisi": 7,
-    "dunyaya_yayilma": 9
+    "bilinirlik": 9.4,
+    "marka_degeri": 8.8,
+    "kalite_algisi": 8.2,
+    "dunyaya_yayilma": 9.4
    }
   },
   {
@@ -462,10 +462,10 @@
    "etiketler": [],
    "aciklama": "Coca-Cola'nın ezeli rakibi.",
    "puan": {
-    "bilinirlik": 9,
-    "marka_degeri": 8,
-    "kalite_algisi": 7,
-    "dunyaya_yayilma": 10
+    "bilinirlik": 9.4,
+    "marka_degeri": 8.8,
+    "kalite_algisi": 8.2,
+    "dunyaya_yayilma": 10.0
    }
   },
   {
@@ -476,10 +476,10 @@
    "etiketler": [],
    "aciklama": "Albay'ın kızarmış tavuğu.",
    "puan": {
-    "bilinirlik": 9,
-    "marka_degeri": 8,
-    "kalite_algisi": 6,
-    "dunyaya_yayilma": 9
+    "bilinirlik": 9.4,
+    "marka_degeri": 8.8,
+    "kalite_algisi": 7.6,
+    "dunyaya_yayilma": 9.4
    }
   },
   {
@@ -490,10 +490,10 @@
    "etiketler": [],
    "aciklama": "911'in efsane spor otomobil markası.",
    "puan": {
-    "bilinirlik": 9,
-    "marka_degeri": 9,
-    "kalite_algisi": 10,
-    "dunyaya_yayilma": 8
+    "bilinirlik": 9.4,
+    "marka_degeri": 9.4,
+    "kalite_algisi": 10.0,
+    "dunyaya_yayilma": 8.8
    }
   },
   {
@@ -504,10 +504,10 @@
    "etiketler": [],
    "aciklama": "Halkın arabası, Golf ve Beetle.",
    "puan": {
-    "bilinirlik": 9,
-    "marka_degeri": 8,
-    "kalite_algisi": 8,
-    "dunyaya_yayilma": 10
+    "bilinirlik": 9.4,
+    "marka_degeri": 8.8,
+    "kalite_algisi": 8.8,
+    "dunyaya_yayilma": 10.0
    }
   },
   {
@@ -518,10 +518,10 @@
    "etiketler": [],
    "aciklama": "Renkli tuğlaların oyuncak devi.",
    "puan": {
-    "bilinirlik": 9,
-    "marka_degeri": 9,
-    "kalite_algisi": 9,
-    "dunyaya_yayilma": 9
+    "bilinirlik": 9.4,
+    "marka_degeri": 9.4,
+    "kalite_algisi": 9.4,
+    "dunyaya_yayilma": 9.4
    }
   },
   {
@@ -532,10 +532,10 @@
    "etiketler": [],
    "aciklama": "Dünyanın en büyük market zinciri.",
    "puan": {
-    "bilinirlik": 8,
-    "marka_degeri": 8,
-    "kalite_algisi": 6,
-    "dunyaya_yayilma": 7
+    "bilinirlik": 8.8,
+    "marka_degeri": 8.8,
+    "kalite_algisi": 7.6,
+    "dunyaya_yayilma": 8.2
    }
   }
  ]

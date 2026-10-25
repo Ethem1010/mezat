@@ -49,10 +49,10 @@
    "etiketler": [],
    "aciklama": "Tatlıdan reçele herkesin sevdiği meyve.",
    "puan": {
-    "lezzet": 10,
-    "saglik": 8,
-    "populerlik": 10,
-    "cok_yonluluk": 9
+    "lezzet": 10.0,
+    "saglik": 8.8,
+    "populerlik": 10.0,
+    "cok_yonluluk": 9.4
    }
   },
   {
@@ -63,10 +63,10 @@
    "etiketler": [],
    "aciklama": "Yazın serinleten dev meyve.",
    "puan": {
-    "lezzet": 10,
-    "saglik": 7,
-    "populerlik": 10,
-    "cok_yonluluk": 6
+    "lezzet": 10.0,
+    "saglik": 8.2,
+    "populerlik": 10.0,
+    "cok_yonluluk": 7.6
    }
   },
   {
@@ -77,10 +77,10 @@
    "etiketler": [],
    "aciklama": "Dalından toplanan kırmızı mücevher.",
    "puan": {
-    "lezzet": 10,
-    "saglik": 8,
-    "populerlik": 9,
-    "cok_yonluluk": 7
+    "lezzet": 10.0,
+    "saglik": 8.8,
+    "populerlik": 9.4,
+    "cok_yonluluk": 8.2
    }
   },
   {
@@ -91,10 +91,10 @@
    "etiketler": [],
    "aciklama": "Sulu, kokulu yaz meyvesi.",
    "puan": {
-    "lezzet": 9,
-    "saglik": 8,
-    "populerlik": 8,
-    "cok_yonluluk": 7
+    "lezzet": 9.4,
+    "saglik": 8.8,
+    "populerlik": 8.8,
+    "cok_yonluluk": 8.2
    }
   },
   {
@@ -105,10 +105,10 @@
    "etiketler": [],
    "aciklama": "Sofraların bal tadındaki misafiri.",
    "puan": {
-    "lezzet": 9,
-    "saglik": 7,
-    "populerlik": 8,
-    "cok_yonluluk": 6
+    "lezzet": 9.4,
+    "saglik": 8.2,
+    "populerlik": 8.8,
+    "cok_yonluluk": 7.6
    }
   },
   {
@@ -119,10 +119,10 @@
    "etiketler": [],
    "aciklama": "Pekmezden kurusuna her şeye dönüşür.",
    "puan": {
-    "lezzet": 9,
-    "saglik": 8,
-    "populerlik": 9,
-    "cok_yonluluk": 9
+    "lezzet": 9.4,
+    "saglik": 8.8,
+    "populerlik": 9.4,
+    "cok_yonluluk": 9.4
    }
   },
   {
@@ -133,10 +133,10 @@
    "etiketler": [],
    "aciklama": "Ballı, lifli Ege meyvesi.",
    "puan": {
-    "lezzet": 9,
-    "saglik": 9,
-    "populerlik": 7,
-    "cok_yonluluk": 7
+    "lezzet": 9.4,
+    "saglik": 9.4,
+    "populerlik": 8.2,
+    "cok_yonluluk": 8.2
    }
   },
   {
@@ -147,10 +147,10 @@
    "etiketler": [],
    "aciklama": "Malatya'nın dünyaca ünlü meyvesi.",
    "puan": {
-    "lezzet": 9,
-    "saglik": 9,
-    "populerlik": 8,
-    "cok_yonluluk": 9
+    "lezzet": 9.4,
+    "saglik": 9.4,
+    "populerlik": 8.8,
+    "cok_yonluluk": 9.4
    }
   },
   {
@@ -161,10 +161,10 @@
    "etiketler": [],
    "aciklama": "Antioksidan deposu minik meyve.",
    "puan": {
-    "lezzet": 8,
-    "saglik": 10,
-    "populerlik": 8,
-    "cok_yonluluk": 8
+    "lezzet": 8.8,
+    "saglik": 10.0,
+    "populerlik": 8.8,
+    "cok_yonluluk": 8.8
    }
   },
   {
@@ -175,10 +175,10 @@
    "etiketler": [],
    "aciklama": "C vitamininin simgesi.",
    "puan": {
-    "lezzet": 9,
-    "saglik": 9,
-    "populerlik": 10,
-    "cok_yonluluk": 9
+    "lezzet": 9.4,
+    "saglik": 9.4,
+    "populerlik": 10.0,
+    "cok_yonluluk": 9.4
    }
   },
   {
@@ -189,10 +189,10 @@
    "etiketler": [],
    "aciklama": "Kolay soyulan kış klasiği.",
    "puan": {
-    "lezzet": 9,
-    "saglik": 8,
-    "populerlik": 9,
-    "cok_yonluluk": 6
+    "lezzet": 9.4,
+    "saglik": 8.8,
+    "populerlik": 9.4,
+    "cok_yonluluk": 7.6
    }
   },
   {
@@ -203,10 +203,10 @@
    "etiketler": [],
    "aciklama": "Taneleriyle sağlık deposu.",
    "puan": {
-    "lezzet": 8,
-    "saglik": 10,
-    "populerlik": 8,
-    "cok_yonluluk": 8
+    "lezzet": 8.8,
+    "saglik": 10.0,
+    "populerlik": 8.8,
+    "cok_yonluluk": 8.8
    }
   },
   {
@@ -217,10 +217,10 @@
    "etiketler": [],
    "aciklama": "Ekşimsi tadıyla sağlıklı kış meyvesi.",
    "puan": {
-    "lezzet": 6,
-    "saglik": 9,
-    "populerlik": 6,
-    "cok_yonluluk": 6
+    "lezzet": 7.6,
+    "saglik": 9.4,
+    "populerlik": 7.6,
+    "cok_yonluluk": 7.6
    }
   },
   {
@@ -231,10 +231,10 @@
    "etiketler": [],
    "aciklama": "Tatlısı efsane kış meyvesi.",
    "puan": {
-    "lezzet": 7,
-    "saglik": 8,
-    "populerlik": 6,
-    "cok_yonluluk": 7
+    "lezzet": 8.2,
+    "saglik": 8.8,
+    "populerlik": 7.6,
+    "cok_yonluluk": 8.2
    }
   },
   {
@@ -245,10 +245,10 @@
    "etiketler": [],
    "aciklama": "Mutfağın her yerinde kullanılır.",
    "puan": {
-    "lezzet": 5,
-    "saglik": 9,
-    "populerlik": 10,
-    "cok_yonluluk": 10
+    "lezzet": 7.0,
+    "saglik": 9.4,
+    "populerlik": 10.0,
+    "cok_yonluluk": 10.0
    }
   },
   {
@@ -259,10 +259,10 @@
    "etiketler": [],
    "aciklama": "Tropiklerin tatlı kralı.",
    "puan": {
-    "lezzet": 10,
-    "saglik": 8,
-    "populerlik": 9,
-    "cok_yonluluk": 9
+    "lezzet": 10.0,
+    "saglik": 8.8,
+    "populerlik": 9.4,
+    "cok_yonluluk": 9.4
    }
   },
   {
@@ -273,10 +273,10 @@
    "etiketler": [],
    "aciklama": "Tatlı-ekşi tropik meyve.",
    "puan": {
-    "lezzet": 9,
-    "saglik": 8,
-    "populerlik": 8,
-    "cok_yonluluk": 9
+    "lezzet": 9.4,
+    "saglik": 8.8,
+    "populerlik": 8.8,
+    "cok_yonluluk": 9.4
    }
   },
   {
@@ -287,10 +287,10 @@
    "etiketler": [],
    "aciklama": "Sağlıklı yağ deposu.",
    "puan": {
-    "lezzet": 7,
-    "saglik": 10,
-    "populerlik": 9,
-    "cok_yonluluk": 9
+    "lezzet": 8.2,
+    "saglik": 10.0,
+    "populerlik": 9.4,
+    "cok_yonluluk": 9.4
    }
   },
   {
@@ -301,10 +301,10 @@
    "etiketler": [],
    "aciklama": "Suyu, sütü, eti kullanılır.",
    "puan": {
-    "lezzet": 8,
-    "saglik": 8,
-    "populerlik": 8,
-    "cok_yonluluk": 10
+    "lezzet": 8.8,
+    "saglik": 8.8,
+    "populerlik": 8.8,
+    "cok_yonluluk": 10.0
    }
   },
   {
@@ -315,10 +315,10 @@
    "etiketler": [],
    "aciklama": "C vitamini şampiyonu.",
    "puan": {
-    "lezzet": 8,
-    "saglik": 9,
-    "populerlik": 8,
-    "cok_yonluluk": 7
+    "lezzet": 8.8,
+    "saglik": 9.4,
+    "populerlik": 8.8,
+    "cok_yonluluk": 8.2
    }
   },
   {
@@ -329,10 +329,10 @@
    "etiketler": [],
    "aciklama": "Sindirime iyi gelen tropik meyve.",
    "puan": {
-    "lezzet": 8,
-    "saglik": 9,
-    "populerlik": 6,
-    "cok_yonluluk": 6
+    "lezzet": 8.8,
+    "saglik": 9.4,
+    "populerlik": 7.6,
+    "cok_yonluluk": 7.6
    }
   },
   {
@@ -343,10 +343,10 @@
    "etiketler": [],
    "aciklama": "Günde bir elma doktoru uzak tutar.",
    "puan": {
-    "lezzet": 9,
-    "saglik": 9,
-    "populerlik": 10,
-    "cok_yonluluk": 10
+    "lezzet": 9.4,
+    "saglik": 9.4,
+    "populerlik": 10.0,
+    "cok_yonluluk": 10.0
    }
   },
   {
@@ -357,10 +357,10 @@
    "etiketler": [],
    "aciklama": "Enerji veren pratik meyve.",
    "puan": {
-    "lezzet": 9,
-    "saglik": 8,
-    "populerlik": 10,
-    "cok_yonluluk": 9
+    "lezzet": 9.4,
+    "saglik": 8.8,
+    "populerlik": 10.0,
+    "cok_yonluluk": 9.4
    }
   },
   {
@@ -371,10 +371,10 @@
    "etiketler": [],
    "aciklama": "Sulu ve lifli.",
    "puan": {
-    "lezzet": 8,
-    "saglik": 8,
-    "populerlik": 8,
-    "cok_yonluluk": 7
+    "lezzet": 8.8,
+    "saglik": 8.8,
+    "populerlik": 8.8,
+    "cok_yonluluk": 8.2
    }
   },
   {
@@ -385,10 +385,10 @@
    "etiketler": [],
    "aciklama": "Şerbeti ve reçeliyle meşhur.",
    "puan": {
-    "lezzet": 8,
-    "saglik": 8,
-    "populerlik": 8,
-    "cok_yonluluk": 9
+    "lezzet": 8.8,
+    "saglik": 8.8,
+    "populerlik": 8.8,
+    "cok_yonluluk": 9.4
    }
   },
   {
@@ -399,10 +399,10 @@
    "etiketler": [],
    "aciklama": "Renkli görünümlü egzotik meyve.",
    "puan": {
-    "lezzet": 6,
-    "saglik": 8,
-    "populerlik": 6,
-    "cok_yonluluk": 5
+    "lezzet": 7.6,
+    "saglik": 8.8,
+    "populerlik": 7.6,
+    "cok_yonluluk": 7.0
    }
   },
   {
@@ -413,10 +413,10 @@
    "etiketler": [],
    "aciklama": "Kokulu Asya meyvesi.",
    "puan": {
-    "lezzet": 8,
-    "saglik": 7,
-    "populerlik": 5,
-    "cok_yonluluk": 5
+    "lezzet": 8.8,
+    "saglik": 8.2,
+    "populerlik": 7.0,
+    "cok_yonluluk": 7.0
    }
   },
   {
@@ -427,10 +427,10 @@
    "etiketler": [],
    "aciklama": "Yeşili tuzla, morusu tatlı.",
    "puan": {
-    "lezzet": 8,
-    "saglik": 7,
-    "populerlik": 8,
-    "cok_yonluluk": 6
+    "lezzet": 8.8,
+    "saglik": 8.2,
+    "populerlik": 8.8,
+    "cok_yonluluk": 7.6
    }
   },
   {
@@ -441,10 +441,10 @@
    "etiketler": [],
    "aciklama": "Pekmezi meşhur.",
    "puan": {
-    "lezzet": 8,
-    "saglik": 8,
-    "populerlik": 6,
-    "cok_yonluluk": 7
+    "lezzet": 8.8,
+    "saglik": 8.8,
+    "populerlik": 7.6,
+    "cok_yonluluk": 8.2
    }
   },
   {
@@ -455,10 +455,10 @@
    "etiketler": [],
    "aciklama": "Yol kenarının lezzetli meyvesi.",
    "puan": {
-    "lezzet": 8,
-    "saglik": 9,
-    "populerlik": 6,
-    "cok_yonluluk": 7
+    "lezzet": 8.8,
+    "saglik": 9.4,
+    "populerlik": 7.6,
+    "cok_yonluluk": 8.2
    }
   },
   {
@@ -469,10 +469,10 @@
    "etiketler": [],
    "aciklama": "Tatlıların süsü.",
    "puan": {
-    "lezzet": 8,
-    "saglik": 9,
-    "populerlik": 7,
-    "cok_yonluluk": 7
+    "lezzet": 8.8,
+    "saglik": 9.4,
+    "populerlik": 8.2,
+    "cok_yonluluk": 8.2
    }
   },
   {
@@ -483,10 +483,10 @@
    "etiketler": [],
    "aciklama": "Bal gibi kış meyvesi.",
    "puan": {
-    "lezzet": 8,
-    "saglik": 8,
-    "populerlik": 6,
-    "cok_yonluluk": 5
+    "lezzet": 8.8,
+    "saglik": 8.8,
+    "populerlik": 7.6,
+    "cok_yonluluk": 7.0
    }
   },
   {
@@ -497,10 +497,10 @@
    "etiketler": [],
    "aciklama": "Közde kış keyfi.",
    "puan": {
-    "lezzet": 8,
-    "saglik": 7,
-    "populerlik": 8,
-    "cok_yonluluk": 6
+    "lezzet": 8.8,
+    "saglik": 8.2,
+    "populerlik": 8.8,
+    "cok_yonluluk": 7.6
    }
   },
   {
@@ -511,10 +511,10 @@
    "etiketler": [],
    "aciklama": "Doğal şeker deposu.",
    "puan": {
-    "lezzet": 8,
-    "saglik": 8,
-    "populerlik": 8,
-    "cok_yonluluk": 7
+    "lezzet": 8.8,
+    "saglik": 8.8,
+    "populerlik": 8.8,
+    "cok_yonluluk": 8.2
    }
   },
   {
@@ -525,10 +525,10 @@
    "etiketler": [],
    "aciklama": "Mayhoş aromalı tropik meyve.",
    "puan": {
-    "lezzet": 8,
-    "saglik": 8,
-    "populerlik": 5,
-    "cok_yonluluk": 6
+    "lezzet": 8.8,
+    "saglik": 8.8,
+    "populerlik": 7.0,
+    "cok_yonluluk": 7.6
    }
   }
  ]

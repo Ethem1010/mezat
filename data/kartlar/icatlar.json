@@ -50,10 +50,10 @@
    "etiketler": [],
    "aciklama": "Medeniyeti harekete geçirdi.",
    "puan": {
-    "hayata_etkisi": 10,
-    "yayginlik": 10,
-    "yenilikcilik": 10,
-    "yerine_konamazlik": 10
+    "hayata_etkisi": 10.0,
+    "yayginlik": 10.0,
+    "yenilikcilik": 10.0,
+    "yerine_konamazlik": 10.0
    }
   },
   {
@@ -64,10 +64,10 @@
    "etiketler": [],
    "aciklama": "Dünyayı küçülttü.",
    "puan": {
-    "hayata_etkisi": 10,
-    "yayginlik": 9,
-    "yenilikcilik": 10,
-    "yerine_konamazlik": 9
+    "hayata_etkisi": 10.0,
+    "yayginlik": 9.4,
+    "yenilikcilik": 10.0,
+    "yerine_konamazlik": 9.4
    }
   },
   {
@@ -78,10 +78,10 @@
    "etiketler": [],
    "aciklama": "Kişisel ulaşım devrimi.",
    "puan": {
-    "hayata_etkisi": 10,
-    "yayginlik": 10,
-    "yenilikcilik": 9,
-    "yerine_konamazlik": 8
+    "hayata_etkisi": 10.0,
+    "yayginlik": 10.0,
+    "yenilikcilik": 9.4,
+    "yerine_konamazlik": 8.8
    }
   },
   {
@@ -92,10 +92,10 @@
    "etiketler": [],
    "aciklama": "Sanayi devrimini başlattı.",
    "puan": {
-    "hayata_etkisi": 10,
-    "yayginlik": 7,
-    "yenilikcilik": 10,
-    "yerine_konamazlik": 8
+    "hayata_etkisi": 10.0,
+    "yayginlik": 8.2,
+    "yenilikcilik": 10.0,
+    "yerine_konamazlik": 8.8
    }
   },
   {
@@ -106,10 +106,10 @@
    "etiketler": [],
    "aciklama": "İnsanı uzaya taşıdı.",
    "puan": {
-    "hayata_etkisi": 8,
-    "yayginlik": 5,
-    "yenilikcilik": 10,
-    "yerine_konamazlik": 9
+    "hayata_etkisi": 8.8,
+    "yayginlik": 7.0,
+    "yenilikcilik": 10.0,
+    "yerine_konamazlik": 9.4
    }
   },
   {
@@ -120,10 +120,10 @@
    "etiketler": [],
    "aciklama": "Okyanusları keşfe açtı.",
    "puan": {
-    "hayata_etkisi": 9,
-    "yayginlik": 7,
-    "yenilikcilik": 9,
-    "yerine_konamazlik": 7
+    "hayata_etkisi": 9.4,
+    "yayginlik": 8.2,
+    "yenilikcilik": 9.4,
+    "yerine_konamazlik": 8.2
    }
   },
   {
@@ -134,10 +134,10 @@
    "etiketler": [],
    "aciklama": "Tüm dünyayı birbirine bağladı.",
    "puan": {
-    "hayata_etkisi": 10,
-    "yayginlik": 10,
-    "yenilikcilik": 10,
-    "yerine_konamazlik": 10
+    "hayata_etkisi": 10.0,
+    "yayginlik": 10.0,
+    "yenilikcilik": 10.0,
+    "yerine_konamazlik": 10.0
    }
   },
   {
@@ -148,10 +148,10 @@
    "etiketler": [],
    "aciklama": "Bilgisayarı cebe soktu.",
    "puan": {
-    "hayata_etkisi": 10,
-    "yayginlik": 10,
-    "yenilikcilik": 10,
-    "yerine_konamazlik": 9
+    "hayata_etkisi": 10.0,
+    "yayginlik": 10.0,
+    "yenilikcilik": 10.0,
+    "yerine_konamazlik": 9.4
    }
   },
   {
@@ -162,10 +162,10 @@
    "etiketler": [],
    "aciklama": "Bilgiyi herkese ulaştırdı.",
    "puan": {
-    "hayata_etkisi": 10,
-    "yayginlik": 9,
-    "yenilikcilik": 10,
-    "yerine_konamazlik": 9
+    "hayata_etkisi": 10.0,
+    "yayginlik": 9.4,
+    "yenilikcilik": 10.0,
+    "yerine_konamazlik": 9.4
    }
   },
   {
@@ -176,10 +176,10 @@
    "etiketler": [],
    "aciklama": "Uzaktaki sesi yanına getirdi.",
    "puan": {
-    "hayata_etkisi": 10,
-    "yayginlik": 10,
-    "yenilikcilik": 9,
-    "yerine_konamazlik": 8
+    "hayata_etkisi": 10.0,
+    "yayginlik": 10.0,
+    "yenilikcilik": 9.4,
+    "yerine_konamazlik": 8.8
    }
   },
   {
@@ -190,10 +190,10 @@
    "etiketler": [],
    "aciklama": "Dijital çağın kalbi.",
    "puan": {
-    "hayata_etkisi": 10,
-    "yayginlik": 10,
-    "yenilikcilik": 10,
-    "yerine_konamazlik": 10
+    "hayata_etkisi": 10.0,
+    "yayginlik": 10.0,
+    "yenilikcilik": 10.0,
+    "yerine_konamazlik": 10.0
    }
   },
   {
@@ -204,10 +204,10 @@
    "etiketler": [],
    "aciklama": "Tarihin başlangıcı.",
    "puan": {
-    "hayata_etkisi": 10,
-    "yayginlik": 10,
-    "yenilikcilik": 10,
-    "yerine_konamazlik": 10
+    "hayata_etkisi": 10.0,
+    "yayginlik": 10.0,
+    "yenilikcilik": 10.0,
+    "yerine_konamazlik": 10.0
    }
   },
   {
@@ -218,10 +218,10 @@
    "etiketler": [],
    "aciklama": "Milyonlarca hayat kurtardı.",
    "puan": {
-    "hayata_etkisi": 10,
-    "yayginlik": 9,
-    "yenilikcilik": 10,
-    "yerine_konamazlik": 10
+    "hayata_etkisi": 10.0,
+    "yayginlik": 9.4,
+    "yenilikcilik": 10.0,
+    "yerine_konamazlik": 10.0
    }
   },
   {
@@ -232,10 +232,10 @@
    "etiketler": [],
    "aciklama": "Salgınları yendi.",
    "puan": {
-    "hayata_etkisi": 10,
-    "yayginlik": 10,
-    "yenilikcilik": 10,
-    "yerine_konamazlik": 10
+    "hayata_etkisi": 10.0,
+    "yayginlik": 10.0,
+    "yenilikcilik": 10.0,
+    "yerine_konamazlik": 10.0
    }
   },
   {
@@ -246,10 +246,10 @@
    "etiketler": [],
    "aciklama": "Vücudun içini gösterdi.",
    "puan": {
-    "hayata_etkisi": 9,
-    "yayginlik": 9,
-    "yenilikcilik": 10,
-    "yerine_konamazlik": 9
+    "hayata_etkisi": 9.4,
+    "yayginlik": 9.4,
+    "yenilikcilik": 10.0,
+    "yerine_konamazlik": 9.4
    }
   },
   {
@@ -260,10 +260,10 @@
    "etiketler": [],
    "aciklama": "Ağrısız ameliyatı mümkün kıldı.",
    "puan": {
-    "hayata_etkisi": 10,
-    "yayginlik": 9,
-    "yenilikcilik": 9,
-    "yerine_konamazlik": 10
+    "hayata_etkisi": 10.0,
+    "yayginlik": 9.4,
+    "yenilikcilik": 9.4,
+    "yerine_konamazlik": 10.0
    }
   },
   {
@@ -274,10 +274,10 @@
    "etiketler": [],
    "aciklama": "Geceyi aydınlattı.",
    "puan": {
-    "hayata_etkisi": 10,
-    "yayginlik": 10,
-    "yenilikcilik": 9,
-    "yerine_konamazlik": 8
+    "hayata_etkisi": 10.0,
+    "yayginlik": 10.0,
+    "yenilikcilik": 9.4,
+    "yerine_konamazlik": 8.8
    }
   },
   {
@@ -288,10 +288,10 @@
    "etiketler": [],
    "aciklama": "Elektriği üretilebilir yaptı.",
    "puan": {
-    "hayata_etkisi": 10,
-    "yayginlik": 9,
-    "yenilikcilik": 10,
-    "yerine_konamazlik": 10
+    "hayata_etkisi": 10.0,
+    "yayginlik": 9.4,
+    "yenilikcilik": 10.0,
+    "yerine_konamazlik": 10.0
    }
   },
   {
@@ -302,10 +302,10 @@
    "etiketler": [],
    "aciklama": "Temiz enerjinin anahtarı.",
    "puan": {
-    "hayata_etkisi": 8,
-    "yayginlik": 8,
-    "yenilikcilik": 9,
-    "yerine_konamazlik": 7
+    "hayata_etkisi": 8.8,
+    "yayginlik": 8.8,
+    "yenilikcilik": 9.4,
+    "yerine_konamazlik": 8.2
    }
   },
   {
@@ -316,10 +316,10 @@
    "etiketler": [],
    "aciklama": "Enerjiyi cebe soktu.",
    "puan": {
-    "hayata_etkisi": 9,
-    "yayginlik": 10,
-    "yenilikcilik": 9,
-    "yerine_konamazlik": 9
+    "hayata_etkisi": 9.4,
+    "yayginlik": 10.0,
+    "yenilikcilik": 9.4,
+    "yerine_konamazlik": 9.4
    }
   },
   {
@@ -330,10 +330,10 @@
    "etiketler": [],
    "aciklama": "Yiyecekleri taze tuttu.",
    "puan": {
-    "hayata_etkisi": 9,
-    "yayginlik": 10,
-    "yenilikcilik": 8,
-    "yerine_konamazlik": 9
+    "hayata_etkisi": 9.4,
+    "yayginlik": 10.0,
+    "yenilikcilik": 8.8,
+    "yerine_konamazlik": 9.4
    }
   },
   {
@@ -344,10 +344,10 @@
    "etiketler": [],
    "aciklama": "Zamanı ölçülebilir yaptı.",
    "puan": {
-    "hayata_etkisi": 9,
-    "yayginlik": 10,
-    "yenilikcilik": 8,
-    "yerine_konamazlik": 8
+    "hayata_etkisi": 9.4,
+    "yayginlik": 10.0,
+    "yenilikcilik": 8.8,
+    "yerine_konamazlik": 8.8
    }
   },
   {
@@ -358,10 +358,10 @@
    "etiketler": [],
    "aciklama": "Ev işini kolaylaştırdı.",
    "puan": {
-    "hayata_etkisi": 9,
-    "yayginlik": 9,
-    "yenilikcilik": 8,
-    "yerine_konamazlik": 8
+    "hayata_etkisi": 9.4,
+    "yayginlik": 9.4,
+    "yenilikcilik": 8.8,
+    "yerine_konamazlik": 8.8
    }
   },
   {
@@ -372,10 +372,10 @@
    "etiketler": [],
    "aciklama": "Yazının taşıyıcısı.",
    "puan": {
-    "hayata_etkisi": 10,
-    "yayginlik": 10,
-    "yenilikcilik": 9,
-    "yerine_konamazlik": 8
+    "hayata_etkisi": 10.0,
+    "yayginlik": 10.0,
+    "yenilikcilik": 9.4,
+    "yerine_konamazlik": 8.8
    }
   },
   {
@@ -386,10 +386,10 @@
    "etiketler": [],
    "aciklama": "Pişirme ve sıcaklık.",
    "puan": {
-    "hayata_etkisi": 10,
-    "yayginlik": 10,
-    "yenilikcilik": 10,
-    "yerine_konamazlik": 10
+    "hayata_etkisi": 10.0,
+    "yayginlik": 10.0,
+    "yenilikcilik": 10.0,
+    "yerine_konamazlik": 10.0
    }
   },
   {
@@ -400,10 +400,10 @@
    "etiketler": [],
    "aciklama": "Sesi havadan ulaştırdı.",
    "puan": {
-    "hayata_etkisi": 8,
-    "yayginlik": 8,
-    "yenilikcilik": 9,
-    "yerine_konamazlik": 6
+    "hayata_etkisi": 8.8,
+    "yayginlik": 8.8,
+    "yenilikcilik": 9.4,
+    "yerine_konamazlik": 7.6
    }
   },
   {
@@ -414,10 +414,10 @@
    "etiketler": [],
    "aciklama": "Görüntüyü evlere taşıdı.",
    "puan": {
-    "hayata_etkisi": 8,
-    "yayginlik": 9,
-    "yenilikcilik": 9,
-    "yerine_konamazlik": 6
+    "hayata_etkisi": 8.8,
+    "yayginlik": 9.4,
+    "yenilikcilik": 9.4,
+    "yerine_konamazlik": 7.6
    }
   },
   {
@@ -428,10 +428,10 @@
    "etiketler": [],
    "aciklama": "Yolunu kaybetmeyi bitirdi.",
    "puan": {
-    "hayata_etkisi": 8,
-    "yayginlik": 9,
-    "yenilikcilik": 9,
-    "yerine_konamazlik": 8
+    "hayata_etkisi": 8.8,
+    "yayginlik": 9.4,
+    "yenilikcilik": 9.4,
+    "yerine_konamazlik": 8.8
    }
   },
   {
@@ -442,10 +442,10 @@
    "etiketler": [],
    "aciklama": "Ucuz ve temiz ulaşım.",
    "puan": {
-    "hayata_etkisi": 7,
-    "yayginlik": 9,
-    "yenilikcilik": 7,
-    "yerine_konamazlik": 6
+    "hayata_etkisi": 8.2,
+    "yayginlik": 9.4,
+    "yenilikcilik": 8.2,
+    "yerine_konamazlik": 7.6
    }
   },
   {
@@ -456,10 +456,10 @@
    "etiketler": [],
    "aciklama": "Mikropları görünür kıldı.",
    "puan": {
-    "hayata_etkisi": 9,
-    "yayginlik": 7,
-    "yenilikcilik": 9,
-    "yerine_konamazlik": 9
+    "hayata_etkisi": 9.4,
+    "yayginlik": 8.2,
+    "yenilikcilik": 9.4,
+    "yerine_konamazlik": 9.4
    }
   },
   {
@@ -470,10 +470,10 @@
    "etiketler": [],
    "aciklama": "Milyonlara net görüş.",
    "puan": {
-    "hayata_etkisi": 8,
-    "yayginlik": 9,
-    "yenilikcilik": 7,
-    "yerine_konamazlik": 8
+    "hayata_etkisi": 8.8,
+    "yayginlik": 9.4,
+    "yenilikcilik": 8.2,
+    "yerine_konamazlik": 8.8
    }
   },
   {
@@ -484,10 +484,10 @@
    "etiketler": [],
    "aciklama": "Sıcak iklimde konfor.",
    "puan": {
-    "hayata_etkisi": 7,
-    "yayginlik": 8,
-    "yenilikcilik": 7,
-    "yerine_konamazlik": 6
+    "hayata_etkisi": 8.2,
+    "yayginlik": 8.8,
+    "yenilikcilik": 8.2,
+    "yerine_konamazlik": 7.6
    }
   },
   {
@@ -498,10 +498,10 @@
    "etiketler": [],
    "aciklama": "Dakikada ısıtma.",
    "puan": {
-    "hayata_etkisi": 6,
-    "yayginlik": 8,
-    "yenilikcilik": 7,
-    "yerine_konamazlik": 5
+    "hayata_etkisi": 7.6,
+    "yayginlik": 8.8,
+    "yenilikcilik": 8.2,
+    "yerine_konamazlik": 7.0
    }
   },
   {
@@ -512,10 +512,10 @@
    "etiketler": [],
    "aciklama": "Dev enerji kaynağı.",
    "puan": {
-    "hayata_etkisi": 8,
-    "yayginlik": 6,
-    "yenilikcilik": 10,
-    "yerine_konamazlik": 7
+    "hayata_etkisi": 8.8,
+    "yayginlik": 7.6,
+    "yenilikcilik": 10.0,
+    "yerine_konamazlik": 8.2
    }
   },
   {
@@ -526,10 +526,10 @@
    "etiketler": [],
    "aciklama": "Anıları ölümsüz kıldı.",
    "puan": {
-    "hayata_etkisi": 7,
-    "yayginlik": 9,
-    "yenilikcilik": 9,
-    "yerine_konamazlik": 6
+    "hayata_etkisi": 8.2,
+    "yayginlik": 9.4,
+    "yenilikcilik": 9.4,
+    "yerine_konamazlik": 7.6
    }
   }
  ]

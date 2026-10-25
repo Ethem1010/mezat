@@ -47,10 +47,10 @@
    "etiketler": [],
    "aciklama": "Sürüyü kurda karşı koruyan Anadolu çoban köpeği.",
    "puan": {
-    "koruma": 10,
-    "zeka": 7,
-    "sadakat": 10,
-    "dayaniklilik": 10
+    "koruma": 10.0,
+    "zeka": 8.2,
+    "sadakat": 10.0,
+    "dayaniklilik": 10.0
    }
   },
   {
@@ -61,10 +61,10 @@
    "etiketler": [],
    "aciklama": "Polislerin ve askerlerin en sadık ortağı.",
    "puan": {
-    "koruma": 9,
-    "zeka": 10,
-    "sadakat": 10,
-    "dayaniklilik": 8
+    "koruma": 9.4,
+    "zeka": 10.0,
+    "sadakat": 10.0,
+    "dayaniklilik": 8.8
    }
   },
   {
@@ -75,10 +75,10 @@
    "etiketler": [],
    "aciklama": "Özel kuvvetlerin tercih ettiği çalışkan ırk.",
    "puan": {
-    "koruma": 9,
-    "zeka": 10,
-    "sadakat": 9,
-    "dayaniklilik": 9
+    "koruma": 9.4,
+    "zeka": 10.0,
+    "sadakat": 9.4,
+    "dayaniklilik": 9.4
    }
   },
   {
@@ -89,10 +89,10 @@
    "etiketler": [],
    "aciklama": "Güçlü yapılı, korkusuz bekçi.",
    "puan": {
-    "koruma": 9,
-    "zeka": 8,
-    "sadakat": 9,
-    "dayaniklilik": 8
+    "koruma": 9.4,
+    "zeka": 8.8,
+    "sadakat": 9.4,
+    "dayaniklilik": 8.8
    }
   },
   {
@@ -103,10 +103,10 @@
    "etiketler": [],
    "aciklama": "Zarif, hızlı ve son derece dikkatli.",
    "puan": {
-    "koruma": 9,
-    "zeka": 9,
-    "sadakat": 9,
-    "dayaniklilik": 7
+    "koruma": 9.4,
+    "zeka": 9.4,
+    "sadakat": 9.4,
+    "dayaniklilik": 8.2
    }
   },
   {
@@ -117,10 +117,10 @@
    "etiketler": [],
    "aciklama": "Beyaz tüylü Anadolu çoban köpeği.",
    "puan": {
-    "koruma": 9,
-    "zeka": 7,
-    "sadakat": 9,
-    "dayaniklilik": 9
+    "koruma": 9.4,
+    "zeka": 8.2,
+    "sadakat": 9.4,
+    "dayaniklilik": 9.4
    }
   },
   {
@@ -131,10 +131,10 @@
    "etiketler": [],
    "aciklama": "Dev cüsseli dağ bekçisi.",
    "puan": {
-    "koruma": 10,
-    "zeka": 6,
-    "sadakat": 9,
-    "dayaniklilik": 9
+    "koruma": 10.0,
+    "zeka": 7.6,
+    "sadakat": 9.4,
+    "dayaniklilik": 9.4
    }
   },
   {
@@ -145,10 +145,10 @@
    "etiketler": [],
    "aciklama": "Himalayaların dev bekçisi.",
    "puan": {
-    "koruma": 9,
-    "zeka": 6,
-    "sadakat": 8,
-    "dayaniklilik": 9
+    "koruma": 9.4,
+    "zeka": 7.6,
+    "sadakat": 8.8,
+    "dayaniklilik": 9.4
    }
   },
   {
@@ -159,10 +159,10 @@
    "etiketler": [],
    "aciklama": "İtalyan bekçi köpeği, kaslı ve cesur.",
    "puan": {
-    "koruma": 9,
-    "zeka": 7,
-    "sadakat": 9,
-    "dayaniklilik": 8
+    "koruma": 9.4,
+    "zeka": 8.2,
+    "sadakat": 9.4,
+    "dayaniklilik": 8.8
    }
   },
   {
@@ -173,10 +173,10 @@
    "etiketler": [],
    "aciklama": "Hachiko'nun ırkı, sadakatin simgesi.",
    "puan": {
-    "koruma": 8,
-    "zeka": 7,
-    "sadakat": 10,
-    "dayaniklilik": 8
+    "koruma": 8.8,
+    "zeka": 8.2,
+    "sadakat": 10.0,
+    "dayaniklilik": 8.8
    }
   },
   {
@@ -187,10 +187,10 @@
    "etiketler": [],
    "aciklama": "Herkesi seven altın renkli aile dostu.",
    "puan": {
-    "koruma": 4,
-    "zeka": 9,
-    "sadakat": 10,
-    "dayaniklilik": 7
+    "koruma": 6.4,
+    "zeka": 9.4,
+    "sadakat": 10.0,
+    "dayaniklilik": 8.2
    }
   },
   {
@@ -201,10 +201,10 @@
    "etiketler": [],
    "aciklama": "Rehber köpeklerin en sevilen ırkı.",
    "puan": {
-    "koruma": 4,
-    "zeka": 9,
-    "sadakat": 10,
-    "dayaniklilik": 8
+    "koruma": 6.4,
+    "zeka": 9.4,
+    "sadakat": 10.0,
+    "dayaniklilik": 8.8
    }
   },
   {
@@ -215,10 +215,10 @@
    "etiketler": [],
    "aciklama": "Üç renkli tüyleriyle uysal dev.",
    "puan": {
-    "koruma": 5,
-    "zeka": 7,
-    "sadakat": 9,
-    "dayaniklilik": 7
+    "koruma": 7.0,
+    "zeka": 8.2,
+    "sadakat": 9.4,
+    "dayaniklilik": 8.2
    }
   },
   {
@@ -229,10 +229,10 @@
    "etiketler": [],
    "aciklama": "Güçlü ve sakin aile koruyucusu.",
    "puan": {
-    "koruma": 7,
-    "zeka": 7,
-    "sadakat": 9,
-    "dayaniklilik": 8
+    "koruma": 8.2,
+    "zeka": 8.2,
+    "sadakat": 9.4,
+    "dayaniklilik": 8.8
    }
   },
   {
@@ -243,10 +243,10 @@
    "etiketler": [],
    "aciklama": "Suda can kurtaran dev.",
    "puan": {
-    "koruma": 5,
-    "zeka": 7,
-    "sadakat": 9,
-    "dayaniklilik": 8
+    "koruma": 7.0,
+    "zeka": 8.2,
+    "sadakat": 9.4,
+    "dayaniklilik": 8.8
    }
   },
   {
@@ -257,10 +257,10 @@
    "etiketler": [],
    "aciklama": "Göründüğünden çok daha zeki.",
    "puan": {
-    "koruma": 3,
-    "zeka": 10,
-    "sadakat": 8,
-    "dayaniklilik": 7
+    "koruma": 5.8,
+    "zeka": 10.0,
+    "sadakat": 8.8,
+    "dayaniklilik": 8.2
    }
   },
   {
@@ -271,10 +271,10 @@
    "etiketler": [],
    "aciklama": "Enerjik, oyuncu ve korumacı.",
    "puan": {
-    "koruma": 6,
-    "zeka": 7,
-    "sadakat": 9,
-    "dayaniklilik": 7
+    "koruma": 7.6,
+    "zeka": 8.2,
+    "sadakat": 9.4,
+    "dayaniklilik": 8.2
    }
   },
   {
@@ -285,10 +285,10 @@
    "etiketler": [],
    "aciklama": "Köpekler arasında zeka şampiyonu.",
    "puan": {
-    "koruma": 5,
-    "zeka": 10,
-    "sadakat": 9,
-    "dayaniklilik": 9
+    "koruma": 7.0,
+    "zeka": 10.0,
+    "sadakat": 9.4,
+    "dayaniklilik": 9.4
    }
   },
   {
@@ -299,10 +299,10 @@
    "etiketler": [],
    "aciklama": "Sürü güden zeki ve enerjik köpek.",
    "puan": {
-    "koruma": 5,
-    "zeka": 9,
-    "sadakat": 9,
-    "dayaniklilik": 9
+    "koruma": 7.0,
+    "zeka": 9.4,
+    "sadakat": 9.4,
+    "dayaniklilik": 9.4
    }
   },
   {
@@ -313,10 +313,10 @@
    "etiketler": [],
    "aciklama": "Buz gibi soğukta kızak çeken koşucu.",
    "puan": {
-    "koruma": 4,
-    "zeka": 7,
-    "sadakat": 7,
-    "dayaniklilik": 10
+    "koruma": 6.4,
+    "zeka": 8.2,
+    "sadakat": 8.2,
+    "dayaniklilik": 10.0
    }
   },
   {
@@ -327,10 +327,10 @@
    "etiketler": [],
    "aciklama": "Ağır kızakları çeken dev kar köpeği.",
    "puan": {
-    "koruma": 5,
-    "zeka": 6,
-    "sadakat": 7,
-    "dayaniklilik": 10
+    "koruma": 7.0,
+    "zeka": 7.6,
+    "sadakat": 8.2,
+    "dayaniklilik": 10.0
    }
   },
   {
@@ -341,10 +341,10 @@
    "etiketler": [],
    "aciklama": "Karda kaybolanları kurtaran dev.",
    "puan": {
-    "koruma": 5,
-    "zeka": 6,
-    "sadakat": 9,
-    "dayaniklilik": 8
+    "koruma": 7.0,
+    "zeka": 7.6,
+    "sadakat": 9.4,
+    "dayaniklilik": 8.8
    }
   },
   {
@@ -355,10 +355,10 @@
    "etiketler": [],
    "aciklama": "Koku alma şampiyonu iz sürücü.",
    "puan": {
-    "koruma": 3,
-    "zeka": 7,
-    "sadakat": 8,
-    "dayaniklilik": 8
+    "koruma": 5.8,
+    "zeka": 8.2,
+    "sadakat": 8.8,
+    "dayaniklilik": 8.8
    }
   },
   {
@@ -369,10 +369,10 @@
    "etiketler": [],
    "aciklama": "Gülümseyen beyaz kızak köpeği.",
    "puan": {
-    "koruma": 3,
-    "zeka": 7,
-    "sadakat": 8,
-    "dayaniklilik": 9
+    "koruma": 5.8,
+    "zeka": 8.2,
+    "sadakat": 8.8,
+    "dayaniklilik": 9.4
    }
   },
   {
@@ -383,10 +383,10 @@
    "etiketler": [],
    "aciklama": "Rüzgâr gibi koşan av köpeği.",
    "puan": {
-    "koruma": 3,
-    "zeka": 7,
-    "sadakat": 8,
-    "dayaniklilik": 9
+    "koruma": 5.8,
+    "zeka": 8.2,
+    "sadakat": 8.8,
+    "dayaniklilik": 9.4
    }
   },
   {
@@ -397,10 +397,10 @@
    "etiketler": [],
    "aciklama": "Sakallı ve güçlü bekçi.",
    "puan": {
-    "koruma": 8,
-    "zeka": 8,
-    "sadakat": 8,
-    "dayaniklilik": 8
+    "koruma": 8.8,
+    "zeka": 8.8,
+    "sadakat": 8.8,
+    "dayaniklilik": 8.8
    }
   },
   {
@@ -411,10 +411,10 @@
    "etiketler": [],
    "aciklama": "Güçlü ve kararlı.",
    "puan": {
-    "koruma": 7,
-    "zeka": 6,
-    "sadakat": 8,
-    "dayaniklilik": 8
+    "koruma": 8.2,
+    "zeka": 7.6,
+    "sadakat": 8.8,
+    "dayaniklilik": 8.8
    }
   },
   {
@@ -425,10 +425,10 @@
    "etiketler": [],
    "aciklama": "Dünyanın en uzun köpek ırklarından.",
    "puan": {
-    "koruma": 7,
-    "zeka": 6,
-    "sadakat": 8,
-    "dayaniklilik": 6
+    "koruma": 8.2,
+    "zeka": 7.6,
+    "sadakat": 8.8,
+    "dayaniklilik": 7.6
    }
   },
   {
@@ -439,10 +439,10 @@
    "etiketler": [],
    "aciklama": "Mor dilli, aslan yeleli mesafeli köpek.",
    "puan": {
-    "koruma": 6,
-    "zeka": 5,
-    "sadakat": 7,
-    "dayaniklilik": 6
+    "koruma": 7.6,
+    "zeka": 7.0,
+    "sadakat": 8.2,
+    "dayaniklilik": 7.6
    }
   },
   {
@@ -453,10 +453,10 @@
    "etiketler": [],
    "aciklama": "Benekleriyle tanınan itfaiye köpeği.",
    "puan": {
-    "koruma": 4,
-    "zeka": 7,
-    "sadakat": 8,
-    "dayaniklilik": 8
+    "koruma": 6.4,
+    "zeka": 8.2,
+    "sadakat": 8.8,
+    "dayaniklilik": 8.8
    }
   },
   {
@@ -467,10 +467,10 @@
    "etiketler": [],
    "aciklama": "Tilkiye benzeyen bağımsız Japon ırkı.",
    "puan": {
-    "koruma": 4,
-    "zeka": 7,
-    "sadakat": 6,
-    "dayaniklilik": 7
+    "koruma": 6.4,
+    "zeka": 8.2,
+    "sadakat": 7.6,
+    "dayaniklilik": 8.2
    }
   },
   {
@@ -481,10 +481,10 @@
    "etiketler": [],
    "aciklama": "Gri \"hayalet\" av köpeği.",
    "puan": {
-    "koruma": 5,
-    "zeka": 8,
-    "sadakat": 8,
-    "dayaniklilik": 8
+    "koruma": 7.0,
+    "zeka": 8.8,
+    "sadakat": 8.8,
+    "dayaniklilik": 8.8
    }
   },
   {
@@ -495,10 +495,10 @@
    "etiketler": [],
    "aciklama": "Burnu çok iyi koku alan iz sürücü.",
    "puan": {
-    "koruma": 3,
-    "zeka": 7,
-    "sadakat": 8,
-    "dayaniklilik": 8
+    "koruma": 5.8,
+    "zeka": 8.2,
+    "sadakat": 8.8,
+    "dayaniklilik": 8.8
    }
   },
   {
@@ -509,10 +509,10 @@
    "etiketler": [],
    "aciklama": "Bitmeyen enerjili küçük avcı.",
    "puan": {
-    "koruma": 3,
-    "zeka": 8,
-    "sadakat": 7,
-    "dayaniklilik": 8
+    "koruma": 5.8,
+    "zeka": 8.8,
+    "sadakat": 8.2,
+    "dayaniklilik": 8.8
    }
   },
   {
@@ -523,10 +523,10 @@
    "etiketler": [],
    "aciklama": "Kısa bacaklı ama çevik çoban köpeği.",
    "puan": {
-    "koruma": 3,
-    "zeka": 8,
-    "sadakat": 8,
-    "dayaniklilik": 7
+    "koruma": 5.8,
+    "zeka": 8.8,
+    "sadakat": 8.8,
+    "dayaniklilik": 8.2
    }
   }
  ]

@@ -54,10 +54,10 @@
    "etiketler": [],
    "aciklama": "Muz büyüklüğünde dişleriyle dinozorların kralı.",
    "puan": {
-    "guc": 10,
-    "boyut": 9,
-    "hiz": 6,
-    "avcilik": 10
+    "guc": 10.0,
+    "boyut": 9.4,
+    "hiz": 7.6,
+    "avcilik": 10.0
    }
   },
   {
@@ -68,10 +68,10 @@
    "etiketler": [],
    "aciklama": "Sırtında yelkeni olan, suda avlanan dev etobur.",
    "puan": {
-    "guc": 9,
-    "boyut": 10,
-    "hiz": 5,
-    "avcilik": 8
+    "guc": 9.4,
+    "boyut": 10.0,
+    "hiz": 7.0,
+    "avcilik": 8.8
    }
   },
   {
@@ -82,10 +82,10 @@
    "etiketler": [],
    "aciklama": "T-rex'ten uzun olabilen dev avcı.",
    "puan": {
-    "guc": 10,
-    "boyut": 9,
-    "hiz": 6,
-    "avcilik": 9
+    "guc": 10.0,
+    "boyut": 9.4,
+    "hiz": 7.6,
+    "avcilik": 9.4
    }
   },
   {
@@ -96,10 +96,10 @@
    "etiketler": [],
    "aciklama": "Köpek balığı dişli dev avcı.",
    "puan": {
-    "guc": 9,
-    "boyut": 9,
-    "hiz": 6,
-    "avcilik": 9
+    "guc": 9.4,
+    "boyut": 9.4,
+    "hiz": 7.6,
+    "avcilik": 9.4
    }
   },
   {
@@ -110,10 +110,10 @@
    "etiketler": [],
    "aciklama": "Jura döneminin baş avcısı.",
    "puan": {
-    "guc": 8,
-    "boyut": 8,
-    "hiz": 7,
-    "avcilik": 9
+    "guc": 8.8,
+    "boyut": 8.8,
+    "hiz": 8.2,
+    "avcilik": 9.4
    }
   },
   {
@@ -124,10 +124,10 @@
    "etiketler": [],
    "aciklama": "Boynuzlu ve çok hızlı avcı.",
    "puan": {
-    "guc": 7,
-    "boyut": 7,
-    "hiz": 9,
-    "avcilik": 8
+    "guc": 8.2,
+    "boyut": 8.2,
+    "hiz": 9.4,
+    "avcilik": 8.8
    }
   },
   {
@@ -138,10 +138,10 @@
    "etiketler": [],
    "aciklama": "Timsah çeneli balık avcısı.",
    "puan": {
-    "guc": 7,
-    "boyut": 7,
-    "hiz": 6,
-    "avcilik": 8
+    "guc": 8.2,
+    "boyut": 8.2,
+    "hiz": 7.6,
+    "avcilik": 8.8
    }
   },
   {
@@ -154,10 +154,10 @@
    ],
    "aciklama": "Zeki, sürüyle avlandığı düşünülen avcı.",
    "puan": {
-    "guc": 3,
-    "boyut": 2,
-    "hiz": 9,
-    "avcilik": 9
+    "guc": 5.8,
+    "boyut": 5.2,
+    "hiz": 9.4,
+    "avcilik": 9.4
    }
   },
   {
@@ -170,10 +170,10 @@
    ],
    "aciklama": "Raptorların en büyüğü.",
    "puan": {
-    "guc": 6,
-    "boyut": 5,
-    "hiz": 8,
-    "avcilik": 9
+    "guc": 7.6,
+    "boyut": 7.0,
+    "hiz": 8.8,
+    "avcilik": 9.4
    }
   },
   {
@@ -186,10 +186,10 @@
    ],
    "aciklama": "Pençeli ve çevik, grupla avlandığı düşünülür.",
    "puan": {
-    "guc": 4,
-    "boyut": 3,
-    "hiz": 8,
-    "avcilik": 9
+    "guc": 6.4,
+    "boyut": 5.8,
+    "hiz": 8.8,
+    "avcilik": 9.4
    }
   },
   {
@@ -200,10 +200,10 @@
    "etiketler": [],
    "aciklama": "Metre uzunluğunda pençeli dev.",
    "puan": {
-    "guc": 7,
-    "boyut": 8,
-    "hiz": 3,
-    "avcilik": 4
+    "guc": 8.2,
+    "boyut": 8.8,
+    "hiz": 5.8,
+    "avcilik": 6.4
    }
   },
   {
@@ -214,10 +214,10 @@
    "etiketler": [],
    "aciklama": "Üç boynuzu ve kalkanıyla T-rex'e kafa tutar.",
    "puan": {
-    "guc": 8,
-    "boyut": 8,
-    "hiz": 5,
-    "avcilik": 2
+    "guc": 8.8,
+    "boyut": 8.8,
+    "hiz": 7.0,
+    "avcilik": 5.2
    }
   },
   {
@@ -228,10 +228,10 @@
    "etiketler": [],
    "aciklama": "Zırhlı gövde ve topuz kuyruk.",
    "puan": {
-    "guc": 7,
-    "boyut": 7,
-    "hiz": 3,
-    "avcilik": 2
+    "guc": 8.2,
+    "boyut": 8.2,
+    "hiz": 5.8,
+    "avcilik": 5.2
    }
   },
   {
@@ -242,10 +242,10 @@
    "etiketler": [],
    "aciklama": "Sırt plakaları ve dikenli kuyruk.",
    "puan": {
-    "guc": 7,
-    "boyut": 8,
-    "hiz": 3,
-    "avcilik": 2
+    "guc": 8.2,
+    "boyut": 8.8,
+    "hiz": 5.8,
+    "avcilik": 5.2
    }
   },
   {
@@ -256,10 +256,10 @@
    "etiketler": [],
    "aciklama": "Ağaç tepelerine uzanan dev boyunlu.",
    "puan": {
-    "guc": 8,
-    "boyut": 10,
-    "hiz": 2,
-    "avcilik": 1
+    "guc": 8.8,
+    "boyut": 10.0,
+    "hiz": 5.2,
+    "avcilik": 4.6
    }
   },
   {
@@ -270,10 +270,10 @@
    "etiketler": [],
    "aciklama": "Bilinen en büyük kara hayvanlarından.",
    "puan": {
-    "guc": 9,
-    "boyut": 10,
-    "hiz": 2,
-    "avcilik": 1
+    "guc": 9.4,
+    "boyut": 10.0,
+    "hiz": 5.2,
+    "avcilik": 4.6
    }
   },
   {
@@ -284,10 +284,10 @@
    "etiketler": [],
    "aciklama": "Kuyruğunu kamçı gibi kullanır.",
    "puan": {
-    "guc": 7,
-    "boyut": 10,
-    "hiz": 3,
-    "avcilik": 1
+    "guc": 8.2,
+    "boyut": 10.0,
+    "hiz": 5.8,
+    "avcilik": 4.6
    }
   },
   {
@@ -298,10 +298,10 @@
    "etiketler": [],
    "aciklama": "Uzun boyunlu efsane dev.",
    "puan": {
-    "guc": 7,
-    "boyut": 10,
-    "hiz": 2,
-    "avcilik": 1
+    "guc": 8.2,
+    "boyut": 10.0,
+    "hiz": 5.2,
+    "avcilik": 4.6
    }
   },
   {
@@ -312,10 +312,10 @@
    "etiketler": [],
    "aciklama": "Kalın kafatasıyla kafa atar.",
    "puan": {
-    "guc": 5,
-    "boyut": 4,
-    "hiz": 6,
-    "avcilik": 2
+    "guc": 7.0,
+    "boyut": 6.4,
+    "hiz": 7.6,
+    "avcilik": 5.2
    }
   },
   {
@@ -326,10 +326,10 @@
    "etiketler": [],
    "aciklama": "Kafasındaki boruyla ses çıkarır.",
    "puan": {
-    "guc": 5,
-    "boyut": 7,
-    "hiz": 6,
-    "avcilik": 1
+    "guc": 7.0,
+    "boyut": 8.2,
+    "hiz": 7.6,
+    "avcilik": 4.6
    }
   },
   {
@@ -340,10 +340,10 @@
    "etiketler": [],
    "aciklama": "Denizlerin dev avcı sürüngeni; dinozor değil.",
    "puan": {
-    "guc": 9,
-    "boyut": 10,
-    "hiz": 7,
-    "avcilik": 10
+    "guc": 9.4,
+    "boyut": 10.0,
+    "hiz": 8.2,
+    "avcilik": 10.0
    }
   },
   {
@@ -354,10 +354,10 @@
    "etiketler": [],
    "aciklama": "Güçlü çeneli deniz sürüngeni; dinozor değil.",
    "puan": {
-    "guc": 9,
-    "boyut": 8,
-    "hiz": 7,
-    "avcilik": 9
+    "guc": 9.4,
+    "boyut": 8.8,
+    "hiz": 8.2,
+    "avcilik": 9.4
    }
   },
   {
@@ -368,10 +368,10 @@
    "etiketler": [],
    "aciklama": "Dev tarih öncesi köpek balığı; dinozorlardan sonra yaşadı.",
    "puan": {
-    "guc": 10,
-    "boyut": 10,
-    "hiz": 7,
-    "avcilik": 10
+    "guc": 10.0,
+    "boyut": 10.0,
+    "hiz": 8.2,
+    "avcilik": 10.0
    }
   },
   {
@@ -382,10 +382,10 @@
    "etiketler": [],
    "aciklama": "Uçak büyüklüğünde kanatlı sürüngen; dinozor değil.",
    "puan": {
-    "guc": 5,
-    "boyut": 8,
-    "hiz": 7,
-    "avcilik": 6
+    "guc": 7.0,
+    "boyut": 8.8,
+    "hiz": 8.2,
+    "avcilik": 7.6
    }
   },
   {
@@ -396,10 +396,10 @@
    "etiketler": [],
    "aciklama": "Gökyüzünün kanatlı sürüngeni; dinozor değil.",
    "puan": {
-    "guc": 3,
-    "boyut": 6,
-    "hiz": 8,
-    "avcilik": 6
+    "guc": 5.8,
+    "boyut": 7.6,
+    "hiz": 8.8,
+    "avcilik": 7.6
    }
   },
   {
@@ -410,10 +410,10 @@
    "etiketler": [],
    "aciklama": "Burnunda boynuz taşıyan avcı.",
    "puan": {
-    "guc": 7,
-    "boyut": 7,
-    "hiz": 6,
-    "avcilik": 8
+    "guc": 8.2,
+    "boyut": 8.2,
+    "hiz": 7.6,
+    "avcilik": 8.8
    }
   },
   {
@@ -424,10 +424,10 @@
    "etiketler": [],
    "aciklama": "Kafasında iki ibik olan avcı.",
    "puan": {
-    "guc": 5,
-    "boyut": 5,
-    "hiz": 7,
-    "avcilik": 7
+    "guc": 7.0,
+    "boyut": 7.0,
+    "hiz": 8.2,
+    "avcilik": 8.2
    }
   },
   {
@@ -438,10 +438,10 @@
    "etiketler": [],
    "aciklama": "En zeki dinozorlardan.",
    "puan": {
-    "guc": 2,
-    "boyut": 2,
-    "hiz": 7,
-    "avcilik": 7
+    "guc": 5.2,
+    "boyut": 5.2,
+    "hiz": 8.2,
+    "avcilik": 8.2
    }
   },
   {
@@ -454,10 +454,10 @@
    ],
    "aciklama": "Grup halinde yaşayan ince yapılı avcı.",
    "puan": {
-    "guc": 3,
-    "boyut": 3,
-    "hiz": 8,
-    "avcilik": 7
+    "guc": 5.8,
+    "boyut": 5.8,
+    "hiz": 8.8,
+    "avcilik": 8.2
    }
   },
   {
@@ -468,10 +468,10 @@
    "etiketler": [],
    "aciklama": "Başparmağında diken taşır.",
    "puan": {
-    "guc": 6,
-    "boyut": 7,
-    "hiz": 5,
-    "avcilik": 2
+    "guc": 7.6,
+    "boyut": 8.2,
+    "hiz": 7.0,
+    "avcilik": 5.2
    }
   },
   {
@@ -482,10 +482,10 @@
    "etiketler": [],
    "aciklama": "Sürüler halinde gezen ördek gagalı.",
    "puan": {
-    "guc": 6,
-    "boyut": 8,
-    "hiz": 5,
-    "avcilik": 1
+    "guc": 7.6,
+    "boyut": 8.8,
+    "hiz": 7.0,
+    "avcilik": 4.6
    }
   },
   {
@@ -496,10 +496,10 @@
    "etiketler": [],
    "aciklama": "Dikenli yakalı boynuzlu dinozor.",
    "puan": {
-    "guc": 7,
-    "boyut": 7,
-    "hiz": 5,
-    "avcilik": 2
+    "guc": 8.2,
+    "boyut": 8.2,
+    "hiz": 7.0,
+    "avcilik": 5.2
    }
   },
   {
@@ -510,10 +510,10 @@
    "etiketler": [],
    "aciklama": "Devekuşu gibi koşan hızlı dinozor.",
    "puan": {
-    "guc": 2,
-    "boyut": 4,
-    "hiz": 10,
-    "avcilik": 2
+    "guc": 5.2,
+    "boyut": 6.4,
+    "hiz": 10.0,
+    "avcilik": 5.2
    }
   },
   {
@@ -524,10 +524,10 @@
    "etiketler": [],
    "aciklama": "Uzun boyunlu deniz sürüngeni; dinozor değil.",
    "puan": {
-    "guc": 6,
-    "boyut": 7,
-    "hiz": 6,
-    "avcilik": 7
+    "guc": 7.6,
+    "boyut": 8.2,
+    "hiz": 7.6,
+    "avcilik": 8.2
    }
   },
   {
@@ -538,10 +538,10 @@
    "etiketler": [],
    "aciklama": "Yunusa benzeyen deniz sürüngeni; dinozor değil.",
    "puan": {
-    "guc": 5,
-    "boyut": 5,
-    "hiz": 8,
-    "avcilik": 6
+    "guc": 7.0,
+    "boyut": 7.0,
+    "hiz": 8.8,
+    "avcilik": 7.6
    }
   }
  ]

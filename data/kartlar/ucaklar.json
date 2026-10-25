@@ -49,10 +49,10 @@
    "etiketler": [],
    "aciklama": "Atlantik'i 3,5 saatte geçen ses üstü yolcu uçağı.",
    "puan": {
-    "hiz": 10,
-    "teknoloji": 9,
-    "menzil": 7,
-    "i_koniklik": 10
+    "hiz": 10.0,
+    "teknoloji": 9.4,
+    "menzil": 8.2,
+    "i_koniklik": 10.0
    }
   },
   {
@@ -63,10 +63,10 @@
    "etiketler": [],
    "aciklama": "Hız rekoru hâlâ kırılmayan keşif uçağı.",
    "puan": {
-    "hiz": 10,
-    "teknoloji": 10,
-    "menzil": 8,
-    "i_koniklik": 10
+    "hiz": 10.0,
+    "teknoloji": 10.0,
+    "menzil": 8.8,
+    "i_koniklik": 10.0
    }
   },
   {
@@ -77,10 +77,10 @@
    "etiketler": [],
    "aciklama": "Gökyüzünün Kraliçesi, ilk jumbo jet.",
    "puan": {
-    "hiz": 7,
-    "teknoloji": 7,
-    "menzil": 9,
-    "i_koniklik": 10
+    "hiz": 8.2,
+    "teknoloji": 8.2,
+    "menzil": 9.4,
+    "i_koniklik": 10.0
    }
   },
   {
@@ -91,10 +91,10 @@
    "etiketler": [],
    "aciklama": "Dünyanın en büyük yolcu uçağı.",
    "puan": {
-    "hiz": 7,
-    "teknoloji": 9,
-    "menzil": 10,
-    "i_koniklik": 9
+    "hiz": 8.2,
+    "teknoloji": 9.4,
+    "menzil": 10.0,
+    "i_koniklik": 9.4
    }
   },
   {
@@ -105,10 +105,10 @@
    "etiketler": [],
    "aciklama": "Karbon gövdeli verimli uzun yol uçağı.",
    "puan": {
-    "hiz": 7,
-    "teknoloji": 9,
-    "menzil": 10,
-    "i_koniklik": 8
+    "hiz": 8.2,
+    "teknoloji": 9.4,
+    "menzil": 10.0,
+    "i_koniklik": 8.8
    }
   },
   {
@@ -119,10 +119,10 @@
    "etiketler": [],
    "aciklama": "Sessiz ve verimli geniş gövde uçak.",
    "puan": {
-    "hiz": 7,
-    "teknoloji": 9,
-    "menzil": 10,
-    "i_koniklik": 7
+    "hiz": 8.2,
+    "teknoloji": 9.4,
+    "menzil": 10.0,
+    "i_koniklik": 8.2
    }
   },
   {
@@ -133,10 +133,10 @@
    "etiketler": [],
    "aciklama": "Radara yakalanmayan hava üstünlüğü uçağı.",
    "puan": {
-    "hiz": 9,
-    "teknoloji": 10,
-    "menzil": 7,
-    "i_koniklik": 9
+    "hiz": 9.4,
+    "teknoloji": 10.0,
+    "menzil": 8.2,
+    "i_koniklik": 9.4
    }
   },
   {
@@ -147,10 +147,10 @@
    "etiketler": [],
    "aciklama": "Yeni nesil gizli savaş uçağı.",
    "puan": {
-    "hiz": 8,
-    "teknoloji": 10,
-    "menzil": 7,
-    "i_koniklik": 8
+    "hiz": 8.8,
+    "teknoloji": 10.0,
+    "menzil": 8.2,
+    "i_koniklik": 8.8
    }
   },
   {
@@ -161,10 +161,10 @@
    "etiketler": [],
    "aciklama": "Dünyanın en yaygın savaş uçaklarından.",
    "puan": {
-    "hiz": 9,
-    "teknoloji": 8,
-    "menzil": 7,
-    "i_koniklik": 9
+    "hiz": 9.4,
+    "teknoloji": 8.8,
+    "menzil": 8.2,
+    "i_koniklik": 9.4
    }
   },
   {
@@ -175,10 +175,10 @@
    "etiketler": [],
    "aciklama": "Değişken kanatlı efsane, Top Gun'ın yıldızı.",
    "puan": {
-    "hiz": 9,
-    "teknoloji": 8,
-    "menzil": 7,
-    "i_koniklik": 10
+    "hiz": 9.4,
+    "teknoloji": 8.8,
+    "menzil": 8.2,
+    "i_koniklik": 10.0
    }
   },
   {
@@ -189,10 +189,10 @@
    "etiketler": [],
    "aciklama": "Avrupa'nın çevik savaş uçağı.",
    "puan": {
-    "hiz": 9,
-    "teknoloji": 9,
-    "menzil": 7,
-    "i_koniklik": 7
+    "hiz": 9.4,
+    "teknoloji": 9.4,
+    "menzil": 8.2,
+    "i_koniklik": 8.2
    }
   },
   {
@@ -203,10 +203,10 @@
    "etiketler": [],
    "aciklama": "Rus yapımı yeni nesil savaş uçağı.",
    "puan": {
-    "hiz": 9,
-    "teknoloji": 9,
-    "menzil": 7,
-    "i_koniklik": 7
+    "hiz": 9.4,
+    "teknoloji": 9.4,
+    "menzil": 8.2,
+    "i_koniklik": 8.2
    }
   },
   {
@@ -217,10 +217,10 @@
    "etiketler": [],
    "aciklama": "Kanat biçimli gizli bombardıman uçağı.",
    "puan": {
-    "hiz": 6,
-    "teknoloji": 10,
-    "menzil": 10,
-    "i_koniklik": 10
+    "hiz": 7.6,
+    "teknoloji": 10.0,
+    "menzil": 10.0,
+    "i_koniklik": 10.0
    }
   },
   {
@@ -231,10 +231,10 @@
    "etiketler": [],
    "aciklama": "Türkiye'nin milli muharip uçağı.",
    "puan": {
-    "hiz": 9,
-    "teknoloji": 9,
-    "menzil": 7,
-    "i_koniklik": 9
+    "hiz": 9.4,
+    "teknoloji": 9.4,
+    "menzil": 8.2,
+    "i_koniklik": 9.4
    }
   },
   {
@@ -245,10 +245,10 @@
    "etiketler": [],
    "aciklama": "İkinci Dünya Savaşı'nın efsane avcısı.",
    "puan": {
-    "hiz": 6,
-    "teknoloji": 5,
-    "menzil": 4,
-    "i_koniklik": 10
+    "hiz": 7.6,
+    "teknoloji": 7.0,
+    "menzil": 6.4,
+    "i_koniklik": 10.0
    }
   },
   {
@@ -259,10 +259,10 @@
    "etiketler": [],
    "aciklama": "Uzun menzilli efsane eskort avcısı.",
    "puan": {
-    "hiz": 7,
-    "teknoloji": 5,
-    "menzil": 7,
-    "i_koniklik": 9
+    "hiz": 8.2,
+    "teknoloji": 7.0,
+    "menzil": 8.2,
+    "i_koniklik": 9.4
    }
   },
   {
@@ -273,10 +273,10 @@
    "etiketler": [],
    "aciklama": "Türkiye'nin taarruz insansız hava aracı.",
    "puan": {
-    "hiz": 6,
-    "teknoloji": 9,
-    "menzil": 9,
-    "i_koniklik": 8
+    "hiz": 7.6,
+    "teknoloji": 9.4,
+    "menzil": 9.4,
+    "i_koniklik": 8.8
    }
   },
   {
@@ -287,10 +287,10 @@
    "etiketler": [],
    "aciklama": "Dünyaya ihraç edilen Türk insansız hava aracı.",
    "puan": {
-    "hiz": 4,
-    "teknoloji": 8,
-    "menzil": 8,
-    "i_koniklik": 9
+    "hiz": 6.4,
+    "teknoloji": 8.8,
+    "menzil": 8.8,
+    "i_koniklik": 9.4
    }
   },
   {
@@ -301,10 +301,10 @@
    "etiketler": [],
    "aciklama": "Uzaya gidip piste inen mekik.",
    "puan": {
-    "hiz": 10,
-    "teknoloji": 10,
-    "menzil": 9,
-    "i_koniklik": 10
+    "hiz": 10.0,
+    "teknoloji": 10.0,
+    "menzil": 9.4,
+    "i_koniklik": 10.0
    }
   },
   {
@@ -315,10 +315,10 @@
    "etiketler": [],
    "aciklama": "İnsanlığın ilk motorlu uçuşu.",
    "puan": {
-    "hiz": 1,
-    "teknoloji": 4,
-    "menzil": 1,
-    "i_koniklik": 10
+    "hiz": 4.6,
+    "teknoloji": 6.4,
+    "menzil": 4.6,
+    "i_koniklik": 10.0
    }
   },
   {
@@ -329,10 +329,10 @@
    "etiketler": [],
    "aciklama": "Dünyanın en büyük kargo uçağıydı.",
    "puan": {
-    "hiz": 6,
-    "teknoloji": 7,
-    "menzil": 9,
-    "i_koniklik": 10
+    "hiz": 7.6,
+    "teknoloji": 8.2,
+    "menzil": 9.4,
+    "i_koniklik": 10.0
    }
   },
   {
@@ -343,10 +343,10 @@
    "etiketler": [],
    "aciklama": "Uzayın kıyısına çıkan roket uçağı.",
    "puan": {
-    "hiz": 10,
-    "teknoloji": 9,
-    "menzil": 3,
-    "i_koniklik": 9
+    "hiz": 10.0,
+    "teknoloji": 9.4,
+    "menzil": 5.8,
+    "i_koniklik": 9.4
    }
   },
   {
@@ -357,10 +357,10 @@
    "etiketler": [],
    "aciklama": "Stratosferde uçan casus uçak.",
    "puan": {
-    "hiz": 6,
-    "teknoloji": 8,
-    "menzil": 9,
-    "i_koniklik": 8
+    "hiz": 7.6,
+    "teknoloji": 8.8,
+    "menzil": 9.4,
+    "i_koniklik": 8.8
    }
   },
   {
@@ -371,10 +371,10 @@
    "etiketler": [],
    "aciklama": "Güçlü taarruz helikopteri.",
    "puan": {
-    "hiz": 6,
-    "teknoloji": 8,
-    "menzil": 5,
-    "i_koniklik": 9
+    "hiz": 7.6,
+    "teknoloji": 8.8,
+    "menzil": 7.0,
+    "i_koniklik": 9.4
    }
   },
   {
@@ -385,10 +385,10 @@
    "etiketler": [],
    "aciklama": "Dünyanın en bilinen askeri helikopterlerinden.",
    "puan": {
-    "hiz": 6,
-    "teknoloji": 7,
-    "menzil": 5,
-    "i_koniklik": 9
+    "hiz": 7.6,
+    "teknoloji": 8.2,
+    "menzil": 7.0,
+    "i_koniklik": 9.4
    }
   },
   {
@@ -399,10 +399,10 @@
    "etiketler": [],
    "aciklama": "Türkiye'de üretilen taarruz helikopteri.",
    "puan": {
-    "hiz": 6,
-    "teknoloji": 8,
-    "menzil": 5,
-    "i_koniklik": 8
+    "hiz": 7.6,
+    "teknoloji": 8.8,
+    "menzil": 7.0,
+    "i_koniklik": 8.8
    }
   },
   {
@@ -413,10 +413,10 @@
    "etiketler": [],
    "aciklama": "Çift rotorlu ağır yük helikopteri.",
    "puan": {
-    "hiz": 5,
-    "teknoloji": 7,
-    "menzil": 6,
-    "i_koniklik": 8
+    "hiz": 7.0,
+    "teknoloji": 8.2,
+    "menzil": 7.6,
+    "i_koniklik": 8.8
    }
   },
   {
@@ -427,10 +427,10 @@
    "etiketler": [],
    "aciklama": "Helikopter gibi kalkıp uçak gibi uçar.",
    "puan": {
-    "hiz": 7,
-    "teknoloji": 9,
-    "menzil": 7,
-    "i_koniklik": 8
+    "hiz": 8.2,
+    "teknoloji": 9.4,
+    "menzil": 8.2,
+    "i_koniklik": 8.8
    }
   },
   {
@@ -441,10 +441,10 @@
    "etiketler": [],
    "aciklama": "Türkiye'nin jet eğitim uçağı.",
    "puan": {
-    "hiz": 8,
-    "teknoloji": 8,
-    "menzil": 6,
-    "i_koniklik": 7
+    "hiz": 8.8,
+    "teknoloji": 8.8,
+    "menzil": 7.6,
+    "i_koniklik": 8.2
    }
   },
   {
@@ -455,10 +455,10 @@
    "etiketler": [],
    "aciklama": "Sovyet çevikliğinin simgesi.",
    "puan": {
-    "hiz": 9,
-    "teknoloji": 7,
-    "menzil": 6,
-    "i_koniklik": 8
+    "hiz": 9.4,
+    "teknoloji": 8.2,
+    "menzil": 7.6,
+    "i_koniklik": 8.8
    }
   },
   {
@@ -469,10 +469,10 @@
    "etiketler": [],
    "aciklama": "Dikey kalkış yapabilen savaş uçağı.",
    "puan": {
-    "hiz": 6,
-    "teknoloji": 7,
-    "menzil": 4,
-    "i_koniklik": 8
+    "hiz": 7.6,
+    "teknoloji": 8.2,
+    "menzil": 6.4,
+    "i_koniklik": 8.8
    }
   },
   {
@@ -483,10 +483,10 @@
    "etiketler": [],
    "aciklama": "Her yere inebilen kargo efsanesi.",
    "puan": {
-    "hiz": 5,
-    "teknoloji": 6,
-    "menzil": 8,
-    "i_koniklik": 8
+    "hiz": 7.0,
+    "teknoloji": 7.6,
+    "menzil": 8.8,
+    "i_koniklik": 8.8
    }
   },
   {
@@ -497,10 +497,10 @@
    "etiketler": [],
    "aciklama": "En büyük çift motorlu jetlerden.",
    "puan": {
-    "hiz": 7,
-    "teknoloji": 8,
-    "menzil": 10,
-    "i_koniklik": 7
+    "hiz": 8.2,
+    "teknoloji": 8.8,
+    "menzil": 10.0,
+    "i_koniklik": 8.2
    }
   },
   {
@@ -511,10 +511,10 @@
    "etiketler": [],
    "aciklama": "Kısa ve orta mesafenin işçi uçağı.",
    "puan": {
-    "hiz": 6,
-    "teknoloji": 7,
-    "menzil": 6,
-    "i_koniklik": 6
+    "hiz": 7.6,
+    "teknoloji": 8.2,
+    "menzil": 7.6,
+    "i_koniklik": 7.6
    }
   },
   {
@@ -525,10 +525,10 @@
    "etiketler": [],
    "aciklama": "Hava yolculuğunu yaygınlaştıran klasik.",
    "puan": {
-    "hiz": 4,
-    "teknoloji": 3,
-    "menzil": 5,
-    "i_koniklik": 9
+    "hiz": 6.4,
+    "teknoloji": 5.8,
+    "menzil": 7.0,
+    "i_koniklik": 9.4
    }
   }
  ]

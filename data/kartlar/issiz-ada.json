@@ -65,10 +65,10 @@
    "etiketler": [],
    "aciklama": "Deniz suyunu içilir hale getirir.",
    "puan": {
-    "hayatta_kalma_faydasi": 10,
-    "cok_amaclilik": 6,
-    "dayaniklilik": 8,
-    "kurtarilma_sansi": 3
+    "hayatta_kalma_faydasi": 10.0,
+    "cok_amaclilik": 7.6,
+    "dayaniklilik": 8.8,
+    "kurtarilma_sansi": 5.8
    }
   },
   {
@@ -79,10 +79,10 @@
    "etiketler": [],
    "aciklama": "Her suyu güvenle içmeni sağlar.",
    "puan": {
-    "hayatta_kalma_faydasi": 10,
-    "cok_amaclilik": 5,
-    "dayaniklilik": 7,
-    "kurtarilma_sansi": 2
+    "hayatta_kalma_faydasi": 10.0,
+    "cok_amaclilik": 7.0,
+    "dayaniklilik": 8.2,
+    "kurtarilma_sansi": 5.2
    }
   },
   {
@@ -93,10 +93,10 @@
    "etiketler": [],
    "aciklama": "Güneşle tuzlu sudan tatlı su.",
    "puan": {
-    "hayatta_kalma_faydasi": 9,
-    "cok_amaclilik": 5,
-    "dayaniklilik": 8,
-    "kurtarilma_sansi": 2
+    "hayatta_kalma_faydasi": 9.4,
+    "cok_amaclilik": 7.0,
+    "dayaniklilik": 8.8,
+    "kurtarilma_sansi": 5.2
    }
   },
   {
@@ -107,10 +107,10 @@
    "etiketler": [],
    "aciklama": "Yağmur suyu biriktirir.",
    "puan": {
-    "hayatta_kalma_faydasi": 8,
-    "cok_amaclilik": 7,
-    "dayaniklilik": 9,
-    "kurtarilma_sansi": 2
+    "hayatta_kalma_faydasi": 8.8,
+    "cok_amaclilik": 8.2,
+    "dayaniklilik": 9.4,
+    "kurtarilma_sansi": 5.2
    }
   },
   {
@@ -121,10 +121,10 @@
    "etiketler": [],
    "aciklama": "Islanınca bile kıvılcım çıkarır.",
    "puan": {
-    "hayatta_kalma_faydasi": 9,
-    "cok_amaclilik": 6,
-    "dayaniklilik": 10,
-    "kurtarilma_sansi": 5
+    "hayatta_kalma_faydasi": 9.4,
+    "cok_amaclilik": 7.6,
+    "dayaniklilik": 10.0,
+    "kurtarilma_sansi": 7.0
    }
   },
   {
@@ -135,10 +135,10 @@
    "etiketler": [],
    "aciklama": "Rüzgârda yağmurda yanar.",
    "puan": {
-    "hayatta_kalma_faydasi": 9,
-    "cok_amaclilik": 5,
-    "dayaniklilik": 6,
-    "kurtarilma_sansi": 5
+    "hayatta_kalma_faydasi": 9.4,
+    "cok_amaclilik": 7.0,
+    "dayaniklilik": 7.6,
+    "kurtarilma_sansi": 7.0
    }
   },
   {
@@ -149,10 +149,10 @@
    "etiketler": [],
    "aciklama": "Anında güçlü alev.",
    "puan": {
-    "hayatta_kalma_faydasi": 8,
-    "cok_amaclilik": 6,
-    "dayaniklilik": 7,
-    "kurtarilma_sansi": 5
+    "hayatta_kalma_faydasi": 8.8,
+    "cok_amaclilik": 7.6,
+    "dayaniklilik": 8.2,
+    "kurtarilma_sansi": 7.0
    }
   },
   {
@@ -163,10 +163,10 @@
    "etiketler": [],
    "aciklama": "Denizden sınırsız yemek.",
    "puan": {
-    "hayatta_kalma_faydasi": 9,
-    "cok_amaclilik": 6,
-    "dayaniklilik": 8,
-    "kurtarilma_sansi": 2
+    "hayatta_kalma_faydasi": 9.4,
+    "cok_amaclilik": 7.6,
+    "dayaniklilik": 8.8,
+    "kurtarilma_sansi": 5.2
    }
   },
   {
@@ -177,10 +177,10 @@
    "etiketler": [],
    "aciklama": "Balık avının ustası.",
    "puan": {
-    "hayatta_kalma_faydasi": 9,
-    "cok_amaclilik": 6,
-    "dayaniklilik": 9,
-    "kurtarilma_sansi": 2
+    "hayatta_kalma_faydasi": 9.4,
+    "cok_amaclilik": 7.6,
+    "dayaniklilik": 9.4,
+    "kurtarilma_sansi": 5.2
    }
   },
   {
@@ -191,10 +191,10 @@
    "etiketler": [],
    "aciklama": "Haftalarca yetecek erzak.",
    "puan": {
-    "hayatta_kalma_faydasi": 9,
-    "cok_amaclilik": 4,
-    "dayaniklilik": 9,
-    "kurtarilma_sansi": 2
+    "hayatta_kalma_faydasi": 9.4,
+    "cok_amaclilik": 6.4,
+    "dayaniklilik": 9.4,
+    "kurtarilma_sansi": 5.2
    }
   },
   {
@@ -205,10 +205,10 @@
    "etiketler": [],
    "aciklama": "Kendi bahçeni kur.",
    "puan": {
-    "hayatta_kalma_faydasi": 8,
-    "cok_amaclilik": 5,
-    "dayaniklilik": 7,
-    "kurtarilma_sansi": 1
+    "hayatta_kalma_faydasi": 8.8,
+    "cok_amaclilik": 7.0,
+    "dayaniklilik": 8.2,
+    "kurtarilma_sansi": 4.6
    }
   },
   {
@@ -219,10 +219,10 @@
    "etiketler": [],
    "aciklama": "Çatı, yağmur toplayıcı, yelken.",
    "puan": {
-    "hayatta_kalma_faydasi": 9,
-    "cok_amaclilik": 9,
-    "dayaniklilik": 8,
-    "kurtarilma_sansi": 5
+    "hayatta_kalma_faydasi": 9.4,
+    "cok_amaclilik": 9.4,
+    "dayaniklilik": 8.8,
+    "kurtarilma_sansi": 7.0
    }
   },
   {
@@ -233,10 +233,10 @@
    "etiketler": [],
    "aciklama": "Hazır sağlam barınak.",
    "puan": {
-    "hayatta_kalma_faydasi": 9,
-    "cok_amaclilik": 5,
-    "dayaniklilik": 7,
-    "kurtarilma_sansi": 3
+    "hayatta_kalma_faydasi": 9.4,
+    "cok_amaclilik": 7.0,
+    "dayaniklilik": 8.2,
+    "kurtarilma_sansi": 5.8
    }
   },
   {
@@ -247,10 +247,10 @@
    "etiketler": [],
    "aciklama": "Yerden yüksekte güvenli uyku.",
    "puan": {
-    "hayatta_kalma_faydasi": 7,
-    "cok_amaclilik": 5,
-    "dayaniklilik": 7,
-    "kurtarilma_sansi": 2
+    "hayatta_kalma_faydasi": 8.2,
+    "cok_amaclilik": 7.0,
+    "dayaniklilik": 8.2,
+    "kurtarilma_sansi": 5.2
    }
   },
   {
@@ -261,10 +261,10 @@
    "etiketler": [],
    "aciklama": "Bıçak, testere, makas bir arada.",
    "puan": {
-    "hayatta_kalma_faydasi": 10,
-    "cok_amaclilik": 10,
-    "dayaniklilik": 9,
-    "kurtarilma_sansi": 2
+    "hayatta_kalma_faydasi": 10.0,
+    "cok_amaclilik": 10.0,
+    "dayaniklilik": 9.4,
+    "kurtarilma_sansi": 5.2
    }
   },
   {
@@ -275,10 +275,10 @@
    "etiketler": [],
    "aciklama": "Ormanı açar, odun keser.",
    "puan": {
-    "hayatta_kalma_faydasi": 10,
-    "cok_amaclilik": 9,
-    "dayaniklilik": 10,
-    "kurtarilma_sansi": 2
+    "hayatta_kalma_faydasi": 10.0,
+    "cok_amaclilik": 9.4,
+    "dayaniklilik": 10.0,
+    "kurtarilma_sansi": 5.2
    }
   },
   {
@@ -289,10 +289,10 @@
    "etiketler": [],
    "aciklama": "Kulübe yapmak için şart.",
    "puan": {
-    "hayatta_kalma_faydasi": 9,
-    "cok_amaclilik": 8,
-    "dayaniklilik": 10,
-    "kurtarilma_sansi": 2
+    "hayatta_kalma_faydasi": 9.4,
+    "cok_amaclilik": 8.8,
+    "dayaniklilik": 10.0,
+    "kurtarilma_sansi": 5.2
    }
   },
   {
@@ -303,10 +303,10 @@
    "etiketler": [],
    "aciklama": "Yüzlerce kullanım alanı.",
    "puan": {
-    "hayatta_kalma_faydasi": 9,
-    "cok_amaclilik": 10,
-    "dayaniklilik": 9,
-    "kurtarilma_sansi": 3
+    "hayatta_kalma_faydasi": 9.4,
+    "cok_amaclilik": 10.0,
+    "dayaniklilik": 9.4,
+    "kurtarilma_sansi": 5.8
    }
   },
   {
@@ -317,10 +317,10 @@
    "etiketler": [],
    "aciklama": "Yaraları ve enfeksiyonu önler.",
    "puan": {
-    "hayatta_kalma_faydasi": 10,
-    "cok_amaclilik": 6,
-    "dayaniklilik": 7,
-    "kurtarilma_sansi": 2
+    "hayatta_kalma_faydasi": 10.0,
+    "cok_amaclilik": 7.6,
+    "dayaniklilik": 8.2,
+    "kurtarilma_sansi": 5.2
    }
   },
   {
@@ -331,10 +331,10 @@
    "etiketler": [],
    "aciklama": "Her yerden yardım çağırır.",
    "puan": {
-    "hayatta_kalma_faydasi": 6,
-    "cok_amaclilik": 4,
-    "dayaniklilik": 6,
-    "kurtarilma_sansi": 10
+    "hayatta_kalma_faydasi": 7.6,
+    "cok_amaclilik": 6.4,
+    "dayaniklilik": 7.6,
+    "kurtarilma_sansi": 10.0
    }
   },
   {
@@ -345,10 +345,10 @@
    "etiketler": [],
    "aciklama": "Konumunu otomatik bildirir.",
    "puan": {
-    "hayatta_kalma_faydasi": 6,
-    "cok_amaclilik": 2,
-    "dayaniklilik": 9,
-    "kurtarilma_sansi": 10
+    "hayatta_kalma_faydasi": 7.6,
+    "cok_amaclilik": 5.2,
+    "dayaniklilik": 9.4,
+    "kurtarilma_sansi": 10.0
    }
   },
   {
@@ -359,10 +359,10 @@
    "etiketler": [],
    "aciklama": "Gemiye ve uçağa haber verir.",
    "puan": {
-    "hayatta_kalma_faydasi": 5,
-    "cok_amaclilik": 3,
-    "dayaniklilik": 7,
-    "kurtarilma_sansi": 9
+    "hayatta_kalma_faydasi": 7.0,
+    "cok_amaclilik": 5.8,
+    "dayaniklilik": 8.2,
+    "kurtarilma_sansi": 9.4
    }
   },
   {
@@ -373,10 +373,10 @@
    "etiketler": [],
    "aciklama": "Adadan kaçış aracı.",
    "puan": {
-    "hayatta_kalma_faydasi": 6,
-    "cok_amaclilik": 6,
-    "dayaniklilik": 6,
-    "kurtarilma_sansi": 9
+    "hayatta_kalma_faydasi": 7.6,
+    "cok_amaclilik": 7.6,
+    "dayaniklilik": 7.6,
+    "kurtarilma_sansi": 9.4
    }
   },
   {
@@ -387,10 +387,10 @@
    "etiketler": [],
    "aciklama": "Şarj derdi olmayan iletişim.",
    "puan": {
-    "hayatta_kalma_faydasi": 6,
-    "cok_amaclilik": 6,
-    "dayaniklilik": 8,
-    "kurtarilma_sansi": 9
+    "hayatta_kalma_faydasi": 7.6,
+    "cok_amaclilik": 7.6,
+    "dayaniklilik": 8.8,
+    "kurtarilma_sansi": 9.4
    }
   },
   {
@@ -401,10 +401,10 @@
    "etiketler": [],
    "aciklama": "Güneşle kilometrelerce uzağa işaret.",
    "puan": {
-    "hayatta_kalma_faydasi": 5,
-    "cok_amaclilik": 4,
-    "dayaniklilik": 10,
-    "kurtarilma_sansi": 8
+    "hayatta_kalma_faydasi": 7.0,
+    "cok_amaclilik": 6.4,
+    "dayaniklilik": 10.0,
+    "kurtarilma_sansi": 8.8
    }
   },
   {
@@ -415,10 +415,10 @@
    "etiketler": [],
    "aciklama": "Güneşle ateş yakar.",
    "puan": {
-    "hayatta_kalma_faydasi": 7,
-    "cok_amaclilik": 5,
-    "dayaniklilik": 9,
-    "kurtarilma_sansi": 3
+    "hayatta_kalma_faydasi": 8.2,
+    "cok_amaclilik": 7.0,
+    "dayaniklilik": 9.4,
+    "kurtarilma_sansi": 5.8
    }
   },
   {
@@ -429,10 +429,10 @@
    "etiketler": [],
    "aciklama": "Suyu mikroplardan arındırır.",
    "puan": {
-    "hayatta_kalma_faydasi": 8,
-    "cok_amaclilik": 3,
-    "dayaniklilik": 8,
-    "kurtarilma_sansi": 2
+    "hayatta_kalma_faydasi": 8.8,
+    "cok_amaclilik": 5.8,
+    "dayaniklilik": 8.8,
+    "kurtarilma_sansi": 5.2
    }
   },
   {
@@ -443,10 +443,10 @@
    "etiketler": [],
    "aciklama": "Yön bulmayı sağlar.",
    "puan": {
-    "hayatta_kalma_faydasi": 6,
-    "cok_amaclilik": 4,
-    "dayaniklilik": 9,
-    "kurtarilma_sansi": 5
+    "hayatta_kalma_faydasi": 7.6,
+    "cok_amaclilik": 6.4,
+    "dayaniklilik": 9.4,
+    "kurtarilma_sansi": 7.0
    }
   },
   {
@@ -457,10 +457,10 @@
    "etiketler": [],
    "aciklama": "Gece eller serbest ışık.",
    "puan": {
-    "hayatta_kalma_faydasi": 7,
-    "cok_amaclilik": 6,
-    "dayaniklilik": 6,
-    "kurtarilma_sansi": 3
+    "hayatta_kalma_faydasi": 8.2,
+    "cok_amaclilik": 7.6,
+    "dayaniklilik": 7.6,
+    "kurtarilma_sansi": 5.8
    }
   },
   {
@@ -471,10 +471,10 @@
    "etiketler": [],
    "aciklama": "Soğuk gecelerin kurtarıcısı.",
    "puan": {
-    "hayatta_kalma_faydasi": 7,
-    "cok_amaclilik": 4,
-    "dayaniklilik": 7,
-    "kurtarilma_sansi": 2
+    "hayatta_kalma_faydasi": 8.2,
+    "cok_amaclilik": 6.4,
+    "dayaniklilik": 8.2,
+    "kurtarilma_sansi": 5.2
    }
   },
   {
@@ -485,10 +485,10 @@
    "etiketler": [],
    "aciklama": "Sivrisinek ve hastalıklara karşı.",
    "puan": {
-    "hayatta_kalma_faydasi": 7,
-    "cok_amaclilik": 4,
-    "dayaniklilik": 6,
-    "kurtarilma_sansi": 2
+    "hayatta_kalma_faydasi": 8.2,
+    "cok_amaclilik": 6.4,
+    "dayaniklilik": 7.6,
+    "kurtarilma_sansi": 5.2
    }
   },
   {
@@ -499,10 +499,10 @@
    "etiketler": [],
    "aciklama": "Sesini uzaklara ulaştırır.",
    "puan": {
-    "hayatta_kalma_faydasi": 5,
-    "cok_amaclilik": 3,
-    "dayaniklilik": 10,
-    "kurtarilma_sansi": 6
+    "hayatta_kalma_faydasi": 7.0,
+    "cok_amaclilik": 5.8,
+    "dayaniklilik": 10.0,
+    "kurtarilma_sansi": 7.6
    }
   },
   {
@@ -513,10 +513,10 @@
    "etiketler": [],
    "aciklama": "Ne yapacağını öğretir.",
    "puan": {
-    "hayatta_kalma_faydasi": 8,
-    "cok_amaclilik": 7,
-    "dayaniklilik": 6,
-    "kurtarilma_sansi": 4
+    "hayatta_kalma_faydasi": 8.8,
+    "cok_amaclilik": 8.2,
+    "dayaniklilik": 7.6,
+    "kurtarilma_sansi": 6.4
    }
   },
   {
@@ -527,10 +527,10 @@
    "etiketler": [],
    "aciklama": "Moral ve eğlence.",
    "puan": {
-    "hayatta_kalma_faydasi": 2,
-    "cok_amaclilik": 3,
-    "dayaniklilik": 7,
-    "kurtarilma_sansi": 1
+    "hayatta_kalma_faydasi": 5.2,
+    "cok_amaclilik": 5.8,
+    "dayaniklilik": 8.2,
+    "kurtarilma_sansi": 4.6
    }
   },
   {
@@ -541,10 +541,10 @@
    "etiketler": [],
    "aciklama": "Gözü güneşten korur.",
    "puan": {
-    "hayatta_kalma_faydasi": 4,
-    "cok_amaclilik": 3,
-    "dayaniklilik": 7,
-    "kurtarilma_sansi": 2
+    "hayatta_kalma_faydasi": 6.4,
+    "cok_amaclilik": 5.8,
+    "dayaniklilik": 8.2,
+    "kurtarilma_sansi": 5.2
    }
   }
  ]

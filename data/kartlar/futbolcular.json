@@ -75,10 +75,10 @@
    "etiketler": [],
    "aciklama": "Rekor sayıda Ballon d'Or, Dünya Kupası şampiyonu.",
    "puan": {
-    "mevkisinde_ustalik": 10,
-    "yetenek": 10,
-    "kupalar": 10,
-    "efsanelik": 10
+    "mevkisinde_ustalik": 10.0,
+    "yetenek": 10.0,
+    "kupalar": 10.0,
+    "efsanelik": 10.0
    }
   },
   {
@@ -89,10 +89,10 @@
    "etiketler": [],
    "aciklama": "Şampiyonlar Ligi'nin en golcüsü.",
    "puan": {
-    "mevkisinde_ustalik": 10,
-    "yetenek": 9,
-    "kupalar": 10,
-    "efsanelik": 10
+    "mevkisinde_ustalik": 10.0,
+    "yetenek": 9.4,
+    "kupalar": 10.0,
+    "efsanelik": 10.0
    }
   },
   {
@@ -103,10 +103,10 @@
    "etiketler": [],
    "aciklama": "Üç Dünya Kupası kazanan efsane.",
    "puan": {
-    "mevkisinde_ustalik": 10,
-    "yetenek": 9,
-    "kupalar": 10,
-    "efsanelik": 10
+    "mevkisinde_ustalik": 10.0,
+    "yetenek": 9.4,
+    "kupalar": 10.0,
+    "efsanelik": 10.0
    }
   },
   {
@@ -117,10 +117,10 @@
    "etiketler": [],
    "aciklama": "Fenomen; hız ve bitiriciliğin tanımı.",
    "puan": {
-    "mevkisinde_ustalik": 10,
-    "yetenek": 9,
-    "kupalar": 9,
-    "efsanelik": 10
+    "mevkisinde_ustalik": 10.0,
+    "yetenek": 9.4,
+    "kupalar": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -131,10 +131,10 @@
    "etiketler": [],
    "aciklama": "Total futbolun dâhisi.",
    "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 10,
-    "kupalar": 9,
-    "efsanelik": 10
+    "mevkisinde_ustalik": 9.4,
+    "yetenek": 10.0,
+    "kupalar": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -145,10 +145,10 @@
    "etiketler": [],
    "aciklama": "Benfica'nın Kara Panteri.",
    "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 9,
-    "kupalar": 8,
-    "efsanelik": 9
+    "mevkisinde_ustalik": 9.4,
+    "yetenek": 9.4,
+    "kupalar": 8.8,
+    "efsanelik": 9.4
    }
   },
   {
@@ -159,10 +159,10 @@
    "etiketler": [],
    "aciklama": "Adına gol ödülü verilen Macar efsane.",
    "puan": {
-    "mevkisinde_ustalik": 10,
-    "yetenek": 9,
-    "kupalar": 9,
-    "efsanelik": 10
+    "mevkisinde_ustalik": 10.0,
+    "yetenek": 9.4,
+    "kupalar": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -173,10 +173,10 @@
    "etiketler": [],
    "aciklama": "Arsenal'in zarif ve hızlı golcüsü.",
    "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 9,
-    "kupalar": 9,
-    "efsanelik": 9
+    "mevkisinde_ustalik": 9.4,
+    "yetenek": 9.4,
+    "kupalar": 9.4,
+    "efsanelik": 9.4
    }
   },
   {
@@ -187,10 +187,10 @@
    "etiketler": [],
    "aciklama": "1986 Dünya Kupası'nın dâhisi.",
    "puan": {
-    "mevkisinde_ustalik": 10,
-    "yetenek": 10,
-    "kupalar": 9,
-    "efsanelik": 10
+    "mevkisinde_ustalik": 10.0,
+    "yetenek": 10.0,
+    "kupalar": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -201,10 +201,10 @@
    "etiketler": [],
    "aciklama": "Zarafetiyle oyunu yöneten Fransız usta.",
    "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 10,
-    "kupalar": 10,
-    "efsanelik": 10
+    "mevkisinde_ustalik": 9.4,
+    "yetenek": 10.0,
+    "kupalar": 10.0,
+    "efsanelik": 10.0
    }
   },
   {
@@ -215,10 +215,10 @@
    "etiketler": [],
    "aciklama": "Gülümseyerek oynayan sihirbaz.",
    "puan": {
-    "mevkisinde_ustalik": 10,
-    "yetenek": 10,
-    "kupalar": 9,
-    "efsanelik": 9
+    "mevkisinde_ustalik": 10.0,
+    "yetenek": 10.0,
+    "kupalar": 9.4,
+    "efsanelik": 9.4
    }
   },
   {
@@ -229,10 +229,10 @@
    "etiketler": [],
    "aciklama": "Dünya Kupası finalinin golcüsü.",
    "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 10,
-    "kupalar": 10,
-    "efsanelik": 9
+    "mevkisinde_ustalik": 9.4,
+    "yetenek": 10.0,
+    "kupalar": 10.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -243,10 +243,10 @@
    "etiketler": [],
    "aciklama": "Orta sahanın beyni, pas makinesi.",
    "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 10,
-    "kupalar": 10,
-    "efsanelik": 9
+    "mevkisinde_ustalik": 9.4,
+    "yetenek": 10.0,
+    "kupalar": 10.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -257,10 +257,10 @@
    "etiketler": [],
    "aciklama": "Ballon d'Or kazanan Hırvat orta saha.",
    "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 10,
-    "kupalar": 10,
-    "efsanelik": 9
+    "mevkisinde_ustalik": 9.4,
+    "yetenek": 10.0,
+    "kupalar": 10.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -271,10 +271,10 @@
    "etiketler": [],
    "aciklama": "Üç kez üst üste Ballon d'Or.",
    "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 9,
-    "kupalar": 8,
-    "efsanelik": 9
+    "mevkisinde_ustalik": 9.4,
+    "yetenek": 9.4,
+    "kupalar": 8.8,
+    "efsanelik": 9.4
    }
   },
   {
@@ -285,10 +285,10 @@
    "etiketler": [],
    "aciklama": "Kaiser; libero mevkisinin efsanesi.",
    "puan": {
-    "mevkisinde_ustalik": 10,
-    "yetenek": 9,
-    "kupalar": 10,
-    "efsanelik": 10
+    "mevkisinde_ustalik": 10.0,
+    "yetenek": 9.4,
+    "kupalar": 10.0,
+    "efsanelik": 10.0
    }
   },
   {
@@ -299,10 +299,10 @@
    "etiketler": [],
    "aciklama": "Milan'ın ve İtalya'nın efsane defansı.",
    "puan": {
-    "mevkisinde_ustalik": 10,
-    "yetenek": 9,
-    "kupalar": 10,
-    "efsanelik": 10
+    "mevkisinde_ustalik": 10.0,
+    "yetenek": 9.4,
+    "kupalar": 10.0,
+    "efsanelik": 10.0
    }
   },
   {
@@ -313,10 +313,10 @@
    "etiketler": [],
    "aciklama": "Savunmanın ustası Milan kaptanı.",
    "puan": {
-    "mevkisinde_ustalik": 10,
-    "yetenek": 8,
-    "kupalar": 10,
-    "efsanelik": 9
+    "mevkisinde_ustalik": 10.0,
+    "yetenek": 8.8,
+    "kupalar": 10.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -327,10 +327,10 @@
    "etiketler": [],
    "aciklama": "Son dakika golleriyle bilinen sert stoper.",
    "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 8,
-    "kupalar": 10,
-    "efsanelik": 9
+    "mevkisinde_ustalik": 9.4,
+    "yetenek": 8.8,
+    "kupalar": 10.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -341,10 +341,10 @@
    "etiketler": [],
    "aciklama": "Muz şutlarıyla efsane sol bek.",
    "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 9,
-    "kupalar": 10,
-    "efsanelik": 9
+    "mevkisinde_ustalik": 9.4,
+    "yetenek": 9.4,
+    "kupalar": 10.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -355,10 +355,10 @@
    "etiketler": [],
    "aciklama": "İki Dünya Kupası kazanan sağ bek.",
    "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 8,
-    "kupalar": 10,
-    "efsanelik": 9
+    "mevkisinde_ustalik": 9.4,
+    "yetenek": 8.8,
+    "kupalar": 10.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -369,10 +369,10 @@
    "etiketler": [],
    "aciklama": "Uzun kariyeriyle kalecilerin efsanesi.",
    "puan": {
-    "mevkisinde_ustalik": 10,
-    "yetenek": 8,
-    "kupalar": 9,
-    "efsanelik": 10
+    "mevkisinde_ustalik": 10.0,
+    "yetenek": 8.8,
+    "kupalar": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -383,10 +383,10 @@
    "etiketler": [],
    "aciklama": "Ballon d'Or kazanan tek kaleci, Kara Örümcek.",
    "puan": {
-    "mevkisinde_ustalik": 10,
-    "yetenek": 8,
-    "kupalar": 8,
-    "efsanelik": 10
+    "mevkisinde_ustalik": 10.0,
+    "yetenek": 8.8,
+    "kupalar": 8.8,
+    "efsanelik": 10.0
    }
   },
   {
@@ -397,10 +397,10 @@
    "etiketler": [],
    "aciklama": "Refleksleriyle Aziz İker.",
    "puan": {
-    "mevkisinde_ustalik": 10,
-    "yetenek": 8,
-    "kupalar": 10,
-    "efsanelik": 9
+    "mevkisinde_ustalik": 10.0,
+    "yetenek": 8.8,
+    "kupalar": 10.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -411,10 +411,10 @@
    "etiketler": [],
    "aciklama": "Libero gibi oynayan modern kaleci.",
    "puan": {
-    "mevkisinde_ustalik": 10,
-    "yetenek": 8,
-    "kupalar": 10,
-    "efsanelik": 9
+    "mevkisinde_ustalik": 10.0,
+    "yetenek": 8.8,
+    "kupalar": 10.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -425,10 +425,10 @@
    "etiketler": [],
    "aciklama": "Yeni neslin en hızlı yıldızı.",
    "puan": {
-    "mevkisinde_ustalik": 10,
-    "yetenek": 8,
-    "kupalar": 8,
-    "efsanelik": 8
+    "mevkisinde_ustalik": 10.0,
+    "yetenek": 8.8,
+    "kupalar": 8.8,
+    "efsanelik": 8.8
    }
   },
   {
@@ -439,10 +439,10 @@
    "etiketler": [],
    "aciklama": "Gol rekorlarını alt üst eden santrfor.",
    "puan": {
-    "mevkisinde_ustalik": 10,
-    "yetenek": 7,
-    "kupalar": 8,
-    "efsanelik": 7
+    "mevkisinde_ustalik": 10.0,
+    "yetenek": 8.2,
+    "kupalar": 8.8,
+    "efsanelik": 8.2
    }
   },
   {
@@ -453,10 +453,10 @@
    "etiketler": [],
    "aciklama": "Akrobatik golleriyle karizmatik santrfor.",
    "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 9,
-    "kupalar": 8,
-    "efsanelik": 8
+    "mevkisinde_ustalik": 9.4,
+    "yetenek": 9.4,
+    "kupalar": 8.8,
+    "efsanelik": 8.8
    }
   },
   {
@@ -467,10 +467,10 @@
    "etiketler": [],
    "aciklama": "Chelsea'nin ve Galatasaray'ın güçlü santrforu.",
    "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 8,
-    "kupalar": 8,
-    "efsanelik": 8
+    "mevkisinde_ustalik": 9.4,
+    "yetenek": 8.8,
+    "kupalar": 8.8,
+    "efsanelik": 8.8
    }
   },
   {
@@ -481,10 +481,10 @@
    "etiketler": [],
    "aciklama": "Boğa; Türkiye'nin en golcüsü.",
    "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 7,
-    "kupalar": 8,
-    "efsanelik": 8
+    "mevkisinde_ustalik": 9.4,
+    "yetenek": 8.2,
+    "kupalar": 8.8,
+    "efsanelik": 8.8
    }
   },
   {
@@ -495,10 +495,10 @@
    "etiketler": [],
    "aciklama": "Ballon d'Or kazanan zarif Brezilyalı.",
    "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 9,
-    "kupalar": 8,
-    "efsanelik": 8
+    "mevkisinde_ustalik": 9.4,
+    "yetenek": 9.4,
+    "kupalar": 8.8,
+    "efsanelik": 8.8
    }
   },
   {
@@ -509,10 +509,10 @@
    "etiketler": [],
    "aciklama": "Galatasaray'a UEFA Kupası getiren Komandan.",
    "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 9,
-    "kupalar": 8,
-    "efsanelik": 8
+    "mevkisinde_ustalik": 9.4,
+    "yetenek": 9.4,
+    "kupalar": 8.8,
+    "efsanelik": 8.8
    }
   },
   {
@@ -523,10 +523,10 @@
    "etiketler": [],
    "aciklama": "Fenerbahçe'nin efsane 10 numarası.",
    "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 9,
-    "kupalar": 7,
-    "efsanelik": 8
+    "mevkisinde_ustalik": 9.4,
+    "yetenek": 9.4,
+    "kupalar": 8.2,
+    "efsanelik": 8.8
    }
   },
   {
@@ -537,10 +537,10 @@
    "etiketler": [],
    "aciklama": "Hava toplarının ve sakinliğin hâkimi.",
    "puan": {
-    "mevkisinde_ustalik": 10,
-    "yetenek": 8,
-    "kupalar": 8,
-    "efsanelik": 8
+    "mevkisinde_ustalik": 10.0,
+    "yetenek": 8.8,
+    "kupalar": 8.8,
+    "efsanelik": 8.8
    }
   },
   {
@@ -551,10 +551,10 @@
    "etiketler": [],
    "aciklama": "2002 Dünya Kupası'nın yıldız kalecisi.",
    "puan": {
-    "mevkisinde_ustalik": 9,
-    "yetenek": 7,
-    "kupalar": 6,
-    "efsanelik": 8
+    "mevkisinde_ustalik": 9.4,
+    "yetenek": 8.2,
+    "kupalar": 7.6,
+    "efsanelik": 8.8
    }
   }
  ]

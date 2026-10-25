@@ -49,10 +49,10 @@
    "etiketler": [],
    "aciklama": "Görelilik kuramının babası.",
    "puan": {
-    "kesiflerin_onemi": 10,
-    "i_nsanliga_etkisi": 10,
-    "oduller": 9,
-    "cok_yonluluk": 8
+    "kesiflerin_onemi": 10.0,
+    "i_nsanliga_etkisi": 10.0,
+    "oduller": 9.4,
+    "cok_yonluluk": 8.8
    }
   },
   {
@@ -63,10 +63,10 @@
    "etiketler": [],
    "aciklama": "Yerçekimi ve hareket yasaları.",
    "puan": {
-    "kesiflerin_onemi": 10,
-    "i_nsanliga_etkisi": 10,
-    "oduller": 7,
-    "cok_yonluluk": 10
+    "kesiflerin_onemi": 10.0,
+    "i_nsanliga_etkisi": 10.0,
+    "oduller": 8.2,
+    "cok_yonluluk": 10.0
    }
   },
   {
@@ -77,10 +77,10 @@
    "etiketler": [],
    "aciklama": "Modern bilimin öncüsü.",
    "puan": {
-    "kesiflerin_onemi": 10,
-    "i_nsanliga_etkisi": 9,
-    "oduller": 5,
-    "cok_yonluluk": 9
+    "kesiflerin_onemi": 10.0,
+    "i_nsanliga_etkisi": 9.4,
+    "oduller": 7.0,
+    "cok_yonluluk": 9.4
    }
   },
   {
@@ -91,10 +91,10 @@
    "etiketler": [],
    "aciklama": "Alternatif akımın dâhisi.",
    "puan": {
-    "kesiflerin_onemi": 9,
-    "i_nsanliga_etkisi": 10,
-    "oduller": 6,
-    "cok_yonluluk": 9
+    "kesiflerin_onemi": 9.4,
+    "i_nsanliga_etkisi": 10.0,
+    "oduller": 7.6,
+    "cok_yonluluk": 9.4
    }
   },
   {
@@ -105,10 +105,10 @@
    "etiketler": [],
    "aciklama": "İki farklı dalda Nobel kazanan tek kişi.",
    "puan": {
-    "kesiflerin_onemi": 10,
-    "i_nsanliga_etkisi": 9,
-    "oduller": 10,
-    "cok_yonluluk": 8
+    "kesiflerin_onemi": 10.0,
+    "i_nsanliga_etkisi": 9.4,
+    "oduller": 10.0,
+    "cok_yonluluk": 8.8
    }
   },
   {
@@ -119,10 +119,10 @@
    "etiketler": [],
    "aciklama": "Kara deliklerin sırları.",
    "puan": {
-    "kesiflerin_onemi": 9,
-    "i_nsanliga_etkisi": 8,
-    "oduller": 8,
-    "cok_yonluluk": 7
+    "kesiflerin_onemi": 9.4,
+    "i_nsanliga_etkisi": 8.8,
+    "oduller": 8.8,
+    "cok_yonluluk": 8.2
    }
   },
   {
@@ -133,10 +133,10 @@
    "etiketler": [],
    "aciklama": "Elektromanyetizmanın kâşifi.",
    "puan": {
-    "kesiflerin_onemi": 10,
-    "i_nsanliga_etkisi": 10,
-    "oduller": 7,
-    "cok_yonluluk": 8
+    "kesiflerin_onemi": 10.0,
+    "i_nsanliga_etkisi": 10.0,
+    "oduller": 8.2,
+    "cok_yonluluk": 8.8
    }
   },
   {
@@ -147,10 +147,10 @@
    "etiketler": [],
    "aciklama": "Elektromanyetizma denklemleri.",
    "puan": {
-    "kesiflerin_onemi": 10,
-    "i_nsanliga_etkisi": 9,
-    "oduller": 6,
-    "cok_yonluluk": 8
+    "kesiflerin_onemi": 10.0,
+    "i_nsanliga_etkisi": 9.4,
+    "oduller": 7.6,
+    "cok_yonluluk": 8.8
    }
   },
   {
@@ -161,10 +161,10 @@
    "etiketler": [],
    "aciklama": "Atom modelinin mimarı.",
    "puan": {
-    "kesiflerin_onemi": 9,
-    "i_nsanliga_etkisi": 9,
-    "oduller": 9,
-    "cok_yonluluk": 7
+    "kesiflerin_onemi": 9.4,
+    "i_nsanliga_etkisi": 9.4,
+    "oduller": 9.4,
+    "cok_yonluluk": 8.2
    }
   },
   {
@@ -175,10 +175,10 @@
    "etiketler": [],
    "aciklama": "Kuantumu anlatan efsane hoca.",
    "puan": {
-    "kesiflerin_onemi": 9,
-    "i_nsanliga_etkisi": 7,
-    "oduller": 9,
-    "cok_yonluluk": 8
+    "kesiflerin_onemi": 9.4,
+    "i_nsanliga_etkisi": 8.2,
+    "oduller": 9.4,
+    "cok_yonluluk": 8.8
    }
   },
   {
@@ -189,10 +189,10 @@
    "etiketler": [],
    "aciklama": "Periyodik tabloyu kurdu.",
    "puan": {
-    "kesiflerin_onemi": 10,
-    "i_nsanliga_etkisi": 9,
-    "oduller": 6,
-    "cok_yonluluk": 7
+    "kesiflerin_onemi": 10.0,
+    "i_nsanliga_etkisi": 9.4,
+    "oduller": 7.6,
+    "cok_yonluluk": 8.2
    }
   },
   {
@@ -203,10 +203,10 @@
    "etiketler": [],
    "aciklama": "Modern kimyanın babası.",
    "puan": {
-    "kesiflerin_onemi": 9,
-    "i_nsanliga_etkisi": 8,
-    "oduller": 5,
-    "cok_yonluluk": 8
+    "kesiflerin_onemi": 9.4,
+    "i_nsanliga_etkisi": 8.8,
+    "oduller": 7.0,
+    "cok_yonluluk": 8.8
    }
   },
   {
@@ -217,10 +217,10 @@
    "etiketler": [],
    "aciklama": "Dinamit ve Nobel ödülleri.",
    "puan": {
-    "kesiflerin_onemi": 8,
-    "i_nsanliga_etkisi": 9,
-    "oduller": 6,
-    "cok_yonluluk": 7
+    "kesiflerin_onemi": 8.8,
+    "i_nsanliga_etkisi": 9.4,
+    "oduller": 7.6,
+    "cok_yonluluk": 8.2
    }
   },
   {
@@ -231,10 +231,10 @@
    "etiketler": [],
    "aciklama": "İki tek başına Nobel kazanan kimyager.",
    "puan": {
-    "kesiflerin_onemi": 9,
-    "i_nsanliga_etkisi": 8,
-    "oduller": 10,
-    "cok_yonluluk": 8
+    "kesiflerin_onemi": 9.4,
+    "i_nsanliga_etkisi": 8.8,
+    "oduller": 10.0,
+    "cok_yonluluk": 8.8
    }
   },
   {
@@ -245,10 +245,10 @@
    "etiketler": [],
    "aciklama": "DNA onarımıyla Nobel alan Türk bilim insanı.",
    "puan": {
-    "kesiflerin_onemi": 9,
-    "i_nsanliga_etkisi": 9,
-    "oduller": 10,
-    "cok_yonluluk": 6
+    "kesiflerin_onemi": 9.4,
+    "i_nsanliga_etkisi": 9.4,
+    "oduller": 10.0,
+    "cok_yonluluk": 7.6
    }
   },
   {
@@ -259,10 +259,10 @@
    "etiketler": [],
    "aciklama": "Evrim kuramı.",
    "puan": {
-    "kesiflerin_onemi": 10,
-    "i_nsanliga_etkisi": 10,
-    "oduller": 7,
-    "cok_yonluluk": 8
+    "kesiflerin_onemi": 10.0,
+    "i_nsanliga_etkisi": 10.0,
+    "oduller": 8.2,
+    "cok_yonluluk": 8.8
    }
   },
   {
@@ -273,10 +273,10 @@
    "etiketler": [],
    "aciklama": "Aşı ve pastörizasyon.",
    "puan": {
-    "kesiflerin_onemi": 10,
-    "i_nsanliga_etkisi": 10,
-    "oduller": 7,
-    "cok_yonluluk": 8
+    "kesiflerin_onemi": 10.0,
+    "i_nsanliga_etkisi": 10.0,
+    "oduller": 8.2,
+    "cok_yonluluk": 8.8
    }
   },
   {
@@ -287,10 +287,10 @@
    "etiketler": [],
    "aciklama": "Penisilini keşfetti.",
    "puan": {
-    "kesiflerin_onemi": 10,
-    "i_nsanliga_etkisi": 10,
-    "oduller": 9,
-    "cok_yonluluk": 6
+    "kesiflerin_onemi": 10.0,
+    "i_nsanliga_etkisi": 10.0,
+    "oduller": 9.4,
+    "cok_yonluluk": 7.6
    }
   },
   {
@@ -301,10 +301,10 @@
    "etiketler": [],
    "aciklama": "Genetiğin babası.",
    "puan": {
-    "kesiflerin_onemi": 10,
-    "i_nsanliga_etkisi": 9,
-    "oduller": 4,
-    "cok_yonluluk": 6
+    "kesiflerin_onemi": 10.0,
+    "i_nsanliga_etkisi": 9.4,
+    "oduller": 6.4,
+    "cok_yonluluk": 7.6
    }
   },
   {
@@ -315,10 +315,10 @@
    "etiketler": [],
    "aciklama": "DNA'nın çift sarmalı.",
    "puan": {
-    "kesiflerin_onemi": 10,
-    "i_nsanliga_etkisi": 10,
-    "oduller": 10,
-    "cok_yonluluk": 6
+    "kesiflerin_onemi": 10.0,
+    "i_nsanliga_etkisi": 10.0,
+    "oduller": 10.0,
+    "cok_yonluluk": 7.6
    }
   },
   {
@@ -329,10 +329,10 @@
    "etiketler": [],
    "aciklama": "Tıbbın kanonunu yazdı.",
    "puan": {
-    "kesiflerin_onemi": 9,
-    "i_nsanliga_etkisi": 9,
-    "oduller": 5,
-    "cok_yonluluk": 10
+    "kesiflerin_onemi": 9.4,
+    "i_nsanliga_etkisi": 9.4,
+    "oduller": 7.0,
+    "cok_yonluluk": 10.0
    }
   },
   {
@@ -343,10 +343,10 @@
    "etiketler": [],
    "aciklama": "Ünlü teoremin sahibi.",
    "puan": {
-    "kesiflerin_onemi": 9,
-    "i_nsanliga_etkisi": 8,
-    "oduller": 4,
-    "cok_yonluluk": 8
+    "kesiflerin_onemi": 9.4,
+    "i_nsanliga_etkisi": 8.8,
+    "oduller": 6.4,
+    "cok_yonluluk": 8.8
    }
   },
   {
@@ -357,10 +357,10 @@
    "etiketler": [],
    "aciklama": "\"Evreka!\" diyen dâhi.",
    "puan": {
-    "kesiflerin_onemi": 10,
-    "i_nsanliga_etkisi": 9,
-    "oduller": 4,
-    "cok_yonluluk": 10
+    "kesiflerin_onemi": 10.0,
+    "i_nsanliga_etkisi": 9.4,
+    "oduller": 6.4,
+    "cok_yonluluk": 10.0
    }
   },
   {
@@ -371,10 +371,10 @@
    "etiketler": [],
    "aciklama": "Algoritma ve cebirin babası.",
    "puan": {
-    "kesiflerin_onemi": 10,
-    "i_nsanliga_etkisi": 10,
-    "oduller": 4,
-    "cok_yonluluk": 9
+    "kesiflerin_onemi": 10.0,
+    "i_nsanliga_etkisi": 10.0,
+    "oduller": 6.4,
+    "cok_yonluluk": 9.4
    }
   },
   {
@@ -385,10 +385,10 @@
    "etiketler": [],
    "aciklama": "Sanatçı, mucit, bilim insanı.",
    "puan": {
-    "kesiflerin_onemi": 9,
-    "i_nsanliga_etkisi": 9,
-    "oduller": 5,
-    "cok_yonluluk": 10
+    "kesiflerin_onemi": 9.4,
+    "i_nsanliga_etkisi": 9.4,
+    "oduller": 7.0,
+    "cok_yonluluk": 10.0
    }
   },
   {
@@ -399,10 +399,10 @@
    "etiketler": [],
    "aciklama": "Matematiğin prensi.",
    "puan": {
-    "kesiflerin_onemi": 10,
-    "i_nsanliga_etkisi": 7,
-    "oduller": 6,
-    "cok_yonluluk": 9
+    "kesiflerin_onemi": 10.0,
+    "i_nsanliga_etkisi": 8.2,
+    "oduller": 7.6,
+    "cok_yonluluk": 9.4
    }
   },
   {
@@ -413,10 +413,10 @@
    "etiketler": [],
    "aciklama": "Bilgisayar biliminin babası.",
    "puan": {
-    "kesiflerin_onemi": 10,
-    "i_nsanliga_etkisi": 10,
-    "oduller": 6,
-    "cok_yonluluk": 8
+    "kesiflerin_onemi": 10.0,
+    "i_nsanliga_etkisi": 10.0,
+    "oduller": 7.6,
+    "cok_yonluluk": 8.8
    }
   },
   {
@@ -427,10 +427,10 @@
    "etiketler": [],
    "aciklama": "İlk bilgisayar programcısı.",
    "puan": {
-    "kesiflerin_onemi": 8,
-    "i_nsanliga_etkisi": 8,
-    "oduller": 4,
-    "cok_yonluluk": 7
+    "kesiflerin_onemi": 8.8,
+    "i_nsanliga_etkisi": 8.8,
+    "oduller": 6.4,
+    "cok_yonluluk": 8.2
    }
   },
   {
@@ -441,10 +441,10 @@
    "etiketler": [],
    "aciklama": "Geometrinin babası.",
    "puan": {
-    "kesiflerin_onemi": 9,
-    "i_nsanliga_etkisi": 8,
-    "oduller": 3,
-    "cok_yonluluk": 7
+    "kesiflerin_onemi": 9.4,
+    "i_nsanliga_etkisi": 8.8,
+    "oduller": 5.8,
+    "cok_yonluluk": 8.2
    }
   },
   {
@@ -455,10 +455,10 @@
    "etiketler": [],
    "aciklama": "mRNA aşısının öncülerinden.",
    "puan": {
-    "kesiflerin_onemi": 8,
-    "i_nsanliga_etkisi": 9,
-    "oduller": 8,
-    "cok_yonluluk": 6
+    "kesiflerin_onemi": 8.8,
+    "i_nsanliga_etkisi": 9.4,
+    "oduller": 8.8,
+    "cok_yonluluk": 7.6
    }
   },
   {
@@ -469,10 +469,10 @@
    "etiketler": [],
    "aciklama": "Arf değişmezinin sahibi Türk matematikçi.",
    "puan": {
-    "kesiflerin_onemi": 8,
-    "i_nsanliga_etkisi": 6,
-    "oduller": 6,
-    "cok_yonluluk": 6
+    "kesiflerin_onemi": 8.8,
+    "i_nsanliga_etkisi": 7.6,
+    "oduller": 7.6,
+    "cok_yonluluk": 7.6
    }
   },
   {
@@ -483,10 +483,10 @@
    "etiketler": [],
    "aciklama": "Hücreyi ilk gören bilim insanı.",
    "puan": {
-    "kesiflerin_onemi": 8,
-    "i_nsanliga_etkisi": 7,
-    "oduller": 4,
-    "cok_yonluluk": 8
+    "kesiflerin_onemi": 8.8,
+    "i_nsanliga_etkisi": 8.2,
+    "oduller": 6.4,
+    "cok_yonluluk": 8.8
    }
   },
   {
@@ -497,10 +497,10 @@
    "etiketler": [],
    "aciklama": "Gezegen hareket yasaları.",
    "puan": {
-    "kesiflerin_onemi": 9,
-    "i_nsanliga_etkisi": 8,
-    "oduller": 4,
-    "cok_yonluluk": 7
+    "kesiflerin_onemi": 9.4,
+    "i_nsanliga_etkisi": 8.8,
+    "oduller": 6.4,
+    "cok_yonluluk": 8.2
    }
   },
   {
@@ -511,10 +511,10 @@
    "etiketler": [],
    "aciklama": "Kuantum kuramının kurucusu.",
    "puan": {
-    "kesiflerin_onemi": 9,
-    "i_nsanliga_etkisi": 8,
-    "oduller": 9,
-    "cok_yonluluk": 6
+    "kesiflerin_onemi": 9.4,
+    "i_nsanliga_etkisi": 8.8,
+    "oduller": 9.4,
+    "cok_yonluluk": 7.6
    }
   },
   {
@@ -525,10 +525,10 @@
    "etiketler": [],
    "aciklama": "DNA'nın ilk fotoğrafını çekti.",
    "puan": {
-    "kesiflerin_onemi": 8,
-    "i_nsanliga_etkisi": 8,
-    "oduller": 4,
-    "cok_yonluluk": 6
+    "kesiflerin_onemi": 8.8,
+    "i_nsanliga_etkisi": 8.8,
+    "oduller": 6.4,
+    "cok_yonluluk": 7.6
    }
   }
  ]

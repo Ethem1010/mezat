@@ -70,11 +70,11 @@
    ],
    "aciklama": "Savanın kralı, sürüyle avlanır.",
    "puan": {
-    "guc": 9,
-    "tehlike": 9,
-    "savunma": 6,
-    "hiz": 7,
-    "zeka": 6
+    "guc": 9.4,
+    "tehlike": 9.4,
+    "savunma": 7.6,
+    "hiz": 8.2,
+    "zeka": 7.6
    }
   },
   {
@@ -85,11 +85,11 @@
    "etiketler": [],
    "aciklama": "En büyük kedigil, iyi yüzer.",
    "puan": {
-    "guc": 10,
-    "tehlike": 9,
-    "savunma": 6,
-    "hiz": 7,
-    "zeka": 6
+    "guc": 10.0,
+    "tehlike": 9.4,
+    "savunma": 7.6,
+    "hiz": 8.2,
+    "zeka": 7.6
    }
   },
   {
@@ -100,11 +100,11 @@
    "etiketler": [],
    "aciklama": "Dev pençeleriyle ormanın tankı.",
    "puan": {
-    "guc": 10,
-    "tehlike": 9,
-    "savunma": 8,
-    "hiz": 5,
-    "zeka": 6
+    "guc": 10.0,
+    "tehlike": 9.4,
+    "savunma": 8.8,
+    "hiz": 7.0,
+    "zeka": 7.6
    }
   },
   {
@@ -115,11 +115,11 @@
    "etiketler": [],
    "aciklama": "En büyük kara yırtıcısı.",
    "puan": {
-    "guc": 10,
-    "tehlike": 9,
-    "savunma": 8,
-    "hiz": 5,
-    "zeka": 6
+    "guc": 10.0,
+    "tehlike": 9.4,
+    "savunma": 8.8,
+    "hiz": 7.0,
+    "zeka": 7.6
    }
   },
   {
@@ -132,11 +132,11 @@
    ],
    "aciklama": "Dünyanın en büyük kara hayvanı.",
    "puan": {
-    "guc": 10,
-    "tehlike": 8,
-    "savunma": 9,
-    "hiz": 4,
-    "zeka": 9
+    "guc": 10.0,
+    "tehlike": 8.8,
+    "savunma": 9.4,
+    "hiz": 6.4,
+    "zeka": 9.4
    }
   },
   {
@@ -147,11 +147,11 @@
    "etiketler": [],
    "aciklama": "Zırh gibi derisi ve boynuzuyla canlı tank.",
    "puan": {
-    "guc": 9,
-    "tehlike": 8,
-    "savunma": 10,
-    "hiz": 6,
-    "zeka": 4
+    "guc": 9.4,
+    "tehlike": 8.8,
+    "savunma": 10.0,
+    "hiz": 7.6,
+    "zeka": 6.4
    }
   },
   {
@@ -162,11 +162,11 @@
    "etiketler": [],
    "aciklama": "Afrika'nın en saldırgan hayvanlarından.",
    "puan": {
-    "guc": 9,
-    "tehlike": 10,
-    "savunma": 9,
-    "hiz": 4,
-    "zeka": 4
+    "guc": 9.4,
+    "tehlike": 10.0,
+    "savunma": 9.4,
+    "hiz": 6.4,
+    "zeka": 6.4
    }
   },
   {
@@ -177,11 +177,11 @@
    "etiketler": [],
    "aciklama": "En büyük primat.",
    "puan": {
-    "guc": 9,
-    "tehlike": 6,
-    "savunma": 6,
-    "hiz": 5,
-    "zeka": 8
+    "guc": 9.4,
+    "tehlike": 7.6,
+    "savunma": 7.6,
+    "hiz": 7.0,
+    "zeka": 8.8
    }
   },
   {
@@ -194,11 +194,11 @@
    ],
    "aciklama": "Kara Ölüm lakaplı, aslanları bile kovalar.",
    "puan": {
-    "guc": 9,
-    "tehlike": 9,
-    "savunma": 8,
-    "hiz": 6,
-    "zeka": 4
+    "guc": 9.4,
+    "tehlike": 9.4,
+    "savunma": 8.8,
+    "hiz": 7.6,
+    "zeka": 6.4
    }
   },
   {
@@ -209,11 +209,11 @@
    "etiketler": [],
    "aciklama": "Isırığı kaplumbağa kabuğunu kırar.",
    "puan": {
-    "guc": 8,
-    "tehlike": 8,
-    "savunma": 6,
-    "hiz": 7,
-    "zeka": 6
+    "guc": 8.8,
+    "tehlike": 8.8,
+    "savunma": 7.6,
+    "hiz": 8.2,
+    "zeka": 7.6
    }
   },
   {
@@ -226,11 +226,11 @@
    ],
    "aciklama": "Kemik kıran çene ve sürü taktiği.",
    "puan": {
-    "guc": 7,
-    "tehlike": 8,
-    "savunma": 6,
-    "hiz": 7,
-    "zeka": 8
+    "guc": 8.2,
+    "tehlike": 8.8,
+    "savunma": 7.6,
+    "hiz": 8.2,
+    "zeka": 8.8
    }
   },
   {
@@ -243,11 +243,11 @@
    ],
    "aciklama": "Sürü taktiğinin ustası.",
    "puan": {
-    "guc": 6,
-    "tehlike": 7,
-    "savunma": 5,
-    "hiz": 7,
-    "zeka": 8
+    "guc": 7.6,
+    "tehlike": 8.2,
+    "savunma": 7.0,
+    "hiz": 8.2,
+    "zeka": 8.8
    }
   },
   {
@@ -260,11 +260,11 @@
    ],
    "aciklama": "En büyük kertenkele, zehirli ısırık.",
    "puan": {
-    "guc": 7,
-    "tehlike": 8,
-    "savunma": 7,
-    "hiz": 4,
-    "zeka": 4
+    "guc": 8.2,
+    "tehlike": 8.8,
+    "savunma": 8.2,
+    "hiz": 6.4,
+    "zeka": 6.4
    }
   },
   {
@@ -277,11 +277,11 @@
    ],
    "aciklama": "En uzun zehirli yılan.",
    "puan": {
-    "guc": 4,
-    "tehlike": 9,
-    "savunma": 3,
-    "hiz": 5,
-    "zeka": 5
+    "guc": 6.4,
+    "tehlike": 9.4,
+    "savunma": 5.8,
+    "hiz": 7.0,
+    "zeka": 7.0
    }
   },
   {
@@ -294,11 +294,11 @@
    ],
    "aciklama": "Çok hızlı ve zehri öldürücü.",
    "puan": {
-    "guc": 3,
-    "tehlike": 10,
-    "savunma": 3,
-    "hiz": 9,
-    "zeka": 5
+    "guc": 5.8,
+    "tehlike": 10.0,
+    "savunma": 5.8,
+    "hiz": 9.4,
+    "zeka": 7.0
    }
   },
   {
@@ -309,11 +309,11 @@
    "etiketler": [],
    "aciklama": "Hançer gibi pençeleriyle en tehlikeli kuş.",
    "puan": {
-    "guc": 6,
-    "tehlike": 8,
-    "savunma": 5,
-    "hiz": 7,
-    "zeka": 4
+    "guc": 7.6,
+    "tehlike": 8.8,
+    "savunma": 7.0,
+    "hiz": 8.2,
+    "zeka": 6.4
    }
   },
   {
@@ -324,11 +324,11 @@
    "etiketler": [],
    "aciklama": "Dünyanın en korkusuz hayvanı ünvanlı.",
    "puan": {
-    "guc": 5,
-    "tehlike": 7,
-    "savunma": 9,
-    "hiz": 5,
-    "zeka": 7
+    "guc": 7.0,
+    "tehlike": 8.2,
+    "savunma": 9.4,
+    "hiz": 7.0,
+    "zeka": 8.2
    }
   },
   {
@@ -339,11 +339,11 @@
    "etiketler": [],
    "aciklama": "Yaşayan en büyük sürüngen.",
    "puan": {
-    "guc": 10,
-    "tehlike": 10,
-    "savunma": 10,
-    "hiz": 5,
-    "zeka": 4
+    "guc": 10.0,
+    "tehlike": 10.0,
+    "savunma": 10.0,
+    "hiz": 7.0,
+    "zeka": 6.4
    }
   },
   {
@@ -354,11 +354,11 @@
    "etiketler": [],
    "aciklama": "Okyanusun en ünlü avcısı.",
    "puan": {
-    "guc": 9,
-    "tehlike": 9,
-    "savunma": 6,
-    "hiz": 8,
-    "zeka": 4
+    "guc": 9.4,
+    "tehlike": 9.4,
+    "savunma": 7.6,
+    "hiz": 8.8,
+    "zeka": 6.4
    }
   },
   {
@@ -371,11 +371,11 @@
    ],
    "aciklama": "Okyanusun tepe avcısı.",
    "puan": {
-    "guc": 10,
-    "tehlike": 9,
-    "savunma": 7,
-    "hiz": 8,
-    "zeka": 10
+    "guc": 10.0,
+    "tehlike": 9.4,
+    "savunma": 8.2,
+    "hiz": 8.8,
+    "zeka": 10.0
    }
   },
   {
@@ -386,11 +386,11 @@
    "etiketler": [],
    "aciklama": "Dev kalamarlarla savaşan derin dalgıç.",
    "puan": {
-    "guc": 10,
-    "tehlike": 7,
-    "savunma": 9,
-    "hiz": 6,
-    "zeka": 7
+    "guc": 10.0,
+    "tehlike": 8.2,
+    "savunma": 9.4,
+    "hiz": 7.6,
+    "zeka": 8.2
    }
   },
   {
@@ -401,11 +401,11 @@
    "etiketler": [],
    "aciklama": "En ağır yılan, suda boğar.",
    "puan": {
-    "guc": 8,
-    "tehlike": 7,
-    "savunma": 6,
-    "hiz": 3,
-    "zeka": 3
+    "guc": 8.8,
+    "tehlike": 8.2,
+    "savunma": 7.6,
+    "hiz": 5.8,
+    "zeka": 5.8
    }
   },
   {
@@ -418,11 +418,11 @@
    ],
    "aciklama": "En zehirli deniz canlılarından.",
    "puan": {
-    "guc": 1,
-    "tehlike": 10,
-    "savunma": 2,
-    "hiz": 3,
-    "zeka": 1
+    "guc": 4.6,
+    "tehlike": 10.0,
+    "savunma": 5.2,
+    "hiz": 5.8,
+    "zeka": 4.6
    }
   },
   {
@@ -433,11 +433,11 @@
    "etiketler": [],
    "aciklama": "Pençeleri ayı pençesi kadar büyük.",
    "puan": {
-    "guc": 5,
-    "tehlike": 7,
-    "savunma": 4,
-    "hiz": 8,
-    "zeka": 6
+    "guc": 7.0,
+    "tehlike": 8.2,
+    "savunma": 6.4,
+    "hiz": 8.8,
+    "zeka": 7.6
    }
   },
   {
@@ -448,11 +448,11 @@
    "etiketler": [],
    "aciklama": "Göklerin hükümdarı.",
    "puan": {
-    "guc": 5,
-    "tehlike": 6,
-    "savunma": 4,
-    "hiz": 9,
-    "zeka": 6
+    "guc": 7.0,
+    "tehlike": 7.6,
+    "savunma": 6.4,
+    "hiz": 9.4,
+    "zeka": 7.6
    }
   },
   {
@@ -463,11 +463,11 @@
    "etiketler": [],
    "aciklama": "Avını ağaca çıkaracak kadar güçlü.",
    "puan": {
-    "guc": 7,
-    "tehlike": 8,
-    "savunma": 5,
-    "hiz": 8,
-    "zeka": 6
+    "guc": 8.2,
+    "tehlike": 8.8,
+    "savunma": 7.0,
+    "hiz": 8.8,
+    "zeka": 7.6
    }
   },
   {
@@ -478,11 +478,11 @@
    "etiketler": [],
    "aciklama": "En hızlı kara hayvanı.",
    "puan": {
-    "guc": 5,
-    "tehlike": 6,
-    "savunma": 3,
-    "hiz": 10,
-    "zeka": 5
+    "guc": 7.0,
+    "tehlike": 7.6,
+    "savunma": 5.8,
+    "hiz": 10.0,
+    "zeka": 7.0
    }
   },
   {
@@ -493,11 +493,11 @@
    "etiketler": [],
    "aciklama": "Dağların sessiz avcısı.",
    "puan": {
-    "guc": 7,
-    "tehlike": 7,
-    "savunma": 5,
-    "hiz": 8,
-    "zeka": 6
+    "guc": 8.2,
+    "tehlike": 8.2,
+    "savunma": 7.0,
+    "hiz": 8.8,
+    "zeka": 7.6
    }
   },
   {
@@ -510,11 +510,11 @@
    ],
    "aciklama": "Alet kullanır, insandan çok güçlüdür.",
    "puan": {
-    "guc": 7,
-    "tehlike": 6,
-    "savunma": 4,
-    "hiz": 6,
-    "zeka": 9
+    "guc": 8.2,
+    "tehlike": 7.6,
+    "savunma": 6.4,
+    "hiz": 7.6,
+    "zeka": 9.4
    }
   },
   {
@@ -527,11 +527,11 @@
    ],
    "aciklama": "Kuzey Amerika'nın en ağır kara hayvanı.",
    "puan": {
-    "guc": 8,
-    "tehlike": 6,
-    "savunma": 8,
-    "hiz": 6,
-    "zeka": 3
+    "guc": 8.8,
+    "tehlike": 7.6,
+    "savunma": 8.8,
+    "hiz": 7.6,
+    "zeka": 5.8
    }
   },
   {
@@ -542,11 +542,11 @@
    "etiketler": [],
    "aciklama": "Kurtlara meydan okuyan Anadolu çoban köpeği.",
    "puan": {
-    "guc": 6,
-    "tehlike": 6,
-    "savunma": 6,
-    "hiz": 7,
-    "zeka": 7
+    "guc": 7.6,
+    "tehlike": 7.6,
+    "savunma": 7.6,
+    "hiz": 8.2,
+    "zeka": 8.2
    }
   },
   {
@@ -559,11 +559,11 @@
    ],
    "aciklama": "Avuç içi kadar ama zehri öldürücü.",
    "puan": {
-    "guc": 1,
-    "tehlike": 10,
-    "savunma": 1,
-    "hiz": 3,
-    "zeka": 1
+    "guc": 4.6,
+    "tehlike": 10.0,
+    "savunma": 4.6,
+    "hiz": 5.8,
+    "zeka": 4.6
    }
   },
   {
@@ -574,11 +574,11 @@
    "etiketler": [],
    "aciklama": "Denizin dâhisi.",
    "puan": {
-    "guc": 5,
-    "tehlike": 5,
-    "savunma": 5,
-    "hiz": 5,
-    "zeka": 10
+    "guc": 7.0,
+    "tehlike": 7.0,
+    "savunma": 7.0,
+    "hiz": 7.0,
+    "zeka": 10.0
    }
   },
   {
@@ -589,11 +589,11 @@
    "etiketler": [],
    "aciklama": "Okyanusun en hızlılarından.",
    "puan": {
-    "guc": 6,
-    "tehlike": 6,
-    "savunma": 4,
-    "hiz": 10,
-    "zeka": 3
+    "guc": 7.6,
+    "tehlike": 7.6,
+    "savunma": 6.4,
+    "hiz": 10.0,
+    "zeka": 5.8
    }
   },
   {
@@ -604,11 +604,11 @@
    "etiketler": [],
    "aciklama": "Bozkırların güçlü kartalı.",
    "puan": {
-    "guc": 5,
-    "tehlike": 6,
-    "savunma": 4,
-    "hiz": 8,
-    "zeka": 6
+    "guc": 7.0,
+    "tehlike": 7.6,
+    "savunma": 6.4,
+    "hiz": 8.8,
+    "zeka": 7.6
    }
   }
  ]

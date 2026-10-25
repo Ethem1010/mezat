@@ -357,3 +357,6 @@ body.in-table { padding-block: max(8px, env(safe-area-inset-top, 0px)) max(8px, 
   .stamp, .dots span, .lot.reveal, .lot.efsane::after, .paddle.bump, .judging .gavel { animation: none; }
   .seat, button { transition: none; }
 }
+.trow .why { grid-column: 1 / -1; font-size: 12px; color: var(--muted); font-style: italic; }
+.trow .meta .plus { color: var(--good); }
+.trow .meta .minus { color: var(--bad, #c62828); }

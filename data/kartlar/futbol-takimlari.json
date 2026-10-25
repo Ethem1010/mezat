@@ -51,10 +51,10 @@
    "etiketler": [],
    "aciklama": "Şampiyonlar Ligi'nin rekortmeni.",
    "puan": {
-    "kupa_sayisi": 10,
-    "kadro_gucu": 10,
-    "tarihi_basari": 10,
-    "taraftar": 10
+    "kupa_sayisi": 10.0,
+    "kadro_gucu": 10.0,
+    "tarihi_basari": 10.0,
+    "taraftar": 10.0
    }
   },
   {
@@ -65,10 +65,10 @@
    "etiketler": [],
    "aciklama": "Tiki-taka ve La Masia'nın kulübü.",
    "puan": {
-    "kupa_sayisi": 10,
-    "kadro_gucu": 9,
-    "tarihi_basari": 10,
-    "taraftar": 10
+    "kupa_sayisi": 10.0,
+    "kadro_gucu": 9.4,
+    "tarihi_basari": 10.0,
+    "taraftar": 10.0
    }
   },
   {
@@ -79,10 +79,10 @@
    "etiketler": [],
    "aciklama": "Mücadeleci oyunuyla Madrid'in diğer devi.",
    "puan": {
-    "kupa_sayisi": 8,
-    "kadro_gucu": 8,
-    "tarihi_basari": 8,
-    "taraftar": 9
+    "kupa_sayisi": 8.8,
+    "kadro_gucu": 8.8,
+    "tarihi_basari": 8.8,
+    "taraftar": 9.4
    }
   },
   {
@@ -93,10 +93,10 @@
    "etiketler": [],
    "aciklama": "Bundesliga'nın tartışmasız hâkimi.",
    "puan": {
-    "kupa_sayisi": 10,
-    "kadro_gucu": 9,
-    "tarihi_basari": 10,
-    "taraftar": 9
+    "kupa_sayisi": 10.0,
+    "kadro_gucu": 9.4,
+    "tarihi_basari": 10.0,
+    "taraftar": 9.4
    }
   },
   {
@@ -107,10 +107,10 @@
    "etiketler": [],
    "aciklama": "Sarı Duvar taraftarıyla meşhur.",
    "puan": {
-    "kupa_sayisi": 7,
-    "kadro_gucu": 8,
-    "tarihi_basari": 8,
-    "taraftar": 10
+    "kupa_sayisi": 8.2,
+    "kadro_gucu": 8.8,
+    "tarihi_basari": 8.8,
+    "taraftar": 10.0
    }
   },
   {
@@ -121,10 +121,10 @@
    "etiketler": [],
    "aciklama": "İngiltere'nin en çok sevilen kulüplerinden.",
    "puan": {
-    "kupa_sayisi": 10,
-    "kadro_gucu": 8,
-    "tarihi_basari": 10,
-    "taraftar": 10
+    "kupa_sayisi": 10.0,
+    "kadro_gucu": 8.8,
+    "tarihi_basari": 10.0,
+    "taraftar": 10.0
    }
   },
   {
@@ -135,10 +135,10 @@
    "etiketler": [],
    "aciklama": "You'll Never Walk Alone'un kulübü.",
    "puan": {
-    "kupa_sayisi": 10,
-    "kadro_gucu": 9,
-    "tarihi_basari": 10,
-    "taraftar": 10
+    "kupa_sayisi": 10.0,
+    "kadro_gucu": 9.4,
+    "tarihi_basari": 10.0,
+    "taraftar": 10.0
    }
   },
   {
@@ -149,10 +149,10 @@
    "etiketler": [],
    "aciklama": "Son yılların İngiltere hâkimi.",
    "puan": {
-    "kupa_sayisi": 9,
-    "kadro_gucu": 10,
-    "tarihi_basari": 8,
-    "taraftar": 8
+    "kupa_sayisi": 9.4,
+    "kadro_gucu": 10.0,
+    "tarihi_basari": 8.8,
+    "taraftar": 8.8
    }
   },
   {
@@ -163,10 +163,10 @@
    "etiketler": [],
    "aciklama": "İki kez Avrupa şampiyonu Londra kulübü.",
    "puan": {
-    "kupa_sayisi": 9,
-    "kadro_gucu": 8,
-    "tarihi_basari": 8,
-    "taraftar": 8
+    "kupa_sayisi": 9.4,
+    "kadro_gucu": 8.8,
+    "tarihi_basari": 8.8,
+    "taraftar": 8.8
    }
   },
   {
@@ -177,10 +177,10 @@
    "etiketler": [],
    "aciklama": "Yenilmezler sezonuyla tarihe geçen kulüp.",
    "puan": {
-    "kupa_sayisi": 8,
-    "kadro_gucu": 9,
-    "tarihi_basari": 9,
-    "taraftar": 9
+    "kupa_sayisi": 8.8,
+    "kadro_gucu": 9.4,
+    "tarihi_basari": 9.4,
+    "taraftar": 9.4
    }
   },
   {
@@ -191,10 +191,10 @@
    "etiketler": [],
    "aciklama": "Yedi Avrupa kupasıyla İtalya'nın en büyüğü.",
    "puan": {
-    "kupa_sayisi": 10,
-    "kadro_gucu": 8,
-    "tarihi_basari": 10,
-    "taraftar": 9
+    "kupa_sayisi": 10.0,
+    "kadro_gucu": 8.8,
+    "tarihi_basari": 10.0,
+    "taraftar": 9.4
    }
   },
   {
@@ -205,10 +205,10 @@
    "etiketler": [],
    "aciklama": "İtalya'da en çok lig şampiyonluğu olan kulüp.",
    "puan": {
-    "kupa_sayisi": 10,
-    "kadro_gucu": 8,
-    "tarihi_basari": 9,
-    "taraftar": 9
+    "kupa_sayisi": 10.0,
+    "kadro_gucu": 8.8,
+    "tarihi_basari": 9.4,
+    "taraftar": 9.4
    }
   },
   {
@@ -219,10 +219,10 @@
    "etiketler": [],
    "aciklama": "Üçlü kupa sahibi Milano kulübü.",
    "puan": {
-    "kupa_sayisi": 9,
-    "kadro_gucu": 9,
-    "tarihi_basari": 9,
-    "taraftar": 9
+    "kupa_sayisi": 9.4,
+    "kadro_gucu": 9.4,
+    "tarihi_basari": 9.4,
+    "taraftar": 9.4
    }
   },
   {
@@ -233,10 +233,10 @@
    "etiketler": [],
    "aciklama": "Maradona'nın şehri, tutkulu taraftar.",
    "puan": {
-    "kupa_sayisi": 7,
-    "kadro_gucu": 8,
-    "tarihi_basari": 7,
-    "taraftar": 10
+    "kupa_sayisi": 8.2,
+    "kadro_gucu": 8.8,
+    "tarihi_basari": 8.2,
+    "taraftar": 10.0
    }
   },
   {
@@ -247,10 +247,10 @@
    "etiketler": [],
    "aciklama": "UEFA Kupası ve Süper Kupa kazanan Türk kulübü.",
    "puan": {
-    "kupa_sayisi": 9,
-    "kadro_gucu": 8,
-    "tarihi_basari": 9,
-    "taraftar": 10
+    "kupa_sayisi": 9.4,
+    "kadro_gucu": 8.8,
+    "tarihi_basari": 9.4,
+    "taraftar": 10.0
    }
   },
   {
@@ -261,10 +261,10 @@
    "etiketler": [],
    "aciklama": "Dev taraftar kitlesiyle Kadıköy'ün kulübü.",
    "puan": {
-    "kupa_sayisi": 8,
-    "kadro_gucu": 8,
-    "tarihi_basari": 8,
-    "taraftar": 10
+    "kupa_sayisi": 8.8,
+    "kadro_gucu": 8.8,
+    "tarihi_basari": 8.8,
+    "taraftar": 10.0
    }
   },
   {
@@ -275,10 +275,10 @@
    "etiketler": [],
    "aciklama": "Türkiye'nin en köklü kulüplerinden, Kara Kartal.",
    "puan": {
-    "kupa_sayisi": 8,
-    "kadro_gucu": 7,
-    "tarihi_basari": 8,
-    "taraftar": 10
+    "kupa_sayisi": 8.8,
+    "kadro_gucu": 8.2,
+    "tarihi_basari": 8.8,
+    "taraftar": 10.0
    }
   },
   {
@@ -289,10 +289,10 @@
    "etiketler": [],
    "aciklama": "Gençlik akademisiyle ünlü dört kez Avrupa şampiyonu.",
    "puan": {
-    "kupa_sayisi": 9,
-    "kadro_gucu": 7,
-    "tarihi_basari": 9,
-    "taraftar": 8
+    "kupa_sayisi": 9.4,
+    "kadro_gucu": 8.2,
+    "tarihi_basari": 9.4,
+    "taraftar": 8.8
    }
   },
   {
@@ -303,10 +303,10 @@
    "etiketler": [],
    "aciklama": "Yıldızlarla dolu Fransız devi.",
    "puan": {
-    "kupa_sayisi": 8,
-    "kadro_gucu": 10,
-    "tarihi_basari": 7,
-    "taraftar": 8
+    "kupa_sayisi": 8.8,
+    "kadro_gucu": 10.0,
+    "tarihi_basari": 8.2,
+    "taraftar": 8.8
    }
   },
   {
@@ -317,10 +317,10 @@
    "etiketler": [],
    "aciklama": "Portekiz'in en çok taraftarı olan kulübü.",
    "puan": {
-    "kupa_sayisi": 8,
-    "kadro_gucu": 7,
-    "tarihi_basari": 9,
-    "taraftar": 9
+    "kupa_sayisi": 8.8,
+    "kadro_gucu": 8.2,
+    "tarihi_basari": 9.4,
+    "taraftar": 9.4
    }
   },
   {
@@ -331,10 +331,10 @@
    "etiketler": [],
    "aciklama": "İki kez Avrupa şampiyonu Portekiz kulübü.",
    "puan": {
-    "kupa_sayisi": 8,
-    "kadro_gucu": 7,
-    "tarihi_basari": 8,
-    "taraftar": 8
+    "kupa_sayisi": 8.8,
+    "kadro_gucu": 8.2,
+    "tarihi_basari": 8.8,
+    "taraftar": 8.8
    }
   },
   {
@@ -345,10 +345,10 @@
    "etiketler": [],
    "aciklama": "Bombonera'nın ateşli kulübü.",
    "puan": {
-    "kupa_sayisi": 9,
-    "kadro_gucu": 7,
-    "tarihi_basari": 9,
-    "taraftar": 10
+    "kupa_sayisi": 9.4,
+    "kadro_gucu": 8.2,
+    "tarihi_basari": 9.4,
+    "taraftar": 10.0
    }
   },
   {
@@ -359,10 +359,10 @@
    "etiketler": [],
    "aciklama": "Arjantin'in en başarılı kulüplerinden.",
    "puan": {
-    "kupa_sayisi": 9,
-    "kadro_gucu": 7,
-    "tarihi_basari": 9,
-    "taraftar": 9
+    "kupa_sayisi": 9.4,
+    "kadro_gucu": 8.2,
+    "tarihi_basari": 9.4,
+    "taraftar": 9.4
    }
   },
   {
@@ -373,10 +373,10 @@
    "etiketler": [],
    "aciklama": "Brezilya'nın en çok taraftarı olan kulübü.",
    "puan": {
-    "kupa_sayisi": 8,
-    "kadro_gucu": 8,
-    "tarihi_basari": 8,
-    "taraftar": 10
+    "kupa_sayisi": 8.8,
+    "kadro_gucu": 8.8,
+    "tarihi_basari": 8.8,
+    "taraftar": 10.0
    }
   },
   {
@@ -387,10 +387,10 @@
    "etiketler": [],
    "aciklama": "İskoçya'nın ilk Avrupa şampiyonu.",
    "puan": {
-    "kupa_sayisi": 8,
-    "kadro_gucu": 6,
-    "tarihi_basari": 8,
-    "taraftar": 9
+    "kupa_sayisi": 8.8,
+    "kadro_gucu": 7.6,
+    "tarihi_basari": 8.8,
+    "taraftar": 9.4
    }
   },
   {
@@ -401,10 +401,10 @@
    "etiketler": [],
    "aciklama": "Anadolu'nun şampiyonluk kazanan kulübü.",
    "puan": {
-    "kupa_sayisi": 7,
-    "kadro_gucu": 7,
-    "tarihi_basari": 7,
-    "taraftar": 9
+    "kupa_sayisi": 8.2,
+    "kadro_gucu": 8.2,
+    "tarihi_basari": 8.2,
+    "taraftar": 9.4
    }
   },
   {
@@ -415,10 +415,10 @@
    "etiketler": [],
    "aciklama": "Kuzey Londra'nın Spurs'ü.",
    "puan": {
-    "kupa_sayisi": 6,
-    "kadro_gucu": 8,
-    "tarihi_basari": 6,
-    "taraftar": 8
+    "kupa_sayisi": 7.6,
+    "kadro_gucu": 8.8,
+    "tarihi_basari": 7.6,
+    "taraftar": 8.8
    }
   },
   {
@@ -429,10 +429,10 @@
    "etiketler": [],
    "aciklama": "1982 Avrupa şampiyonu köklü kulüp.",
    "puan": {
-    "kupa_sayisi": 7,
-    "kadro_gucu": 7,
-    "tarihi_basari": 8,
-    "taraftar": 8
+    "kupa_sayisi": 8.2,
+    "kadro_gucu": 8.2,
+    "tarihi_basari": 8.8,
+    "taraftar": 8.8
    }
   },
   {
@@ -443,10 +443,10 @@
    "etiketler": [],
    "aciklama": "Avrupa Ligi'nin rekortmeni.",
    "puan": {
-    "kupa_sayisi": 8,
-    "kadro_gucu": 7,
-    "tarihi_basari": 7,
-    "taraftar": 8
+    "kupa_sayisi": 8.8,
+    "kadro_gucu": 8.2,
+    "tarihi_basari": 8.2,
+    "taraftar": 8.8
    }
   },
   {
@@ -457,10 +457,10 @@
    "etiketler": [],
    "aciklama": "İki Şampiyonlar Ligi finali oynamış kulüp.",
    "puan": {
-    "kupa_sayisi": 7,
-    "kadro_gucu": 6,
-    "tarihi_basari": 7,
-    "taraftar": 8
+    "kupa_sayisi": 8.2,
+    "kadro_gucu": 7.6,
+    "tarihi_basari": 8.2,
+    "taraftar": 8.8
    }
   },
   {
@@ -471,10 +471,10 @@
    "etiketler": [],
    "aciklama": "Başkentin kulübü, Konferans Ligi şampiyonu.",
    "puan": {
-    "kupa_sayisi": 6,
-    "kadro_gucu": 7,
-    "tarihi_basari": 6,
-    "taraftar": 9
+    "kupa_sayisi": 7.6,
+    "kadro_gucu": 8.2,
+    "tarihi_basari": 7.6,
+    "taraftar": 9.4
    }
   },
   {
@@ -485,10 +485,10 @@
    "etiketler": [],
    "aciklama": "Yenilgisiz şampiyonluğuyla tarih yazan kulüp.",
    "puan": {
-    "kupa_sayisi": 6,
-    "kadro_gucu": 8,
-    "tarihi_basari": 6,
-    "taraftar": 7
+    "kupa_sayisi": 7.6,
+    "kadro_gucu": 8.8,
+    "tarihi_basari": 7.6,
+    "taraftar": 8.2
    }
   },
   {
@@ -499,10 +499,10 @@
    "etiketler": [],
    "aciklama": "Fransa'nın ilk Şampiyonlar Ligi şampiyonu.",
    "puan": {
-    "kupa_sayisi": 7,
-    "kadro_gucu": 7,
-    "tarihi_basari": 7,
-    "taraftar": 9
+    "kupa_sayisi": 8.2,
+    "kadro_gucu": 8.2,
+    "tarihi_basari": 8.2,
+    "taraftar": 9.4
    }
   },
   {
@@ -513,10 +513,10 @@
    "etiketler": [],
    "aciklama": "Avrupa şampiyonluğu yaşamış Rotterdam kulübü.",
    "puan": {
-    "kupa_sayisi": 7,
-    "kadro_gucu": 6,
-    "tarihi_basari": 7,
-    "taraftar": 8
+    "kupa_sayisi": 8.2,
+    "kadro_gucu": 7.6,
+    "tarihi_basari": 8.2,
+    "taraftar": 8.8
    }
   },
   {
@@ -527,10 +527,10 @@
    "etiketler": [],
    "aciklama": "Pelé'nin efsane kulübü.",
    "puan": {
-    "kupa_sayisi": 8,
-    "kadro_gucu": 5,
-    "tarihi_basari": 8,
-    "taraftar": 8
+    "kupa_sayisi": 8.8,
+    "kadro_gucu": 7.0,
+    "tarihi_basari": 8.8,
+    "taraftar": 8.8
    }
   }
  ]

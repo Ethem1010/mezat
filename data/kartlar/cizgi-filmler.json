@@ -50,10 +50,10 @@
    "etiketler": [],
    "aciklama": "Kedi ile farenin bitmeyen kovalamacası.",
    "puan": {
-    "eglence": 10,
-    "nostalji": 10,
-    "karakter_sevgisi": 10,
-    "efsanelik": 10
+    "eglence": 10.0,
+    "nostalji": 10.0,
+    "karakter_sevgisi": 10.0,
+    "efsanelik": 10.0
    }
   },
   {
@@ -64,10 +64,10 @@
    "etiketler": [],
    "aciklama": "Mavi köyün minik sakinleri ve Gargamel.",
    "puan": {
-    "eglence": 8,
-    "nostalji": 10,
-    "karakter_sevgisi": 9,
-    "efsanelik": 9
+    "eglence": 8.8,
+    "nostalji": 10.0,
+    "karakter_sevgisi": 9.4,
+    "efsanelik": 9.4
    }
   },
   {
@@ -78,10 +78,10 @@
    "etiketler": [],
    "aciklama": "Sessiz ve şık pembe kahraman.",
    "puan": {
-    "eglence": 8,
-    "nostalji": 9,
-    "karakter_sevgisi": 8,
-    "efsanelik": 9
+    "eglence": 8.8,
+    "nostalji": 9.4,
+    "karakter_sevgisi": 8.8,
+    "efsanelik": 9.4
    }
   },
   {
@@ -92,10 +92,10 @@
    "etiketler": [],
    "aciklama": "Ispanakla güçlenen denizci.",
    "puan": {
-    "eglence": 7,
-    "nostalji": 9,
-    "karakter_sevgisi": 8,
-    "efsanelik": 9
+    "eglence": 8.2,
+    "nostalji": 9.4,
+    "karakter_sevgisi": 8.8,
+    "efsanelik": 9.4
    }
   },
   {
@@ -106,10 +106,10 @@
    "etiketler": [],
    "aciklama": "Gölgesinden hızlı silah çeken kovboy.",
    "puan": {
-    "eglence": 8,
-    "nostalji": 9,
-    "karakter_sevgisi": 8,
-    "efsanelik": 8
+    "eglence": 8.8,
+    "nostalji": 9.4,
+    "karakter_sevgisi": 8.8,
+    "efsanelik": 8.8
    }
   },
   {
@@ -118,12 +118,12 @@
    "seviye": "efsane",
    "grup": "klasik",
    "etiketler": [],
-   "aciklama": "Gizem çözen korkak köpek ve arkadaşları.",
+   "aciklama": "Gizem çözen korkak köpek ve arkadaşları; 50 yılı aşkın efsane.",
    "puan": {
-    "eglence": 8,
-    "nostalji": 9,
-    "karakter_sevgisi": 9,
-    "efsanelik": 9
+    "eglence": 9.4,
+    "nostalji": 10.0,
+    "karakter_sevgisi": 10.0,
+    "efsanelik": 10.0
    }
   },
   {
@@ -134,10 +134,10 @@
    "etiketler": [],
    "aciklama": "Bugs Bunny ve arkadaşlarının çılgın dünyası.",
    "puan": {
-    "eglence": 9,
-    "nostalji": 9,
-    "karakter_sevgisi": 9,
-    "efsanelik": 10
+    "eglence": 9.4,
+    "nostalji": 9.4,
+    "karakter_sevgisi": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -148,10 +148,10 @@
    "etiketler": [],
    "aciklama": "Lazanya seven tembel turuncu kedi.",
    "puan": {
-    "eglence": 8,
-    "nostalji": 8,
-    "karakter_sevgisi": 9,
-    "efsanelik": 8
+    "eglence": 8.8,
+    "nostalji": 8.8,
+    "karakter_sevgisi": 9.4,
+    "efsanelik": 8.8
    }
   },
   {
@@ -162,10 +162,10 @@
    "etiketler": [],
    "aciklama": "Kanalizasyondaki pizza sever dört kahraman.",
    "puan": {
-    "eglence": 9,
-    "nostalji": 10,
-    "karakter_sevgisi": 9,
-    "efsanelik": 9
+    "eglence": 9.4,
+    "nostalji": 10.0,
+    "karakter_sevgisi": 9.4,
+    "efsanelik": 9.4
    }
   },
   {
@@ -176,10 +176,10 @@
    "etiketler": [],
    "aciklama": "Springfield'ın en ünlü sarı ailesi.",
    "puan": {
-    "eglence": 9,
-    "nostalji": 9,
-    "karakter_sevgisi": 9,
-    "efsanelik": 10
+    "eglence": 9.4,
+    "nostalji": 9.4,
+    "karakter_sevgisi": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -190,24 +190,24 @@
    "etiketler": [],
    "aciklama": "Gizli laboratuvarı olan dâhi çocuk.",
    "puan": {
-    "eglence": 8,
-    "nostalji": 9,
-    "karakter_sevgisi": 8,
-    "efsanelik": 8
+    "eglence": 8.8,
+    "nostalji": 9.4,
+    "karakter_sevgisi": 8.8,
+    "efsanelik": 8.8
    }
   },
   {
    "id": "orumcek-adam-cizgi-dizi",
    "ad": "Örümcek Adam (çizgi dizi)",
-   "seviye": "efsane",
+   "seviye": "guclu",
    "grup": "doksanlar",
    "etiketler": [],
    "aciklama": "90'ların sabahlarının ağ atan kahramanı.",
    "puan": {
-    "eglence": 8,
-    "nostalji": 9,
-    "karakter_sevgisi": 8,
-    "efsanelik": 8
+    "eglence": 8.8,
+    "nostalji": 9.4,
+    "karakter_sevgisi": 8.8,
+    "efsanelik": 8.8
    }
   },
   {
@@ -218,10 +218,10 @@
    "etiketler": [],
    "aciklama": "Ash ve Pikachu'nun macerası.",
    "puan": {
-    "eglence": 9,
-    "nostalji": 10,
-    "karakter_sevgisi": 10,
-    "efsanelik": 9
+    "eglence": 9.4,
+    "nostalji": 10.0,
+    "karakter_sevgisi": 10.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -232,10 +232,10 @@
    "etiketler": [],
    "aciklama": "Goku'nun güç dolu dövüşleri.",
    "puan": {
-    "eglence": 9,
-    "nostalji": 9,
-    "karakter_sevgisi": 9,
-    "efsanelik": 9
+    "eglence": 9.4,
+    "nostalji": 9.4,
+    "karakter_sevgisi": 9.4,
+    "efsanelik": 9.4
    }
   },
   {
@@ -246,10 +246,10 @@
    "etiketler": [],
    "aciklama": "Nesillerin ağladığı yetim kızın hikâyesi.",
    "puan": {
-    "eglence": 7,
-    "nostalji": 10,
-    "karakter_sevgisi": 8,
-    "efsanelik": 8
+    "eglence": 8.2,
+    "nostalji": 10.0,
+    "karakter_sevgisi": 8.8,
+    "efsanelik": 8.8
    }
   },
   {
@@ -260,10 +260,10 @@
    "etiketler": [],
    "aciklama": "Bitmeyen sahalarıyla futbol animesi.",
    "puan": {
-    "eglence": 8,
-    "nostalji": 10,
-    "karakter_sevgisi": 9,
-    "efsanelik": 8
+    "eglence": 8.8,
+    "nostalji": 10.0,
+    "karakter_sevgisi": 9.4,
+    "efsanelik": 8.8
    }
   },
   {
@@ -274,10 +274,10 @@
    "etiketler": [],
    "aciklama": "Hokage olmak isteyen ninja.",
    "puan": {
-    "eglence": 9,
-    "nostalji": 8,
-    "karakter_sevgisi": 9,
-    "efsanelik": 9
+    "eglence": 9.4,
+    "nostalji": 8.8,
+    "karakter_sevgisi": 9.4,
+    "efsanelik": 9.4
    }
   },
   {
@@ -288,10 +288,10 @@
    "etiketler": [],
    "aciklama": "Korsanlar Kralı olmak isteyen Luffy.",
    "puan": {
-    "eglence": 9,
-    "nostalji": 7,
-    "karakter_sevgisi": 9,
-    "efsanelik": 9
+    "eglence": 9.4,
+    "nostalji": 8.2,
+    "karakter_sevgisi": 9.4,
+    "efsanelik": 9.4
    }
   },
   {
@@ -302,10 +302,10 @@
    "etiketler": [],
    "aciklama": "Ay'ın gücüyle savaşan kızlar.",
    "puan": {
-    "eglence": 8,
-    "nostalji": 9,
-    "karakter_sevgisi": 8,
-    "efsanelik": 8
+    "eglence": 8.8,
+    "nostalji": 9.4,
+    "karakter_sevgisi": 8.8,
+    "efsanelik": 8.8
    }
   },
   {
@@ -316,10 +316,10 @@
    "etiketler": [],
    "aciklama": "Alplerde dedesiyle yaşayan küçük kız.",
    "puan": {
-    "eglence": 7,
-    "nostalji": 9,
-    "karakter_sevgisi": 8,
-    "efsanelik": 8
+    "eglence": 8.2,
+    "nostalji": 9.4,
+    "karakter_sevgisi": 8.8,
+    "efsanelik": 8.8
    }
   },
   {
@@ -330,10 +330,10 @@
    "etiketler": [],
    "aciklama": "Ananas evde yaşayan neşeli sünger.",
    "puan": {
-    "eglence": 10,
-    "nostalji": 8,
-    "karakter_sevgisi": 10,
-    "efsanelik": 9
+    "eglence": 10.0,
+    "nostalji": 8.8,
+    "karakter_sevgisi": 10.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -344,10 +344,10 @@
    "etiketler": [],
    "aciklama": "Dört elementi birleştiren Aang'in yolculuğu.",
    "puan": {
-    "eglence": 9,
-    "nostalji": 8,
-    "karakter_sevgisi": 9,
-    "efsanelik": 9
+    "eglence": 9.4,
+    "nostalji": 8.8,
+    "karakter_sevgisi": 9.4,
+    "efsanelik": 9.4
    }
   },
   {
@@ -358,10 +358,10 @@
    "etiketler": [],
    "aciklama": "Saatiyle uzaylıya dönüşen çocuk.",
    "puan": {
-    "eglence": 8,
-    "nostalji": 8,
-    "karakter_sevgisi": 8,
-    "efsanelik": 7
+    "eglence": 8.8,
+    "nostalji": 8.8,
+    "karakter_sevgisi": 8.8,
+    "efsanelik": 8.2
    }
   },
   {
@@ -370,12 +370,12 @@
    "seviye": "efsane",
    "grup": "yerli",
    "etiketler": [],
-   "aciklama": "Mahallenin maceracı çocukları.",
+   "aciklama": "Sinemada rekor kıran mahalle çocukları.",
    "puan": {
-    "eglence": 8,
-    "nostalji": 7,
-    "karakter_sevgisi": 9,
-    "efsanelik": 7
+    "eglence": 9.4,
+    "nostalji": 8.8,
+    "karakter_sevgisi": 10.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -386,24 +386,24 @@
    "etiketler": [],
    "aciklama": "Şakir ailesinin komik maceraları.",
    "puan": {
-    "eglence": 9,
-    "nostalji": 7,
-    "karakter_sevgisi": 9,
-    "efsanelik": 7
+    "eglence": 9.4,
+    "nostalji": 8.8,
+    "karakter_sevgisi": 10.0,
+    "efsanelik": 9.4
    }
   },
   {
    "id": "keloglan",
    "ad": "Keloğlan",
-   "seviye": "guclu",
+   "seviye": "efsane",
    "grup": "yerli",
    "etiketler": [],
-   "aciklama": "Türk masallarının sevimli kahramanı.",
+   "aciklama": "Türk masallarının en sevilen kahramanı, TRT'nin efsane çizgi filmi.",
    "puan": {
-    "eglence": 7,
-    "nostalji": 9,
-    "karakter_sevgisi": 8,
-    "efsanelik": 8
+    "eglence": 9.4,
+    "nostalji": 10.0,
+    "karakter_sevgisi": 10.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -412,12 +412,12 @@
    "seviye": "guclu",
    "grup": "yerli",
    "etiketler": [],
-   "aciklama": "Okul öncesinin sevilen kahramanı.",
+   "aciklama": "Bir kuşağın büyüdüğü yerli çizgi film.",
    "puan": {
-    "eglence": 6,
-    "nostalji": 7,
-    "karakter_sevgisi": 8,
-    "efsanelik": 6
+    "eglence": 8.8,
+    "nostalji": 8.8,
+    "karakter_sevgisi": 9.4,
+    "efsanelik": 8.8
    }
   },
   {
@@ -428,10 +428,10 @@
    "etiketler": [],
    "aciklama": "Minik Niloya'nın sevimli dünyası.",
    "puan": {
-    "eglence": 6,
-    "nostalji": 6,
-    "karakter_sevgisi": 8,
-    "efsanelik": 5
+    "eglence": 8.8,
+    "nostalji": 8.2,
+    "karakter_sevgisi": 9.4,
+    "efsanelik": 8.2
    }
   },
   {
@@ -442,10 +442,10 @@
    "etiketler": [],
    "aciklama": "Kendini çok yakışıklı sanan kaslı adam.",
    "puan": {
-    "eglence": 8,
-    "nostalji": 9,
-    "karakter_sevgisi": 7,
-    "efsanelik": 7
+    "eglence": 8.8,
+    "nostalji": 9.4,
+    "karakter_sevgisi": 8.2,
+    "efsanelik": 8.2
    }
   },
   {
@@ -456,10 +456,10 @@
    "etiketler": [],
    "aciklama": "Şehri koruyan üç süper kız.",
    "puan": {
-    "eglence": 8,
-    "nostalji": 8,
-    "karakter_sevgisi": 8,
-    "efsanelik": 7
+    "eglence": 8.8,
+    "nostalji": 8.8,
+    "karakter_sevgisi": 8.8,
+    "efsanelik": 8.2
    }
   },
   {
@@ -470,10 +470,10 @@
    "etiketler": [],
    "aciklama": "Courage'ın korku dolu maceraları.",
    "puan": {
-    "eglence": 7,
-    "nostalji": 9,
-    "karakter_sevgisi": 8,
-    "efsanelik": 7
+    "eglence": 8.2,
+    "nostalji": 9.4,
+    "karakter_sevgisi": 8.8,
+    "efsanelik": 8.2
    }
   },
   {
@@ -484,10 +484,10 @@
    "etiketler": [],
    "aciklama": "Yaramaz Maşa ile sabırlı ayı.",
    "puan": {
-    "eglence": 8,
-    "nostalji": 6,
-    "karakter_sevgisi": 8,
-    "efsanelik": 6
+    "eglence": 8.8,
+    "nostalji": 7.6,
+    "karakter_sevgisi": 8.8,
+    "efsanelik": 7.6
    }
   },
   {
@@ -498,10 +498,10 @@
    "etiketler": [],
    "aciklama": "Yaz tatilini icatlarla dolduran kardeşler.",
    "puan": {
-    "eglence": 8,
-    "nostalji": 7,
-    "karakter_sevgisi": 8,
-    "efsanelik": 7
+    "eglence": 8.8,
+    "nostalji": 8.2,
+    "karakter_sevgisi": 8.8,
+    "efsanelik": 8.2
    }
   },
   {
@@ -512,10 +512,10 @@
    "etiketler": [],
    "aciklama": "Mavi kedi Gumball'un absürt okul hayatı.",
    "puan": {
-    "eglence": 8,
-    "nostalji": 6,
-    "karakter_sevgisi": 7,
-    "efsanelik": 6
+    "eglence": 8.8,
+    "nostalji": 7.6,
+    "karakter_sevgisi": 8.2,
+    "efsanelik": 7.6
    }
   },
   {
@@ -526,10 +526,10 @@
    "etiketler": [],
    "aciklama": "Finn ve Jake'in tuhaf maceraları.",
    "puan": {
-    "eglence": 8,
-    "nostalji": 6,
-    "karakter_sevgisi": 8,
-    "efsanelik": 7
+    "eglence": 8.8,
+    "nostalji": 7.6,
+    "karakter_sevgisi": 8.8,
+    "efsanelik": 8.2
    }
   }
  ]

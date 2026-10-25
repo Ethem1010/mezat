@@ -47,10 +47,10 @@
    "etiketler": [],
    "aciklama": "Uçan, kurşun geçirmez Krypton'lu.",
    "puan": {
-    "guc": 10,
-    "super_yetenek": 10,
-    "zeka": 7,
-    "takim_uyumu": 8
+    "guc": 10.0,
+    "super_yetenek": 10.0,
+    "zeka": 8.2,
+    "takim_uyumu": 8.8
    }
   },
   {
@@ -61,10 +61,10 @@
    "etiketler": [],
    "aciklama": "Amazon savaşçısı, gerçeğin kementinin sahibi.",
    "puan": {
-    "guc": 9,
-    "super_yetenek": 8,
-    "zeka": 7,
-    "takim_uyumu": 9
+    "guc": 9.4,
+    "super_yetenek": 8.8,
+    "zeka": 8.2,
+    "takim_uyumu": 9.4
    }
   },
   {
@@ -75,10 +75,10 @@
    "etiketler": [],
    "aciklama": "Çekiciyle şimşek çağıran gök gürültüsü tanrısı.",
    "puan": {
-    "guc": 10,
-    "super_yetenek": 9,
-    "zeka": 6,
-    "takim_uyumu": 7
+    "guc": 10.0,
+    "super_yetenek": 9.4,
+    "zeka": 7.6,
+    "takim_uyumu": 8.2
    }
   },
   {
@@ -89,10 +89,10 @@
    "etiketler": [],
    "aciklama": "Sinirlendikçe güçlenen yeşil dev.",
    "puan": {
-    "guc": 10,
-    "super_yetenek": 8,
-    "zeka": 3,
-    "takim_uyumu": 4
+    "guc": 10.0,
+    "super_yetenek": 8.8,
+    "zeka": 5.8,
+    "takim_uyumu": 6.4
    }
   },
   {
@@ -103,10 +103,10 @@
    "etiketler": [],
    "aciklama": "Kozmik enerjiyle uçan en güçlülerden.",
    "puan": {
-    "guc": 10,
-    "super_yetenek": 9,
-    "zeka": 6,
-    "takim_uyumu": 7
+    "guc": 10.0,
+    "super_yetenek": 9.4,
+    "zeka": 7.6,
+    "takim_uyumu": 8.2
    }
   },
   {
@@ -117,10 +117,10 @@
    "etiketler": [],
    "aciklama": "Superman'in kuzeni, aynı güçlere sahip.",
    "puan": {
-    "guc": 9,
-    "super_yetenek": 9,
-    "zeka": 6,
-    "takim_uyumu": 8
+    "guc": 9.4,
+    "super_yetenek": 9.4,
+    "zeka": 7.6,
+    "takim_uyumu": 8.8
    }
   },
   {
@@ -131,10 +131,10 @@
    "etiketler": [],
    "aciklama": "Tek kelimeyle yetişkin kahramana dönüşen çocuk.",
    "puan": {
-    "guc": 9,
-    "super_yetenek": 8,
-    "zeka": 4,
-    "takim_uyumu": 7
+    "guc": 9.4,
+    "super_yetenek": 8.8,
+    "zeka": 6.4,
+    "takim_uyumu": 8.2
    }
   },
   {
@@ -145,10 +145,10 @@
    "etiketler": [],
    "aciklama": "Şekil değiştiren güçlü Marslı.",
    "puan": {
-    "guc": 9,
-    "super_yetenek": 9,
-    "zeka": 8,
-    "takim_uyumu": 9
+    "guc": 9.4,
+    "super_yetenek": 9.4,
+    "zeka": 8.8,
+    "takim_uyumu": 9.4
    }
   },
   {
@@ -159,10 +159,10 @@
    "etiketler": [],
    "aciklama": "Denizlerin kralı.",
    "puan": {
-    "guc": 8,
-    "super_yetenek": 8,
-    "zeka": 6,
-    "takim_uyumu": 7
+    "guc": 8.8,
+    "super_yetenek": 8.8,
+    "zeka": 7.6,
+    "takim_uyumu": 8.2
    }
   },
   {
@@ -173,10 +173,10 @@
    "etiketler": [],
    "aciklama": "Pençeleri ve iyileşme gücüyle dayanıklı savaşçı.",
    "puan": {
-    "guc": 8,
-    "super_yetenek": 8,
-    "zeka": 5,
-    "takim_uyumu": 5
+    "guc": 8.8,
+    "super_yetenek": 8.8,
+    "zeka": 7.0,
+    "takim_uyumu": 7.0
    }
   },
   {
@@ -187,10 +187,10 @@
    "etiketler": [],
    "aciklama": "Ağ atan, duvarlara tırmanan mahalle kahramanı.",
    "puan": {
-    "guc": 7,
-    "super_yetenek": 8,
-    "zeka": 8,
-    "takim_uyumu": 8
+    "guc": 8.2,
+    "super_yetenek": 8.8,
+    "zeka": 8.8,
+    "takim_uyumu": 8.8
    }
   },
   {
@@ -201,10 +201,10 @@
    "etiketler": [],
    "aciklama": "Kalkanıyla takımın doğal lideri.",
    "puan": {
-    "guc": 7,
-    "super_yetenek": 6,
-    "zeka": 8,
-    "takim_uyumu": 10
+    "guc": 8.2,
+    "super_yetenek": 7.6,
+    "zeka": 8.8,
+    "takim_uyumu": 10.0
    }
   },
   {
@@ -215,10 +215,10 @@
    "etiketler": [],
    "aciklama": "Süper gücü yok ama dâhi dedektif ve stratejist.",
    "puan": {
-    "guc": 6,
-    "super_yetenek": 4,
-    "zeka": 10,
-    "takim_uyumu": 7
+    "guc": 7.6,
+    "super_yetenek": 6.4,
+    "zeka": 10.0,
+    "takim_uyumu": 8.2
    }
   },
   {
@@ -229,10 +229,10 @@
    "etiketler": [],
    "aciklama": "Zırhını kendi yapan dâhi mucit.",
    "puan": {
-    "guc": 8,
-    "super_yetenek": 8,
-    "zeka": 10,
-    "takim_uyumu": 6
+    "guc": 8.8,
+    "super_yetenek": 8.8,
+    "zeka": 10.0,
+    "takim_uyumu": 7.6
    }
   },
   {
@@ -243,10 +243,10 @@
    "etiketler": [],
    "aciklama": "Wakanda'nın kralı ve teknolojisi.",
    "puan": {
-    "guc": 7,
-    "super_yetenek": 7,
-    "zeka": 9,
-    "takim_uyumu": 8
+    "guc": 8.2,
+    "super_yetenek": 8.2,
+    "zeka": 9.4,
+    "takim_uyumu": 8.8
    }
   },
   {
@@ -257,10 +257,10 @@
    "etiketler": [],
    "aciklama": "Zihinleri okuyan X-Men lideri.",
    "puan": {
-    "guc": 3,
-    "super_yetenek": 10,
-    "zeka": 10,
-    "takim_uyumu": 8
+    "guc": 5.8,
+    "super_yetenek": 10.0,
+    "zeka": 10.0,
+    "takim_uyumu": 8.8
    }
   },
   {
@@ -271,10 +271,10 @@
    "etiketler": [],
    "aciklama": "Casusluk ve dövüş ustası.",
    "puan": {
-    "guc": 5,
-    "super_yetenek": 4,
-    "zeka": 9,
-    "takim_uyumu": 9
+    "guc": 7.0,
+    "super_yetenek": 6.4,
+    "zeka": 9.4,
+    "takim_uyumu": 9.4
    }
   },
   {
@@ -285,10 +285,10 @@
    "etiketler": [],
    "aciklama": "Büyünün ve zamanın ustası.",
    "puan": {
-    "guc": 7,
-    "super_yetenek": 10,
-    "zeka": 9,
-    "takim_uyumu": 7
+    "guc": 8.2,
+    "super_yetenek": 10.0,
+    "zeka": 9.4,
+    "takim_uyumu": 8.2
    }
   },
   {
@@ -299,10 +299,10 @@
    "etiketler": [],
    "aciklama": "Gerçekliği büken güçlü büyücü.",
    "puan": {
-    "guc": 8,
-    "super_yetenek": 10,
-    "zeka": 6,
-    "takim_uyumu": 6
+    "guc": 8.8,
+    "super_yetenek": 10.0,
+    "zeka": 7.6,
+    "takim_uyumu": 7.6
    }
   },
   {
@@ -313,10 +313,10 @@
    "etiketler": [],
    "aciklama": "Işıktan hızlı koşabilen kahraman.",
    "puan": {
-    "guc": 6,
-    "super_yetenek": 10,
-    "zeka": 7,
-    "takim_uyumu": 8
+    "guc": 7.6,
+    "super_yetenek": 10.0,
+    "zeka": 8.2,
+    "takim_uyumu": 8.8
    }
   },
   {
@@ -327,10 +327,10 @@
    "etiketler": [],
    "aciklama": "Yüzüğüyle hayal ettiğini yaratan kahraman.",
    "puan": {
-    "guc": 8,
-    "super_yetenek": 9,
-    "zeka": 6,
-    "takim_uyumu": 8
+    "guc": 8.8,
+    "super_yetenek": 9.4,
+    "zeka": 7.6,
+    "takim_uyumu": 8.8
    }
   },
   {
@@ -341,10 +341,10 @@
    "etiketler": [],
    "aciklama": "Telekinezi ve telepatinin en güçlüsü.",
    "puan": {
-    "guc": 8,
-    "super_yetenek": 10,
-    "zeka": 7,
-    "takim_uyumu": 7
+    "guc": 8.8,
+    "super_yetenek": 10.0,
+    "zeka": 8.2,
+    "takim_uyumu": 8.2
    }
   },
   {
@@ -355,10 +355,10 @@
    "etiketler": [],
    "aciklama": "Kozmik güçlerle evreni dolaşan sörfçü.",
    "puan": {
-    "guc": 9,
-    "super_yetenek": 10,
-    "zeka": 7,
-    "takim_uyumu": 6
+    "guc": 9.4,
+    "super_yetenek": 10.0,
+    "zeka": 8.2,
+    "takim_uyumu": 7.6
    }
   },
   {
@@ -369,10 +369,10 @@
    "etiketler": [],
    "aciklama": "Havayı kontrol eden mutant.",
    "puan": {
-    "guc": 7,
-    "super_yetenek": 9,
-    "zeka": 7,
-    "takim_uyumu": 8
+    "guc": 8.2,
+    "super_yetenek": 9.4,
+    "zeka": 8.2,
+    "takim_uyumu": 8.8
    }
   },
   {
@@ -383,10 +383,10 @@
    "etiketler": [],
    "aciklama": "Yapay zekâdan doğan güçlü android.",
    "puan": {
-    "guc": 8,
-    "super_yetenek": 8,
-    "zeka": 8,
-    "takim_uyumu": 8
+    "guc": 8.8,
+    "super_yetenek": 8.8,
+    "zeka": 8.8,
+    "takim_uyumu": 8.8
    }
   },
   {
@@ -397,10 +397,10 @@
    "etiketler": [],
    "aciklama": "Ölümsüz ve geveze antikahraman.",
    "puan": {
-    "guc": 7,
-    "super_yetenek": 7,
-    "zeka": 5,
-    "takim_uyumu": 3
+    "guc": 8.2,
+    "super_yetenek": 8.2,
+    "zeka": 7.0,
+    "takim_uyumu": 5.8
    }
   },
   {
@@ -411,10 +411,10 @@
    "etiketler": [],
    "aciklama": "Sadece \"Ben Groot'um\" diyen ağaç.",
    "puan": {
-    "guc": 7,
-    "super_yetenek": 6,
-    "zeka": 3,
-    "takim_uyumu": 9
+    "guc": 8.2,
+    "super_yetenek": 7.6,
+    "zeka": 5.8,
+    "takim_uyumu": 9.4
    }
   },
   {
@@ -425,10 +425,10 @@
    "etiketler": [],
    "aciklama": "Görmeyen ama her şeyi hisseden avukat.",
    "puan": {
-    "guc": 5,
-    "super_yetenek": 7,
-    "zeka": 7,
-    "takim_uyumu": 6
+    "guc": 7.0,
+    "super_yetenek": 8.2,
+    "zeka": 8.2,
+    "takim_uyumu": 7.6
    }
   },
   {
@@ -439,10 +439,10 @@
    "etiketler": [],
    "aciklama": "Yarı insan yarı makine kahraman.",
    "puan": {
-    "guc": 7,
-    "super_yetenek": 7,
-    "zeka": 8,
-    "takim_uyumu": 8
+    "guc": 8.2,
+    "super_yetenek": 8.2,
+    "zeka": 8.8,
+    "takim_uyumu": 8.8
    }
   },
   {
@@ -453,10 +453,10 @@
    "etiketler": [],
    "aciklama": "Silah ustası rakun.",
    "puan": {
-    "guc": 4,
-    "super_yetenek": 3,
-    "zeka": 9,
-    "takim_uyumu": 6
+    "guc": 6.4,
+    "super_yetenek": 5.8,
+    "zeka": 9.4,
+    "takim_uyumu": 7.6
    }
   },
   {
@@ -467,10 +467,10 @@
    "etiketler": [],
    "aciklama": "Galaksinin Koruyucuları'nın lideri.",
    "puan": {
-    "guc": 5,
-    "super_yetenek": 4,
-    "zeka": 6,
-    "takim_uyumu": 8
+    "guc": 7.0,
+    "super_yetenek": 6.4,
+    "zeka": 7.6,
+    "takim_uyumu": 8.8
    }
   },
   {
@@ -481,10 +481,10 @@
    "etiketler": [],
    "aciklama": "Hiç ıskalamayan okçu.",
    "puan": {
-    "guc": 4,
-    "super_yetenek": 4,
-    "zeka": 7,
-    "takim_uyumu": 8
+    "guc": 6.4,
+    "super_yetenek": 6.4,
+    "zeka": 8.2,
+    "takim_uyumu": 8.8
    }
   },
   {
@@ -495,10 +495,10 @@
    "etiketler": [],
    "aciklama": "Kanatlarıyla uçan asker.",
    "puan": {
-    "guc": 5,
-    "super_yetenek": 5,
-    "zeka": 7,
-    "takim_uyumu": 8
+    "guc": 7.0,
+    "super_yetenek": 7.0,
+    "zeka": 8.2,
+    "takim_uyumu": 8.8
    }
   },
   {
@@ -509,10 +509,10 @@
    "etiketler": [],
    "aciklama": "Küçülüp büyüyebilen kahraman.",
    "puan": {
-    "guc": 5,
-    "super_yetenek": 7,
-    "zeka": 6,
-    "takim_uyumu": 7
+    "guc": 7.0,
+    "super_yetenek": 8.2,
+    "zeka": 7.6,
+    "takim_uyumu": 8.2
    }
   },
   {
@@ -523,10 +523,10 @@
    "etiketler": [],
    "aciklama": "Gözlerinden ışın atan X-Men lideri.",
    "puan": {
-    "guc": 6,
-    "super_yetenek": 7,
-    "zeka": 7,
-    "takim_uyumu": 8
+    "guc": 7.6,
+    "super_yetenek": 8.2,
+    "zeka": 8.2,
+    "takim_uyumu": 8.8
    }
   }
  ]

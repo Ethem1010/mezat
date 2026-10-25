@@ -49,10 +49,10 @@
    "etiketler": [],
    "aciklama": "Süper şarjlı, pist için yapılmış canavar.",
    "puan": {
-    "hiz": 10,
-    "hizlanma": 10,
-    "tasarim": 9,
-    "efsanelik": 9
+    "hiz": 10.0,
+    "hizlanma": 10.0,
+    "tasarim": 9.4,
+    "efsanelik": 9.4
    }
   },
   {
@@ -63,10 +63,10 @@
    "etiketler": [],
    "aciklama": "İtalyan tasarımı ve yarış teknolojisi.",
    "puan": {
-    "hiz": 10,
-    "hizlanma": 10,
-    "tasarim": 10,
-    "efsanelik": 9
+    "hiz": 10.0,
+    "hizlanma": 10.0,
+    "tasarim": 10.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -77,10 +77,10 @@
    "etiketler": [],
    "aciklama": "Uzun yıllar en hızlı seri üretim motor.",
    "puan": {
-    "hiz": 10,
-    "hizlanma": 9,
-    "tasarim": 8,
-    "efsanelik": 10
+    "hiz": 10.0,
+    "hizlanma": 9.4,
+    "tasarim": 8.8,
+    "efsanelik": 10.0
    }
   },
   {
@@ -91,10 +91,10 @@
    "etiketler": [],
    "aciklama": "Süper spor sınıfının uzun soluklu efsanesi.",
    "puan": {
-    "hiz": 10,
-    "hizlanma": 10,
-    "tasarim": 8,
-    "efsanelik": 9
+    "hiz": 10.0,
+    "hizlanma": 10.0,
+    "tasarim": 8.8,
+    "efsanelik": 9.4
    }
   },
   {
@@ -105,10 +105,10 @@
    "etiketler": [],
    "aciklama": "Yamaha'nın pistten gelen süper sporu.",
    "puan": {
-    "hiz": 10,
-    "hizlanma": 10,
-    "tasarim": 9,
-    "efsanelik": 9
+    "hiz": 10.0,
+    "hizlanma": 10.0,
+    "tasarim": 9.4,
+    "efsanelik": 9.4
    }
   },
   {
@@ -119,10 +119,10 @@
    "etiketler": [],
    "aciklama": "BMW'nin M ruhlu süper sporu.",
    "puan": {
-    "hiz": 10,
-    "hizlanma": 10,
-    "tasarim": 9,
-    "efsanelik": 8
+    "hiz": 10.0,
+    "hizlanma": 10.0,
+    "tasarim": 9.4,
+    "efsanelik": 8.8
    }
   },
   {
@@ -133,10 +133,10 @@
    "etiketler": [],
    "aciklama": "En güzel motosikletlerden sayılan tasarım.",
    "puan": {
-    "hiz": 9,
-    "hizlanma": 9,
-    "tasarim": 10,
-    "efsanelik": 9
+    "hiz": 9.4,
+    "hizlanma": 9.4,
+    "tasarim": 10.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -147,10 +147,10 @@
    "etiketler": [],
    "aciklama": "Şampiyonluklarla gelen İtalyan V4.",
    "puan": {
-    "hiz": 10,
-    "hizlanma": 9,
-    "tasarim": 9,
-    "efsanelik": 8
+    "hiz": 10.0,
+    "hizlanma": 9.4,
+    "tasarim": 9.4,
+    "efsanelik": 8.8
    }
   },
   {
@@ -161,10 +161,10 @@
    "etiketler": [],
    "aciklama": "90'ların tasarım ikonu.",
    "puan": {
-    "hiz": 8,
-    "hizlanma": 8,
-    "tasarim": 10,
-    "efsanelik": 10
+    "hiz": 8.8,
+    "hizlanma": 8.8,
+    "tasarim": 10.0,
+    "efsanelik": 10.0
    }
   },
   {
@@ -175,10 +175,10 @@
    "etiketler": [],
    "aciklama": "Hafif süper spor akımını başlatan model.",
    "puan": {
-    "hiz": 8,
-    "hizlanma": 8,
-    "tasarim": 8,
-    "efsanelik": 9
+    "hiz": 8.8,
+    "hizlanma": 8.8,
+    "tasarim": 8.8,
+    "efsanelik": 9.4
    }
   },
   {
@@ -189,10 +189,10 @@
    "etiketler": [],
    "aciklama": "Japon süper motorlarının atası.",
    "puan": {
-    "hiz": 7,
-    "hizlanma": 7,
-    "tasarim": 9,
-    "efsanelik": 10
+    "hiz": 8.2,
+    "hizlanma": 8.2,
+    "tasarim": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -203,10 +203,10 @@
    "etiketler": [],
    "aciklama": "Süper motor çağını başlatan klasik.",
    "puan": {
-    "hiz": 7,
-    "hizlanma": 7,
-    "tasarim": 9,
-    "efsanelik": 10
+    "hiz": 8.2,
+    "hizlanma": 8.2,
+    "tasarim": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -217,10 +217,10 @@
    "etiketler": [],
    "aciklama": "Amerikan chopper kültürünün ikonu.",
    "puan": {
-    "hiz": 6,
-    "hizlanma": 6,
-    "tasarim": 10,
-    "efsanelik": 10
+    "hiz": 7.6,
+    "hizlanma": 7.6,
+    "tasarim": 10.0,
+    "efsanelik": 10.0
    }
   },
   {
@@ -231,10 +231,10 @@
    "etiketler": [],
    "aciklama": "Uzun yolun Amerikan kralı.",
    "puan": {
-    "hiz": 6,
-    "hizlanma": 6,
-    "tasarim": 9,
-    "efsanelik": 10
+    "hiz": 7.6,
+    "hizlanma": 7.6,
+    "tasarim": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -245,10 +245,10 @@
    "etiketler": [],
    "aciklama": "İngiliz klasik motor efsanesi.",
    "puan": {
-    "hiz": 6,
-    "hizlanma": 6,
-    "tasarim": 9,
-    "efsanelik": 10
+    "hiz": 7.6,
+    "hizlanma": 7.6,
+    "tasarim": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -259,10 +259,10 @@
    "etiketler": [],
    "aciklama": "Motosikletlerin Rolls-Royce'u diye anılan efsane.",
    "puan": {
-    "hiz": 7,
-    "hizlanma": 7,
-    "tasarim": 10,
-    "efsanelik": 10
+    "hiz": 8.2,
+    "hizlanma": 8.2,
+    "tasarim": 10.0,
+    "efsanelik": 10.0
    }
   },
   {
@@ -273,10 +273,10 @@
    "etiketler": [],
    "aciklama": "1940'ların en hızlı motoru.",
    "puan": {
-    "hiz": 8,
-    "hizlanma": 7,
-    "tasarim": 9,
-    "efsanelik": 10
+    "hiz": 8.8,
+    "hizlanma": 8.2,
+    "tasarim": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -287,10 +287,10 @@
    "etiketler": [],
    "aciklama": "Amerika'nın en köklü motor markasının ikonu.",
    "puan": {
-    "hiz": 6,
-    "hizlanma": 6,
-    "tasarim": 10,
-    "efsanelik": 9
+    "hiz": 7.6,
+    "hizlanma": 7.6,
+    "tasarim": 10.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -301,10 +301,10 @@
    "etiketler": [],
    "aciklama": "Naked motor akımını başlatan tasarım.",
    "puan": {
-    "hiz": 8,
-    "hizlanma": 9,
-    "tasarim": 10,
-    "efsanelik": 9
+    "hiz": 8.8,
+    "hizlanma": 9.4,
+    "tasarim": 10.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -315,10 +315,10 @@
    "etiketler": [],
    "aciklama": "\"Canavar\" lakaplı güçlü naked.",
    "puan": {
-    "hiz": 9,
-    "hizlanma": 10,
-    "tasarim": 9,
-    "efsanelik": 8
+    "hiz": 9.4,
+    "hizlanma": 10.0,
+    "tasarim": 9.4,
+    "efsanelik": 8.8
    }
   },
   {
@@ -329,10 +329,10 @@
    "etiketler": [],
    "aciklama": "Süper spor gücünde naked.",
    "puan": {
-    "hiz": 10,
-    "hizlanma": 10,
-    "tasarim": 9,
-    "efsanelik": 8
+    "hiz": 10.0,
+    "hizlanma": 10.0,
+    "tasarim": 9.4,
+    "efsanelik": 8.8
    }
   },
   {
@@ -343,10 +343,10 @@
    "etiketler": [],
    "aciklama": "Dünyayı dolaşanların macera motoru.",
    "puan": {
-    "hiz": 8,
-    "hizlanma": 8,
-    "tasarim": 8,
-    "efsanelik": 10
+    "hiz": 8.8,
+    "hizlanma": 8.8,
+    "tasarim": 8.8,
+    "efsanelik": 10.0
    }
   },
   {
@@ -357,10 +357,10 @@
    "etiketler": [],
    "aciklama": "Çölde ve asfaltta efsane gezgin.",
    "puan": {
-    "hiz": 7,
-    "hizlanma": 7,
-    "tasarim": 8,
-    "efsanelik": 9
+    "hiz": 8.2,
+    "hizlanma": 8.2,
+    "tasarim": 8.8,
+    "efsanelik": 9.4
    }
   },
   {
@@ -371,10 +371,10 @@
    "etiketler": [],
    "aciklama": "İtalyan şıklığının şehir simgesi.",
    "puan": {
-    "hiz": 3,
-    "hizlanma": 3,
-    "tasarim": 10,
-    "efsanelik": 10
+    "hiz": 5.8,
+    "hizlanma": 5.8,
+    "tasarim": 10.0,
+    "efsanelik": 10.0
    }
   },
   {
@@ -385,10 +385,10 @@
    "etiketler": [],
    "aciklama": "Dünyanın en çok üretilen motorlu taşıtı.",
    "puan": {
-    "hiz": 3,
-    "hizlanma": 3,
-    "tasarim": 8,
-    "efsanelik": 10
+    "hiz": 5.8,
+    "hizlanma": 5.8,
+    "tasarim": 8.8,
+    "efsanelik": 10.0
    }
   },
   {
@@ -399,10 +399,10 @@
    "etiketler": [],
    "aciklama": "Dünya Superbike şampiyonu.",
    "puan": {
-    "hiz": 9,
-    "hizlanma": 9,
-    "tasarim": 8,
-    "efsanelik": 8
+    "hiz": 9.4,
+    "hizlanma": 9.4,
+    "tasarim": 8.8,
+    "efsanelik": 8.8
    }
   },
   {
@@ -413,10 +413,10 @@
    "etiketler": [],
    "aciklama": "\"Gixxer\" efsanesinin büyüğü.",
    "puan": {
-    "hiz": 9,
-    "hizlanma": 9,
-    "tasarim": 8,
-    "efsanelik": 8
+    "hiz": 9.4,
+    "hizlanma": 9.4,
+    "tasarim": 8.8,
+    "efsanelik": 8.8
    }
   },
   {
@@ -427,10 +427,10 @@
    "etiketler": [],
    "aciklama": "R1 kalbi taşıyan naked.",
    "puan": {
-    "hiz": 9,
-    "hizlanma": 9,
-    "tasarim": 8,
-    "efsanelik": 7
+    "hiz": 9.4,
+    "hizlanma": 9.4,
+    "tasarim": 8.8,
+    "efsanelik": 8.2
    }
   },
   {
@@ -441,10 +441,10 @@
    "etiketler": [],
    "aciklama": "İngiliz naked efsanesi.",
    "puan": {
-    "hiz": 8,
-    "hizlanma": 8,
-    "tasarim": 9,
-    "efsanelik": 8
+    "hiz": 8.8,
+    "hizlanma": 8.8,
+    "tasarim": 9.4,
+    "efsanelik": 8.8
    }
   },
   {
@@ -455,10 +455,10 @@
    "etiketler": [],
    "aciklama": "Konforun ve uzun yolun zirvesi.",
    "puan": {
-    "hiz": 7,
-    "hizlanma": 6,
-    "tasarim": 8,
-    "efsanelik": 9
+    "hiz": 8.2,
+    "hizlanma": 7.6,
+    "tasarim": 8.8,
+    "efsanelik": 9.4
    }
   },
   {
@@ -469,10 +469,10 @@
    "etiketler": [],
    "aciklama": "Z1'e selam veren retro tasarım.",
    "puan": {
-    "hiz": 7,
-    "hizlanma": 7,
-    "tasarim": 9,
-    "efsanelik": 8
+    "hiz": 8.2,
+    "hizlanma": 8.2,
+    "tasarim": 9.4,
+    "efsanelik": 8.8
    }
   },
   {
@@ -483,10 +483,10 @@
    "etiketler": [],
    "aciklama": "Retro ve modern bir arada.",
    "puan": {
-    "hiz": 7,
-    "hizlanma": 7,
-    "tasarim": 9,
-    "efsanelik": 8
+    "hiz": 8.2,
+    "hizlanma": 8.2,
+    "tasarim": 9.4,
+    "efsanelik": 8.8
    }
   },
   {
@@ -497,10 +497,10 @@
    "etiketler": [],
    "aciklama": "Dünyanın en uzun süre üretilen motorlarından.",
    "puan": {
-    "hiz": 5,
-    "hizlanma": 5,
-    "tasarim": 8,
-    "efsanelik": 9
+    "hiz": 7.0,
+    "hizlanma": 7.0,
+    "tasarim": 8.8,
+    "efsanelik": 9.4
    }
   },
   {
@@ -511,10 +511,10 @@
    "etiketler": [],
    "aciklama": "Harley'nin çevik klasiği.",
    "puan": {
-    "hiz": 6,
-    "hizlanma": 6,
-    "tasarim": 8,
-    "efsanelik": 8
+    "hiz": 7.6,
+    "hizlanma": 7.6,
+    "tasarim": 8.8,
+    "efsanelik": 8.8
    }
   },
   {
@@ -525,10 +525,10 @@
    "etiketler": [],
    "aciklama": "Modern Vespa'nın güçlü hâli.",
    "puan": {
-    "hiz": 5,
-    "hizlanma": 5,
-    "tasarim": 9,
-    "efsanelik": 8
+    "hiz": 7.0,
+    "hizlanma": 7.0,
+    "tasarim": 9.4,
+    "efsanelik": 8.8
    }
   }
  ]

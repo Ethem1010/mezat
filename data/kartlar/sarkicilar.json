@@ -49,10 +49,10 @@
    "etiketler": [],
    "aciklama": "Megastar; şarkıları dünya listelerine girdi.",
    "puan": {
-    "hit_sarkilar": 10,
-    "sahne_performansi": 9,
-    "hayran_kitlesi": 10,
-    "efsanelik": 9
+    "hit_sarkilar": 10.0,
+    "sahne_performansi": 9.4,
+    "hayran_kitlesi": 10.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -63,10 +63,10 @@
    "etiketler": [],
    "aciklama": "Minik Serçe; Türk popunun annesi.",
    "puan": {
-    "hit_sarkilar": 10,
-    "sahne_performansi": 7,
-    "hayran_kitlesi": 10,
-    "efsanelik": 10
+    "hit_sarkilar": 10.0,
+    "sahne_performansi": 8.2,
+    "hayran_kitlesi": 10.0,
+    "efsanelik": 10.0
    }
   },
   {
@@ -77,10 +77,10 @@
    "etiketler": [],
    "aciklama": "Süperstar; on yıllardır sahnede.",
    "puan": {
-    "hit_sarkilar": 9,
-    "sahne_performansi": 9,
-    "hayran_kitlesi": 9,
-    "efsanelik": 10
+    "hit_sarkilar": 9.4,
+    "sahne_performansi": 9.4,
+    "hayran_kitlesi": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -91,10 +91,10 @@
    "etiketler": [],
    "aciklama": "Eurovision'u Türkiye'ye kazandıran ses.",
    "puan": {
-    "hit_sarkilar": 8,
-    "sahne_performansi": 9,
-    "hayran_kitlesi": 8,
-    "efsanelik": 8
+    "hit_sarkilar": 8.8,
+    "sahne_performansi": 9.4,
+    "hayran_kitlesi": 8.8,
+    "efsanelik": 8.8
    }
   },
   {
@@ -105,10 +105,10 @@
    "etiketler": [],
    "aciklama": "Bir kuşağın aşk şarkılarını yazan usta.",
    "puan": {
-    "hit_sarkilar": 9,
-    "sahne_performansi": 7,
-    "hayran_kitlesi": 8,
-    "efsanelik": 9
+    "hit_sarkilar": 9.4,
+    "sahne_performansi": 8.2,
+    "hayran_kitlesi": 8.8,
+    "efsanelik": 9.4
    }
   },
   {
@@ -119,10 +119,10 @@
    "etiketler": [],
    "aciklama": "Sanat Güneşi; sahnesi ve sesiyle eşsiz.",
    "puan": {
-    "hit_sarkilar": 9,
-    "sahne_performansi": 9,
-    "hayran_kitlesi": 9,
-    "efsanelik": 10
+    "hit_sarkilar": 9.4,
+    "sahne_performansi": 9.4,
+    "hayran_kitlesi": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -133,10 +133,10 @@
    "etiketler": [],
    "aciklama": "Müslüm Baba; arabeskin efsane sesi.",
    "puan": {
-    "hit_sarkilar": 9,
-    "sahne_performansi": 8,
-    "hayran_kitlesi": 10,
-    "efsanelik": 10
+    "hit_sarkilar": 9.4,
+    "sahne_performansi": 8.8,
+    "hayran_kitlesi": 10.0,
+    "efsanelik": 10.0
    }
   },
   {
@@ -147,10 +147,10 @@
    "etiketler": [],
    "aciklama": "İmparator; uzun havanın ustası.",
    "puan": {
-    "hit_sarkilar": 9,
-    "sahne_performansi": 8,
-    "hayran_kitlesi": 9,
-    "efsanelik": 10
+    "hit_sarkilar": 9.4,
+    "sahne_performansi": 8.8,
+    "hayran_kitlesi": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -161,10 +161,10 @@
    "etiketler": [],
    "aciklama": "Arabeskin babası, bağlamanın virtüözü.",
    "puan": {
-    "hit_sarkilar": 9,
-    "sahne_performansi": 7,
-    "hayran_kitlesi": 9,
-    "efsanelik": 10
+    "hit_sarkilar": 9.4,
+    "sahne_performansi": 8.2,
+    "hayran_kitlesi": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -175,10 +175,10 @@
    "etiketler": [],
    "aciklama": "Bozkırın Tezenesi; halk müziğinin ustası.",
    "puan": {
-    "hit_sarkilar": 8,
-    "sahne_performansi": 7,
-    "hayran_kitlesi": 9,
-    "efsanelik": 10
+    "hit_sarkilar": 8.8,
+    "sahne_performansi": 8.2,
+    "hayran_kitlesi": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -189,10 +189,10 @@
    "etiketler": [],
    "aciklama": "Anadolu rock'ın öncüsü, çocukların Barış Abisi.",
    "puan": {
-    "hit_sarkilar": 9,
-    "sahne_performansi": 9,
-    "hayran_kitlesi": 9,
-    "efsanelik": 10
+    "hit_sarkilar": 9.4,
+    "sahne_performansi": 9.4,
+    "hayran_kitlesi": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -203,10 +203,10 @@
    "etiketler": [],
    "aciklama": "Anadolu rock'ın güçlü ve isyankâr sesi.",
    "puan": {
-    "hit_sarkilar": 8,
-    "sahne_performansi": 8,
-    "hayran_kitlesi": 8,
-    "efsanelik": 10
+    "hit_sarkilar": 8.8,
+    "sahne_performansi": 8.8,
+    "hayran_kitlesi": 8.8,
+    "efsanelik": 10.0
    }
   },
   {
@@ -217,10 +217,10 @@
    "etiketler": [],
    "aciklama": "Bir kuşağın şarkılarını yazan rockçı.",
    "puan": {
-    "hit_sarkilar": 8,
-    "sahne_performansi": 8,
-    "hayran_kitlesi": 8,
-    "efsanelik": 8
+    "hit_sarkilar": 8.8,
+    "sahne_performansi": 8.8,
+    "hayran_kitlesi": 8.8,
+    "efsanelik": 8.8
    }
   },
   {
@@ -231,10 +231,10 @@
    "etiketler": [],
    "aciklama": "Pop'un Kralı, dans ve sahnenin efsanesi.",
    "puan": {
-    "hit_sarkilar": 10,
-    "sahne_performansi": 10,
-    "hayran_kitlesi": 10,
-    "efsanelik": 10
+    "hit_sarkilar": 10.0,
+    "sahne_performansi": 10.0,
+    "hayran_kitlesi": 10.0,
+    "efsanelik": 10.0
    }
   },
   {
@@ -245,10 +245,10 @@
    "etiketler": [],
    "aciklama": "Queen'in solisti, rock'ın en güçlü sahne şovmeni.",
    "puan": {
-    "hit_sarkilar": 10,
-    "sahne_performansi": 10,
-    "hayran_kitlesi": 9,
-    "efsanelik": 10
+    "hit_sarkilar": 10.0,
+    "sahne_performansi": 10.0,
+    "hayran_kitlesi": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -259,10 +259,10 @@
    "etiketler": [],
    "aciklama": "Rock'n'roll'un Kralı.",
    "puan": {
-    "hit_sarkilar": 10,
-    "sahne_performansi": 9,
-    "hayran_kitlesi": 9,
-    "efsanelik": 10
+    "hit_sarkilar": 10.0,
+    "sahne_performansi": 9.4,
+    "hayran_kitlesi": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -273,10 +273,10 @@
    "etiketler": [],
    "aciklama": "Pop'un Kraliçesi; kendini sürekli yeniler.",
    "puan": {
-    "hit_sarkilar": 9,
-    "sahne_performansi": 9,
-    "hayran_kitlesi": 9,
-    "efsanelik": 10
+    "hit_sarkilar": 9.4,
+    "sahne_performansi": 9.4,
+    "hayran_kitlesi": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -287,10 +287,10 @@
    "etiketler": [],
    "aciklama": "Tarihin en güçlü seslerinden.",
    "puan": {
-    "hit_sarkilar": 9,
-    "sahne_performansi": 9,
-    "hayran_kitlesi": 9,
-    "efsanelik": 10
+    "hit_sarkilar": 9.4,
+    "sahne_performansi": 9.4,
+    "hayran_kitlesi": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -301,10 +301,10 @@
    "etiketler": [],
    "aciklama": "Piyanosu ve gözlükleriyle efsane şovmen.",
    "puan": {
-    "hit_sarkilar": 10,
-    "sahne_performansi": 9,
-    "hayran_kitlesi": 9,
-    "efsanelik": 10
+    "hit_sarkilar": 10.0,
+    "sahne_performansi": 9.4,
+    "hayran_kitlesi": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -315,10 +315,10 @@
    "etiketler": [],
    "aciklama": "Sahne performansının zirvesi.",
    "puan": {
-    "hit_sarkilar": 9,
-    "sahne_performansi": 10,
-    "hayran_kitlesi": 9,
-    "efsanelik": 9
+    "hit_sarkilar": 9.4,
+    "sahne_performansi": 10.0,
+    "hayran_kitlesi": 9.4,
+    "efsanelik": 9.4
    }
   },
   {
@@ -329,10 +329,10 @@
    "etiketler": [],
    "aciklama": "Rekor satan baladların sahibi.",
    "puan": {
-    "hit_sarkilar": 9,
-    "sahne_performansi": 7,
-    "hayran_kitlesi": 9,
-    "efsanelik": 8
+    "hit_sarkilar": 9.4,
+    "sahne_performansi": 8.2,
+    "hayran_kitlesi": 9.4,
+    "efsanelik": 8.8
    }
   },
   {
@@ -343,10 +343,10 @@
    "etiketler": [],
    "aciklama": "Kalçaları yalan söylemeyen Kolombiyalı yıldız.",
    "puan": {
-    "hit_sarkilar": 9,
-    "sahne_performansi": 9,
-    "hayran_kitlesi": 9,
-    "efsanelik": 8
+    "hit_sarkilar": 9.4,
+    "sahne_performansi": 9.4,
+    "hayran_kitlesi": 9.4,
+    "efsanelik": 8.8
    }
   },
   {
@@ -357,10 +357,10 @@
    "etiketler": [],
    "aciklama": "Hit üstüne hit çıkaran Barbadoslu yıldız.",
    "puan": {
-    "hit_sarkilar": 10,
-    "sahne_performansi": 7,
-    "hayran_kitlesi": 9,
-    "efsanelik": 8
+    "hit_sarkilar": 10.0,
+    "sahne_performansi": 8.2,
+    "hayran_kitlesi": 9.4,
+    "efsanelik": 8.8
    }
   },
   {
@@ -371,10 +371,10 @@
    "etiketler": [],
    "aciklama": "Stadyum turneleriyle rekor kıran söz yazarı.",
    "puan": {
-    "hit_sarkilar": 10,
-    "sahne_performansi": 9,
-    "hayran_kitlesi": 10,
-    "efsanelik": 8
+    "hit_sarkilar": 10.0,
+    "sahne_performansi": 9.4,
+    "hayran_kitlesi": 10.0,
+    "efsanelik": 8.8
    }
   },
   {
@@ -385,10 +385,10 @@
    "etiketler": [],
    "aciklama": "Reggae'yi dünyaya taşıyan efsane.",
    "puan": {
-    "hit_sarkilar": 9,
-    "sahne_performansi": 8,
-    "hayran_kitlesi": 9,
-    "efsanelik": 10
+    "hit_sarkilar": 9.4,
+    "sahne_performansi": 8.8,
+    "hayran_kitlesi": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -399,10 +399,10 @@
    "etiketler": [],
    "aciklama": "90'ların hit makinesi.",
    "puan": {
-    "hit_sarkilar": 8,
-    "sahne_performansi": 7,
-    "hayran_kitlesi": 8,
-    "efsanelik": 7
+    "hit_sarkilar": 8.8,
+    "sahne_performansi": 8.2,
+    "hayran_kitlesi": 8.8,
+    "efsanelik": 8.2
    }
   },
   {
@@ -413,10 +413,10 @@
    "etiketler": [],
    "aciklama": "Dans pop'un en şık temsilcilerinden.",
    "puan": {
-    "hit_sarkilar": 8,
-    "sahne_performansi": 8,
-    "hayran_kitlesi": 7,
-    "efsanelik": 7
+    "hit_sarkilar": 8.8,
+    "sahne_performansi": 8.8,
+    "hayran_kitlesi": 8.2,
+    "efsanelik": 8.2
    }
   },
   {
@@ -427,10 +427,10 @@
    "etiketler": [],
    "aciklama": "Dans şovlarıyla sahneyi dolduran pop yıldızı.",
    "puan": {
-    "hit_sarkilar": 7,
-    "sahne_performansi": 8,
-    "hayran_kitlesi": 7,
-    "efsanelik": 6
+    "hit_sarkilar": 8.2,
+    "sahne_performansi": 8.8,
+    "hayran_kitlesi": 8.2,
+    "efsanelik": 7.6
    }
   },
   {
@@ -441,10 +441,10 @@
    "etiketler": [],
    "aciklama": "Güçlü sesiyle pop ile fanteziyi buluşturan isim.",
    "puan": {
-    "hit_sarkilar": 8,
-    "sahne_performansi": 7,
-    "hayran_kitlesi": 8,
-    "efsanelik": 7
+    "hit_sarkilar": 8.8,
+    "sahne_performansi": 8.2,
+    "hayran_kitlesi": 8.8,
+    "efsanelik": 8.2
    }
   },
   {
@@ -455,10 +455,10 @@
    "etiketler": [],
    "aciklama": "Acıların Kadını; arabeskin unutulmaz sesi.",
    "puan": {
-    "hit_sarkilar": 7,
-    "sahne_performansi": 6,
-    "hayran_kitlesi": 7,
-    "efsanelik": 9
+    "hit_sarkilar": 8.2,
+    "sahne_performansi": 7.6,
+    "hayran_kitlesi": 8.2,
+    "efsanelik": 9.4
    }
   },
   {
@@ -469,10 +469,10 @@
    "etiketler": [],
    "aciklama": "Arabeskin duygusal şarkıcısı.",
    "puan": {
-    "hit_sarkilar": 8,
-    "sahne_performansi": 6,
-    "hayran_kitlesi": 8,
-    "efsanelik": 8
+    "hit_sarkilar": 8.8,
+    "sahne_performansi": 7.6,
+    "hayran_kitlesi": 8.8,
+    "efsanelik": 8.8
    }
   },
   {
@@ -483,10 +483,10 @@
    "etiketler": [],
    "aciklama": "Türk rock'ın kraliçesi.",
    "puan": {
-    "hit_sarkilar": 7,
-    "sahne_performansi": 8,
-    "hayran_kitlesi": 7,
-    "efsanelik": 8
+    "hit_sarkilar": 8.2,
+    "sahne_performansi": 8.8,
+    "hayran_kitlesi": 8.2,
+    "efsanelik": 8.8
    }
   },
   {
@@ -497,10 +497,10 @@
    "etiketler": [],
    "aciklama": "Rock'ın ve yardımlaşmanın sevilen ismi.",
    "puan": {
-    "hit_sarkilar": 7,
-    "sahne_performansi": 8,
-    "hayran_kitlesi": 8,
-    "efsanelik": 7
+    "hit_sarkilar": 8.2,
+    "sahne_performansi": 8.8,
+    "hayran_kitlesi": 8.8,
+    "efsanelik": 8.2
    }
   },
   {
@@ -511,10 +511,10 @@
    "etiketler": [],
    "aciklama": "Tek gitarla stadyum dolduran şarkıcı.",
    "puan": {
-    "hit_sarkilar": 9,
-    "sahne_performansi": 7,
-    "hayran_kitlesi": 9,
-    "efsanelik": 7
+    "hit_sarkilar": 9.4,
+    "sahne_performansi": 8.2,
+    "hayran_kitlesi": 9.4,
+    "efsanelik": 8.2
    }
   },
   {
@@ -525,10 +525,10 @@
    "etiketler": [],
    "aciklama": "Funk ve pop'u dansla birleştiren şovmen.",
    "puan": {
-    "hit_sarkilar": 9,
-    "sahne_performansi": 9,
-    "hayran_kitlesi": 8,
-    "efsanelik": 7
+    "hit_sarkilar": 9.4,
+    "sahne_performansi": 9.4,
+    "hayran_kitlesi": 8.8,
+    "efsanelik": 8.2
    }
   }
  ]

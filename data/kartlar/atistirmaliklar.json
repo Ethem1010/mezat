@@ -48,10 +48,10 @@
    "etiketler": [],
    "aciklama": "Tüpteki istiflenmiş cips.",
    "puan": {
-    "lezzet": 9,
-    "nostalji": 8,
-    "populerlik": 10,
-    "bagimlilik": 10
+    "lezzet": 9.4,
+    "nostalji": 8.8,
+    "populerlik": 10.0,
+    "bagimlilik": 10.0
    }
   },
   {
@@ -62,10 +62,10 @@
    "etiketler": [],
    "aciklama": "Dünyanın en çok satan cipsi.",
    "puan": {
-    "lezzet": 9,
-    "nostalji": 8,
-    "populerlik": 10,
-    "bagimlilik": 10
+    "lezzet": 9.4,
+    "nostalji": 8.8,
+    "populerlik": 10.0,
+    "bagimlilik": 10.0
    }
   },
   {
@@ -76,10 +76,10 @@
    "etiketler": [],
    "aciklama": "Üçgen çıtır mısır cipsi.",
    "puan": {
-    "lezzet": 9,
-    "nostalji": 8,
-    "populerlik": 9,
-    "bagimlilik": 10
+    "lezzet": 9.4,
+    "nostalji": 8.8,
+    "populerlik": 9.4,
+    "bagimlilik": 10.0
    }
   },
   {
@@ -90,10 +90,10 @@
    "etiketler": [],
    "aciklama": "Peynirli turuncu çıtırlar.",
    "puan": {
-    "lezzet": 8,
-    "nostalji": 9,
-    "populerlik": 9,
-    "bagimlilik": 9
+    "lezzet": 8.8,
+    "nostalji": 9.4,
+    "populerlik": 9.4,
+    "bagimlilik": 9.4
    }
   },
   {
@@ -104,10 +104,10 @@
    "etiketler": [],
    "aciklama": "Tırtıklı kalın cips.",
    "puan": {
-    "lezzet": 9,
-    "nostalji": 7,
-    "populerlik": 9,
-    "bagimlilik": 9
+    "lezzet": 9.4,
+    "nostalji": 8.2,
+    "populerlik": 9.4,
+    "bagimlilik": 9.4
    }
   },
   {
@@ -118,10 +118,10 @@
    "etiketler": [],
    "aciklama": "Sinemanın değişmez eşi.",
    "puan": {
-    "lezzet": 8,
-    "nostalji": 9,
-    "populerlik": 10,
-    "bagimlilik": 9
+    "lezzet": 8.8,
+    "nostalji": 9.4,
+    "populerlik": 10.0,
+    "bagimlilik": 9.4
    }
   },
   {
@@ -132,10 +132,10 @@
    "etiketler": [],
    "aciklama": "Kavrulmuş klasik çerez.",
    "puan": {
-    "lezzet": 8,
-    "nostalji": 8,
-    "populerlik": 9,
-    "bagimlilik": 9
+    "lezzet": 8.8,
+    "nostalji": 8.8,
+    "populerlik": 9.4,
+    "bagimlilik": 9.4
    }
   },
   {
@@ -146,10 +146,10 @@
    "etiketler": [],
    "aciklama": "Çerezlerin şahı.",
    "puan": {
-    "lezzet": 10,
-    "nostalji": 8,
-    "populerlik": 9,
-    "bagimlilik": 10
+    "lezzet": 10.0,
+    "nostalji": 8.8,
+    "populerlik": 9.4,
+    "bagimlilik": 10.0
    }
   },
   {
@@ -160,10 +160,10 @@
    "etiketler": [],
    "aciklama": "Susamlı sokak lezzeti.",
    "puan": {
-    "lezzet": 9,
-    "nostalji": 10,
-    "populerlik": 10,
-    "bagimlilik": 8
+    "lezzet": 9.4,
+    "nostalji": 10.0,
+    "populerlik": 10.0,
+    "bagimlilik": 8.8
    }
   },
   {
@@ -174,10 +174,10 @@
    "etiketler": [],
    "aciklama": "Balık krakeriyle bir kuşak büyüdü.",
    "puan": {
-    "lezzet": 8,
-    "nostalji": 10,
-    "populerlik": 9,
-    "bagimlilik": 9
+    "lezzet": 8.8,
+    "nostalji": 10.0,
+    "populerlik": 9.4,
+    "bagimlilik": 9.4
    }
   },
   {
@@ -188,10 +188,10 @@
    "etiketler": [],
    "aciklama": "Maç ve sohbet klasiği.",
    "puan": {
-    "lezzet": 8,
-    "nostalji": 10,
-    "populerlik": 10,
-    "bagimlilik": 10
+    "lezzet": 8.8,
+    "nostalji": 10.0,
+    "populerlik": 10.0,
+    "bagimlilik": 10.0
    }
   },
   {
@@ -202,10 +202,10 @@
    "etiketler": [],
    "aciklama": "Fındıklı kakaolu krema.",
    "puan": {
-    "lezzet": 10,
-    "nostalji": 9,
-    "populerlik": 10,
-    "bagimlilik": 10
+    "lezzet": 10.0,
+    "nostalji": 9.4,
+    "populerlik": 10.0,
+    "bagimlilik": 10.0
    }
   },
   {
@@ -216,10 +216,10 @@
    "etiketler": [],
    "aciklama": "Fındık kremalı gofret.",
    "puan": {
-    "lezzet": 10,
-    "nostalji": 8,
-    "populerlik": 9,
-    "bagimlilik": 9
+    "lezzet": 10.0,
+    "nostalji": 8.8,
+    "populerlik": 9.4,
+    "bagimlilik": 9.4
    }
   },
   {
@@ -230,10 +230,10 @@
    "etiketler": [],
    "aciklama": "Karamelli fıstıklı bar.",
    "puan": {
-    "lezzet": 9,
-    "nostalji": 8,
-    "populerlik": 10,
-    "bagimlilik": 9
+    "lezzet": 9.4,
+    "nostalji": 8.8,
+    "populerlik": 10.0,
+    "bagimlilik": 9.4
    }
   },
   {
@@ -244,10 +244,10 @@
    "etiketler": [],
    "aciklama": "\"Bir mola ver\" gofreti.",
    "puan": {
-    "lezzet": 9,
-    "nostalji": 9,
-    "populerlik": 10,
-    "bagimlilik": 9
+    "lezzet": 9.4,
+    "nostalji": 9.4,
+    "populerlik": 10.0,
+    "bagimlilik": 9.4
    }
   },
   {
@@ -258,10 +258,10 @@
    "etiketler": [],
    "aciklama": "Bisküvili karamelli çift bar.",
    "puan": {
-    "lezzet": 9,
-    "nostalji": 8,
-    "populerlik": 9,
-    "bagimlilik": 9
+    "lezzet": 9.4,
+    "nostalji": 8.8,
+    "populerlik": 9.4,
+    "bagimlilik": 9.4
    }
   },
   {
@@ -272,10 +272,10 @@
    "etiketler": [],
    "aciklama": "Kremalı siyah bisküvi.",
    "puan": {
-    "lezzet": 9,
-    "nostalji": 9,
-    "populerlik": 10,
-    "bagimlilik": 9
+    "lezzet": 9.4,
+    "nostalji": 9.4,
+    "populerlik": 10.0,
+    "bagimlilik": 9.4
    }
   },
   {
@@ -286,10 +286,10 @@
    "etiketler": [],
    "aciklama": "Bir kuşağın okul arası.",
    "puan": {
-    "lezzet": 9,
-    "nostalji": 10,
-    "populerlik": 10,
-    "bagimlilik": 9
+    "lezzet": 9.4,
+    "nostalji": 10.0,
+    "populerlik": 10.0,
+    "bagimlilik": 9.4
    }
   },
   {
@@ -300,10 +300,10 @@
    "etiketler": [],
    "aciklama": "Meyveli jelibon ayıcıklar.",
    "puan": {
-    "lezzet": 8,
-    "nostalji": 9,
-    "populerlik": 10,
-    "bagimlilik": 9
+    "lezzet": 8.8,
+    "nostalji": 9.4,
+    "populerlik": 10.0,
+    "bagimlilik": 9.4
    }
   },
   {
@@ -314,10 +314,10 @@
    "etiketler": [],
    "aciklama": "Renkli çikolata draje.",
    "puan": {
-    "lezzet": 9,
-    "nostalji": 8,
-    "populerlik": 10,
-    "bagimlilik": 9
+    "lezzet": 9.4,
+    "nostalji": 8.8,
+    "populerlik": 10.0,
+    "bagimlilik": 9.4
    }
   },
   {
@@ -328,10 +328,10 @@
    "etiketler": [],
    "aciklama": "Üçgen İsviçre çikolatası.",
    "puan": {
-    "lezzet": 9,
-    "nostalji": 8,
-    "populerlik": 8,
-    "bagimlilik": 7
+    "lezzet": 9.4,
+    "nostalji": 8.8,
+    "populerlik": 8.8,
+    "bagimlilik": 8.2
    }
   },
   {
@@ -342,10 +342,10 @@
    "etiketler": [],
    "aciklama": "Mor ineğin sütlü çikolatası.",
    "puan": {
-    "lezzet": 9,
-    "nostalji": 9,
-    "populerlik": 10,
-    "bagimlilik": 9
+    "lezzet": 9.4,
+    "nostalji": 9.4,
+    "populerlik": 10.0,
+    "bagimlilik": 9.4
    }
   },
   {
@@ -356,10 +356,10 @@
    "etiketler": [],
    "aciklama": "Altın kâğıtlı fındıklı lüks.",
    "puan": {
-    "lezzet": 10,
-    "nostalji": 8,
-    "populerlik": 9,
-    "bagimlilik": 8
+    "lezzet": 10.0,
+    "nostalji": 8.8,
+    "populerlik": 9.4,
+    "bagimlilik": 8.8
    }
   },
   {
@@ -370,10 +370,10 @@
    "etiketler": [],
    "aciklama": "Kakaolu kremalı efsane bisküvi.",
    "puan": {
-    "lezzet": 9,
-    "nostalji": 10,
-    "populerlik": 9,
-    "bagimlilik": 9
+    "lezzet": 9.4,
+    "nostalji": 10.0,
+    "populerlik": 9.4,
+    "bagimlilik": 9.4
    }
   },
   {
@@ -384,10 +384,10 @@
    "etiketler": [],
    "aciklama": "İçinden oyuncak çıkan yumurta.",
    "puan": {
-    "lezzet": 8,
-    "nostalji": 10,
-    "populerlik": 9,
-    "bagimlilik": 8
+    "lezzet": 8.8,
+    "nostalji": 10.0,
+    "populerlik": 9.4,
+    "bagimlilik": 8.8
    }
   },
   {
@@ -398,10 +398,10 @@
    "etiketler": [],
    "aciklama": "Tuzlu-sarı çerez.",
    "puan": {
-    "lezzet": 7,
-    "nostalji": 8,
-    "populerlik": 7,
-    "bagimlilik": 7
+    "lezzet": 8.2,
+    "nostalji": 8.8,
+    "populerlik": 8.2,
+    "bagimlilik": 8.2
    }
   },
   {
@@ -412,10 +412,10 @@
    "etiketler": [],
    "aciklama": "Soslu mısır üçgenleri.",
    "puan": {
-    "lezzet": 8,
-    "nostalji": 6,
-    "populerlik": 7,
-    "bagimlilik": 8
+    "lezzet": 8.8,
+    "nostalji": 7.6,
+    "populerlik": 8.2,
+    "bagimlilik": 8.8
    }
   },
   {
@@ -426,10 +426,10 @@
    "etiketler": [],
    "aciklama": "Tuzlu ince çubuklar.",
    "puan": {
-    "lezzet": 7,
-    "nostalji": 9,
-    "populerlik": 8,
-    "bagimlilik": 8
+    "lezzet": 8.2,
+    "nostalji": 9.4,
+    "populerlik": 8.8,
+    "bagimlilik": 8.8
    }
   },
   {
@@ -440,10 +440,10 @@
    "etiketler": [],
    "aciklama": "Düğüm şekilli tuzlu.",
    "puan": {
-    "lezzet": 7,
-    "nostalji": 6,
-    "populerlik": 7,
-    "bagimlilik": 7
+    "lezzet": 8.2,
+    "nostalji": 7.6,
+    "populerlik": 8.2,
+    "bagimlilik": 8.2
    }
   },
   {
@@ -454,10 +454,10 @@
    "etiketler": [],
    "aciklama": "Çayın yanına nostalji.",
    "puan": {
-    "lezzet": 7,
-    "nostalji": 10,
-    "populerlik": 8,
-    "bagimlilik": 7
+    "lezzet": 8.2,
+    "nostalji": 10.0,
+    "populerlik": 8.8,
+    "bagimlilik": 8.2
    }
   },
   {
@@ -468,10 +468,10 @@
    "etiketler": [],
    "aciklama": "Kepekli sevilen bisküvi.",
    "puan": {
-    "lezzet": 7,
-    "nostalji": 8,
-    "populerlik": 8,
-    "bagimlilik": 7
+    "lezzet": 8.2,
+    "nostalji": 8.8,
+    "populerlik": 8.8,
+    "bagimlilik": 8.2
    }
   },
   {
@@ -482,10 +482,10 @@
    "etiketler": [],
    "aciklama": "Karamelli çikolatalı bar.",
    "puan": {
-    "lezzet": 8,
-    "nostalji": 9,
-    "populerlik": 8,
-    "bagimlilik": 8
+    "lezzet": 8.8,
+    "nostalji": 9.4,
+    "populerlik": 8.8,
+    "bagimlilik": 8.8
    }
   },
   {
@@ -496,10 +496,10 @@
    "etiketler": [],
    "aciklama": "Okul çantalarının vazgeçilmezi.",
    "puan": {
-    "lezzet": 8,
-    "nostalji": 10,
-    "populerlik": 8,
-    "bagimlilik": 8
+    "lezzet": 8.8,
+    "nostalji": 10.0,
+    "populerlik": 8.8,
+    "bagimlilik": 8.8
    }
   },
   {
@@ -510,10 +510,10 @@
    "etiketler": [],
    "aciklama": "Lunaparkların pembe bulutu.",
    "puan": {
-    "lezzet": 7,
-    "nostalji": 10,
-    "populerlik": 7,
-    "bagimlilik": 6
+    "lezzet": 8.2,
+    "nostalji": 10.0,
+    "populerlik": 8.2,
+    "bagimlilik": 7.6
    }
   },
   {
@@ -524,10 +524,10 @@
    "etiketler": [],
    "aciklama": "Türk lokumu klasik.",
    "puan": {
-    "lezzet": 8,
-    "nostalji": 8,
-    "populerlik": 8,
-    "bagimlilik": 7
+    "lezzet": 8.8,
+    "nostalji": 8.8,
+    "populerlik": 8.8,
+    "bagimlilik": 8.2
    }
   }
  ]

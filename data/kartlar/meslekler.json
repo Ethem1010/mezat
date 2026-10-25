@@ -58,10 +58,10 @@
    "etiketler": [],
    "aciklama": "Hayat kurtarır.",
    "puan": {
-    "hayati_onem": 10,
-    "topluma_katki": 10,
-    "cok_yonluluk": 8,
-    "yerine_konamazlik": 10
+    "hayati_onem": 10.0,
+    "topluma_katki": 10.0,
+    "cok_yonluluk": 8.8,
+    "yerine_konamazlik": 10.0
    }
   },
   {
@@ -72,10 +72,10 @@
    "etiketler": [],
    "aciklama": "Ameliyat masasında hayat kurtarır.",
    "puan": {
-    "hayati_onem": 10,
-    "topluma_katki": 10,
-    "cok_yonluluk": 6,
-    "yerine_konamazlik": 10
+    "hayati_onem": 10.0,
+    "topluma_katki": 10.0,
+    "cok_yonluluk": 7.6,
+    "yerine_konamazlik": 10.0
    }
   },
   {
@@ -86,10 +86,10 @@
    "etiketler": [],
    "aciklama": "Hastaların her an yanında.",
    "puan": {
-    "hayati_onem": 10,
-    "topluma_katki": 10,
-    "cok_yonluluk": 8,
-    "yerine_konamazlik": 9
+    "hayati_onem": 10.0,
+    "topluma_katki": 10.0,
+    "cok_yonluluk": 8.8,
+    "yerine_konamazlik": 9.4
    }
   },
   {
@@ -100,10 +100,10 @@
    "etiketler": [],
    "aciklama": "Doğru ilaç, doğru doz.",
    "puan": {
-    "hayati_onem": 9,
-    "topluma_katki": 9,
-    "cok_yonluluk": 6,
-    "yerine_konamazlik": 8
+    "hayati_onem": 9.4,
+    "topluma_katki": 9.4,
+    "cok_yonluluk": 7.6,
+    "yerine_konamazlik": 8.8
    }
   },
   {
@@ -114,10 +114,10 @@
    "etiketler": [],
    "aciklama": "Ağız ve diş sağlığı.",
    "puan": {
-    "hayati_onem": 8,
-    "topluma_katki": 8,
-    "cok_yonluluk": 5,
-    "yerine_konamazlik": 9
+    "hayati_onem": 8.8,
+    "topluma_katki": 8.8,
+    "cok_yonluluk": 7.0,
+    "yerine_konamazlik": 9.4
    }
   },
   {
@@ -128,10 +128,10 @@
    "etiketler": [],
    "aciklama": "Olay yerinde ilk müdahale.",
    "puan": {
-    "hayati_onem": 10,
-    "topluma_katki": 10,
-    "cok_yonluluk": 7,
-    "yerine_konamazlik": 9
+    "hayati_onem": 10.0,
+    "topluma_katki": 10.0,
+    "cok_yonluluk": 8.2,
+    "yerine_konamazlik": 9.4
    }
   },
   {
@@ -142,10 +142,10 @@
    "etiketler": [],
    "aciklama": "Sofradaki her şeyin kaynağı.",
    "puan": {
-    "hayati_onem": 10,
-    "topluma_katki": 10,
-    "cok_yonluluk": 7,
-    "yerine_konamazlik": 9
+    "hayati_onem": 10.0,
+    "topluma_katki": 10.0,
+    "cok_yonluluk": 8.2,
+    "yerine_konamazlik": 9.4
    }
   },
   {
@@ -156,10 +156,10 @@
    "etiketler": [],
    "aciklama": "Lezzeti sanata çevirir.",
    "puan": {
-    "hayati_onem": 8,
-    "topluma_katki": 8,
-    "cok_yonluluk": 7,
-    "yerine_konamazlik": 7
+    "hayati_onem": 8.8,
+    "topluma_katki": 8.8,
+    "cok_yonluluk": 8.2,
+    "yerine_konamazlik": 8.2
    }
   },
   {
@@ -170,10 +170,10 @@
    "etiketler": [],
    "aciklama": "Her sabah taze ekmek.",
    "puan": {
-    "hayati_onem": 9,
-    "topluma_katki": 9,
-    "cok_yonluluk": 5,
-    "yerine_konamazlik": 8
+    "hayati_onem": 9.4,
+    "topluma_katki": 9.4,
+    "cok_yonluluk": 7.0,
+    "yerine_konamazlik": 8.8
    }
   },
   {
@@ -184,10 +184,10 @@
    "etiketler": [],
    "aciklama": "Denizden sofraya.",
    "puan": {
-    "hayati_onem": 8,
-    "topluma_katki": 8,
-    "cok_yonluluk": 5,
-    "yerine_konamazlik": 7
+    "hayati_onem": 8.8,
+    "topluma_katki": 8.8,
+    "cok_yonluluk": 7.0,
+    "yerine_konamazlik": 8.2
    }
   },
   {
@@ -198,10 +198,10 @@
    "etiketler": [],
    "aciklama": "Hayvanların doktoru.",
    "puan": {
-    "hayati_onem": 8,
-    "topluma_katki": 9,
-    "cok_yonluluk": 7,
-    "yerine_konamazlik": 9
+    "hayati_onem": 8.8,
+    "topluma_katki": 9.4,
+    "cok_yonluluk": 8.2,
+    "yerine_konamazlik": 9.4
    }
   },
   {
@@ -212,10 +212,10 @@
    "etiketler": [],
    "aciklama": "Yaşayacağımız yerleri tasarlar.",
    "puan": {
-    "hayati_onem": 8,
-    "topluma_katki": 9,
-    "cok_yonluluk": 8,
-    "yerine_konamazlik": 8
+    "hayati_onem": 8.8,
+    "topluma_katki": 9.4,
+    "cok_yonluluk": 8.8,
+    "yerine_konamazlik": 8.8
    }
   },
   {
@@ -226,10 +226,10 @@
    "etiketler": [],
    "aciklama": "Köprüleri ve binaları ayakta tutar.",
    "puan": {
-    "hayati_onem": 9,
-    "topluma_katki": 9,
-    "cok_yonluluk": 7,
-    "yerine_konamazlik": 9
+    "hayati_onem": 9.4,
+    "topluma_katki": 9.4,
+    "cok_yonluluk": 8.2,
+    "yerine_konamazlik": 9.4
    }
   },
   {
@@ -240,10 +240,10 @@
    "etiketler": [],
    "aciklama": "Binayı kendi elleriyle yükseltir.",
    "puan": {
-    "hayati_onem": 9,
-    "topluma_katki": 9,
-    "cok_yonluluk": 7,
-    "yerine_konamazlik": 8
+    "hayati_onem": 9.4,
+    "topluma_katki": 9.4,
+    "cok_yonluluk": 8.2,
+    "yerine_konamazlik": 8.8
    }
   },
   {
@@ -254,10 +254,10 @@
    "etiketler": [],
    "aciklama": "Ateşe koşan kahraman.",
    "puan": {
-    "hayati_onem": 10,
-    "topluma_katki": 10,
-    "cok_yonluluk": 8,
-    "yerine_konamazlik": 10
+    "hayati_onem": 10.0,
+    "topluma_katki": 10.0,
+    "cok_yonluluk": 8.8,
+    "yerine_konamazlik": 10.0
    }
   },
   {
@@ -268,10 +268,10 @@
    "etiketler": [],
    "aciklama": "Düzeni ve güvenliği sağlar.",
    "puan": {
-    "hayati_onem": 9,
-    "topluma_katki": 9,
-    "cok_yonluluk": 7,
-    "yerine_konamazlik": 9
+    "hayati_onem": 9.4,
+    "topluma_katki": 9.4,
+    "cok_yonluluk": 8.2,
+    "yerine_konamazlik": 9.4
    }
   },
   {
@@ -282,10 +282,10 @@
    "etiketler": [],
    "aciklama": "Enkazdan hayat çıkarır.",
    "puan": {
-    "hayati_onem": 10,
-    "topluma_katki": 10,
-    "cok_yonluluk": 8,
-    "yerine_konamazlik": 10
+    "hayati_onem": 10.0,
+    "topluma_katki": 10.0,
+    "cok_yonluluk": 8.8,
+    "yerine_konamazlik": 10.0
    }
   },
   {
@@ -296,10 +296,10 @@
    "etiketler": [],
    "aciklama": "Ülkeyi korur.",
    "puan": {
-    "hayati_onem": 9,
-    "topluma_katki": 9,
-    "cok_yonluluk": 7,
-    "yerine_konamazlik": 9
+    "hayati_onem": 9.4,
+    "topluma_katki": 9.4,
+    "cok_yonluluk": 8.2,
+    "yerine_konamazlik": 9.4
    }
   },
   {
@@ -310,10 +310,10 @@
    "etiketler": [],
    "aciklama": "Tüm mesleklerin öğretmeni.",
    "puan": {
-    "hayati_onem": 9,
-    "topluma_katki": 10,
-    "cok_yonluluk": 9,
-    "yerine_konamazlik": 10
+    "hayati_onem": 9.4,
+    "topluma_katki": 10.0,
+    "cok_yonluluk": 9.4,
+    "yerine_konamazlik": 10.0
    }
   },
   {
@@ -324,10 +324,10 @@
    "etiketler": [],
    "aciklama": "Bilim üretir ve öğretir.",
    "puan": {
-    "hayati_onem": 7,
-    "topluma_katki": 9,
-    "cok_yonluluk": 8,
-    "yerine_konamazlik": 8
+    "hayati_onem": 8.2,
+    "topluma_katki": 9.4,
+    "cok_yonluluk": 8.8,
+    "yerine_konamazlik": 8.8
    }
   },
   {
@@ -338,10 +338,10 @@
    "etiketler": [],
    "aciklama": "Enerji ağlarını kurar.",
    "puan": {
-    "hayati_onem": 9,
-    "topluma_katki": 9,
-    "cok_yonluluk": 8,
-    "yerine_konamazlik": 9
+    "hayati_onem": 9.4,
+    "topluma_katki": 9.4,
+    "cok_yonluluk": 8.8,
+    "yerine_konamazlik": 9.4
    }
   },
   {
@@ -352,10 +352,10 @@
    "etiketler": [],
    "aciklama": "Dijital dünyayı inşa eder.",
    "puan": {
-    "hayati_onem": 7,
-    "topluma_katki": 9,
-    "cok_yonluluk": 9,
-    "yerine_konamazlik": 8
+    "hayati_onem": 8.2,
+    "topluma_katki": 9.4,
+    "cok_yonluluk": 9.4,
+    "yerine_konamazlik": 8.8
    }
   },
   {
@@ -366,10 +366,10 @@
    "etiketler": [],
    "aciklama": "Evlere ışık getirir.",
    "puan": {
-    "hayati_onem": 8,
-    "topluma_katki": 8,
-    "cok_yonluluk": 7,
-    "yerine_konamazlik": 8
+    "hayati_onem": 8.8,
+    "topluma_katki": 8.8,
+    "cok_yonluluk": 8.2,
+    "yerine_konamazlik": 8.8
    }
   },
   {
@@ -380,10 +380,10 @@
    "etiketler": [],
    "aciklama": "Gökyüzünde yüzlerce yolcuyu taşır.",
    "puan": {
-    "hayati_onem": 8,
-    "topluma_katki": 8,
-    "cok_yonluluk": 6,
-    "yerine_konamazlik": 9
+    "hayati_onem": 8.8,
+    "topluma_katki": 8.8,
+    "cok_yonluluk": 7.6,
+    "yerine_konamazlik": 9.4
    }
   },
   {
@@ -394,10 +394,10 @@
    "etiketler": [],
    "aciklama": "Adaleti dağıtır.",
    "puan": {
-    "hayati_onem": 8,
-    "topluma_katki": 9,
-    "cok_yonluluk": 6,
-    "yerine_konamazlik": 9
+    "hayati_onem": 8.8,
+    "topluma_katki": 9.4,
+    "cok_yonluluk": 7.6,
+    "yerine_konamazlik": 9.4
    }
   },
   {
@@ -408,10 +408,10 @@
    "etiketler": [],
    "aciklama": "Sağlıklı beslenme rehberi.",
    "puan": {
-    "hayati_onem": 6,
-    "topluma_katki": 7,
-    "cok_yonluluk": 5,
-    "yerine_konamazlik": 6
+    "hayati_onem": 7.6,
+    "topluma_katki": 8.2,
+    "cok_yonluluk": 7.0,
+    "yerine_konamazlik": 7.6
    }
   },
   {
@@ -422,10 +422,10 @@
    "etiketler": [],
    "aciklama": "Eti hazırlar.",
    "puan": {
-    "hayati_onem": 7,
-    "topluma_katki": 7,
-    "cok_yonluluk": 4,
-    "yerine_konamazlik": 6
+    "hayati_onem": 8.2,
+    "topluma_katki": 8.2,
+    "cok_yonluluk": 6.4,
+    "yerine_konamazlik": 7.6
    }
   },
   {
@@ -436,10 +436,10 @@
    "etiketler": [],
    "aciklama": "Su ve doğalgazı akıtır.",
    "puan": {
-    "hayati_onem": 8,
-    "topluma_katki": 8,
-    "cok_yonluluk": 6,
-    "yerine_konamazlik": 7
+    "hayati_onem": 8.8,
+    "topluma_katki": 8.8,
+    "cok_yonluluk": 7.6,
+    "yerine_konamazlik": 8.2
    }
   },
   {
@@ -450,10 +450,10 @@
    "etiketler": [],
    "aciklama": "Gece mahalleyi korur.",
    "puan": {
-    "hayati_onem": 6,
-    "topluma_katki": 7,
-    "cok_yonluluk": 4,
-    "yerine_konamazlik": 5
+    "hayati_onem": 7.6,
+    "topluma_katki": 8.2,
+    "cok_yonluluk": 6.4,
+    "yerine_konamazlik": 7.0
    }
   },
   {
@@ -464,10 +464,10 @@
    "etiketler": [],
    "aciklama": "Bilginin bekçisi.",
    "puan": {
-    "hayati_onem": 5,
-    "topluma_katki": 7,
-    "cok_yonluluk": 6,
-    "yerine_konamazlik": 5
+    "hayati_onem": 7.0,
+    "topluma_katki": 8.2,
+    "cok_yonluluk": 7.6,
+    "yerine_konamazlik": 7.0
    }
   },
   {
@@ -478,10 +478,10 @@
    "etiketler": [],
    "aciklama": "Makineleri tasarlar.",
    "puan": {
-    "hayati_onem": 8,
-    "topluma_katki": 8,
-    "cok_yonluluk": 8,
-    "yerine_konamazlik": 8
+    "hayati_onem": 8.8,
+    "topluma_katki": 8.8,
+    "cok_yonluluk": 8.8,
+    "yerine_konamazlik": 8.8
    }
   },
   {
@@ -492,10 +492,10 @@
    "etiketler": [],
    "aciklama": "Hakkını savunur.",
    "puan": {
-    "hayati_onem": 7,
-    "topluma_katki": 8,
-    "cok_yonluluk": 7,
-    "yerine_konamazlik": 7
+    "hayati_onem": 8.2,
+    "topluma_katki": 8.8,
+    "cok_yonluluk": 8.2,
+    "yerine_konamazlik": 8.2
    }
   },
   {
@@ -506,10 +506,10 @@
    "etiketler": [],
    "aciklama": "Gerçeği halka ulaştırır.",
    "puan": {
-    "hayati_onem": 6,
-    "topluma_katki": 8,
-    "cok_yonluluk": 8,
-    "yerine_konamazlik": 6
+    "hayati_onem": 7.6,
+    "topluma_katki": 8.8,
+    "cok_yonluluk": 8.8,
+    "yerine_konamazlik": 7.6
    }
   },
   {
@@ -520,10 +520,10 @@
    "etiketler": [],
    "aciklama": "Ruh sağlığını destekler.",
    "puan": {
-    "hayati_onem": 8,
-    "topluma_katki": 9,
-    "cok_yonluluk": 7,
-    "yerine_konamazlik": 8
+    "hayati_onem": 8.8,
+    "topluma_katki": 9.4,
+    "cok_yonluluk": 8.2,
+    "yerine_konamazlik": 8.8
    }
   },
   {
@@ -534,10 +534,10 @@
    "etiketler": [],
    "aciklama": "Şehri temiz tutar.",
    "puan": {
-    "hayati_onem": 9,
-    "topluma_katki": 9,
-    "cok_yonluluk": 3,
-    "yerine_konamazlik": 7
+    "hayati_onem": 9.4,
+    "topluma_katki": 9.4,
+    "cok_yonluluk": 5.8,
+    "yerine_konamazlik": 8.2
    }
   }
  ]
