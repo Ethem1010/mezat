@@ -141,17 +141,17 @@
    }
   },
   {
-   "id": "melbourne",
-   "ad": "Melbourne",
+   "id": "moskova",
+   "ad": "Moskova",
    "seviye": "efsane",
-   "grup": "diger",
+   "grup": "avrupa",
    "etiketler": [],
-   "aciklama": "Kahve, sanat ve sporun başkenti.",
+   "aciklama": "Kızıl Meydan'ı ve dev metrosuyla.",
    "puan": {
-    "yasam_kalitesi": 9.4,
-    "i_s_imkani": 8.2,
+    "yasam_kalitesi": 7.6,
+    "i_s_imkani": 8.8,
     "eglence": 8.8,
-    "doga": 8.8
+    "doga": 7.0
    }
   },
   {
@@ -211,31 +211,31 @@
    }
   },
   {
-   "id": "zurih",
-   "ad": "Zürih",
+   "id": "venedik",
+   "ad": "Venedik",
    "seviye": "efsane",
    "grup": "avrupa",
    "etiketler": [],
-   "aciklama": "Göl kenarında düzenli ve yüksek maaşlı şehir.",
+   "aciklama": "Kanallar ve gondollar şehri.",
    "puan": {
-    "yasam_kalitesi": 10.0,
-    "i_s_imkani": 9.4,
-    "eglence": 7.6,
-    "doga": 9.4
+    "yasam_kalitesi": 8.2,
+    "i_s_imkani": 7.0,
+    "eglence": 8.8,
+    "doga": 8.2
    }
   },
   {
-   "id": "kopenhag",
-   "ad": "Kopenhag",
+   "id": "madrid",
+   "ad": "Madrid",
    "seviye": "efsane",
    "grup": "avrupa",
    "etiketler": [],
-   "aciklama": "Mutluluk listelerinin müdavimi, bisiklet cenneti.",
+   "aciklama": "Real Madrid'in ve canlı gecelerin şehri.",
    "puan": {
-    "yasam_kalitesi": 10.0,
+    "yasam_kalitesi": 8.8,
     "i_s_imkani": 8.8,
-    "eglence": 8.2,
-    "doga": 8.2
+    "eglence": 9.4,
+    "doga": 7.6
    }
   },
   {
@@ -323,17 +323,17 @@
    }
   },
   {
-   "id": "vancouver",
-   "ad": "Vancouver",
+   "id": "las-vegas",
+   "ad": "Las Vegas",
    "seviye": "efsane",
    "grup": "amerika",
    "etiketler": [],
-   "aciklama": "Dağlarla okyanus arasına kurulmuş yeşil şehir.",
+   "aciklama": "Işıkları hiç sönmeyen eğlence şehri.",
    "puan": {
-    "yasam_kalitesi": 9.4,
+    "yasam_kalitesi": 7.6,
     "i_s_imkani": 8.2,
-    "eglence": 7.6,
-    "doga": 10.0
+    "eglence": 10.0,
+    "doga": 6.4
    }
   },
   {
@@ -365,17 +365,17 @@
    }
   },
   {
-   "id": "cape-town",
-   "ad": "Cape Town",
+   "id": "kahire",
+   "ad": "Kahire",
    "seviye": "efsane",
    "grup": "diger",
    "etiketler": [],
-   "aciklama": "Masa Dağı ve okyanusuyla Afrika'nın en güzel şehirlerinden.",
+   "aciklama": "Piramitlerin yanı başındaki dev şehir.",
    "puan": {
-    "yasam_kalitesi": 7.6,
-    "i_s_imkani": 7.0,
+    "yasam_kalitesi": 7.0,
+    "i_s_imkani": 7.6,
     "eglence": 8.2,
-    "doga": 10.0
+    "doga": 7.6
    }
   },
   {
@@ -477,59 +477,59 @@
    }
   },
   {
-   "id": "oslo",
-   "ad": "Oslo",
+   "id": "milano",
+   "ad": "Milano",
    "seviye": "guclu",
    "grup": "avrupa",
    "etiketler": [],
-   "aciklama": "Fiyortların kıyısında sakin başkent.",
-   "puan": {
-    "yasam_kalitesi": 9.4,
-    "i_s_imkani": 8.2,
-    "eglence": 7.6,
-    "doga": 9.4
-   }
-  },
-  {
-   "id": "helsinki",
-   "ad": "Helsinki",
-   "seviye": "guclu",
-   "grup": "avrupa",
-   "etiketler": [],
-   "aciklama": "Temiz ve sakin kuzey başkenti.",
-   "puan": {
-    "yasam_kalitesi": 9.4,
-    "i_s_imkani": 8.2,
-    "eglence": 7.6,
-    "doga": 8.8
-   }
-  },
-  {
-   "id": "osaka",
-   "ad": "Osaka",
-   "seviye": "guclu",
-   "grup": "asya",
-   "etiketler": [],
-   "aciklama": "Japonya'nın mutfağı ve neşesi.",
+   "aciklama": "Moda ve futbolun başkenti.",
    "puan": {
     "yasam_kalitesi": 8.8,
-    "i_s_imkani": 8.8,
+    "i_s_imkani": 9.4,
     "eglence": 8.8,
     "doga": 7.0
    }
   },
   {
-   "id": "montreal",
-   "ad": "Montreal",
+   "id": "atina",
+   "ad": "Atina",
+   "seviye": "guclu",
+   "grup": "avrupa",
+   "etiketler": [],
+   "aciklama": "Akropolis'in tarihi şehri.",
+   "puan": {
+    "yasam_kalitesi": 8.2,
+    "i_s_imkani": 7.6,
+    "eglence": 8.8,
+    "doga": 8.2
+   }
+  },
+  {
+   "id": "hong-kong",
+   "ad": "Hong Kong",
+   "seviye": "guclu",
+   "grup": "asya",
+   "etiketler": [],
+   "aciklama": "Gökdelenler ve ticaret merkezi.",
+   "puan": {
+    "yasam_kalitesi": 8.2,
+    "i_s_imkani": 10.0,
+    "eglence": 8.8,
+    "doga": 7.0
+   }
+  },
+  {
+   "id": "miami",
+   "ad": "Miami",
    "seviye": "guclu",
    "grup": "amerika",
    "etiketler": [],
-   "aciklama": "Kuzey Amerika'nın Fransız ruhu.",
+   "aciklama": "Plajları ve gece hayatıyla.",
    "puan": {
-    "yasam_kalitesi": 8.8,
+    "yasam_kalitesi": 8.2,
     "i_s_imkani": 8.2,
-    "eglence": 8.8,
-    "doga": 8.2
+    "eglence": 9.4,
+    "doga": 8.8
    }
   }
  ]

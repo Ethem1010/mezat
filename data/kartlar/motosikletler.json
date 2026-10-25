@@ -112,30 +112,30 @@
    }
   },
   {
-   "id": "bmw-m-1000-rr",
-   "ad": "BMW M 1000 RR",
+   "id": "bmw-s-1000-rr",
+   "ad": "BMW S 1000 RR",
    "seviye": "efsane",
    "grup": "sport",
    "etiketler": [],
-   "aciklama": "BMW'nin M ruhlu süper sporu.",
+   "aciklama": "Alman süper sportunun simgesi.",
    "puan": {
     "hiz": 10.0,
     "hizlanma": 10.0,
-    "tasarim": 9.4,
+    "tasarim": 8.8,
     "efsanelik": 8.8
    }
   },
   {
-   "id": "mv-agusta-f4",
-   "ad": "MV Agusta F4",
+   "id": "yamaha-r6",
+   "ad": "Yamaha R6",
    "seviye": "efsane",
    "grup": "sport",
    "etiketler": [],
-   "aciklama": "En güzel motosikletlerden sayılan tasarım.",
+   "aciklama": "Pistlerin ve gençlerin efsane 600'ü.",
    "puan": {
-    "hiz": 9.4,
-    "hizlanma": 9.4,
-    "tasarim": 10.0,
+    "hiz": 8.8,
+    "hizlanma": 8.8,
+    "tasarim": 8.8,
     "efsanelik": 9.4
    }
   },
@@ -168,30 +168,30 @@
    }
   },
   {
-   "id": "honda-cbr900rr-1992",
-   "ad": "Honda CBR900RR (1992)",
+   "id": "honda-cbr-650r",
+   "ad": "Honda CBR 650R",
    "seviye": "efsane",
    "grup": "sport",
    "etiketler": [],
-   "aciklama": "Hafif süper spor akımını başlatan model.",
-   "puan": {
-    "hiz": 8.8,
-    "hizlanma": 8.8,
-    "tasarim": 8.8,
-    "efsanelik": 9.4
-   }
-  },
-  {
-   "id": "kawasaki-z1-1972",
-   "ad": "Kawasaki Z1 (1972)",
-   "seviye": "efsane",
-   "grup": "klasik",
-   "etiketler": [],
-   "aciklama": "Japon süper motorlarının atası.",
+   "aciklama": "Yollarda en çok görülen sport Honda.",
    "puan": {
     "hiz": 8.2,
     "hizlanma": 8.2,
-    "tasarim": 9.4,
+    "tasarim": 8.8,
+    "efsanelik": 7.6
+   }
+  },
+  {
+   "id": "jawa-350",
+   "ad": "Jawa 350",
+   "seviye": "efsane",
+   "grup": "klasik",
+   "etiketler": [],
+   "aciklama": "Türkiye'nin eski yollarının efsane motoru.",
+   "puan": {
+    "hiz": 6.4,
+    "hizlanma": 6.4,
+    "tasarim": 8.2,
     "efsanelik": 10.0
    }
   },
@@ -252,31 +252,31 @@
    }
   },
   {
-   "id": "brough-superior-ss100",
-   "ad": "Brough Superior SS100",
+   "id": "mz-etz-250",
+   "ad": "MZ ETZ 250",
    "seviye": "efsane",
    "grup": "klasik",
    "etiketler": [],
-   "aciklama": "Motosikletlerin Rolls-Royce'u diye anılan efsane.",
+   "aciklama": "Babalarımızın sağlam iki zamanlısı.",
    "puan": {
-    "hiz": 8.2,
-    "hizlanma": 8.2,
-    "tasarim": 10.0,
-    "efsanelik": 10.0
+    "hiz": 6.4,
+    "hizlanma": 6.4,
+    "tasarim": 7.6,
+    "efsanelik": 9.4
    }
   },
   {
-   "id": "vincent-black-shadow",
-   "ad": "Vincent Black Shadow",
+   "id": "ural-sepetli",
+   "ad": "Ural (sepetli)",
    "seviye": "efsane",
    "grup": "klasik",
    "etiketler": [],
-   "aciklama": "1940'ların en hızlı motoru.",
+   "aciklama": "Yan sepetli efsane Rus motoru.",
    "puan": {
-    "hiz": 8.8,
-    "hizlanma": 8.2,
-    "tasarim": 9.4,
-    "efsanelik": 10.0
+    "hiz": 5.8,
+    "hizlanma": 5.8,
+    "tasarim": 8.8,
+    "efsanelik": 9.4
    }
   },
   {
@@ -308,30 +308,30 @@
    }
   },
   {
-   "id": "ktm-1290-super-duke-r",
-   "ad": "KTM 1290 Super Duke R",
+   "id": "ktm-duke-390",
+   "ad": "KTM Duke 390",
    "seviye": "efsane",
    "grup": "naked",
    "etiketler": [],
-   "aciklama": "\"Canavar\" lakaplı güçlü naked.",
+   "aciklama": "Turuncu, hafif ve çok sevilen naked.",
    "puan": {
-    "hiz": 9.4,
-    "hizlanma": 10.0,
-    "tasarim": 9.4,
+    "hiz": 7.6,
+    "hizlanma": 8.2,
+    "tasarim": 8.8,
     "efsanelik": 8.8
    }
   },
   {
-   "id": "ducati-streetfighter-v4",
-   "ad": "Ducati Streetfighter V4",
+   "id": "yamaha-mt-07",
+   "ad": "Yamaha MT-07",
    "seviye": "efsane",
    "grup": "naked",
    "etiketler": [],
-   "aciklama": "Süper spor gücünde naked.",
+   "aciklama": "Gençlerin favorisi çevik naked.",
    "puan": {
-    "hiz": 10.0,
-    "hizlanma": 10.0,
-    "tasarim": 9.4,
+    "hiz": 8.2,
+    "hizlanma": 8.8,
+    "tasarim": 8.8,
     "efsanelik": 8.8
    }
   },
@@ -420,31 +420,31 @@
    }
   },
   {
-   "id": "yamaha-mt-10",
-   "ad": "Yamaha MT-10",
+   "id": "yamaha-mt-09",
+   "ad": "Yamaha MT-09",
    "seviye": "guclu",
    "grup": "naked",
    "etiketler": [],
-   "aciklama": "R1 kalbi taşıyan naked.",
+   "aciklama": "Üç silindirli eğlence makinesi.",
    "puan": {
-    "hiz": 9.4,
+    "hiz": 8.8,
     "hizlanma": 9.4,
     "tasarim": 8.8,
     "efsanelik": 8.2
    }
   },
   {
-   "id": "triumph-speed-triple",
-   "ad": "Triumph Speed Triple",
+   "id": "kawasaki-z900",
+   "ad": "Kawasaki Z900",
    "seviye": "guclu",
    "grup": "naked",
    "etiketler": [],
-   "aciklama": "İngiliz naked efsanesi.",
+   "aciklama": "Güçlü ve popüler naked.",
    "puan": {
     "hiz": 8.8,
     "hizlanma": 8.8,
-    "tasarim": 9.4,
-    "efsanelik": 8.8
+    "tasarim": 8.8,
+    "efsanelik": 8.2
    }
   },
   {
@@ -476,31 +476,31 @@
    }
   },
   {
-   "id": "bmw-r-ninet",
-   "ad": "BMW R nineT",
+   "id": "honda-pcx",
+   "ad": "Honda PCX",
    "seviye": "guclu",
-   "grup": "klasik",
+   "grup": "sehir",
    "etiketler": [],
-   "aciklama": "Retro ve modern bir arada.",
+   "aciklama": "Türkiye'nin en çok satan scooterlarından.",
    "puan": {
-    "hiz": 8.2,
-    "hizlanma": 8.2,
-    "tasarim": 9.4,
+    "hiz": 6.4,
+    "hizlanma": 6.4,
+    "tasarim": 8.2,
     "efsanelik": 8.8
    }
   },
   {
-   "id": "royal-enfield-bullet",
-   "ad": "Royal Enfield Bullet",
+   "id": "royal-enfield-classic-350",
+   "ad": "Royal Enfield Classic 350",
    "seviye": "guclu",
    "grup": "klasik",
    "etiketler": [],
-   "aciklama": "Dünyanın en uzun süre üretilen motorlarından.",
+   "aciklama": "Retro görünümlü sevilen klasik.",
    "puan": {
-    "hiz": 7.0,
-    "hizlanma": 7.0,
+    "hiz": 6.4,
+    "hizlanma": 6.4,
     "tasarim": 8.8,
-    "efsanelik": 9.4
+    "efsanelik": 8.2
    }
   },
   {
@@ -518,17 +518,17 @@
    }
   },
   {
-   "id": "vespa-gts-300",
-   "ad": "Vespa GTS 300",
+   "id": "yamaha-nmax",
+   "ad": "Yamaha NMAX",
    "seviye": "guclu",
    "grup": "sehir",
    "etiketler": [],
-   "aciklama": "Modern Vespa'nın güçlü hâli.",
+   "aciklama": "Şehrin pratik ve hızlı scooterı.",
    "puan": {
     "hiz": 7.0,
     "hizlanma": 7.0,
-    "tasarim": 9.4,
-    "efsanelik": 8.8
+    "tasarim": 8.2,
+    "efsanelik": 8.2
    }
   }
  ]

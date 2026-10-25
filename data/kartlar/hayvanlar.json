@@ -185,17 +185,17 @@
    }
   },
   {
-   "id": "afrika-mandasi",
-   "ad": "Afrika Mandası",
+   "id": "manda",
+   "ad": "Manda",
    "seviye": "efsane",
    "grup": "kara",
    "etiketler": [
     "suru"
    ],
-   "aciklama": "Kara Ölüm lakaplı, aslanları bile kovalar.",
+   "aciklama": "Boynuzlarıyla aslanlara kafa tutar.",
    "puan": {
     "guc": 9.4,
-    "tehlike": 9.4,
+    "tehlike": 8.8,
     "savunma": 8.8,
     "hiz": 7.6,
     "zeka": 6.4
@@ -217,20 +217,20 @@
    }
   },
   {
-   "id": "benekli-sirtlan",
-   "ad": "Benekli Sırtlan",
+   "id": "sirtlan",
+   "ad": "Sırtlan",
    "seviye": "efsane",
    "grup": "kara",
    "etiketler": [
     "suru"
    ],
-   "aciklama": "Kemik kıran çene ve sürü taktiği.",
+   "aciklama": "Çenesi kemik kıran sürü avcısı.",
    "puan": {
     "guc": 8.2,
-    "tehlike": 8.8,
+    "tehlike": 8.2,
     "savunma": 7.6,
     "hiz": 8.2,
-    "zeka": 8.8
+    "zeka": 7.6
    }
   },
   {
@@ -302,18 +302,20 @@
    }
   },
   {
-   "id": "kasuar",
-   "ad": "Kasuar",
+   "id": "akrep",
+   "ad": "Akrep",
    "seviye": "efsane",
    "grup": "kara",
-   "etiketler": [],
-   "aciklama": "Hançer gibi pençeleriyle en tehlikeli kuş.",
+   "etiketler": [
+    "zehirli"
+   ],
+   "aciklama": "Kuyruğundaki iğneyle korkutan zehirli avcı.",
    "puan": {
-    "guc": 7.6,
-    "tehlike": 8.8,
-    "savunma": 7.0,
-    "hiz": 8.2,
-    "zeka": 6.4
+    "guc": 5.2,
+    "tehlike": 8.2,
+    "savunma": 8.2,
+    "hiz": 6.4,
+    "zeka": 5.8
    }
   },
   {
@@ -332,17 +334,17 @@
    }
   },
   {
-   "id": "tuzlu-su-timsahi",
-   "ad": "Tuzlu Su Timsahı",
+   "id": "timsah",
+   "ad": "Timsah",
    "seviye": "efsane",
    "grup": "deniz",
    "etiketler": [],
-   "aciklama": "Yaşayan en büyük sürüngen.",
+   "aciklama": "Suyun kenarında pusuya yatan dev sürüngen.",
    "puan": {
     "guc": 10.0,
     "tehlike": 10.0,
-    "savunma": 10.0,
-    "hiz": 7.0,
+    "savunma": 9.4,
+    "hiz": 7.6,
     "zeka": 6.4
    }
   },
@@ -426,17 +428,17 @@
    }
   },
   {
-   "id": "harpi-kartali",
-   "ad": "Harpi Kartalı",
+   "id": "kartal",
+   "ad": "Kartal",
    "seviye": "efsane",
    "grup": "hava",
    "etiketler": [],
-   "aciklama": "Pençeleri ayı pençesi kadar büyük.",
+   "aciklama": "Göklerin hâkimi, keskin pençeli yırtıcı.",
    "puan": {
     "guc": 7.0,
-    "tehlike": 8.2,
+    "tehlike": 7.6,
     "savunma": 6.4,
-    "hiz": 8.8,
+    "hiz": 9.4,
     "zeka": 7.6
    }
   },
@@ -518,18 +520,18 @@
    }
   },
   {
-   "id": "amerikan-bizonu",
-   "ad": "Amerikan Bizonu",
+   "id": "bizon",
+   "ad": "Bizon",
    "seviye": "guclu",
    "grup": "kara",
    "etiketler": [
     "suru"
    ],
-   "aciklama": "Kuzey Amerika'nın en ağır kara hayvanı.",
+   "aciklama": "Sürüyle koşan dev boğa.",
    "puan": {
     "guc": 8.8,
     "tehlike": 7.6,
-    "savunma": 8.8,
+    "savunma": 8.2,
     "hiz": 7.6,
     "zeka": 5.8
    }
@@ -550,35 +552,35 @@
    }
   },
   {
-   "id": "ok-kurbagasi",
-   "ad": "Ok Kurbağası",
+   "id": "zehirli-ok-kurbagasi",
+   "ad": "Zehirli Ok Kurbağası",
    "seviye": "guclu",
    "grup": "kara",
    "etiketler": [
     "zehirli"
    ],
-   "aciklama": "Avuç içi kadar ama zehri öldürücü.",
+   "aciklama": "Renkli derisi ölümcül zehir taşır.",
    "puan": {
     "guc": 4.6,
-    "tehlike": 10.0,
-    "savunma": 4.6,
+    "tehlike": 8.8,
+    "savunma": 8.2,
     "hiz": 5.8,
-    "zeka": 4.6
+    "zeka": 5.2
    }
   },
   {
-   "id": "dev-pasifik-ahtapotu",
-   "ad": "Dev Pasifik Ahtapotu",
+   "id": "ahtapot",
+   "ad": "Ahtapot",
    "seviye": "guclu",
    "grup": "deniz",
    "etiketler": [],
-   "aciklama": "Denizin dâhisi.",
+   "aciklama": "Sekiz kollu zeki kılık değiştirici.",
    "puan": {
     "guc": 7.0,
     "tehlike": 7.0,
     "savunma": 7.0,
     "hiz": 7.0,
-    "zeka": 10.0
+    "zeka": 9.4
    }
   },
   {

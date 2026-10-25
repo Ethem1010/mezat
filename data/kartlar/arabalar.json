@@ -57,14 +57,14 @@
    }
   },
   {
-   "id": "ferrari-250-gto-1962",
-   "ad": "Ferrari 250 GTO (1962)",
+   "id": "ferrari-testarossa",
+   "ad": "Ferrari Testarossa",
    "seviye": "efsane",
    "grup": "klasik",
    "etiketler": [],
-   "aciklama": "Dünyanın en değerli klasik otomobillerinden.",
+   "aciklama": "80'lerin posterlerini süsleyen yan ızgaralı efsane.",
    "puan": {
-    "performans": 9.4,
+    "performans": 8.8,
     "i_koniklik": 10.0,
     "nostalji": 10.0,
     "tasarim": 10.0
@@ -239,16 +239,16 @@
    }
   },
   {
-   "id": "porsche-959",
-   "ad": "Porsche 959",
+   "id": "porsche-carrera-gt",
+   "ad": "Porsche Carrera GT",
    "seviye": "efsane",
    "grup": "spor",
    "etiketler": [],
-   "aciklama": "Zamanının en teknolojik süper arabası.",
+   "aciklama": "V10 sesiyle efsaneleşen süper otomobil.",
    "puan": {
-    "performans": 10.0,
+    "performans": 9.4,
     "i_koniklik": 9.4,
-    "nostalji": 9.4,
+    "nostalji": 8.8,
     "tasarim": 9.4
    }
   },
@@ -393,30 +393,30 @@
    }
   },
   {
-   "id": "mercedes-190e-2-5-16-evo-ii",
-   "ad": "Mercedes 190E 2.5-16 Evo II",
+   "id": "mercedes-190e",
+   "ad": "Mercedes 190E",
    "seviye": "guclu",
    "grup": "luks",
    "etiketler": [],
-   "aciklama": "Kasa Mercedes'in yarış ruhlu en efsane hâli.",
+   "aciklama": "Türkiye'nin \"Kasa\" diye sevdiği efsane Mercedes.",
    "puan": {
-    "performans": 8.8,
+    "performans": 7.6,
     "i_koniklik": 9.4,
-    "nostalji": 9.4,
+    "nostalji": 10.0,
     "tasarim": 8.8
    }
   },
   {
-   "id": "mercedes-benz-500e-w124",
-   "ad": "Mercedes-Benz 500E (W124)",
+   "id": "mercedes-e-serisi-w124",
+   "ad": "Mercedes E Serisi (W124)",
    "seviye": "guclu",
    "grup": "luks",
    "etiketler": [],
-   "aciklama": "Porsche'nin de katkı verdiği güçlü sedan.",
+   "aciklama": "Yıllarca yollarda kalan sağlam ve şık Mercedes.",
    "puan": {
-    "performans": 8.8,
-    "i_koniklik": 8.8,
-    "nostalji": 9.4,
+    "performans": 7.6,
+    "i_koniklik": 9.4,
+    "nostalji": 10.0,
     "tasarim": 8.8
    }
   },
@@ -449,30 +449,30 @@
    }
   },
   {
-   "id": "lancia-stratos",
-   "ad": "Lancia Stratos",
+   "id": "audi-r8",
+   "ad": "Audi R8",
    "seviye": "guclu",
    "grup": "spor",
    "etiketler": [],
-   "aciklama": "Ralli için doğmuş kama tasarım.",
+   "aciklama": "Iron Man'in de kullandığı Alman süper otomobili.",
    "puan": {
-    "performans": 8.8,
-    "i_koniklik": 9.4,
-    "nostalji": 9.4,
+    "performans": 9.4,
+    "i_koniklik": 8.8,
+    "nostalji": 7.6,
     "tasarim": 9.4
    }
   },
   {
-   "id": "mitsubishi-lancer-evolution-vi",
-   "ad": "Mitsubishi Lancer Evolution VI",
+   "id": "mitsubishi-lancer-evolution",
+   "ad": "Mitsubishi Lancer Evolution",
    "seviye": "guclu",
    "grup": "jdm",
    "etiketler": [],
-   "aciklama": "Ralli kökenli dört çeker efsane.",
+   "aciklama": "Ralli ruhlu, Hızlı ve Öfkeli'nin gözdesi.",
    "puan": {
     "performans": 8.8,
     "i_koniklik": 8.8,
-    "nostalji": 8.8,
+    "nostalji": 9.4,
     "tasarim": 8.2
    }
   },

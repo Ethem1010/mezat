@@ -112,17 +112,17 @@
    }
   },
   {
-   "id": "kriket",
-   "ad": "Kriket",
+   "id": "plaj-voleybolu",
+   "ad": "Plaj Voleybolu",
    "seviye": "efsane",
    "grup": "takim",
    "etiketler": [],
-   "aciklama": "Hindistan ve İngiltere'de milyarların tutkusu.",
+   "aciklama": "Yazın kumda oynanan heyecanlı oyun.",
    "puan": {
-    "i_zlenme": 9.4,
-    "heyecan": 7.6,
+    "i_zlenme": 7.6,
+    "heyecan": 8.8,
     "dunyada_yayginlik": 8.2,
-    "turkiye_de_sevilme": 4.6
+    "turkiye_de_sevilme": 8.8
    }
   },
   {
@@ -518,17 +518,17 @@
    }
   },
   {
-   "id": "kurek",
-   "ad": "Kürek",
+   "id": "bowling",
+   "ad": "Bowling",
    "seviye": "guclu",
    "grup": "bireysel",
    "etiketler": [],
-   "aciklama": "Takım halinde suda güç ve uyum.",
+   "aciklama": "Arkadaşlarla en sevilen salon sporu.",
    "puan": {
-    "i_zlenme": 6.4,
-    "heyecan": 7.0,
-    "dunyada_yayginlik": 7.0,
-    "turkiye_de_sevilme": 5.2
+    "i_zlenme": 7.0,
+    "heyecan": 8.2,
+    "dunyada_yayginlik": 8.2,
+    "turkiye_de_sevilme": 8.2
    }
   }
  ]

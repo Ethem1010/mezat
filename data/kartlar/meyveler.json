@@ -322,16 +322,16 @@
    }
   },
   {
-   "id": "papaya",
-   "ad": "Papaya",
+   "id": "yenidunya",
+   "ad": "Yenidünya",
    "seviye": "efsane",
-   "grup": "tropik",
+   "grup": "yaz",
    "etiketler": [],
-   "aciklama": "Sindirime iyi gelen tropik meyve.",
+   "aciklama": "Baharın ilk sulu meyvesi.",
    "puan": {
     "lezzet": 8.8,
-    "saglik": 9.4,
-    "populerlik": 7.6,
+    "saglik": 8.8,
+    "populerlik": 8.2,
     "cok_yonluluk": 7.6
    }
   },
@@ -406,17 +406,17 @@
    }
   },
   {
-   "id": "lici",
-   "ad": "Liçi",
+   "id": "zeytin",
+   "ad": "Zeytin",
    "seviye": "guclu",
-   "grup": "tropik",
+   "grup": "her_mevsim",
    "etiketler": [],
-   "aciklama": "Kokulu Asya meyvesi.",
+   "aciklama": "Kahvaltıların vazgeçilmezi.",
    "puan": {
     "lezzet": 8.8,
-    "saglik": 8.2,
-    "populerlik": 7.0,
-    "cok_yonluluk": 7.0
+    "saglik": 9.4,
+    "populerlik": 10.0,
+    "cok_yonluluk": 9.4
    }
   },
   {
@@ -518,17 +518,17 @@
    }
   },
   {
-   "id": "carkifelek",
-   "ad": "Çarkıfelek",
+   "id": "kizilcik",
+   "ad": "Kızılcık",
    "seviye": "guclu",
-   "grup": "tropik",
+   "grup": "kis",
    "etiketler": [],
-   "aciklama": "Mayhoş aromalı tropik meyve.",
+   "aciklama": "Ekşi tadı ve şerbetiyle meşhur.",
    "puan": {
-    "lezzet": 8.8,
-    "saglik": 8.8,
-    "populerlik": 7.0,
-    "cok_yonluluk": 7.6
+    "lezzet": 8.2,
+    "saglik": 9.4,
+    "populerlik": 7.6,
+    "cok_yonluluk": 8.2
    }
   }
  ]

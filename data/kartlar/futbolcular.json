@@ -138,31 +138,31 @@
    }
   },
   {
-   "id": "eus-bio",
-   "ad": "Eusébio",
+   "id": "neymar",
+   "ad": "Neymar",
    "seviye": "efsane",
    "grup": "forvet",
    "etiketler": [],
-   "aciklama": "Benfica'nın Kara Panteri.",
+   "aciklama": "Çalımlarıyla büyüleyen Brezilyalı yıldız.",
    "puan": {
     "mevkisinde_ustalik": 9.4,
-    "yetenek": 9.4,
+    "yetenek": 10.0,
     "kupalar": 8.8,
-    "efsanelik": 9.4
+    "efsanelik": 8.8
    }
   },
   {
-   "id": "ferenc-pusk-s",
-   "ad": "Ferenc Puskás",
+   "id": "robert-lewandowski",
+   "ad": "Robert Lewandowski",
    "seviye": "efsane",
    "grup": "forvet",
    "etiketler": [],
-   "aciklama": "Adına gol ödülü verilen Macar efsane.",
+   "aciklama": "Gol makinesi Polonyalı santrfor.",
    "puan": {
     "mevkisinde_ustalik": 10.0,
-    "yetenek": 9.4,
-    "kupalar": 9.4,
-    "efsanelik": 10.0
+    "yetenek": 8.8,
+    "kupalar": 8.8,
+    "efsanelik": 8.8
    }
   },
   {
@@ -264,17 +264,17 @@
    }
   },
   {
-   "id": "michel-platini",
-   "ad": "Michel Platini",
+   "id": "kevin-de-bruyne",
+   "ad": "Kevin De Bruyne",
    "seviye": "efsane",
    "grup": "orta",
    "etiketler": [],
-   "aciklama": "Üç kez üst üste Ballon d'Or.",
+   "aciklama": "Asist ustası Belçikalı.",
    "puan": {
     "mevkisinde_ustalik": 9.4,
     "yetenek": 9.4,
     "kupalar": 8.8,
-    "efsanelik": 9.4
+    "efsanelik": 8.8
    }
   },
   {
@@ -306,17 +306,17 @@
    }
   },
   {
-   "id": "franco-baresi",
-   "ad": "Franco Baresi",
+   "id": "carles-puyol",
+   "ad": "Carles Puyol",
    "seviye": "efsane",
    "grup": "defans",
    "etiketler": [],
-   "aciklama": "Savunmanın ustası Milan kaptanı.",
+   "aciklama": "Barcelona'nın kıvırcık saçlı kaptanı.",
    "puan": {
-    "mevkisinde_ustalik": 10.0,
-    "yetenek": 8.8,
+    "mevkisinde_ustalik": 9.4,
+    "yetenek": 8.2,
     "kupalar": 10.0,
-    "efsanelik": 9.4
+    "efsanelik": 8.8
    }
   },
   {
@@ -376,17 +376,17 @@
    }
   },
   {
-   "id": "lev-yashin",
-   "ad": "Lev Yashin",
+   "id": "oliver-kahn",
+   "ad": "Oliver Kahn",
    "seviye": "efsane",
    "grup": "kaleci",
    "etiketler": [],
-   "aciklama": "Ballon d'Or kazanan tek kaleci, Kara Örümcek.",
+   "aciklama": "Almanya'nın \"Titan\" lakaplı kalecisi.",
    "puan": {
-    "mevkisinde_ustalik": 10.0,
-    "yetenek": 8.8,
+    "mevkisinde_ustalik": 9.4,
+    "yetenek": 8.2,
     "kupalar": 8.8,
-    "efsanelik": 10.0
+    "efsanelik": 9.4
    }
   },
   {

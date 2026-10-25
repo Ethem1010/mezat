@@ -208,59 +208,59 @@
    }
   },
   {
-   "id": "bernese-dag-kopegi",
-   "ad": "Bernese Dağ Köpeği",
+   "id": "pomeranian",
+   "ad": "Pomeranian",
    "seviye": "efsane",
    "grup": "aile",
    "etiketler": [],
-   "aciklama": "Üç renkli tüyleriyle uysal dev.",
-   "puan": {
-    "koruma": 7.0,
-    "zeka": 8.2,
-    "sadakat": 9.4,
-    "dayaniklilik": 8.2
-   }
-  },
-  {
-   "id": "buyuk-i-svicre-dag-kopegi",
-   "ad": "Büyük İsviçre Dağ Köpeği",
-   "seviye": "efsane",
-   "grup": "aile",
-   "etiketler": [],
-   "aciklama": "Güçlü ve sakin aile koruyucusu.",
-   "puan": {
-    "koruma": 8.2,
-    "zeka": 8.2,
-    "sadakat": 9.4,
-    "dayaniklilik": 8.8
-   }
-  },
-  {
-   "id": "newfoundland",
-   "ad": "Newfoundland",
-   "seviye": "efsane",
-   "grup": "aile",
-   "etiketler": [],
-   "aciklama": "Suda can kurtaran dev.",
-   "puan": {
-    "koruma": 7.0,
-    "zeka": 8.2,
-    "sadakat": 9.4,
-    "dayaniklilik": 8.8
-   }
-  },
-  {
-   "id": "kanis-standart",
-   "ad": "Kaniş (Standart)",
-   "seviye": "efsane",
-   "grup": "aile",
-   "etiketler": [],
-   "aciklama": "Göründüğünden çok daha zeki.",
+   "aciklama": "Pamuk gibi tüylü minik dost.",
    "puan": {
     "koruma": 5.8,
+    "zeka": 8.2,
+    "sadakat": 8.8,
+    "dayaniklilik": 7.0
+   }
+  },
+  {
+   "id": "fransiz-bulldog",
+   "ad": "Fransız Bulldog",
+   "seviye": "efsane",
+   "grup": "aile",
+   "etiketler": [],
+   "aciklama": "Yarasa kulaklı şehir köpeği.",
+   "puan": {
+    "koruma": 6.4,
+    "zeka": 7.6,
+    "sadakat": 9.4,
+    "dayaniklilik": 7.0
+   }
+  },
+  {
+   "id": "cocker-spaniel",
+   "ad": "Cocker Spaniel",
+   "seviye": "efsane",
+   "grup": "aile",
+   "etiketler": [],
+   "aciklama": "Uzun kulaklı neşeli aile köpeği.",
+   "puan": {
+    "koruma": 6.4,
+    "zeka": 8.2,
+    "sadakat": 9.4,
+    "dayaniklilik": 7.6
+   }
+  },
+  {
+   "id": "kanis",
+   "ad": "Kaniş",
+   "seviye": "efsane",
+   "grup": "aile",
+   "etiketler": [],
+   "aciklama": "Bukleli ve çok zeki.",
+   "puan": {
+    "koruma": 6.4,
     "zeka": 10.0,
     "sadakat": 8.8,
-    "dayaniklilik": 8.2
+    "dayaniklilik": 7.6
    }
   },
   {
@@ -348,17 +348,17 @@
    }
   },
   {
-   "id": "bloodhound",
-   "ad": "Bloodhound",
+   "id": "yorkshire-terrier",
+   "ad": "Yorkshire Terrier",
    "seviye": "efsane",
    "grup": "calisma",
    "etiketler": [],
-   "aciklama": "Koku alma şampiyonu iz sürücü.",
+   "aciklama": "Küçük ama cesur, eskiden fare avcısı.",
    "puan": {
-    "koruma": 5.8,
+    "koruma": 6.4,
     "zeka": 8.2,
     "sadakat": 8.8,
-    "dayaniklilik": 8.8
+    "dayaniklilik": 7.0
    }
   },
   {
@@ -376,29 +376,29 @@
    }
   },
   {
-   "id": "turk-tazisi",
-   "ad": "Türk Tazısı",
+   "id": "tazi-greyhound",
+   "ad": "Tazı (Greyhound)",
    "seviye": "efsane",
    "grup": "calisma",
    "etiketler": [],
-   "aciklama": "Rüzgâr gibi koşan av köpeği.",
+   "aciklama": "Köpeklerin en hızlısı.",
    "puan": {
-    "koruma": 5.8,
+    "koruma": 6.4,
     "zeka": 8.2,
     "sadakat": 8.8,
-    "dayaniklilik": 9.4
+    "dayaniklilik": 8.8
    }
   },
   {
-   "id": "dev-schnauzer",
-   "ad": "Dev Schnauzer",
+   "id": "pitbull",
+   "ad": "Pitbull",
    "seviye": "guclu",
    "grup": "bekci",
    "etiketler": [],
-   "aciklama": "Sakallı ve güçlü bekçi.",
+   "aciklama": "Güçlü çeneli, sahibine bağlı.",
    "puan": {
     "koruma": 8.8,
-    "zeka": 8.8,
+    "zeka": 7.6,
     "sadakat": 8.8,
     "dayaniklilik": 8.8
    }
@@ -474,17 +474,17 @@
    }
   },
   {
-   "id": "weimaraner",
-   "ad": "Weimaraner",
+   "id": "pug",
+   "ad": "Pug",
    "seviye": "guclu",
-   "grup": "calisma",
+   "grup": "aile",
    "etiketler": [],
-   "aciklama": "Gri \"hayalet\" av köpeği.",
+   "aciklama": "Buruşuk yüzlü sevimli köpek.",
    "puan": {
-    "koruma": 7.0,
-    "zeka": 8.8,
-    "sadakat": 8.8,
-    "dayaniklilik": 8.8
+    "koruma": 5.2,
+    "zeka": 7.6,
+    "sadakat": 9.4,
+    "dayaniklilik": 6.4
    }
   },
   {

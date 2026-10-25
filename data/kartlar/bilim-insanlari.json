@@ -140,15 +140,15 @@
    }
   },
   {
-   "id": "james-clerk-maxwell",
-   "ad": "James Clerk Maxwell",
+   "id": "thomas-edison",
+   "ad": "Thomas Edison",
    "seviye": "efsane",
    "grup": "fizik",
    "etiketler": [],
-   "aciklama": "Elektromanyetizma denklemleri.",
+   "aciklama": "Ampulü yaygınlaştıran ünlü mucit.",
    "puan": {
-    "kesiflerin_onemi": 10.0,
-    "i_nsanliga_etkisi": 9.4,
+    "kesiflerin_onemi": 9.4,
+    "i_nsanliga_etkisi": 10.0,
     "oduller": 7.6,
     "cok_yonluluk": 8.8
    }
@@ -168,17 +168,17 @@
    }
   },
   {
-   "id": "richard-feynman",
-   "ad": "Richard Feynman",
+   "id": "robert-oppenheimer",
+   "ad": "Robert Oppenheimer",
    "seviye": "efsane",
    "grup": "fizik",
    "etiketler": [],
-   "aciklama": "Kuantumu anlatan efsane hoca.",
+   "aciklama": "Atom bombasının babası, ünlü filmin konusu.",
    "puan": {
     "kesiflerin_onemi": 9.4,
-    "i_nsanliga_etkisi": 8.2,
-    "oduller": 9.4,
-    "cok_yonluluk": 8.8
+    "i_nsanliga_etkisi": 10.0,
+    "oduller": 8.2,
+    "cok_yonluluk": 8.2
    }
   },
   {
@@ -224,17 +224,17 @@
    }
   },
   {
-   "id": "linus-pauling",
-   "ad": "Linus Pauling",
+   "id": "cabir-bin-hayyan",
+   "ad": "Câbir bin Hayyan",
    "seviye": "efsane",
    "grup": "kimya",
    "etiketler": [],
-   "aciklama": "İki tek başına Nobel kazanan kimyager.",
+   "aciklama": "Kimyanın babası sayılan İslam bilgini.",
    "puan": {
     "kesiflerin_onemi": 9.4,
     "i_nsanliga_etkisi": 8.8,
-    "oduller": 10.0,
-    "cok_yonluluk": 8.8
+    "oduller": 6.4,
+    "cok_yonluluk": 9.4
    }
   },
   {
@@ -434,8 +434,8 @@
    }
   },
   {
-   "id": "euclid",
-   "ad": "Euclid",
+   "id": "oklid",
+   "ad": "Öklid",
    "seviye": "guclu",
    "grup": "matematik",
    "etiketler": [],
@@ -476,15 +476,15 @@
    }
   },
   {
-   "id": "robert-hooke",
-   "ad": "Robert Hooke",
+   "id": "hipokrat",
+   "ad": "Hipokrat",
    "seviye": "guclu",
    "grup": "biyoloji",
    "etiketler": [],
-   "aciklama": "Hücreyi ilk gören bilim insanı.",
+   "aciklama": "Tıbbın babası, Hipokrat yemininin sahibi.",
    "puan": {
     "kesiflerin_onemi": 8.8,
-    "i_nsanliga_etkisi": 8.2,
+    "i_nsanliga_etkisi": 9.4,
     "oduller": 6.4,
     "cok_yonluluk": 8.8
    }
@@ -518,17 +518,17 @@
    }
   },
   {
-   "id": "rosalind-franklin",
-   "ad": "Rosalind Franklin",
+   "id": "john-dalton",
+   "ad": "John Dalton",
    "seviye": "guclu",
    "grup": "kimya",
    "etiketler": [],
-   "aciklama": "DNA'nın ilk fotoğrafını çekti.",
+   "aciklama": "Okulda öğrendiğimiz atom modelinin sahibi.",
    "puan": {
-    "kesiflerin_onemi": 8.8,
+    "kesiflerin_onemi": 9.4,
     "i_nsanliga_etkisi": 8.8,
-    "oduller": 6.4,
-    "cok_yonluluk": 7.6
+    "oduller": 7.0,
+    "cok_yonluluk": 8.2
    }
   }
  ]

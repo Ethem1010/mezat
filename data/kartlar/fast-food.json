@@ -418,31 +418,31 @@
    }
   },
   {
-   "id": "fish-chips",
-   "ad": "Fish & chips",
+   "id": "kofte-ekmek",
+   "ad": "Köfte ekmek",
    "seviye": "guclu",
    "grup": "ana",
    "etiketler": [],
-   "aciklama": "İngiliz balık-patates.",
+   "aciklama": "Maç önü ve sahil klasiği.",
    "puan": {
-    "lezzet": 8.8,
+    "lezzet": 9.4,
     "doyuruculuk": 8.8,
-    "fiyat": 8.2,
-    "populerlik": 8.2
+    "fiyat": 9.4,
+    "populerlik": 9.4
    }
   },
   {
-   "id": "quesadilla",
-   "ad": "Quesadilla",
+   "id": "kumpir",
+   "ad": "Kumpir",
    "seviye": "guclu",
    "grup": "ana",
    "etiketler": [],
-   "aciklama": "Peynirli lavaş.",
+   "aciklama": "Ortaköy'ün dolu dolu patatesi.",
    "puan": {
-    "lezzet": 8.8,
-    "doyuruculuk": 8.2,
-    "fiyat": 8.8,
-    "populerlik": 7.6
+    "lezzet": 9.4,
+    "doyuruculuk": 9.4,
+    "fiyat": 8.2,
+    "populerlik": 9.4
    }
   },
   {
@@ -460,15 +460,15 @@
    }
   },
   {
-   "id": "coleslaw",
-   "ad": "Coleslaw",
+   "id": "patates-puresi",
+   "ad": "Patates püresi",
    "seviye": "guclu",
    "grup": "yan",
    "etiketler": [],
-   "aciklama": "Lahana salatası.",
+   "aciklama": "Tavuğun yanına sıcak eşlikçi.",
    "puan": {
-    "lezzet": 7.6,
-    "doyuruculuk": 5.8,
+    "lezzet": 8.2,
+    "doyuruculuk": 7.0,
     "fiyat": 8.8,
     "populerlik": 7.6
    }

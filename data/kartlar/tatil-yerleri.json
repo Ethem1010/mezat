@@ -295,17 +295,17 @@
    }
   },
   {
-   "id": "i-zlanda-yolculugu",
-   "ad": "İzlanda Yolculuğu",
+   "id": "i-zlanda",
+   "ad": "İzlanda",
    "seviye": "efsane",
    "grup": "doga",
    "etiketler": [],
-   "aciklama": "Şelaleler, buzullar ve kuzey ışıkları.",
+   "aciklama": "Kuzey ışıkları, şelaleler ve volkanlar.",
    "puan": {
-    "doga": 10.0,
-    "deniz_ve_eglence": 5.8,
-    "yemek": 7.0,
-    "ulasim_ve_fiyat": 5.8
+    "doga": 9.4,
+    "deniz_ve_eglence": 8.8,
+    "yemek": 10.0,
+    "ulasim_ve_fiyat": 8.2
    }
   },
   {

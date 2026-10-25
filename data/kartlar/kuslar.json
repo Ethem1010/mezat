@@ -112,51 +112,47 @@
    }
   },
   {
-   "id": "filipin-kartali",
-   "ad": "Filipin Kartalı",
+   "id": "akbaba",
+   "ad": "Akbaba",
    "seviye": "efsane",
    "grup": "yirtici",
    "etiketler": [
     "yirtici"
    ],
-   "aciklama": "Dünyanın en büyük kartallarından.",
+   "aciklama": "Gökyüzünde süzülen dev leş avcısı.",
    "puan": {
-    "avcilik": 9.4,
-    "hiz": 8.2,
-    "ucus_yetenegi": 8.8,
+    "avcilik": 7.6,
+    "hiz": 7.6,
+    "ucus_yetenegi": 10.0,
     "zeka": 7.6
    }
   },
   {
-   "id": "tacli-kartal",
-   "ad": "Taçlı Kartal",
+   "id": "ordek",
+   "ad": "Ördek",
    "seviye": "efsane",
-   "grup": "yirtici",
-   "etiketler": [
-    "yirtici"
-   ],
-   "aciklama": "Afrika'nın güçlü orman kartalı.",
+   "grup": "deniz",
+   "etiketler": [],
+   "aciklama": "Hem yüzen hem uçan, her gölün sakini.",
    "puan": {
-    "avcilik": 9.4,
+    "avcilik": 5.2,
     "hiz": 8.2,
-    "ucus_yetenegi": 8.8,
+    "ucus_yetenegi": 8.2,
     "zeka": 7.6
    }
   },
   {
-   "id": "steller-deniz-kartali",
-   "ad": "Steller Deniz Kartalı",
+   "id": "tavus-kusu",
+   "ad": "Tavus Kuşu",
    "seviye": "efsane",
-   "grup": "yirtici",
-   "etiketler": [
-    "yirtici"
-   ],
-   "aciklama": "En ağır kartallardan biri.",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Göz kamaştıran kuyruk yelpazesi.",
    "puan": {
-    "avcilik": 9.4,
-    "hiz": 8.2,
-    "ucus_yetenegi": 8.8,
-    "zeka": 7.6
+    "avcilik": 4.6,
+    "hiz": 6.4,
+    "ucus_yetenegi": 5.8,
+    "zeka": 7.0
    }
   },
   {
@@ -176,46 +172,46 @@
    }
   },
   {
-   "id": "puhu-baykusu",
-   "ad": "Puhu Baykuşu",
+   "id": "baykus",
+   "ad": "Baykuş",
    "seviye": "efsane",
    "grup": "yirtici",
    "etiketler": [
     "yirtici"
    ],
-   "aciklama": "Gecenin en büyük baykuşlarından.",
+   "aciklama": "Gecenin sessiz avcısı.",
    "puan": {
-    "avcilik": 8.8,
-    "hiz": 7.6,
-    "ucus_yetenegi": 8.8,
-    "zeka": 7.6
-   }
-  },
-  {
-   "id": "sakalli-akbaba",
-   "ad": "Sakallı Akbaba",
-   "seviye": "efsane",
-   "grup": "yirtici",
-   "etiketler": [
-    "yirtici"
-   ],
-   "aciklama": "Kemik kırarak beslenen dağ kuşu.",
-   "puan": {
-    "avcilik": 7.6,
+    "avcilik": 9.4,
     "hiz": 7.6,
     "ucus_yetenegi": 9.4,
-    "zeka": 8.2
+    "zeka": 8.8
    }
   },
   {
-   "id": "and-kondoru",
-   "ad": "And Kondoru",
+   "id": "karga",
+   "ad": "Karga",
    "seviye": "efsane",
-   "grup": "yirtici",
+   "grup": "diger",
    "etiketler": [],
-   "aciklama": "Kanat açıklığı devi, süzülme ustası.",
+   "aciklama": "Hayvanlar âleminin en zekilerinden.",
    "puan": {
     "avcilik": 6.4,
+    "hiz": 7.6,
+    "ucus_yetenegi": 8.2,
+    "zeka": 10.0
+   }
+  },
+  {
+   "id": "kondor",
+   "ad": "Kondor",
+   "seviye": "efsane",
+   "grup": "yirtici",
+   "etiketler": [
+    "yirtici"
+   ],
+   "aciklama": "Dünyanın en büyük uçan kuşlarından.",
+   "puan": {
+    "avcilik": 7.6,
     "hiz": 7.6,
     "ucus_yetenegi": 10.0,
     "zeka": 7.6
@@ -236,31 +232,31 @@
    }
   },
   {
-   "id": "firkateyn-kusu",
-   "ad": "Fırkateyn Kuşu",
+   "id": "kugu",
+   "ad": "Kuğu",
    "seviye": "efsane",
    "grup": "deniz",
    "etiketler": [],
-   "aciklama": "Haftalarca konmadan uçabilir.",
+   "aciklama": "Gölleri süsleyen zarif ve güçlü kuş.",
    "puan": {
-    "avcilik": 7.6,
-    "hiz": 8.8,
-    "ucus_yetenegi": 10.0,
-    "zeka": 7.0
+    "avcilik": 5.8,
+    "hiz": 7.6,
+    "ucus_yetenegi": 8.2,
+    "zeka": 7.6
    }
   },
   {
-   "id": "ak-pelikan",
-   "ad": "Ak Pelikan",
+   "id": "pelikan",
+   "ad": "Pelikan",
    "seviye": "efsane",
    "grup": "deniz",
    "etiketler": [],
-   "aciklama": "Gagasındaki keseyle balık avlar.",
+   "aciklama": "Gagasındaki keseyle balık tutar.",
    "puan": {
     "avcilik": 7.6,
     "hiz": 7.0,
     "ucus_yetenegi": 8.8,
-    "zeka": 7.0
+    "zeka": 7.6
    }
   },
   {
@@ -278,45 +274,45 @@
    }
   },
   {
-   "id": "yeni-kaledonya-kargasi",
-   "ad": "Yeni Kaledonya Kargası",
+   "id": "guvercin",
+   "ad": "Güvercin",
    "seviye": "efsane",
    "grup": "diger",
    "etiketler": [],
-   "aciklama": "Alet yapabilen zeka şampiyonu.",
+   "aciklama": "Yolunu hiç kaybetmeyen haberci.",
    "puan": {
-    "avcilik": 7.0,
-    "hiz": 7.0,
-    "ucus_yetenegi": 8.2,
-    "zeka": 10.0
+    "avcilik": 4.6,
+    "hiz": 8.8,
+    "ucus_yetenegi": 9.4,
+    "zeka": 8.8
    }
   },
   {
-   "id": "afrika-gri-papagani",
-   "ad": "Afrika Gri Papağanı",
+   "id": "papagan",
+   "ad": "Papağan",
    "seviye": "efsane",
    "grup": "diger",
    "etiketler": [],
-   "aciklama": "Kelimeleri anlamıyla kullanabilen papağan.",
+   "aciklama": "Konuşmayı taklit eden zeki kuş.",
    "puan": {
     "avcilik": 4.6,
     "hiz": 7.0,
-    "ucus_yetenegi": 8.2,
+    "ucus_yetenegi": 7.6,
     "zeka": 10.0
    }
   },
   {
-   "id": "kara-sagan",
-   "ad": "Kara Sağan",
+   "id": "bulbul",
+   "ad": "Bülbül",
    "seviye": "efsane",
    "grup": "diger",
    "etiketler": [],
-   "aciklama": "Aylarca konmadan uçabilen hız ustası.",
+   "aciklama": "Şarkısıyla ünlü küçük kuş.",
    "puan": {
-    "avcilik": 7.0,
-    "hiz": 10.0,
-    "ucus_yetenegi": 10.0,
-    "zeka": 7.0
+    "avcilik": 4.6,
+    "hiz": 7.0,
+    "ucus_yetenegi": 7.6,
+    "zeka": 7.6
    }
   },
   {
@@ -376,17 +372,17 @@
    }
   },
   {
-   "id": "kasuar",
-   "ad": "Kasuar",
+   "id": "kivi-kusu",
+   "ad": "Kivi Kuşu",
    "seviye": "efsane",
    "grup": "ucamayan",
    "etiketler": [],
-   "aciklama": "Pençeleriyle en tehlikeli kuş.",
+   "aciklama": "Yeni Zelanda'nın simgesi uçamayan kuş.",
    "puan": {
-    "avcilik": 8.2,
-    "hiz": 7.6,
+    "avcilik": 5.8,
+    "hiz": 6.4,
     "ucus_yetenegi": 4.6,
-    "zeka": 7.0
+    "zeka": 7.6
    }
   },
   {
@@ -466,18 +462,16 @@
    }
   },
   {
-   "id": "kizil-akbaba",
-   "ad": "Kızıl Akbaba",
+   "id": "tukan",
+   "ad": "Tukan",
    "seviye": "guclu",
-   "grup": "yirtici",
-   "etiketler": [
-    "yirtici"
-   ],
-   "aciklama": "Saatlerce süzülen gökyüzü temizlikçisi.",
+   "grup": "diger",
+   "etiketler": [],
+   "aciklama": "Kocaman renkli gagalı tropik kuş.",
    "puan": {
-    "avcilik": 7.0,
-    "hiz": 7.0,
-    "ucus_yetenegi": 9.4,
+    "avcilik": 5.2,
+    "hiz": 6.4,
+    "ucus_yetenegi": 7.0,
     "zeka": 7.6
    }
   },

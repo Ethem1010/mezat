@@ -119,15 +119,15 @@
    }
   },
   {
-   "id": "leopar-foku",
-   "ad": "Leopar Foku",
+   "id": "deniz-aslani",
+   "ad": "Deniz Aslanı",
    "seviye": "efsane",
    "grup": "memeli",
    "etiketler": [],
-   "aciklama": "Antarktika'nın yırtıcı foku.",
+   "aciklama": "Kıyıların güçlü ve zeki memelisi.",
    "puan": {
     "guc": 8.2,
-    "tehlike": 8.2,
+    "tehlike": 7.6,
     "hiz": 8.2,
     "hayatta_kalma": 8.8
    }
@@ -147,16 +147,16 @@
    }
   },
   {
-   "id": "fil-foku",
-   "ad": "Fil Foku",
+   "id": "fok",
+   "ad": "Fok",
    "seviye": "efsane",
    "grup": "memeli",
    "etiketler": [],
-   "aciklama": "En büyük fok.",
+   "aciklama": "Buzların sevimli ama güçlü yüzücüsü.",
    "puan": {
-    "guc": 8.2,
+    "guc": 7.6,
     "tehlike": 6.4,
-    "hiz": 6.4,
+    "hiz": 7.6,
     "hayatta_kalma": 8.8
    }
   },
@@ -245,8 +245,8 @@
    }
   },
   {
-   "id": "mavi-yuzgecli-orkinos",
-   "ad": "Mavi Yüzgeçli Orkinos",
+   "id": "ton-baligi",
+   "ad": "Ton Balığı",
    "seviye": "efsane",
    "grup": "acik_deniz",
    "etiketler": [],
@@ -347,18 +347,18 @@
    }
   },
   {
-   "id": "tas-baligi",
-   "ad": "Taş Balığı",
+   "id": "vatoz",
+   "ad": "Vatoz",
    "seviye": "efsane",
    "grup": "kiyi",
    "etiketler": [
     "zehirli"
    ],
-   "aciklama": "Taş gibi görünür, dikenleri çok zehirli.",
+   "aciklama": "Kuyruğundaki zehirli dikenle bilinir.",
    "puan": {
-    "guc": 5.2,
-    "tehlike": 9.4,
-    "hiz": 4.6,
+    "guc": 6.4,
+    "tehlike": 8.2,
+    "hiz": 7.0,
     "hayatta_kalma": 8.8
    }
   },
@@ -379,12 +379,12 @@
    }
   },
   {
-   "id": "dev-pasifik-ahtapotu",
-   "ad": "Dev Pasifik Ahtapotu",
+   "id": "ahtapot",
+   "ad": "Ahtapot",
    "seviye": "efsane",
    "grup": "kiyi",
    "etiketler": [],
-   "aciklama": "Kılık değiştirme ustası.",
+   "aciklama": "Sekiz kollu, kılık değiştirme ustası.",
    "puan": {
     "guc": 7.0,
     "tehlike": 7.0,
@@ -393,44 +393,44 @@
    }
   },
   {
-   "id": "mantis-karidesi",
-   "ad": "Mantis Karidesi",
+   "id": "deniz-ati",
+   "ad": "Deniz Atı",
    "seviye": "efsane",
    "grup": "kiyi",
    "etiketler": [],
-   "aciklama": "Hayvanlar alemindeki en hızlı yumruklardan biri.",
+   "aciklama": "Yavrularını erkeğin taşıdığı ilginç balık.",
    "puan": {
-    "guc": 5.8,
-    "tehlike": 6.4,
-    "hiz": 10.0,
-    "hayatta_kalma": 8.2
+    "guc": 4.6,
+    "tehlike": 4.6,
+    "hiz": 5.2,
+    "hayatta_kalma": 8.8
    }
   },
   {
-   "id": "gronland-kopek-baligi",
-   "ad": "Grönland Köpek Balığı",
+   "id": "caretta-caretta",
+   "ad": "Caretta Caretta",
    "seviye": "guclu",
-   "grup": "derin",
+   "grup": "acik_deniz",
    "etiketler": [],
-   "aciklama": "Yüzyıllarca yaşayabilen yavaş dev.",
+   "aciklama": "Türkiye kıyılarının simgesi deniz kaplumbağası.",
    "puan": {
-    "guc": 8.2,
-    "tehlike": 7.0,
-    "hiz": 4.6,
-    "hayatta_kalma": 10.0
-   }
-  },
-  {
-   "id": "goblin-kopek-baligi",
-   "ad": "Goblin Köpek Balığı",
-   "seviye": "guclu",
-   "grup": "derin",
-   "etiketler": [],
-   "aciklama": "Fırlayan çenesiyle derinlerin tuhafı.",
-   "puan": {
-    "guc": 7.0,
-    "tehlike": 7.0,
+    "guc": 6.4,
+    "tehlike": 4.6,
     "hiz": 6.4,
+    "hayatta_kalma": 9.4
+   }
+  },
+  {
+   "id": "lufer",
+   "ad": "Lüfer",
+   "seviye": "guclu",
+   "grup": "acik_deniz",
+   "etiketler": [],
+   "aciklama": "Boğaz'ın keskin dişli avcısı.",
+   "puan": {
+    "guc": 6.4,
+    "tehlike": 6.4,
+    "hiz": 8.2,
     "hayatta_kalma": 8.2
    }
   },
@@ -449,16 +449,16 @@
    }
   },
   {
-   "id": "japon-orumcek-yengeci",
-   "ad": "Japon Örümcek Yengeci",
+   "id": "yengec",
+   "ad": "Yengeç",
    "seviye": "guclu",
-   "grup": "derin",
+   "grup": "kiyi",
    "etiketler": [],
-   "aciklama": "Bacak açıklığı rekortmeni.",
+   "aciklama": "Kıskaçlarıyla kendini koruyan zırhlı.",
    "puan": {
     "guc": 6.4,
-    "tehlike": 5.2,
-    "hiz": 5.2,
+    "tehlike": 5.8,
+    "hiz": 5.8,
     "hayatta_kalma": 8.8
    }
   },
@@ -491,17 +491,17 @@
    }
   },
   {
-   "id": "deri-sirtli-deniz-kaplumbagasi",
-   "ad": "Deri Sırtlı Deniz Kaplumbağası",
+   "id": "pembe-yunus",
+   "ad": "Pembe Yunus",
    "seviye": "guclu",
-   "grup": "acik_deniz",
+   "grup": "memeli",
    "etiketler": [],
-   "aciklama": "En büyük kaplumbağa, okyanus gezgini.",
+   "aciklama": "Nehirlerin pembe renkli yunusu.",
    "puan": {
     "guc": 7.0,
-    "tehlike": 4.6,
-    "hiz": 7.0,
-    "hayatta_kalma": 9.4
+    "tehlike": 5.2,
+    "hiz": 7.6,
+    "hayatta_kalma": 8.2
    }
   },
   {
@@ -519,16 +519,16 @@
    }
   },
   {
-   "id": "murena",
-   "ad": "Murena",
+   "id": "murekkep-baligi",
+   "ad": "Mürekkep Balığı",
    "seviye": "guclu",
    "grup": "kiyi",
    "etiketler": [],
-   "aciklama": "Kayalıklarda pusuya yatan avcı.",
+   "aciklama": "Mürekkep püskürtüp kaçan hızlı yüzücü.",
    "puan": {
-    "guc": 7.0,
-    "tehlike": 7.6,
-    "hiz": 7.0,
+    "guc": 6.4,
+    "tehlike": 5.8,
+    "hiz": 8.2,
     "hayatta_kalma": 8.2
    }
   },

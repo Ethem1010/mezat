@@ -519,15 +519,15 @@
    }
   },
   {
-   "id": "adventure-time",
-   "ad": "Adventure Time",
+   "id": "caillou",
+   "ad": "Caillou",
    "seviye": "guclu",
    "grup": "yeni",
    "etiketler": [],
-   "aciklama": "Finn ve Jake'in tuhaf maceraları.",
+   "aciklama": "Dört yaşındaki Caillou'nun günlük maceraları.",
    "puan": {
-    "eglence": 8.8,
-    "nostalji": 7.6,
+    "eglence": 8.2,
+    "nostalji": 8.8,
     "karakter_sevgisi": 8.8,
     "efsanelik": 8.2
    }

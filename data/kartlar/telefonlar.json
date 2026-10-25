@@ -138,31 +138,31 @@
    }
   },
   {
-   "id": "motorola-startac",
-   "ad": "Motorola StarTAC",
+   "id": "nokia-n70",
+   "ad": "Nokia N70",
    "seviye": "efsane",
    "grup": "tuslu",
    "etiketler": [],
-   "aciklama": "İlk kapaklı cep telefonlarından.",
+   "aciklama": "Herkesin elindeki kameralı Nokia.",
    "puan": {
-    "yenilik": 9.4,
-    "populerlik": 8.2,
-    "dayaniklilik": 7.6,
+    "yenilik": 8.2,
+    "populerlik": 9.4,
+    "dayaniklilik": 8.2,
     "nostalji": 9.4
    }
   },
   {
-   "id": "motorola-dynatac-8000x",
-   "ad": "Motorola DynaTAC 8000X",
+   "id": "nokia-6300",
+   "ad": "Nokia 6300",
    "seviye": "efsane",
    "grup": "tuslu",
    "etiketler": [],
-   "aciklama": "Dünyanın ilk ticari cep telefonu.",
+   "aciklama": "İnce metal gövdesiyle efsane Nokia.",
    "puan": {
-    "yenilik": 10.0,
-    "populerlik": 7.0,
-    "dayaniklilik": 8.2,
-    "nostalji": 10.0
+    "yenilik": 7.6,
+    "populerlik": 10.0,
+    "dayaniklilik": 9.4,
+    "nostalji": 9.4
    }
   },
   {
@@ -306,17 +306,17 @@
    }
   },
   {
-   "id": "htc-one",
-   "ad": "HTC One",
+   "id": "samsung-galaxy-s4",
+   "ad": "Samsung Galaxy S4",
    "seviye": "efsane",
    "grup": "erken_akilli",
    "etiketler": [],
-   "aciklama": "Metal gövdesi ve hoparlörleriyle beğenilen telefon.",
+   "aciklama": "Türkiye'de en çok satan Galaxy'lerden.",
    "puan": {
     "yenilik": 8.8,
-    "populerlik": 7.6,
-    "dayaniklilik": 8.2,
-    "nostalji": 7.6
+    "populerlik": 9.4,
+    "dayaniklilik": 7.6,
+    "nostalji": 8.8
    }
   },
   {
@@ -376,17 +376,17 @@
    }
   },
   {
-   "id": "google-pixel",
-   "ad": "Google Pixel",
+   "id": "iphone-11",
+   "ad": "iPhone 11",
    "seviye": "efsane",
    "grup": "yeni_akilli",
    "etiketler": [],
-   "aciklama": "Yazılım ve kamera odaklı Google telefonu.",
+   "aciklama": "Rekor satan renkli iPhone.",
    "puan": {
-    "yenilik": 9.4,
-    "populerlik": 8.2,
+    "yenilik": 8.8,
+    "populerlik": 10.0,
     "dayaniklilik": 8.2,
-    "nostalji": 5.8
+    "nostalji": 7.0
    }
   },
   {
@@ -404,45 +404,45 @@
    }
   },
   {
-   "id": "siemens-c35",
-   "ad": "Siemens C35",
+   "id": "nokia-7610",
+   "ad": "Nokia 7610",
    "seviye": "guclu",
    "grup": "tuslu",
    "etiketler": [],
-   "aciklama": "2000'lerin başının sevilen telefonu.",
-   "puan": {
-    "yenilik": 6.4,
-    "populerlik": 7.6,
-    "dayaniklilik": 8.2,
-    "nostalji": 8.2
-   }
-  },
-  {
-   "id": "samsung-sgh-d500",
-   "ad": "Samsung SGH-D500",
-   "seviye": "guclu",
-   "grup": "tuslu",
-   "etiketler": [],
-   "aciklama": "Kızaklı tasarımıyla popüler Samsung.",
+   "aciklama": "Kameralı şık Symbian telefon.",
    "puan": {
     "yenilik": 7.6,
-    "populerlik": 7.6,
-    "dayaniklilik": 7.6,
-    "nostalji": 7.6
+    "populerlik": 8.2,
+    "dayaniklilik": 8.2,
+    "nostalji": 8.8
    }
   },
   {
-   "id": "nokia-lumia-920",
-   "ad": "Nokia Lumia 920",
+   "id": "nokia-3220",
+   "ad": "Nokia 3220",
+   "seviye": "guclu",
+   "grup": "tuslu",
+   "etiketler": [],
+   "aciklama": "Işıklı kapaklarıyla gençlerin telefonu.",
+   "puan": {
+    "yenilik": 7.0,
+    "populerlik": 8.8,
+    "dayaniklilik": 8.8,
+    "nostalji": 8.8
+   }
+  },
+  {
+   "id": "nokia-n73",
+   "ad": "Nokia N73",
    "seviye": "guclu",
    "grup": "erken_akilli",
    "etiketler": [],
-   "aciklama": "Renkli gövdeli Windows telefon.",
+   "aciklama": "Müzik ve kamerasıyla Symbian'ın yıldızı.",
    "puan": {
     "yenilik": 8.2,
-    "populerlik": 7.0,
+    "populerlik": 8.8,
     "dayaniklilik": 8.2,
-    "nostalji": 7.6
+    "nostalji": 9.4
    }
   },
   {
@@ -460,17 +460,17 @@
    }
   },
   {
-   "id": "lg-g2",
-   "ad": "LG G2",
+   "id": "samsung-galaxy-j7",
+   "ad": "Samsung Galaxy J7",
    "seviye": "guclu",
    "grup": "erken_akilli",
    "etiketler": [],
-   "aciklama": "Tuşları arkaya taşıyan cesur tasarım.",
+   "aciklama": "Herkesin elinde olan uygun fiyatlı Samsung.",
    "puan": {
-    "yenilik": 8.2,
-    "populerlik": 7.0,
-    "dayaniklilik": 7.6,
-    "nostalji": 6.4
+    "yenilik": 7.0,
+    "populerlik": 10.0,
+    "dayaniklilik": 8.2,
+    "nostalji": 8.2
    }
   },
   {
@@ -502,15 +502,15 @@
    }
   },
   {
-   "id": "oneplus-one",
-   "ad": "OnePlus One",
+   "id": "samsung-galaxy-a50",
+   "ad": "Samsung Galaxy A50",
    "seviye": "guclu",
    "grup": "yeni_akilli",
    "etiketler": [],
-   "aciklama": "\"Amiral gemisi katili\" sloganıyla gelen telefon.",
+   "aciklama": "Çok satan orta segment Samsung.",
    "puan": {
-    "yenilik": 8.2,
-    "populerlik": 7.6,
+    "yenilik": 7.6,
+    "populerlik": 9.4,
     "dayaniklilik": 7.6,
     "nostalji": 6.4
    }

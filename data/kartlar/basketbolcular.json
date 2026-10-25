@@ -136,17 +136,17 @@
    }
   },
   {
-   "id": "julius-erving",
-   "ad": "Julius Erving",
+   "id": "vince-carter",
+   "ad": "Vince Carter",
    "seviye": "efsane",
    "grup": "kanat",
    "etiketler": [],
-   "aciklama": "Dr. J; smacın sanatçısı.",
+   "aciklama": "Smaç yarışmalarının efsanesi.",
    "puan": {
-    "pozisyonunda_ustalik": 9.4,
-    "oyun_zekasi": 8.8,
-    "sampiyonluklar": 8.8,
-    "efsanelik": 10.0
+    "pozisyonunda_ustalik": 8.8,
+    "oyun_zekasi": 8.2,
+    "sampiyonluklar": 7.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -206,45 +206,45 @@
    }
   },
   {
-   "id": "isiah-thomas",
-   "ad": "Isiah Thomas",
+   "id": "damian-lillard",
+   "ad": "Damian Lillard",
    "seviye": "efsane",
    "grup": "oyun_kurucu",
    "etiketler": [],
-   "aciklama": "Bad Boys Pistons'ın lideri.",
+   "aciklama": "Son saniye üçlükleriyle ünlü yıldız.",
    "puan": {
-    "pozisyonunda_ustalik": 9.4,
-    "oyun_zekasi": 9.4,
-    "sampiyonluklar": 8.8,
-    "efsanelik": 9.4
+    "pozisyonunda_ustalik": 8.8,
+    "oyun_zekasi": 8.8,
+    "sampiyonluklar": 7.0,
+    "efsanelik": 8.2
    }
   },
   {
-   "id": "oscar-robertson",
-   "ad": "Oscar Robertson",
+   "id": "james-harden",
+   "ad": "James Harden",
    "seviye": "efsane",
    "grup": "oyun_kurucu",
    "etiketler": [],
-   "aciklama": "Bir sezon ortalama triple-double yapan ilk isim.",
+   "aciklama": "Sakalıyla ünlü, MVP'li skor makinesi.",
    "puan": {
     "pozisyonunda_ustalik": 9.4,
     "oyun_zekasi": 9.4,
-    "sampiyonluklar": 8.2,
-    "efsanelik": 9.4
+    "sampiyonluklar": 7.6,
+    "efsanelik": 8.8
    }
   },
   {
-   "id": "jerry-west",
-   "ad": "Jerry West",
+   "id": "russell-westbrook",
+   "ad": "Russell Westbrook",
    "seviye": "efsane",
    "grup": "oyun_kurucu",
    "etiketler": [],
-   "aciklama": "NBA logosundaki adam.",
+   "aciklama": "Triple-double rekortmeni, MVP.",
    "puan": {
-    "pozisyonunda_ustalik": 9.4,
-    "oyun_zekasi": 9.4,
-    "sampiyonluklar": 8.2,
-    "efsanelik": 10.0
+    "pozisyonunda_ustalik": 8.8,
+    "oyun_zekasi": 8.8,
+    "sampiyonluklar": 7.6,
+    "efsanelik": 8.8
    }
   },
   {
@@ -332,31 +332,31 @@
    }
   },
   {
-   "id": "wilt-chamberlain",
-   "ad": "Wilt Chamberlain",
+   "id": "anthony-davis",
+   "ad": "Anthony Davis",
    "seviye": "efsane",
    "grup": "pivot",
    "etiketler": [],
-   "aciklama": "Bir maçta 100 sayı atan dev.",
+   "aciklama": "Lakers'la şampiyon olmuş uzun.",
    "puan": {
-    "pozisyonunda_ustalik": 10.0,
-    "oyun_zekasi": 8.2,
+    "pozisyonunda_ustalik": 9.4,
+    "oyun_zekasi": 8.8,
     "sampiyonluklar": 8.2,
-    "efsanelik": 10.0
+    "efsanelik": 8.2
    }
   },
   {
-   "id": "bill-russell",
-   "ad": "Bill Russell",
+   "id": "joel-embiid",
+   "ad": "Joel Embiid",
    "seviye": "efsane",
    "grup": "pivot",
    "etiketler": [],
-   "aciklama": "On bir şampiyonluk yüzüğü.",
+   "aciklama": "MVP'li modern pivot.",
    "puan": {
-    "pozisyonunda_ustalik": 10.0,
-    "oyun_zekasi": 9.4,
-    "sampiyonluklar": 10.0,
-    "efsanelik": 10.0
+    "pozisyonunda_ustalik": 9.4,
+    "oyun_zekasi": 8.8,
+    "sampiyonluklar": 7.0,
+    "efsanelik": 8.2
    }
   },
   {

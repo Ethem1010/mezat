@@ -518,16 +518,16 @@
    }
   },
   {
-   "id": "sorbe",
-   "ad": "Sorbe",
+   "id": "kulah-dondurma",
+   "ad": "Külah dondurma",
    "seviye": "guclu",
    "grup": "soguk",
    "etiketler": [],
-   "aciklama": "Meyveli buzlu tatlı.",
+   "aciklama": "Yaz akşamlarının vazgeçilmezi.",
    "puan": {
-    "lezzet": 8.2,
-    "populerlik": 7.6,
-    "gorunum": 8.8,
+    "lezzet": 8.8,
+    "populerlik": 10.0,
+    "gorunum": 8.2,
     "cesitlilik": 8.2
    }
   }

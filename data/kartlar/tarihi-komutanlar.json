@@ -336,17 +336,17 @@
    }
   },
   {
-   "id": "georgi-jukov",
-   "ad": "Georgi Jukov",
+   "id": "ertugrul-gazi",
+   "ad": "Ertuğrul Gazi",
    "seviye": "efsane",
-   "grup": "yeni_cag",
+   "grup": "turk",
    "etiketler": [],
-   "aciklama": "Berlin'e giden Sovyet mareşali.",
+   "aciklama": "Osmanlı'nın temelini atan Kayı beyi.",
    "puan": {
-    "askeri_deha": 9.4,
-    "zafer_sayisi": 9.4,
-    "liderlik": 8.8,
-    "strateji": 9.4
+    "askeri_deha": 8.8,
+    "zafer_sayisi": 8.2,
+    "liderlik": 10.0,
+    "strateji": 8.8
    }
   },
   {
@@ -378,17 +378,17 @@
    }
   },
   {
-   "id": "tomoyuki-yamashita",
-   "ad": "Tomoyuki Yamashita",
+   "id": "oruc-reis",
+   "ad": "Oruç Reis",
    "seviye": "efsane",
-   "grup": "yeni_cag",
+   "grup": "turk",
    "etiketler": [],
-   "aciklama": "\"Malaya Kaplanı\".",
+   "aciklama": "Akdeniz'in korkusu Türk denizci.",
    "puan": {
-    "askeri_deha": 8.8,
-    "zafer_sayisi": 8.2,
-    "liderlik": 8.8,
-    "strateji": 8.8
+    "askeri_deha": 9.4,
+    "zafer_sayisi": 8.8,
+    "liderlik": 9.4,
+    "strateji": 9.4
    }
   },
   {
@@ -490,45 +490,45 @@
    }
   },
   {
-   "id": "ulysses-grant",
-   "ad": "Ulysses Grant",
+   "id": "sarlman",
+   "ad": "Şarlman",
    "seviye": "guclu",
-   "grup": "yeni_cag",
+   "grup": "orta_cag",
    "etiketler": [],
-   "aciklama": "ABD İç Savaşı'nın galibi.",
+   "aciklama": "Avrupa'yı birleştiren Frank kralı.",
    "puan": {
     "askeri_deha": 8.8,
     "zafer_sayisi": 8.8,
-    "liderlik": 8.8,
+    "liderlik": 9.4,
     "strateji": 8.8
    }
   },
   {
-   "id": "robert-e-lee",
-   "ad": "Robert E. Lee",
+   "id": "tomris-hatun",
+   "ad": "Tomris Hatun",
    "seviye": "guclu",
-   "grup": "yeni_cag",
+   "grup": "antik",
    "etiketler": [],
-   "aciklama": "Güney'in usta generali.",
-   "puan": {
-    "askeri_deha": 9.4,
-    "zafer_sayisi": 7.6,
-    "liderlik": 9.4,
-    "strateji": 9.4
-   }
-  },
-  {
-   "id": "montgomery",
-   "ad": "Montgomery",
-   "seviye": "guclu",
-   "grup": "yeni_cag",
-   "etiketler": [],
-   "aciklama": "El Alamein zaferi.",
+   "aciklama": "Pers kralı Kiros'u yenen Türk kraliçesi.",
    "puan": {
     "askeri_deha": 8.8,
-    "zafer_sayisi": 8.2,
-    "liderlik": 8.8,
+    "zafer_sayisi": 7.6,
+    "liderlik": 10.0,
     "strateji": 8.8
+   }
+  },
+  {
+   "id": "spartakus",
+   "ad": "Spartaküs",
+   "seviye": "guclu",
+   "grup": "antik",
+   "etiketler": [],
+   "aciklama": "Roma'ya kafa tutan köle isyancısı.",
+   "puan": {
+    "askeri_deha": 8.8,
+    "zafer_sayisi": 7.6,
+    "liderlik": 10.0,
+    "strateji": 8.2
    }
   }
  ]

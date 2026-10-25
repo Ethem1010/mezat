@@ -525,17 +525,17 @@
    }
   },
   {
-   "id": "walmart",
-   "ad": "Walmart",
+   "id": "migros",
+   "ad": "Migros",
    "seviye": "guclu",
    "grup": "perakende",
    "etiketler": [],
-   "aciklama": "Dünyanın en büyük market zinciri.",
+   "aciklama": "Türkiye'nin en bilinen market zinciri.",
    "puan": {
-    "bilinirlik": 8.8,
-    "marka_degeri": 8.8,
-    "kalite_algisi": 7.6,
-    "dunyaya_yayilma": 8.2
+    "bilinirlik": 9.4,
+    "marka_degeri": 8.2,
+    "kalite_algisi": 8.2,
+    "dunyaya_yayilma": 6.4
    }
   }
  ]

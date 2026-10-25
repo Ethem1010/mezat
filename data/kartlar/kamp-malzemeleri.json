@@ -86,22 +86,22 @@
    }
   },
   {
-   "id": "bivak-cuvali",
-   "ad": "Bivak çuvalı",
+   "id": "battaniye",
+   "ad": "Battaniye",
    "seviye": "efsane",
-   "grup": "barinak",
+   "grup": "sicaklik",
    "etiketler": [],
-   "aciklama": "Tek kişilik acil barınak.",
+   "aciklama": "Soğuk gecelerin kurtarıcısı.",
    "puan": {
     "hayatta_kalma_faydasi": 8.8,
-    "cok_amaclilik": 7.0,
-    "hafiflik": 9.4,
-    "dayaniklilik": 8.2
+    "cok_amaclilik": 8.2,
+    "hafiflik": 7.6,
+    "dayaniklilik": 8.8
    }
   },
   {
-   "id": "tarp-branda",
-   "ad": "Tarp (branda)",
+   "id": "branda",
+   "ad": "Branda",
    "seviye": "efsane",
    "grup": "barinak",
    "etiketler": [],
@@ -114,8 +114,8 @@
    }
   },
   {
-   "id": "kaz-tuyu-uyku-tulumu",
-   "ad": "Kaz tüyü uyku tulumu",
+   "id": "uyku-tulumu",
+   "ad": "Uyku tulumu",
    "seviye": "efsane",
    "grup": "sicaklik",
    "etiketler": [],
@@ -198,17 +198,17 @@
    }
   },
   {
-   "id": "su-torbasi",
-   "ad": "Su torbası",
+   "id": "su-bidonu",
+   "ad": "Su bidonu",
    "seviye": "efsane",
    "grup": "su",
    "etiketler": [],
-   "aciklama": "Sırt çantasına litrelerce su.",
+   "aciklama": "Kampa litrelerce su taşır.",
    "puan": {
     "hayatta_kalma_faydasi": 8.8,
     "cok_amaclilik": 7.0,
-    "hafiflik": 9.4,
-    "dayaniklilik": 7.6
+    "hafiflik": 7.6,
+    "dayaniklilik": 9.4
    }
   },
   {
@@ -240,16 +240,16 @@
    }
   },
   {
-   "id": "gunes-enerjili-powerbank",
-   "ad": "Güneş enerjili powerbank",
+   "id": "powerbank",
+   "ad": "Powerbank",
    "seviye": "efsane",
    "grup": "isik",
    "etiketler": [],
-   "aciklama": "Telefon ve ışığa bitmeyen enerji.",
+   "aciklama": "Telefon ve ışığa yedek enerji.",
    "puan": {
     "hayatta_kalma_faydasi": 8.2,
     "cok_amaclilik": 8.8,
-    "hafiflik": 8.2,
+    "hafiflik": 8.8,
     "dayaniklilik": 8.2
    }
   },
@@ -282,8 +282,8 @@
    }
   },
   {
-   "id": "paracord-ip",
-   "ad": "Paracord ip",
+   "id": "i-p",
+   "ad": "İp",
    "seviye": "efsane",
    "grup": "alet",
    "etiketler": [],
@@ -352,31 +352,31 @@
    }
   },
   {
-   "id": "titanyum-tencere-seti",
-   "ad": "Titanyum tencere seti",
+   "id": "kamp-tenceresi",
+   "ad": "Kamp tenceresi",
    "seviye": "efsane",
    "grup": "yiyecek",
    "etiketler": [],
-   "aciklama": "Hafif ve sağlam mutfak.",
+   "aciklama": "Ateşte yemek ve çay için.",
    "puan": {
     "hayatta_kalma_faydasi": 8.8,
     "cok_amaclilik": 8.2,
-    "hafiflik": 9.4,
+    "hafiflik": 8.8,
     "dayaniklilik": 10.0
    }
   },
   {
-   "id": "liyofilize-yemek",
-   "ad": "Liyofilize yemek",
+   "id": "konserve",
+   "ad": "Konserve",
    "seviye": "efsane",
    "grup": "yiyecek",
    "etiketler": [],
-   "aciklama": "Su ekle, sıcak yemek hazır.",
+   "aciklama": "Bozulmayan hazır yemek.",
    "puan": {
     "hayatta_kalma_faydasi": 9.4,
     "cok_amaclilik": 5.8,
-    "hafiflik": 10.0,
-    "dayaniklilik": 8.8
+    "hafiflik": 7.6,
+    "dayaniklilik": 10.0
    }
   },
   {
@@ -394,8 +394,8 @@
    }
   },
   {
-   "id": "trekking-batonu",
-   "ad": "Trekking batonu",
+   "id": "yuruyus-sopasi",
+   "ad": "Yürüyüş sopası",
    "seviye": "efsane",
    "grup": "konfor",
    "etiketler": [],
@@ -450,17 +450,17 @@
    }
   },
   {
-   "id": "su-aritma-tableti",
-   "ad": "Su arıtma tableti",
+   "id": "caydanlik",
+   "ad": "Çaydanlık",
    "seviye": "guclu",
    "grup": "su",
    "etiketler": [],
-   "aciklama": "Mikropları yok eder.",
+   "aciklama": "Kamp ateşinde demli çay.",
    "puan": {
-    "hayatta_kalma_faydasi": 8.8,
-    "cok_amaclilik": 5.8,
-    "hafiflik": 10.0,
-    "dayaniklilik": 7.6
+    "hayatta_kalma_faydasi": 7.0,
+    "cok_amaclilik": 7.0,
+    "hafiflik": 7.0,
+    "dayaniklilik": 9.4
    }
   },
   {
@@ -492,8 +492,8 @@
    }
   },
   {
-   "id": "isitici-ped",
-   "ad": "Isıtıcı ped",
+   "id": "el-isitici",
+   "ad": "El ısıtıcı",
    "seviye": "guclu",
    "grup": "sicaklik",
    "etiketler": [],

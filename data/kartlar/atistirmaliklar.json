@@ -405,16 +405,16 @@
    }
   },
   {
-   "id": "misir-cipsi-tostitos",
-   "ad": "Mısır cipsi (Tostitos)",
+   "id": "cerezza",
+   "ad": "Çerezza",
    "seviye": "guclu",
    "grup": "tuzlu",
    "etiketler": [],
-   "aciklama": "Soslu mısır üçgenleri.",
+   "aciklama": "Çıtır mısırlı Türk klasiği.",
    "puan": {
     "lezzet": 8.8,
-    "nostalji": 7.6,
-    "populerlik": 8.2,
+    "nostalji": 9.4,
+    "populerlik": 8.8,
     "bagimlilik": 8.8
    }
   },
@@ -433,17 +433,17 @@
    }
   },
   {
-   "id": "pretzel",
-   "ad": "Pretzel",
+   "id": "patos",
+   "ad": "Patos",
    "seviye": "guclu",
    "grup": "tuzlu",
    "etiketler": [],
-   "aciklama": "Düğüm şekilli tuzlu.",
+   "aciklama": "Okul kantinlerinin mısır cipsi.",
    "puan": {
     "lezzet": 8.2,
-    "nostalji": 7.6,
-    "populerlik": 8.2,
-    "bagimlilik": 8.2
+    "nostalji": 9.4,
+    "populerlik": 8.8,
+    "bagimlilik": 8.8
    }
   },
   {

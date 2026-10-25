@@ -89,16 +89,16 @@
    }
   },
   {
-   "id": "carcharodontosaurus",
-   "ad": "Carcharodontosaurus",
+   "id": "kilic-disli-kaplan",
+   "ad": "Kılıç Dişli Kaplan",
    "seviye": "efsane",
    "grup": "etobur",
    "etiketler": [],
-   "aciklama": "Köpek balığı dişli dev avcı.",
+   "aciklama": "Buz Devri'nin Diego'su, dev köpek dişli avcı.",
    "puan": {
-    "guc": 9.4,
-    "boyut": 9.4,
-    "hiz": 7.6,
+    "guc": 8.8,
+    "boyut": 7.6,
+    "hiz": 8.2,
     "avcilik": 9.4
    }
   },
@@ -161,35 +161,35 @@
    }
   },
   {
-   "id": "utahraptor",
-   "ad": "Utahraptor",
+   "id": "mamut",
+   "ad": "Mamut",
    "seviye": "efsane",
-   "grup": "etobur",
+   "grup": "otobur",
    "etiketler": [
     "suru"
    ],
-   "aciklama": "Raptorların en büyüğü.",
+   "aciklama": "Buz Devri'nin Manny'si, yünlü dev fil.",
    "puan": {
-    "guc": 7.6,
-    "boyut": 7.0,
-    "hiz": 8.8,
-    "avcilik": 9.4
+    "guc": 9.4,
+    "boyut": 9.4,
+    "hiz": 6.4,
+    "avcilik": 5.8
    }
   },
   {
-   "id": "deinonychus",
-   "ad": "Deinonychus",
+   "id": "compsognathus",
+   "ad": "Compsognathus",
    "seviye": "efsane",
    "grup": "etobur",
    "etiketler": [
     "suru"
    ],
-   "aciklama": "Pençeli ve çevik, grupla avlandığı düşünülür.",
+   "aciklama": "Jurassic Park'ın tavuk boyundaki sürü avcısı.",
    "puan": {
-    "guc": 6.4,
-    "boyut": 5.8,
+    "guc": 5.2,
+    "boyut": 4.6,
     "hiz": 8.8,
-    "avcilik": 9.4
+    "avcilik": 8.2
    }
   },
   {
@@ -263,17 +263,17 @@
    }
   },
   {
-   "id": "argentinosaurus",
-   "ad": "Argentinosaurus",
+   "id": "dimetrodon",
+   "ad": "Dimetrodon",
    "seviye": "efsane",
-   "grup": "otobur",
+   "grup": "etobur",
    "etiketler": [],
-   "aciklama": "Bilinen en büyük kara hayvanlarından.",
+   "aciklama": "Sırtında yelken olan tarih öncesi sürüngen.",
    "puan": {
-    "guc": 9.4,
-    "boyut": 10.0,
-    "hiz": 5.2,
-    "avcilik": 4.6
+    "guc": 7.6,
+    "boyut": 7.0,
+    "hiz": 6.4,
+    "avcilik": 8.2
    }
   },
   {
@@ -347,17 +347,17 @@
    }
   },
   {
-   "id": "liopleurodon",
-   "ad": "Liopleurodon",
+   "id": "archaeopteryx",
+   "ad": "Archaeopteryx",
    "seviye": "efsane",
    "grup": "ucan_yuzen",
    "etiketler": [],
-   "aciklama": "Güçlü çeneli deniz sürüngeni; dinozor değil.",
+   "aciklama": "Kuşların atası, ilk tüylü uçan.",
    "puan": {
-    "guc": 9.4,
-    "boyut": 8.8,
-    "hiz": 8.2,
-    "avcilik": 9.4
+    "guc": 5.2,
+    "boyut": 4.6,
+    "hiz": 7.6,
+    "avcilik": 7.0
    }
   },
   {
@@ -431,33 +431,33 @@
    }
   },
   {
-   "id": "troodon",
-   "ad": "Troodon",
+   "id": "titanoboa",
+   "ad": "Titanoboa",
    "seviye": "guclu",
    "grup": "etobur",
    "etiketler": [],
-   "aciklama": "En zeki dinozorlardan.",
+   "aciklama": "13 metrelik dev yılan.",
    "puan": {
-    "guc": 5.2,
-    "boyut": 5.2,
-    "hiz": 8.2,
-    "avcilik": 8.2
+    "guc": 8.8,
+    "boyut": 8.8,
+    "hiz": 6.4,
+    "avcilik": 8.8
    }
   },
   {
-   "id": "coelophysis",
-   "ad": "Coelophysis",
+   "id": "dev-tembel-hayvan",
+   "ad": "Dev Tembel Hayvan",
    "seviye": "guclu",
-   "grup": "etobur",
+   "grup": "otobur",
    "etiketler": [
     "suru"
    ],
-   "aciklama": "Grup halinde yaşayan ince yapılı avcı.",
+   "aciklama": "Buz Devri'nin Sid'i, fil boyunda tembel hayvan.",
    "puan": {
-    "guc": 5.8,
-    "boyut": 5.8,
-    "hiz": 8.8,
-    "avcilik": 8.2
+    "guc": 8.2,
+    "boyut": 8.8,
+    "hiz": 5.2,
+    "avcilik": 5.2
    }
   },
   {
@@ -475,31 +475,31 @@
    }
   },
   {
-   "id": "edmontosaurus",
-   "ad": "Edmontosaurus",
+   "id": "yunlu-gergedan",
+   "ad": "Yünlü Gergedan",
    "seviye": "guclu",
    "grup": "otobur",
    "etiketler": [],
-   "aciklama": "Sürüler halinde gezen ördek gagalı.",
+   "aciklama": "Buz devrinin boynuzlu devi.",
    "puan": {
-    "guc": 7.6,
-    "boyut": 8.8,
-    "hiz": 7.0,
-    "avcilik": 4.6
+    "guc": 8.8,
+    "boyut": 8.2,
+    "hiz": 6.4,
+    "avcilik": 5.8
    }
   },
   {
-   "id": "styracosaurus",
-   "ad": "Styracosaurus",
+   "id": "pterodaktil",
+   "ad": "Pterodaktil",
    "seviye": "guclu",
-   "grup": "otobur",
+   "grup": "ucan_yuzen",
    "etiketler": [],
-   "aciklama": "Dikenli yakalı boynuzlu dinozor.",
+   "aciklama": "Belgesellerin ve oyuncakların ünlü uçan sürüngeni.",
    "puan": {
-    "guc": 8.2,
-    "boyut": 8.2,
-    "hiz": 7.0,
-    "avcilik": 5.2
+    "guc": 7.0,
+    "boyut": 7.6,
+    "hiz": 8.2,
+    "avcilik": 8.2
    }
   },
   {

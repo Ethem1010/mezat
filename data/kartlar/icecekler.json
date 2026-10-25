@@ -371,31 +371,31 @@
    }
   },
   {
-   "id": "demirhindi-serbeti",
-   "ad": "Demirhindi şerbeti",
+   "id": "sut",
+   "ad": "Süt",
    "seviye": "efsane",
    "grup": "geleneksel",
    "etiketler": [],
-   "aciklama": "Osmanlı'nın serinleten şerbeti.",
+   "aciklama": "Her evin, her kahvaltının içeceği.",
    "puan": {
-    "lezzet": 8.8,
-    "populerlik": 7.6,
-    "her_mevsime_uygunluk": 7.6,
-    "cesitlilik": 7.0
+    "lezzet": 8.2,
+    "populerlik": 9.4,
+    "her_mevsime_uygunluk": 10.0,
+    "cesitlilik": 8.8
    }
   },
   {
-   "id": "lassi",
-   "ad": "Lassi",
+   "id": "meyve-suyu",
+   "ad": "Meyve suyu",
    "seviye": "efsane",
-   "grup": "geleneksel",
+   "grup": "soguk",
    "etiketler": [],
-   "aciklama": "Hint usulü yoğurt içeceği.",
+   "aciklama": "Kutu kutu içilen çocukluk klasiği.",
    "puan": {
     "lezzet": 8.8,
-    "populerlik": 7.6,
-    "her_mevsime_uygunluk": 8.8,
-    "cesitlilik": 8.2
+    "populerlik": 10.0,
+    "her_mevsime_uygunluk": 9.4,
+    "cesitlilik": 9.4
    }
   },
   {
@@ -497,17 +497,17 @@
    }
   },
   {
-   "id": "hibiskus-cayi",
-   "ad": "Hibiskus çayı",
+   "id": "papatya-cayi",
+   "ad": "Papatya çayı",
    "seviye": "guclu",
    "grup": "sicak",
    "etiketler": [],
-   "aciklama": "Kırmızı mayhoş çay.",
+   "aciklama": "Rahatlatan sarı çiçek çayı.",
    "puan": {
-    "lezzet": 8.2,
-    "populerlik": 7.6,
+    "lezzet": 7.6,
+    "populerlik": 8.2,
     "her_mevsime_uygunluk": 8.2,
-    "cesitlilik": 7.6
+    "cesitlilik": 7.0
    }
   },
   {
@@ -525,17 +525,17 @@
    }
   },
   {
-   "id": "mate",
-   "ad": "Mate",
+   "id": "ada-cayi",
+   "ad": "Ada çayı",
    "seviye": "guclu",
    "grup": "sicak",
    "etiketler": [],
-   "aciklama": "Güney Amerika'nın enerji çayı.",
+   "aciklama": "Hastalıkta ilk akla gelen bitki çayı.",
    "puan": {
-    "lezzet": 7.6,
-    "populerlik": 7.6,
-    "her_mevsime_uygunluk": 8.8,
-    "cesitlilik": 7.6
+    "lezzet": 8.2,
+    "populerlik": 8.8,
+    "her_mevsime_uygunluk": 8.2,
+    "cesitlilik": 7.0
    }
   }
  ]

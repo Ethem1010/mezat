@@ -152,17 +152,17 @@
    }
   },
   {
-   "id": "darkseid",
-   "ad": "Darkseid",
+   "id": "venom",
+   "ad": "Venom",
    "seviye": "efsane",
    "grup": "guc",
    "etiketler": [],
-   "aciklama": "Apokolips'in acımasız hükümdarı.",
+   "aciklama": "Siyah yapışkan uzaylı ortakyaşar.",
    "puan": {
-    "guc": 10.0,
-    "zeka_ve_plan": 8.8,
+    "guc": 9.4,
+    "zeka_ve_plan": 7.6,
     "korkutuculuk": 8.8,
-    "efsanelik": 8.2
+    "efsanelik": 9.4
    }
   },
   {
@@ -250,17 +250,17 @@
    }
   },
   {
-   "id": "hans-gruber",
-   "ad": "Hans Gruber",
+   "id": "kaptan-kanca",
+   "ad": "Kaptan Kanca",
    "seviye": "efsane",
    "grup": "zeka",
    "etiketler": [],
-   "aciklama": "Gökdelen soygununun soğukkanlı beyni.",
+   "aciklama": "Peter Pan'ın kancalı korsan düşmanı.",
    "puan": {
-    "guc": 5.8,
-    "zeka_ve_plan": 9.4,
-    "korkutuculuk": 7.6,
-    "efsanelik": 8.8
+    "guc": 7.0,
+    "zeka_ve_plan": 8.8,
+    "korkutuculuk": 7.0,
+    "efsanelik": 9.4
    }
   },
   {
@@ -278,17 +278,17 @@
    }
   },
   {
-   "id": "anton-chigurh",
-   "ad": "Anton Chigurh",
+   "id": "drakula",
+   "ad": "Drakula",
    "seviye": "efsane",
    "grup": "korku",
    "etiketler": [],
-   "aciklama": "Yazı turayla karar veren soğuk tetikçi.",
+   "aciklama": "Kan emen efsanevi kont.",
    "puan": {
-    "guc": 7.6,
+    "guc": 8.8,
     "zeka_ve_plan": 8.8,
-    "korkutuculuk": 10.0,
-    "efsanelik": 8.8
+    "korkutuculuk": 9.4,
+    "efsanelik": 10.0
    }
   },
   {
@@ -306,8 +306,8 @@
    }
   },
   {
-   "id": "ksenomorf-alien",
-   "ad": "Ksenomorf (Alien)",
+   "id": "alien-yaratik",
+   "ad": "Alien (Yaratık)",
    "seviye": "efsane",
    "grup": "korku",
    "etiketler": [],
@@ -334,31 +334,31 @@
    }
   },
   {
-   "id": "jack-torrance",
-   "ad": "Jack Torrance",
+   "id": "testere-jigsaw",
+   "ad": "Testere (Jigsaw)",
    "seviye": "efsane",
    "grup": "korku",
    "etiketler": [],
-   "aciklama": "Issız otelde aklını kaybeden adam.",
+   "aciklama": "Ölümcül oyunlar kuran seri katil.",
    "puan": {
-    "guc": 6.4,
-    "zeka_ve_plan": 6.4,
+    "guc": 5.8,
+    "zeka_ve_plan": 10.0,
     "korkutuculuk": 9.4,
     "efsanelik": 9.4
    }
   },
   {
-   "id": "norman-bates",
-   "ad": "Norman Bates",
+   "id": "valak",
+   "ad": "Valak",
    "seviye": "efsane",
    "grup": "korku",
    "etiketler": [],
-   "aciklama": "Bates Motel'in ürkütücü sahibi.",
+   "aciklama": "Conjuring'in korkunç rahibe kılıklı iblisi.",
    "puan": {
-    "guc": 5.8,
+    "guc": 8.8,
     "zeka_ve_plan": 7.6,
-    "korkutuculuk": 9.4,
-    "efsanelik": 9.4
+    "korkutuculuk": 10.0,
+    "efsanelik": 8.8
    }
   },
   {

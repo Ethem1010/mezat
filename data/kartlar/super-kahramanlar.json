@@ -138,17 +138,17 @@
    }
   },
   {
-   "id": "martian-manhunter",
-   "ad": "Martian Manhunter",
+   "id": "ghost-rider",
+   "ad": "Ghost Rider",
    "seviye": "efsane",
    "grup": "guc",
    "etiketler": [],
-   "aciklama": "Şekil değiştiren güçlü Marslı.",
+   "aciklama": "Alevli kafatasıyla intikam meleği.",
    "puan": {
-    "guc": 9.4,
+    "guc": 8.8,
     "super_yetenek": 9.4,
-    "zeka": 8.8,
-    "takim_uyumu": 9.4
+    "zeka": 7.0,
+    "takim_uyumu": 7.0
    }
   },
   {
@@ -348,17 +348,17 @@
    }
   },
   {
-   "id": "silver-surfer",
-   "ad": "Silver Surfer",
+   "id": "blade",
+   "ad": "Blade",
    "seviye": "efsane",
    "grup": "ozel",
    "etiketler": [],
-   "aciklama": "Kozmik güçlerle evreni dolaşan sörfçü.",
+   "aciklama": "Vampir avcısı yarı vampir.",
    "puan": {
-    "guc": 9.4,
-    "super_yetenek": 10.0,
+    "guc": 8.2,
+    "super_yetenek": 8.8,
     "zeka": 8.2,
-    "takim_uyumu": 7.6
+    "takim_uyumu": 7.0
    }
   },
   {

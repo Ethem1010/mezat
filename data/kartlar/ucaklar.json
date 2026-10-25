@@ -336,31 +336,31 @@
    }
   },
   {
-   "id": "x-15",
-   "ad": "X-15",
+   "id": "air-force-one",
+   "ad": "Air Force One",
    "seviye": "efsane",
    "grup": "ozel",
    "etiketler": [],
-   "aciklama": "Uzayın kıyısına çıkan roket uçağı.",
+   "aciklama": "ABD başkanının uçan ofisi.",
    "puan": {
-    "hiz": 10.0,
+    "hiz": 8.2,
     "teknoloji": 9.4,
-    "menzil": 5.8,
-    "i_koniklik": 9.4
+    "menzil": 10.0,
+    "i_koniklik": 10.0
    }
   },
   {
-   "id": "u-2",
-   "ad": "U-2",
+   "id": "bayraktar-kizilelma",
+   "ad": "Bayraktar Kızılelma",
    "seviye": "efsane",
-   "grup": "ozel",
+   "grup": "askeri",
    "etiketler": [],
-   "aciklama": "Stratosferde uçan casus uçak.",
+   "aciklama": "Türkiye'nin insansız savaş uçağı.",
    "puan": {
-    "hiz": 7.6,
-    "teknoloji": 8.8,
-    "menzil": 9.4,
-    "i_koniklik": 8.8
+    "hiz": 8.8,
+    "teknoloji": 9.4,
+    "menzil": 8.2,
+    "i_koniklik": 9.4
    }
   },
   {
@@ -518,17 +518,17 @@
    }
   },
   {
-   "id": "douglas-dc-3",
-   "ad": "Douglas DC-3",
+   "id": "boeing-737",
+   "ad": "Boeing 737",
    "seviye": "guclu",
    "grup": "yolcu",
    "etiketler": [],
-   "aciklama": "Hava yolculuğunu yaygınlaştıran klasik.",
+   "aciklama": "Dünyanın en çok uçan yolcu uçağı.",
    "puan": {
-    "hiz": 6.4,
-    "teknoloji": 5.8,
-    "menzil": 7.0,
-    "i_koniklik": 9.4
+    "hiz": 7.6,
+    "teknoloji": 8.2,
+    "menzil": 8.2,
+    "i_koniklik": 8.8
    }
   }
  ]

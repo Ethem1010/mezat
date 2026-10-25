@@ -72,8 +72,8 @@
    }
   },
   {
-   "id": "su-filtresi-pipet",
-   "ad": "Su filtresi pipet",
+   "id": "su-filtresi",
+   "ad": "Su filtresi",
    "seviye": "efsane",
    "grup": "su",
    "etiketler": [],
@@ -86,17 +86,17 @@
    }
   },
   {
-   "id": "gunes-enerjili-damitici",
-   "ad": "Güneş enerjili damıtıcı",
+   "id": "tencere",
+   "ad": "Tencere",
    "seviye": "efsane",
    "grup": "su",
    "etiketler": [],
-   "aciklama": "Güneşle tuzlu sudan tatlı su.",
+   "aciklama": "Suyu kaynatıp arıtır, yemek pişirir.",
    "puan": {
     "hayatta_kalma_faydasi": 9.4,
-    "cok_amaclilik": 7.0,
-    "dayaniklilik": 8.8,
-    "kurtarilma_sansi": 5.2
+    "cok_amaclilik": 9.4,
+    "dayaniklilik": 9.4,
+    "kurtarilma_sansi": 4.6
    }
   },
   {
@@ -114,8 +114,8 @@
    }
   },
   {
-   "id": "cakmak-tasi-magnezyum",
-   "ad": "Çakmak taşı (magnezyum)",
+   "id": "cakmak-tasi",
+   "ad": "Çakmak taşı",
    "seviye": "efsane",
    "grup": "ates",
    "etiketler": [],
@@ -128,31 +128,31 @@
    }
   },
   {
-   "id": "firtina-kibriti",
-   "ad": "Fırtına kibriti",
+   "id": "kibrit",
+   "ad": "Kibrit",
    "seviye": "efsane",
    "grup": "ates",
    "etiketler": [],
-   "aciklama": "Rüzgârda yağmurda yanar.",
+   "aciklama": "En bilinen ateş yakıcı.",
    "puan": {
-    "hayatta_kalma_faydasi": 9.4,
+    "hayatta_kalma_faydasi": 8.8,
     "cok_amaclilik": 7.0,
-    "dayaniklilik": 7.6,
-    "kurtarilma_sansi": 7.0
+    "dayaniklilik": 6.4,
+    "kurtarilma_sansi": 6.4
    }
   },
   {
-   "id": "purmuz",
-   "ad": "Pürmüz",
+   "id": "cakmak",
+   "ad": "Çakmak",
    "seviye": "efsane",
    "grup": "ates",
    "etiketler": [],
-   "aciklama": "Anında güçlü alev.",
+   "aciklama": "Cepte anında ateş.",
    "puan": {
-    "hayatta_kalma_faydasi": 8.8,
+    "hayatta_kalma_faydasi": 9.4,
     "cok_amaclilik": 7.6,
-    "dayaniklilik": 8.2,
-    "kurtarilma_sansi": 7.0
+    "dayaniklilik": 7.6,
+    "kurtarilma_sansi": 6.4
    }
   },
   {
@@ -296,12 +296,12 @@
    }
   },
   {
-   "id": "paracord-ip",
-   "ad": "Paracord ip",
+   "id": "halat",
+   "ad": "Halat",
    "seviye": "efsane",
    "grup": "alet",
    "etiketler": [],
-   "aciklama": "Yüzlerce kullanım alanı.",
+   "aciklama": "Bağla, as, sal yap.",
    "puan": {
     "hayatta_kalma_faydasi": 9.4,
     "cok_amaclilik": 10.0,
@@ -338,17 +338,17 @@
    }
   },
   {
-   "id": "acil-durum-isareti-epirb",
-   "ad": "Acil durum işareti (EPIRB)",
+   "id": "el-feneri",
+   "ad": "El feneri",
    "seviye": "efsane",
    "grup": "kurtarilma",
    "etiketler": [],
-   "aciklama": "Konumunu otomatik bildirir.",
+   "aciklama": "Geceleri gemilere ışıkla işaret verir.",
    "puan": {
-    "hayatta_kalma_faydasi": 7.6,
-    "cok_amaclilik": 5.2,
-    "dayaniklilik": 9.4,
-    "kurtarilma_sansi": 10.0
+    "hayatta_kalma_faydasi": 8.2,
+    "cok_amaclilik": 7.6,
+    "dayaniklilik": 8.2,
+    "kurtarilma_sansi": 8.8
    }
   },
   {
@@ -394,16 +394,16 @@
    }
   },
   {
-   "id": "sinyal-aynasi",
-   "ad": "Sinyal aynası",
+   "id": "ayna",
+   "ad": "Ayna",
    "seviye": "efsane",
    "grup": "kurtarilma",
    "etiketler": [],
-   "aciklama": "Güneşle kilometrelerce uzağa işaret.",
+   "aciklama": "Güneşi yansıtıp uzağa işaret verir.",
    "puan": {
     "hayatta_kalma_faydasi": 7.0,
     "cok_amaclilik": 6.4,
-    "dayaniklilik": 10.0,
+    "dayaniklilik": 9.4,
     "kurtarilma_sansi": 8.8
    }
   },

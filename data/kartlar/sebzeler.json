@@ -437,17 +437,17 @@
    }
   },
   {
-   "id": "kuskonmaz",
-   "ad": "Kuşkonmaz",
+   "id": "barbunya",
+   "ad": "Barbunya",
    "seviye": "guclu",
    "grup": "yaz",
    "etiketler": [],
-   "aciklama": "Şık restoranların sebzesi.",
+   "aciklama": "Zeytinyağlısı meşhur.",
    "puan": {
     "besin_degeri": 9.4,
-    "lezzet": 8.2,
-    "mutfakta_kullanim": 7.0,
-    "sevilme": 7.0
+    "lezzet": 8.8,
+    "mutfakta_kullanim": 8.2,
+    "sevilme": 8.2
    }
   },
   {
@@ -465,17 +465,17 @@
    }
   },
   {
-   "id": "bruksel-lahanasi",
-   "ad": "Brüksel lahanası",
+   "id": "mantar",
+   "ad": "Mantar",
    "seviye": "guclu",
    "grup": "kis",
    "etiketler": [],
-   "aciklama": "Minik lahanalar.",
+   "aciklama": "Sote, pizza, güveç; her yemeğe uyar.",
    "puan": {
-    "besin_degeri": 9.4,
-    "lezzet": 7.0,
-    "mutfakta_kullanim": 7.0,
-    "sevilme": 6.4
+    "besin_degeri": 8.8,
+    "lezzet": 8.8,
+    "mutfakta_kullanim": 9.4,
+    "sevilme": 8.8
    }
   },
   {

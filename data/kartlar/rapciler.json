@@ -124,14 +124,14 @@
    }
   },
   {
-   "id": "server-uraz",
-   "ad": "Server Uraz",
+   "id": "patron",
+   "ad": "Patron",
    "seviye": "efsane",
    "grup": "turk_eski",
    "etiketler": [],
-   "aciklama": "Rap'i rock ile buluşturan karizmatik isim.",
+   "aciklama": "Türkçe rapin sert ve bilinen isimlerinden.",
    "puan": {
-    "soz_yazarligi": 8.8,
+    "soz_yazarligi": 8.2,
     "flow": 8.8,
     "hit_sarkilar": 8.8,
     "sahne_enerjisi": 8.8
@@ -404,15 +404,15 @@
    }
   },
   {
-   "id": "velet",
-   "ad": "Velet",
+   "id": "sansar-salvo",
+   "ad": "Sansar Salvo",
    "seviye": "guclu",
    "grup": "turk_eski",
    "etiketler": [],
-   "aciklama": "Sözleri ve vokaliyle sevilen eski kuşak ismi.",
+   "aciklama": "Mersin'den çıkan sevilen rapçi.",
    "puan": {
     "soz_yazarligi": 8.8,
-    "flow": 8.2,
+    "flow": 8.8,
     "hit_sarkilar": 8.2,
     "sahne_enerjisi": 8.2
    }

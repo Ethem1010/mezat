@@ -56,16 +56,16 @@
    }
   },
   {
-   "id": "the-sopranos",
-   "ad": "The Sopranos",
+   "id": "dirilis-ertugrul",
+   "ad": "Diriliş Ertuğrul",
    "seviye": "efsane",
    "grup": "aksiyon",
    "etiketler": [],
-   "aciklama": "Mafya babasının terapi seansları.",
+   "aciklama": "Dünyada milyonların izlediği Türk tarih dizisi.",
    "puan": {
-    "hikaye": 10.0,
-    "reyting": 8.8,
-    "efsanelik": 10.0,
+    "hikaye": 8.8,
+    "reyting": 10.0,
+    "efsanelik": 9.4,
     "tekrar_izlenme": 8.8
    }
   },
